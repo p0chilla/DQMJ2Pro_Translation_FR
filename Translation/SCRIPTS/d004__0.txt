@@ -73,8 +73,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x41200000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Don Mole"
-SAY "{VOICE=07}It's time to get your groove on, daddy-o! The party is about to begin!"
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Il est temps de bouger son popotin, papy！ La fête va bientôt commencer！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x43530000
 SYS_41 0x8 
 SYS_44 0x8 
@@ -102,28 +102,28 @@ STORE 0x18 0x1 0x40000000 0x2 0x41a00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Don Mole"
-SAY "{VOICE=07}I'm gonna explain the rules to you only once!{WAIT}{CLEAR}Can you dig it?{BREAK}I said - CAN. YOU. DIG. IT!?"
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Je n'expliquerai les règles qu'une seule fois！{PAGE}{WAIT}{CLEAR}Alors vous êtes avec moi？ J'ai dit： VOUS ÊTES AVEC MOI！?{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Don Mole"
-SAY "{VOICE=07}The Monster Scout Challenge starts at Rank F and goes all the way up to Rank S!"
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Le Championnat des Dresseurs commence au niveau F et va jusqu'au niveau S！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Don Mole"
-SAY "{VOICE=07}Each rank features a funky three-round battle.{WAIT}{CLEAR}Not one, not two, but three, baby!"
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Chaque niveau comporte trois manches.{PAGE}{WAIT}{CLEAR}Pas une, pas deux, mais bien trois manches！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Don Mole"
-SAY "{VOICE=07}Now, you can't be swappin' round your monsters or usin' any items, you dig?"
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Et sinon, vous ne pouvez pas échanger vos monstres ni utiliser d'objets, vu？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Don Mole"
-SAY "{VOICE=07}Sounds good? I knew that it would!{BREAK}Now let's get this show on the road!"
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Ça vous va？ Je m'en doutais！ Maintenant, que le spectacle commence！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Don Mole"
-SAY "{VOICE=07}Rack up victories here and the road ahead's gonna open right up!"
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Enchaînez les victoires et le chemin s'ouvrira devant vous！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

@@ -733,19 +733,19 @@ SYS_55 0x8
 SYS_42 0x8 
 CMP_EQ 0x18 0x0 0x423c0000 0x2 0x43360000
 JMP_IFNOT 0xc L_26d8
-SAY "{COLOR=2}{NAME} obtains the Minus sceptre!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}le sceptre {COLOR=0}{232}{COLOR=2}！"
 JMP_ABS 0xc L_2770
 L_26d8:
 CMP_EQ 0x18 0x0 0x423c0000 0x2 0x43350000
 JMP_IFNOT 0xc L_2730
-SAY "{COLOR=2}{NAME} obtains the Plus sceptre!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}le sceptre {COLOR=0}{231}{COLOR=2}！"
 JMP_ABS 0xc L_2770
 L_2730:
 JMP_REL L_2738
 L_2738:
 JMP_ABS 0xc L_2744
 L_2744:
-SAY "{COLOR=2}{NAME} obtains {E328}!"
+SAY "{COLOR=2}{E321}{NAME} obtient {E328}！"
 JMP_ABS 0xc L_2770
 L_2770:
 WAIT 0x10 0x2 0x42340000
@@ -757,7 +757,7 @@ JMP_IFNOT 0xc L_2c5c
 SYS_42 0x8 
 CMP_EQ 0x18 0x0 0x42400000 0x2 0x40400000
 JMP_IFNOT 0xc L_293c
-SAY "{COLOR=2}The mysterious ore is actually a monster in disguise!"
+SAY "{COLOR=2}Le minerai mystère est en fait un monstre qui en avait pris l'apparence！"
 WAIT 0x10 0x2 0x42340000
 SYS_43 0x8 
 STORE 0x18 0x1 0x0 0x2 0x3f800000
@@ -776,7 +776,7 @@ JMP_ABS 0xc L_2c50
 L_293c:
 CMP_EQ 0x18 0x0 0x42400000 0x2 0x40800000
 JMP_IFNOT 0xc L_2c50
-SAY "{COLOR=2}The bag is actually a monster in disguise!"
+SAY "{COLOR=2}Le sac est en fait un monstre déguisé！"
 WAIT 0x10 0x2 0x42340000
 SYS_43 0x8 
 STORE 0x18 0x1 0x0 0x2 0x42c80000
@@ -832,19 +832,19 @@ SYS_55 0x8
 SYS_42 0x8 
 CMP_EQ 0x18 0x0 0x423c0000 0x2 0x43360000
 JMP_IFNOT 0xc L_2d58
-SAY "{COLOR=2}{NAME} obtains the Minus sceptre!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}le sceptre {COLOR=0}{232}{COLOR=2}！"
 JMP_ABS 0xc L_2df0
 L_2d58:
 CMP_EQ 0x18 0x0 0x423c0000 0x2 0x43350000
 JMP_IFNOT 0xc L_2db0
-SAY "{COLOR=2}{NAME} obtains the Plus sceptre!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}le sceptre {COLOR=0}{231}{COLOR=2}！"
 JMP_ABS 0xc L_2df0
 L_2db0:
 JMP_REL L_2db8
 L_2db8:
 JMP_ABS 0xc L_2dc4
 L_2dc4:
-SAY "{COLOR=2}{NAME} obtains {E328}!"
+SAY "{COLOR=2}{E321}{NAME} obtient {E328}！"
 JMP_ABS 0xc L_2df0
 L_2df0:
 WAIT 0x10 0x2 0x42340000
@@ -1216,7 +1216,7 @@ STORE 0x18 0x1 0x3f800000 0x2 0x3f19999a
 SYS_54 0x8 
 WAIT 0x10 0x2 0x42480000
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME}'s team is healed."
+SAY "{COLOR=2}{E321}{NAME} obtient {E328}！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1227,7 +1227,7 @@ L_44b0:
 JMP_ABS 0xc L_44bc
 L_44bc:
 SYS_42 0x8 
-SAY "{COLOR=2}There's no response. {NAME} cannot use this...for now."
+SAY "{COLOR=2}Le minerai mystère est en fait un monstre qui en avait pris l'apparence！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1338,10 +1338,10 @@ STORE 0x18 0x0 0x426c0000 0x1 0x0
 CMP_EQ 0x18 0x0 0x426c0000 0x2 0x0
 JMP_IFNOT 0xc L_4c7c
 SYS_42 0x8 
-SAY "{COLOR=2}Curiosity killed the cat, but not the monster scout!{WAIT}{CLEAR}Examine these curious stones to learn new abilities and commands."
+SAY "{COLOR=2}Le sac est en fait un monstre déguisé！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}These Scout's Stones appear on the map as blue icons."
+SAY "{COLOR=2}Toute l'équipe est guérie."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1371,13 +1371,13 @@ SYS_A4 0x8
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41400000
 JMP_IFNOT 0xc L_4fb4
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} learns Zoom!"
+SAY "{COLOR=2}Pas de réaction.{PAGE}{WAIT}{CLEAR}{E321}{NAME} ne peut pas utiliser ceci... pour l'instant."
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This ability enables {NAME} to teleport to previously visited regions!"
+SAY "{COLOR=2}La curiosité est un vilain défaut, mais pas pour un dresseur de monstres！{PAGE}{WAIT}{CLEAR}Examinez ces étranges pierres pour apprendre de nouvelles choses.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}Apart from a few special locations, it can be used anywhere, including caves!"
+SAY "{COLOR=2}Ces Pierres du dresseur sont représentées par des icônes bleues sur la carte."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1394,10 +1394,10 @@ L_4fb4:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41700000
 JMP_IFNOT 0xc L_50ec
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} learns Vanish!"
+SAY "{COLOR=2}{E321}{NAME} apprend l'aptitude Invisibilité！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This ability enables {NAME} to slink past enemy monsters undetected."
+SAY "{COLOR=2}Cette aptitude permet de passer près des ennemis sans se faire repérer."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1411,10 +1411,10 @@ L_50ec:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x40c00000
 JMP_IFNOT 0xc L_52a0
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} can now use Heal All!"
+SAY "{COLOR=2}{E321}{NAME} peut désormais utiliser le sort Soigner tous！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This spell lets {NAME} restore the health of his entire team!"
+SAY "{COLOR=2}Ce sort de guérison lui permet de restaurer tous les PV de son équipe！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1434,10 +1434,10 @@ L_52a0:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41600000
 JMP_IFNOT 0xc L_53dc
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} learns Nose for Treasure!"
+SAY "{COLOR=2}{E321}{NAME} apprend l'aptitude Détectrésor！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This ability lets {NAME} find out how many items are hidden nearby."
+SAY "{COLOR=2}Cette aptitude permet de savoir combien d'objets sont cachés alentour."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1451,16 +1451,16 @@ L_53dc:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41500000
 JMP_IFNOT 0xc L_5618
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} learns Zip!"
+SAY "{COLOR=2}{E321}{NAME} apprend l'aptitude Téléportaïaut！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This ability lets {NAME} Zip to the local Zip Portal, quick as a flash!"
+SAY "{COLOR=2}Elle permet d'aller au téléportail le plus proche en un clin d'œil！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}Of course, the portal must already be open for this to work."
+SAY "{COLOR=2}Bien sûr, le portail doit être déjà ouvert pour que l'opération fonctionne.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}So if {NAME} finds a new portal, he should examine it right away."
+SAY "{COLOR=2}Si vous apercevez un téléportail,{BREAK}examinez-le donc sans attendre."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1478,13 +1478,13 @@ L_5618:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41200000
 JMP_IFNOT 0xc L_589c
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} obtains the Monster Mender!"
+SAY "{COLOR=2}{NAME} obtient le Monstrequinque！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}Use this bottle to restore the HP and MP of {NAME}'s entire team."
+SAY "{COLOR=2}Utilisez ce flacon pour restaurer les PV et les PM de toute l'équipe.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}Good for three doses per outing. Once it runs out, head to the airship for a refill!"
+SAY "{COLOR=2}Contient trois doses.{PAGE}{WAIT}{CLEAR}Une fois qu'il est vide, retournez au vaisseau pour le remplir！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1512,7 +1512,7 @@ L_58a4:
 JMP_ABS 0xc L_58b0
 L_58b0:
 SYS_42 0x8 
-SAY "debug message MENU ERRORE"
+SAY "debug message MENU ERRORE{PAGE}6"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4378,19 +4378,19 @@ JMP_IFNOT 0xc L_1014c
 STORE 0x18 0x1 0x0 0x2 0x42de0000
 SYS_55 0x8 
 SYS_42 0x8 
-SAY "{VOICE=08}(sob sob)"
+SAY "{VOICE=08}(sanglots){PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}Oh, hello. Don't mind me. I'm just sitting in the mud. La-di-da. Ho, ho. (sniffle)"
+SAY "{VOICE=08}Oh, bonjour. Ne faites pas attention à moi.{PAGE}{WAIT}{CLEAR}Je suis juste dans la boue jusqu'au cou. (snif){PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}Those muddy hands got their paws on my heart of mud and won't give it back.{WAIT}{CLEAR}That's why I'm stuck. Oh, the indignity of it, wallowing in the mud like a hippo!"
+SAY "{VOICE=08}Ces mains de boue ont pris mon cœur de boue et ne veulent pas me le rendre.{PAGE}{WAIT}{CLEAR}Et je suis coincée. Quelle honte... vautrée dans la boue comme un hippopotame！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}Now when that giant worm thing comes slithering through...{WAIT}{CLEAR}...those silly monsters scatter in a panic and drop their ill-gotten loot."
+SAY "{VOICE=08}Mais quand le ver géant traverse cet endroit...{PAGE}{WAIT}{CLEAR}... ces stupides monstres s'enfuient en laissant tomber leur butin.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}I bet you could find my heart of mud. Will you look for it? Please? Pretty please?"
+SAY "{VOICE=08}Je parie que vous pourriez retrouver mon cœur de boue. Dites, vous le chercherez？"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4419,14 +4419,14 @@ L_10160:
 STORE 0x18 0x1 0x0 0x2 0x42de0000
 SYS_55 0x8 
 SYS_42 0x8 
-SAY "{VOICE=08}Oo-oo-oo-oo! That's mine!{BREAK}You found my heart of mud!{WAIT}{CLEAR}Please, put me back together again, won't you?"
+SAY "{VOICE=08}Ooooh！ C'est le mien！ Vous avez trouvé mon cœur de boue！{PAGE}{WAIT}{CLEAR}Pouvez-vous me réassembler, s'il vous plaît？"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
 SYS_42 0x8 
 STORE 0x18 0x1 0x0 0x2 0x42de0000
 SYS_55 0x8 
-SAY "{COLOR=2}Use the heart of mud to fix the mud mannequin?{VOICE=09}"
+SAY "{COLOR=2}Utiliser le cœur de boue pour réparer le pantin de boue？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_7A 0x8 
@@ -4470,7 +4470,7 @@ JMP_ABS 0xc L_104c8
 L_104c8:
 SYS_43 0x8 
 SYS_42 0x8 
-SAY "{VOICE=08}Oh, why, what a horrible, selfish...child... (sob sob)"
+SAY "{VOICE=08}Oh, quel enfant... atrocement égoïste... (sanglots)"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 

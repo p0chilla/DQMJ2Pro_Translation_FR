@@ -81,8 +81,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x41a00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}Good of you to join me."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}... Vous voilà."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -111,20 +111,20 @@ STORE 0x18 0x1 0x3f800000 0x2 0x42be0000
 SYS_18 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}Behold! The Divine Battler is sealed within."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Regardez！ C'est là qu'est enfermé le Divin Guerrier.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}Once we lived in harmony with the Great One and his might protected this island."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Jadis, nous vivions en harmonie avec l'Être suprême et il protégeait l'île.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}When we were forced to imprison him here, it broke all of our hearts..."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Quand nous avons dû l'emprisonner ici, ça nous a brisé le cœur...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}Most mighty and divine Leonyx, please forgive us for what we have done..."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Divin et puissant Lionyx, veuillez nous pardonner ce que nous avons fait...{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -147,8 +147,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x41a00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}Now it is time to open the most sacred path to the Great One."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Maintenant, il est temps d'ouvrir le chemin qui mène à l'Être suprême.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -173,8 +173,8 @@ STORE 0x18 0x1 0x0 0x0 0x41b00000
 STORE 0x18 0x1 0x3f800000 0x2 0x3e800000
 SYS_54 0x8 
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}Ommm..."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Ommmmm...{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -378,8 +378,8 @@ WAIT 0x10 0x2 0x41a00000
 STORE 0x18 0x0 0x0 0x2 0x40000000
 WAIT 0x10 0x2 0x42480000
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}It is done. The Divine Battler waits within. The rest is up to you, {NAME}..."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Voilà. Le Divin Guerrier vous attend. Le reste dépend de vous, {NAME}..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

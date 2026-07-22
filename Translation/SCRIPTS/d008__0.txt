@@ -84,16 +84,16 @@ STORE 0x18 0x1 0x0 0x0 0x0
 STORE 0x18 0x1 0x3f800000 0x2 0x42c20000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}Outstanding!"
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Remarquable！ Et quelle curieuse façon de battre mon chef-d'œuvre monstrueux...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}And what an intriguing way to defeat my monstrous masterpiece..."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Remarquable！ Et quelle curieuse façon de battre mon chef-d'œuvre monstrueux...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}We have now seen ample evidence of your strength."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Nous avons désormais la preuve irréfutable que vous êtes très fort.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x41200000
@@ -111,8 +111,8 @@ SYS_13 0x8
 STORE 0x18 0x1 0x0 0x2 0x41a80000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}With such power at your disposal, you can awaken the Divine Battler..."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Avec une telle puissance, vous serez en mesure de réveiller le Divin Guerrier...{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -156,8 +156,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x42be0000
 SYS_18 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}It is time to open the most sacred path.{WAIT}{CLEAR}I shall await you before the giant mural in the Bemusoleum."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Il est temps d'ouvrir la voie sacrée.{PAGE}{WAIT}{CLEAR}Je vous attendrai devant la fresque géante d'Archéopolis.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -170,8 +170,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x42700000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}You represent our last hope, {NAME}.{WAIT}{CLEAR}Our final roll of the dice, if you will.{BREAK}Do not disappoint us."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Vous êtes notre dernier espoir, {NAME}...{PAGE}{WAIT}{CLEAR}... notre ultime tentative... Ne nous décevez pas."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

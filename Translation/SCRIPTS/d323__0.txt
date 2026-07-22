@@ -35,8 +35,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x42200000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x42200000
 SYS_42 0x8 
-SETNAME "Leonyx"
-SAY "{VOICE=07}What's wrong, {NAME}?{BREAK}You wanna say something to me?"
+SETNAME "Lionyx"
+SAY "{VOICE=07}Qu'y a-t-il, {NAME}？{BREAK}Aurais-tu quelque chose à me dire？"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -83,16 +83,16 @@ STORE 0x18 0x1 0x3f800000 0x2 0x41200000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Leonyx"
-SAY "{VOICE=07}WHAT! You met me when I{BREAK}was younger!?"
+SETNAME "Lionyx"
+SAY "{VOICE=07}... QUOI！ Tu as rencontré{BREAK}celui que j'étais enfant！？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Leonyx"
-SAY "{VOICE=07}AND you say that I shook in my boots{BREAK}before Baboorood!?"
+SETNAME "Lionyx"
+SAY "{VOICE=07}Et je tremblais devant le Seigneur Hyurde,{BREAK}incapable de faire un geste, c'est cela！？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Leonyx"
-SAY "{VOICE=07}H-How in the world do you{BREAK}know that."
+SETNAME "Lionyx"
+SAY "{VOICE=07}C-Comment peux-tu bien{BREAK}savoir cela..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -111,12 +111,12 @@ STORE 0x18 0x1 0x0 0x2 0x42480000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Leonyx"
-SAY "{VOICE=07}Even I had forgotten all about{BREAK}what happened in the distant past."
+SETNAME "Lionyx"
+SAY "{VOICE=07}Moi-même, j'avais oublié cette histoire{BREAK}vieille comme le monde...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Leonyx"
-SAY "{VOICE=07}And I never told a soul about that.{BREAK}This is a secret between us!"
+SETNAME "Lionyx"
+SAY "{VOICE=07}Pas un mot de tout ceci à quiconque.{BREAK}C'est une promesse entre toi et moi！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

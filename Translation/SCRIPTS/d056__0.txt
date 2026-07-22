@@ -192,8 +192,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x41700000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}You all right, Rookie?"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}... Ça va, {NAME}！?"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -244,15 +244,15 @@ STORE 0x18 0x1 0x0 0x0 0x41100000
 STORE 0x18 0x1 0x3f800000 0x2 0x3f800000
 SYS_4E 0x8 
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Looks like you birdbrains lost.{BREAK}Now hand Melonie over!"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}On dirait que vous avez perdu, cervelles de moineaux. Rendez-moi Bétanie！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Gemon"
-SAY "{VOICE=03}Squaaah! Kraaaaaah!!! I get it, I get it! The girl is yours..."
+SETNAME "Gémon"
+SAY "{VOICE=03}Kraaah！ Kraaaaaah！!! J'ai compris, j'ai compris！ La fille est à vous..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -406,19 +406,19 @@ STORE 0x18 0x1 0x0 0x0 0x41100000
 STORE 0x18 0x1 0x3f800000 0x2 0x42700000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Good. Now that I've got your attention, there's somethin' I want to ask you."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Bien. Maintenant que tu m'écoutes, j'ai une question à te poser.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}When the moles spoke of a great beast, were they talkin' about you?"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Quand les taupes ont évoqué une créature suprême, elles parlaient de toi？"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Gemon"
-SAY "{VOICE=03}Squaaah! Th-This isn't good..."
+SETNAME "Gémon"
+SAY "{VOICE=03}Kraaah！ Ça n'est pas bon...{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -458,8 +458,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x44b58000
 SYS_18 0x8 
 WAIT 0x10 0x2 0x40a00000
 SYS_42 0x8 
-SETNAME "Gemon"
-SAY "{VOICE=03}Kraaaaaah!!! She's heading this way! Come on, son! Let's get out of here!"
+SETNAME "Gémon"
+SAY "{VOICE=03}Kraaaaaah！!! Elle approche！ Viens, mon fils！ Partons d'ici！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

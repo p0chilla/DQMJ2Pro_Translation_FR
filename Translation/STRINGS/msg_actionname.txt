@@ -1,256 +1,256 @@
-Attack
-Defend
-Psyche Up
-High Tension
-Super High Tension
-Flee
-Do nothing
+Attaque！
+Défend！
+Tension！
+Haute tension
+Très haute tension
+Fuite
+PAS D'EFFET
 
-Giga Slash
-Furious Slash
-Flawless Slash
-Universal Slash
-Aurora Breath
-Cataclysm
-Kazapple
-Dimensional Rift
-Frizz
-Frizzle
-Kafrizz
-Kafrizzle
+Gigacross
+Explosion du roi des bêtes
+Lame de l'absolu
+Coupe de l'omnipotence
+Souffle d'aurore
+Cataclysme
+Gigafoudre
+Faille interdimensionnelle
+Flamme
+Superflamme
+Mégaflamme
+Gigaflamme
 Bang
-Boom
-Kaboom
-Kaboomle
-Woosh
-Swoosh
-Kaswoosh
-Kaswooshle
-Crack
-Crackle
-Kacrack
-Kacrackle
-Zap
-Zapple
-Kazap
-Kazapple
-Zam
-Zammle
-Kazam
-Kazammle
-Scapegoat Seal
-Smelly Slash
-Showstopper
-Giga Drain Magic
-Whack
-Thwack
-Kamikazee
-Heal
-Midheal
-Megaheal
-Multiheal
-Omniheal
-Share Magic
-Give Magic
-Zing
-Kazing
-Kerplunk
-Squelch
-Tingle
-Oomph
-Oomphle
-Sag
-Kasag
-Buff
-Kabuff
-Sap
-Kasap
-Accelerate
-Acceleratle
-Decelerate
-Deceleratle
-Ping
-Kaping
-Dim
-Kadim
-Dazzle
-Snooze
-Kasnooze
-Drain Magic
-Fizzle
-Kafizzle
-Bounce
-Fuddle
-Kafuddle
-Clang
-Insulatle
-Insulate
-Fire Breath
-Flame Breath
+Superbang
+Mégabang
+Gigabang
+Tornade
+Supertornade
+Mégatornade
+Gigatornade
+Glace
+Superglace
+Mégaglace
+Gigaglace
+Foudre
+Superfoudre
+Mégafoudre
+Gigafoudre
+Élec
+Superélec
+Mégaélec
+Gigaélec
+Bloc-abnégation
+Coupe du colosse
+Entracte
+Gigaspire
+Kill
+Superkill
+Kamikaze
+Premiers secours
+Soins partiels
+Mégasoin
+Multisoin
+Omnisoin
+Partage de magie
+Don de magie
+Rappel
+Résurrection
+Conjuration
+Antipoison
+Stimulation
+Décuplo
+Superdécuplo
+Affaiblo
+Mégaffaiblo
+Protection
+Mégaprotection
+Altération
+Mégaltération
+Accéléro
+Superaccéléro
+Décéléro
+Superdécéléro
+Tilt
+Supertilt
+Simplet
+Supersimplet
+Illusion
+Torpeur
+Mégatorpeur
+Aspirmagie
+Antimagie
+Superantimagie
+Réflexion
+Confusion
+Superconfusion
+Immoblindage
+Superisolation
+Isolation
+Souffle de feu
+Cracheflamme
 Inferno
-Scorch
-Cool Breath
-Chilly Breath
-Cold Blizzard
-C-C-Cold Breath
-Magic Burst
-Magic Barrier
-Magic Frailty
-Flame Slash
-Inferno Slash
-Bomb Slash
-Blast Slash
-Gust Slash
-Gale Slash
-Charring Slash
-Singeing Slash
-Frost Slash
-Blizzard Slash
-Hallowed Slash
-Sacred Slash
-Shade Slash
-Shadow Slash
-Metal Slash
-Dragon Slash
-Mysterian Mauler
-Multislash
+Brûlure
+Souffle frais
+Souffle froid
+Souffle de givre
+Souffle gla-glacial
+Explosion magique
+Barrière magique
+Faille magique
+Lame de feu
+Lame infernale
+Lame détonante
+Lame explosive
+Lame de vent
+Lame d'Éole
+Lame d'éclair
+Lame de Zeus
+Lame de gel
+Lame de blizzard
+Lame bénie
+Lame sacrée
+Lame sombre
+Lame ténébreuse
+Lame de métal
+Lame du dragon
+Mysterreur
+Multi-lame
 Gigaslash
 Gigagash
-Helm Splitter
-Hatchet Man
-Assassin's Stab
-Double-edged Slash
-Heart Breaker
-Penny Pincher
-Klepto Clobber
-Poisonous Poke
-Venomous Volley
-Paralysing Punch
-Sleep Sock
-Baffling Bonk
-Weakening Wallop
-Slowing Slug
-Stupefying Strike
-Breathtaking Bash
-Break-dance Beat
-Blinding Blow
-Boulder Dash
-Boulder Bash
-Waterspout
+Brise-casque
+Coupe claire
+Coup de l'assassin
+Double-lame
+Crève-cœur
+Grippe-sous
+Klepto manne
+Pique empoisonnée
+Volée vénéneuse
+Frappe paralysante
+Frappe léthargique
+Coup de l'assommoir
+Baffaiblissante
+Encollage
+Frappe lénifiante
+Coupe-souffle
+Break-dance
+Frappe aveuglante
+Lapidaction
+Ricochet
+Giclette
 Geyser
-Spark
-Lightning
-Singe
-Sear
-Boulder Toss
-Tidal Wave
-Lightning Storm
-Cremate
-Counter
-Defending Champion
-Double Up
-One-on-One
-Body Slam
-Sweet Breath
-Burning Breath
-Poison Breath
-Venom Breath
-Bemusing Breath
-Weird Dance
-Tap Dance
-Fuddle Dance
-Death Dance
-Sultry Dance
-Kerplunk Dance
-Hustle Dance
-Dodgy Dance
-Sandstorm
-Dazzleflash
-Spooky Aura
-Wave of Relief
-Wave of Panic
-Disruptive Wave
-Deep Breath
-Tongue Lashing
-War Cry
-Ban Dance
-Gobstopper
-Brake Wind
-Mist Me
-Blowback
-Meditation
-Song of Salvation
-Amor Seco Rain
-Critical Miss
-Reheal
-Mercurial Thrust
-Counter Slash
-Counter Martial
-Counter Magic
-Counter Breath
-Counter Dance
-Thordain
-Break Seal
-Tension Passer
-Anchor Knuckle
-Partner Waltz
-Fissure Strike
-Ocean Slash
-Quake Strike
-Shining Bow
-Take this!
-Wicked Waltz
-Peep Slash
-Still confused!
-Still confused!
-Cowering in fear!
-Assessing the situation.
-Staring blankly.
-Has no idea what to do!
-Focus Pocus
-GLOBLITERATE ALL INTRUDERS!
-The rockbomb's acting a bit oddly!
-Kadonk!
+Étincelle
+Éclair
+Gril
+Barbecue
+Rock 'n' Roll
+Raz-de-marée
+Orage d'éclairs
+Crémation
+Riposte
+Défense ultime
+Coup double
+Un-contre-un
+Écrasement
+Haleine fraîche
+Souffle brûlant
+Haleine empoisonnée
+Haleine vénéneuse
+Haleine fétide
+Drôle de danse
+Claquettes
+Danse de confusion
+Danse de la mort
+Danse sensuelle
+Danse de conjuration
+Danse des soins
+Danse d'esquive
+Tempête de sable
+Attaque éblouissante
+Aura de peur
+Vague de soulagement
+Vague de panique
+Perturbonde
+Grande inspiration
+Léchouille
+Cri de guerre
+Antidanse
+Hygiaphone
+Vent contraire
+Brume de bataille
+Rétrosouffle
+Méditation
+Chant rédempteur
+Pluie salvatrice
+Plantage critique
+Soins réguliers
+Coup d'Hermès
+Lame-réflexion
+Aptitude-réflexion
+Sort-réflexion
+Souffle-réflexion
+Danse-réflexion
+Giga-explosion
+Bloc-percée
+Don de tension
+Poing d'ancrage
+Valse de l'adieu
+Coupe de l'air
+Coupe de la mer
+Coupe de la terre
+Flèche éclatante
+Prends ça！
+Cha-cha sournois
+Lame de l'amour
+A toujours les idées confuses！
+A toujours les idées confuses！
+Tremble de peur！
+Évalue la situation.
+Regarde dans le vague.
+{321} ne sait pas quoi faire！
+Méditation profonde
+EXÉGLUTER TOUS LES INTRUS！
+Le rochexplosif se comporte bizarrement！
+Vlam！
 
-Song of Salvation
-Amor Seco Rain
-Gulp!
-Frenzy
-Selflessness
-Lingering Malhaze
+Chant rédempteur
+Pluie salvatrice
+Miam！
+Frénésie
+Altruisme
+Embrouillard
 Aha
-Abiliterator
-Prezing
-Showstopper
-Tacticlamp
-Blade Blunter
-Unnatural Order
-Tactics-Sealing Breath
-Slash-Sealing Breath
-Martial-Sealing Breath
-Sword Dance
-Underworld Fog
-Sizz
-Sizzle
-Kasizz
-Kasizzle
-Pearly Gates
-Miracle Slash
-Slime Dunk
-Nature Nerfer
-Beast Bopper
-Material Whirl
-Demon Demeaner
-Undead Undoer
-Multifists
-Big Banga
-Defuddle
-Magic Multiplier
-Hocus Locust
-Wind Sickles
-Thin Air
-Wind Shear
-Chain
-Donk
-Kadonk
-Frizz Cracker
+Raptitude
+Prérappel
+Entracte
+Tactifige
+Lame-en-peine
+Désordre
+Souffle de mutisme
+Souffle de bloc-lame
+Souffle de bloc-aptitude
+Danse des lames
+Brouillard d'outremonde
+Crame
+Supercrame
+Mégacrame
+Gigacrame
+Porte de nacre
+Coup miraculeux
+Gluanticide
+Terminature
+Sabêtage
+Antimatière
+Démonlition
+Zombiphobie
+Multipoing
+Mégabanga
+Déconfuz
+Réassort au hasard
+Abracadaplouf
+Vent coupant
+Trou d'air
+Ouragan
+Chaîne
+Lest
+Mégalest
+Flammoglace

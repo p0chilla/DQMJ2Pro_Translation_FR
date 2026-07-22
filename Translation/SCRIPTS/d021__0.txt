@@ -124,41 +124,41 @@ STORE 0x18 0x1 0x40000000 0x2 0x41f00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}Did you see it too? That colossal worm that just slithered past?"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Vous l'avez vu aussi, ce ver gigantesque qui vient de passer？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Archie Logg"
-SAY "{VOICE=07}They said they were just fairy tales, but this island proves every word was true!"
-SYS_44 0x8 
-SYS_43 0x8 
-WAIT 0x10 0x2 0x41200000
-WAIT 0x10 0x2 0x41200000
-SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Och, what are ye blatherin' on aboot now, laddie?{WAIT}{CLEAR}We've more important things tae be worryin' aboot than a silly worm!"
-SYS_44 0x8 
-WAIT 0x10 0x2 0x41200000
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Ye should be grateful yer head's still on yer shoulders! Now, let's get goin'!{WAIT}{CLEAR}The faithful auld Albatross awaits!"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}On dit que ça n'arrive que dans les contes de fées...{PAGE}{WAIT}{CLEAR}... mais cette île prouve que tout est vrai！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}B-But I'm right in the middle of investigating this island!"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Qu'est-ce que tu racontes comme bêtises, mon garçon？{PAGE}{WAIT}{CLEAR}On a des choses plus importantes à faire que de s'occuper d'un stupide ver！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Archie Logg"
-SAY "{VOICE=07}I can scarcely believe how fortunate we were to crash in such unexplored terrain!"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Tu devrais te réjouir d'être encore en un seul morceau！ Allez, en route！{PAGE}{WAIT}{CLEAR}Notre fidèle Albatros nous attend！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}'Fortunate'!? Are ye daft!? Have ye no got the sense ye were born with!?"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}M-Mais je suis en train d'explorer cette île！{PAGE}"
+SYS_44 0x8 
+WAIT 0x10 0x2 0x41200000
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Quelle chance nous avons de nous être écrasés sur une terre aussi mystérieuse！"
+SYS_44 0x8 
+SYS_43 0x8 
+WAIT 0x10 0x2 0x41200000
+WAIT 0x10 0x2 0x41200000
+SYS_42 0x8 
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}\"Quelle chance\"！? Ça va pas la tête！? Tu as complètement perdu l'esprit！?"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -250,8 +250,8 @@ STORE 0x18 0x1 0x0 0x2 0x41300000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Look lively, laddie! Here comes trouble!"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}On se reprend, mon garçon！ Problèmes à l'horizon！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -420,8 +420,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x40a00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}Oh Goddess! Rory! Noooooo!!!"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Oh, par la Déesse！ Bob！ Nooooooon！!!"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -593,20 +593,20 @@ STORE 0x18 0x1 0x40000000 0x2 0x40a00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}{E321}{NAME}! You're alive!"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Mais c'est notre manœuvre！{BREAK}Vous êtes sain et sauf, quel soulagement！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Archie Logg"
-SAY "{VOICE=07}You missed the most appalling event.{BREAK}A giant worm came straight at us and...{WAIT}{CLEAR}...Rory...heroically risked his life to protect me..."
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Vous avez raté un événement affreux. Un ver géant est arrivé droit sur nous et...{PAGE}{WAIT}{CLEAR}... Bob a été héroïque... il a risqué sa vie pour me protéger...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Archie Logg"
-SAY "{VOICE=07}If I'd only done what I was told and returned to the ship...{WAIT}{CLEAR}...this never would have happened!"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Si seulement j'étais retourné au vaisseau, comme il me l'avait dit...{PAGE}{WAIT}{CLEAR}... ça ne serait jamais arrivé！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Archie Logg"
-SAY "{VOICE=07}We must follow that worm and rescue Rory!"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Il faut suivre ce ver et sauver Bob！{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -622,8 +622,8 @@ STORE 0x18 0x1 0x0 0x0 0x40c00000
 STORE 0x18 0x1 0x3f800000 0x2 0x41b00000
 SYS_1F 0x8 
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}It went that way. You've got to come with me, {NAME}. I'm begging you..."
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Il est parti par là-bas, il me semble...{BREAK}Venez avec moi, je vous en prie！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

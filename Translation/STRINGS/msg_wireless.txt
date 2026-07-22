@@ -1,30 +1,28 @@
-DS Wireless Play
-Battle
-Monster Exchange
-Battle nearby opponents via DS Wireless Communications.
-Trade monsters with nearby players via DS Wireless Communications.
-Battle Rules
-Head-To-Head Battle
-Tournament
-Play As Host
-Play As Guest
+Communication sans fil DS
+Combat
+Échange de monstres
+Affrontez des adversaires proches grâce à la communication sans fil DS.
+Échangez des monstres avec{315}des joueurs proches grâce à la{315}communication sans fil DS.
+Règles de combat
+Combat en duel
+Tournoi
+Jouer comme hôte
+Jouer comme invité
 --------
 --------
 --------
 
-Battle against a single opponent in this mode.
-Compete against up to seven opponents in this mode.
-Become the host and invite players to challenge you in battle.
-Search for a host and request to do battle with them as a guest.
-Challenge the selected opponent to a battle.
+Affrontez un seul adversaire dans ce mode.
+Affrontez jusqu'à sept adversaires dans ce mode.
+Devenez hôte et invitez d'autres joueurs à vous défier au combat.
+Cherchez un hôte et demandez à l'affronter en tant qu'invité.
+Provoquez en duel l'adversaire sélectionné.
 
-Rules
-Standard Rules
-SQUARE ENIX Rules
-Custom Rules
-Quit Battle
-
-
+Règles
+Règles standard
+Règles SQUARE ENIX
+Règles perso.
+Quitter le combat
 
 
 
@@ -38,190 +36,192 @@ Quit Battle
 
 
 
-Begin Battle
-Team Setup
-Check Rules
-
-Switch Monsters
-Change Equipment
-Change Tactics
-Length
-Orders
-Switch Monsters
-Same Type
-Turn Time
-Confirm Settings
-RANK
-
-No Limit
-5 Turns
-10 Turns
-On
-Off
 
 
-All OK
-Same Family OK
-Same Family Prohibited
-No Limit
-15 Seconds
-30 Seconds
+Débuter le combat
+Composition de l'équipe
+Consulter les règles
 
-Unrestricted Class
-F-D RANK Class
-C-A RANK Class
-S/SS RANK Class
-Choose from Pen
-Choose from Favorites
-Free
-Once Only
-Prohibited
-Battle using standard rules.
-Play using official SQUARE ENIX rules.
-Customise battle rules to your liking.
-Quit head-to-head battle.
+Changer de monstres
+Changer d'équipement
+Changer de tactique
+Durée
+Ordres
+Changer de monstres
+Même type
+Instructions
+Confirmer les paramètres
+RANG
 
-
+Illimitée
+5 tours
+10 tours
+Oui
+Non
 
 
+Tout OK
+Oui
+Non
+Illimitée
+15 secondes
+30 secondes
 
-
-You cannot use this{315}until you are able to{315}form favorite parties in the Pen.
+Sans restriction
+Catégorie Rangs F à D
+Catégorie Rangs C à A
+Catégorie Rangs S & X
+Choisir depuis l'enclos
+Choisir parmi les favoris
+Libre
+1 fois seulement
+Interdit
+Jouez en suivant les règles standard.
+Jouez en suivant les règles officielles de SQUARE ENIX.
+Personnalisez les règles de combat comme bon vous semble.
+Quittez le combat en duel.
 
 
 
 
-Select the number of turns the battle will last.
-Select whether or not orders can be issued to monsters.
-Select whether or not monsters can be switched around during battle.
-
-Select the number of rounds{315}until the battle ends.
-Select whether{315}commands can be given.
-Select whether{315}switching can be done.
-Select whether to limit{315}the monsters allowed in battle.
-Select the time limit for entering commands.
-Battle with these rules.
-The battle ends when one team is wiped out.
-End battle after 5 turns.
-End battle after 10 turns.
-Enables players to give orders to monsters during battle.
-Monsters will fight using selected tactics.
 
 
-Allows players to have two or more monsters of the same family on their team.
-Monsters of the same family{315}can be used.{315}However, monsters of the same{315}species cannot be used.
-Prevents players from having two or more monsters of the same family on their team.
-Sets no time limit for issuing commands during battle.
-Sets a time limit of 15 seconds for issuing commands during battle.
-Sets a time limit of 30 seconds for issuing commands during battle.
-All monsters can{315}participate.
-Battle with F-D RANK monsters.{315}Monsters of other RANKS{315}cannot participate.
-Battle with C-A RANK monsters.{315}Monsters of other RANKS{315}cannot participate.
-Battle with S-SS RANK monsters.{315}Monsters of other RANKS{315}cannot participate.
-Begin DS Wireless Communications?
-Waiting for a response from the other player...{315}Press the B Button to cancel.
+Permet d'effectuer un seul remplacement{315}pendant toute la durée du combat.Empêche les joueurs d'utiliser des remplaçants durant le combat.
 
-Exchanging data...{315}Please wait.
-Unable to receive data because{315}your Friend Roster is full.{315}Please reduce the size of your{315}Friend Roster.
 
-Now saving...{315}Do not turn power OFF.
-Save completed!
-Save completed!{315}Please wait.
-Communication error.{315}Please try again later.
-Inviting {322} to battle.{315}Please wait.{315}Press the B Button to cancel.
-{322} wants to battle.{315}Accept the challenge?
-Issuing challenge to opponent...{315}Please wait.
-You refuse the challenge.
-Your challenge has been refused.
-Inviting opponents to battle you...{315}Press the B Button to cancel.
-Opponent is selecting the battle rules...{315}Please wait.
-Waiting for opponent...
-Preparations complete. Now beginning the battle...
-The save data could not be accessed. Please turn off the power and reinsert the DS Game Card.
-Battle rules are displayed on the upper screen.
-Waiting for opponent...
-Disconnecting from DS Wireless Communications.
-You beat {322}!
-You lost to {322}.
-You drew with {322}.
-Monsters not in the F-D RANK range{315}are included.{315}Please change monsters{315}in "Team Setup."
-Monsters not in the C-A RANK range{315}are included.{315}Please change monsters{315}in "Team Setup."
-Monsters not in the S-SS RANK range{315}are included.{315}Please change monsters{315}in "Team Setup."
-Two or more monsters{315}of the same family are included.{315}Please re-select your monsters.
-Two or more monsters{315}of the same species are included.{315}Please re-select your monsters.
-Seek a Trade Partner
-Request a Trade
+
+
+Sélectionnez le nombre de tours du combat.
+Déterminez s'il est possible de donner des ordres aux monstres.
+Déterminez s'il est possible de changer de monstres durant le combat.
+
+Règle le nombre de rounds{315}avant la fin du combat.
+Active ou non les ordres{315}pendant le combat.
+Autorise ou non les{315}remplacements.
+Empêche les joueurs de posséder deux monstres ou plus de la même famille dans leur équipe.
+Déterminez le temps imparti pour les instructions.
+Combattez avec ces règles.
+Le combat se termine quand l'une des équipes est décimée.
+Terminer le combat après 5 tours.
+Terminer le combat après 10 tours.
+Permet aux joueurs de donner des ordres aux monstres durant le combat.
+Les monstres combattront en utilisant la tactique sélectionnée.
+
+
+Permet aux joueurs de posséder deux monstres ou plus de la même famille dans leur équipe.
+Les monstres d'une même famille sont autorisés, mais les monstres d'une même espèce sont interdits.
+Empêche les joueurs de posséder deux monstres ou plus de la même famille dans leur équipe.
+Le temps imparti pour donner des ordres durant le combat n'est pas limité.
+Limite à 15 secondes le temps imparti pour donner des ordres durant le combat.
+Limite à 30 secondes le temps imparti pour donner des ordres durant le combat.
+Tous les monstres peuvent participer.
+Combat avec des monstres de rang F à D.{315}Les monstres d'autres rangs{315}ne peuvent pas participer.
+Combat avec des monstres de rang C à A.{315}Les monstres d'autres rangs{315}ne peuvent pas participer.
+Combat avec des monstres de rang S et X.{315}Les monstres d'autres rangs{315}ne peuvent pas participer.
+Lancer la communication sans fil DS？
+En attente de réponse de l'autre joueur...{315}Appuyez sur le bouton B pour annuler.
+
+Échange des données en cours...{315}Veuillez patienter.
+Impossible de recevoir les données car votre liste d'amis est pleine.{315}Veuillez réduire votre liste d'amis.{30c}
+
+Sauvegarde en cours...{315}N'éteignez pas la console.
+Sauvegarde terminée！
+Sauvegarde terminée！Veuillez patienter.
+Erreur de communication.{315}Veuillez réessayer ultérieurement.
+Invitation d'adversaires via {322} en cours...{315}Appuyez sur le bouton B pour annuler.
+{321}{322} veut vous affronter.{315}Accepter le défi？
+Envoi du défi à l'adversaire...{315}Veuillez patienter.
+Vous déclinez le défi.
+L'adversaire a décliné votre défi.
+Invitation d'adversaires en cours...{315}Appuyez sur le bouton B pour annuler.
+L'adversaire choisit les règles de combat...{315}Veuillez patienter.
+En attente de l'adversaire...
+Préparatifs terminés. Début du combat...
+Impossible d'accéder aux données.{315}Éteignez la console et réinsérez la carte de jeu.
+Les règles s'affichent sur l'écran supérieur.
+En attente de l'adversaire...
+Déconnexion de la communication{315}sans fil DS.
+Vous avez battu {322}！{30c}
+Vous avez été battu par {322}.
+Vous avez fait match nul avec {322}.
+Votre équipe contient des monstres qui n'appartiennent pas{315}aux rangs F à D.{315}Veuillez modifier vos monstres via " Organiser l'équipe ".
+Votre équipe contient des monstres qui n'appartiennent pas{315}aux rangs C à A.{315}Veuillez modifier vos monstres via " Organiser l'équipe ".
+Votre équipe contient des monstres qui n'appartiennent pas{315}aux rangs S et X.{315}Veuillez modifier vos monstres via " Organiser l'équipe ".
+Votre équipe contient au moins deux monstres de la même famille.{315}Veuillez choisir d'autres monstres.
+Votre équipe contient au moins deux monstres de la même espèce.{315}Veuillez choisir d'autres monstres.
+Rechercher un partenaire d'échange
+Proposer un échange
 --------
 --------
 --------
-Cancel
-Select Monsters
-Confirm
-Cancel Trade
-Begin Trade
-View Attributes
-Select Monsters
-Continue
-Stop Trading
+Annuler
+Choisir les monstres
+Confirmer
+Annuler l'échange
+Débuter l'échange
+Voir les caractéristiques
+Choisir les monstres
+Poursuivre
+Échange terminé
 
-Monsters
-Back
-Trade with DQM Joker 2 Pro
-Trade with DQM Joker 2
-Recruiting a trade partner.
-Search for people recruiting trade partners{315}and request a monster trade.
-Request a monster trade{315}with the selected person.
-Cancel the request{315}for a monster trade.
-Trade with DQM Joker 2 Pro.
-Trade with DQM Joker 2.
-Inviting other player to trade monsters...{315}Please wait.
-{322} wants to trade monsters.{315}Accept the invitation?
-Inviting other player to trade monsters...{315}Please wait.
-You refuse the invitation.
-Your invitation has been refused.
-If the player you are trading with{315}doesn't have an enhanced scout ring,{315}they won't be able to use monsters{315}of this size in the game. Please{315}discuss this before trading.
-Let the exchange begin!{315}Select monsters to trade.
-The opponent is choosing.{315}Please wait.
-The offer has changed.{315}Press the B Button to modify your offer.
-Preparing for exchange.
-No one has selected monsters for trading.
-Choose different monsters to trade.{315}Waiting for the trade partner's confirmation...
-Please wait while the trade partner modifies their offer.
-Starting the monster trade. {315}{315} Please note that if the power is turned off{315}during the process, monsters may be lost.
-Sent {322}{315}to the trade partner.
-{324} joins the team!
-Your new monsters will be sent to the monster pen.{30c}
-Waiting for the trade partner...{315}Please wait.
-You do not have enough room in your{315}monster pen.{315}{315}Reduce the number of monsters that{315}you'll receive in this exchange,{315}or reorganise your monster pen.
-The trade partner does not have enough{315}room in their monster pen.{315}{315}Reduce the number of monsters you{315}will offer in this exchange.
-Your team may contain unauthorised{315}monster data.{315}Please reorganise your team.
-Your opponent's team may contain{315}unauthorised monster data.{315}Please ask them to reorganise their team.
-You must keep at least one monster{315}in your team.
-You have chosen not to trade.{315}Awaiting the trade partner's response.
-The trade partner does not wish to trade.{315}Please wait.
-Wireless signal is weak or blocked. Cannot find trading partner.{315}Please try again.
-Monster trading has ended.
-The trade partner has chosen to end current monster trade.{315}This monster trade transaction has been completed.
-Let the exchange begin!{315}Select monsters to trade.{315}Notice!{315}Since this is a trade with Dragon Quest Monsters Joker 2,{315}the level of the exchanged monsters{315}will become 1, and skills/traits{315}will be converted.
-Because there is a high RANK monster{315}among the monsters received from the opponent,{315}the trade cannot be performed.{315}Please have them change the monster.
+Monstres
+Retour
+Échanger avec DQM Joker 2 Professional
+Échanger avec DQM Joker 2
+Rechercher un partenaire d'échange.
+Chercher un joueur qui propose un échange{315}pour lui envoyer une demande.
+Échangez des monstres avec le joueur sélectionné.
+Annuler la demande{315}d'échange de monstres.
+Échanger avec DQM Joker 2 Professional
+Échanger avec DQM Joker 2
+Invitation envoyée au joueur pour échanger des monstres...{315}Veuillez patienter.
+{321}{322} souhaite échanger des monstres.{315}Accepter l'invitation？
+Invitation envoyée au joueur pour échanger des monstres...{315}Veuillez patienter.
+Vous déclinez l'invitation.
+Votre invitation a été déclinée.
+Si le joueur avec qui vous faites échange ne possède pas d'anneau de dresseur amélioré, il ne pourra pas utiliser de monstres de cette taille dans le jeu. Parlez-en avant de faire un échange.
+Que l'échange commence！{315}Choisissez les monstres à échanger.
+Votre partenaire fait son choix.{315}Veuillez patienter.
+Le monstre à recevoir a changé.{315}Appuyez sur le bouton B pour modifier votre choix.
+Préparation de l'échange.
+Personne n'a sélectionné de monstre à échanger.
+Nouveau choix des monstres à échanger.{315}En attente de la confirmation du partenaire.{315}Veuillez patienter.
+Votre partenaire choisit à nouveau{315}les monstres à échanger.{315}Veuillez patienter.
+L'échange de monstres commence.{315}{315}Attention : si la console s'éteint en cours de route,{315}vous risquez de perdre vos monstres！{315}Veuillez faire attention.
+Vous donnez {322} {315}au partenaire.
+{322} vous donne{315}{324}{315}qui rejoint vos rangs！
+Vos nouveaux monstres seront envoyés dans l'enclos des monstres.{30c}
+En attente de la confirmation du partenaire.{315}Veuillez patienter.
+Vous n'avez pas assez de place dans votre enclos des monstres.{315}Réduisez le nombre de monstres que vous allez recevoir au cours de cet échange ou réorganisez votre enclos des monstres.
+L'enclos de votre partenaire est plein.{315}Vous ne pouvez pas lui donner de monstres.{315}Réduisez le nombre de monstres à donner.
+Il se peut que votre équipe présente des données de monstres non autorisées.{315}Veuillez réorganiser votre équipe.
+Il se peut que l'équipe de votre adversaire présente des données de monstres non autorisées.{315}Veuillez lui demander de réorganiser son équipe.
+Vous devez garder au moins un monstre dans l'équipe.
+Vous avez refusé l'échange de monstres.{315}En attente de la confirmation du partenaire.{315}Veuillez patienter.
+Votre partenaire a refusé l'échange de monstres...{315}Veuillez patienter.
+Le signal sans fil est faible ou bloqué. Impossible de trouver un partenaire d'échange.{315}Veuillez réessayer.
+L'échange de monstres en cours a pris fin.
+L'échange de monstres commence.{315}Veuillez choisir le monstre à échanger.{315}{315}！
+Attention！{315}Il s'agit d'un échange avec Dragon Quest Monsters : Joker 2.{315}Le niveau de tous les monstres échangés{315}retombera à 1, et leurs compétences et attributs{315}seront également convertis.
+L'échange est impossible : l'un des monstres{315}proposés par votre partenaire est d'un RANG{315}trop élevé.{315}Demandez-lui de changer de monstre.
 
 
 
-Tournament
-Host Tournament
-Join Tournament
+Tournoi
+Organiser un tournoi
+Rejoindre un tournoi
 Participants
-Names
+Noms
 --------
 --------
 --------
 
-Rules
-Tournament Rules
-SQUARE ENIX Rules
-Survival Rules
-Custom Rules
-Quit Tournament
+Règles
+Règles de tournoi
+Règles SQUARE ENIX
+Règles de survie
+Règles perso.
+Quitter le tournoi
 
 
 
@@ -238,35 +238,35 @@ Quit Tournament
 
 
 
-Begin Battle
-Team Setup
-Check Rules
+Débuter le combat
+Composition de l'équipe
+Consulter les règles
 
 
 
 
-Results
-Final Results
-Sprout
-Raul Ghoul
-Grace
-Swelter
-Sir Berus
-Mon Starr
-Chill Blaine
-Mark Smann
+Résultats
+Résultats finaux
+Puce
+Goule Raoul
+Gracie
+Canicule
+Sir Bère
+Simonstre
+Glaglaé
+Œil de lynx
 Blizzard
-Sham Armour
-Esmerelda
-Burly Barry
+Armorituri
+Aurora Fût
+Tapedur
 Virgo
-Luke Warm
-Juve E Nile
-Rawger
-Slobber
-Dr Darf
-Lucy Fur
-Loomin' Harry
+Grand Luc
+Massi Rage
+Georg Anisé
+Rosalbave
+Oli Bation
+Lucie Fer
+Stéfan Faron
 
 
 
@@ -297,90 +297,90 @@ Loomin' Harry
 
 
 
-Length
-Orders
-Switch
-Same Type
-Turn Time
-Recovery
-Confirm Settings
-5 Turns
-10 Turns
-On
-Off
-On
-Off
-On
-Off
-15 Seconds
-30 Seconds
-On
-Off
-As the host, you can accept participants for the tournament.
-As a guest, you can participate in a tournament by selecting from a list of hosts.
-Participate in the selected player's tournament.
-End search for tournaments.
-Play by tournament rules.
-Play by official SQUARE ENIX rules.
-Play by survival rules.{315}The winner's HP and MP does not recover between battles.
-Customise battle rules to your liking.
-Exit the tournament.
-Select the number of turns the battle will last.
-Select whether or not orders can be issued to monsters.
-Select whether or not monsters can be switched around during battle.
-Prevent players from having two or more monsters of the same family on their team.
-Select the time limit for inputting commands.
-Select whether or not MP and HP is restored before battles.
-Use the customised rules you've selected.
-Restore MP and HP before battles.
-Don't restore victor's MP and HP before battles.
+Durée
+Ordres
+Changer
+Même type
+Instructions
+Récupér.
+Confirmer les paramètres
+5 tours
+10 tours
+Oui
+Non
+Oui
+Non
+Oui
+Non
+15 secondes
+30 secondes
+Oui
+Non
+En tant qu'hôte, vous pouvez accepter des participants pour le tournoi.
+En tant qu'invité, vous pouvez participer à un tournoi en le sélectionnant parmi une liste d'hôtes.
+Participez au tournoi du joueur sélectionné.
+Interrompez la recherche de tournois.
+Jouez en suivant les règles du tournoi.
+Jouez en suivant les règles officielles de SQUARE ENIX.
+Jouez en suivant les règles du mode Survie.{315}Le vainqueur ne récupère pas de PV ni de PM entre deux combats.
+Personnalisez les règles de combat comme bon vous semble.
+Quittez le tournoi.
+Sélectionnez le nombre de tours du combat.
+Déterminez s'il est possible de donner des ordres aux monstres.
+Déterminez s'il est possible de changer de monstres durant le combat.
+Empêche les joueurs de posséder deux monstres ou plus de la même famille dans leur équipe.
+Déterminez le temps imparti pour les instructions.
+Déterminez si les PM et les PV sont restaurés avant les combats.
+Utilisez les règles personnalisées que vous avez définies.
+Restaurez les PM et PV avant les combats.
+Ne restaurez pas les PM et PV du vainqueur avant les combats.
 
-Searching for tournament participants...{315}Please wait.
+Recherche de participants en cours...{315}Veuillez patienter.
 
-There are not enough participants.{315}A tournament requires two or more players.
-Waiting for a response from the other player...{315}Press the B Button to cancel.
-The tournament has been called off.
-
-
-
-
-
-Please wait while the other participants edit their teams.{315}Press the B Button to reconfigure your team.
-Round one is about to begin!{315}Your opponent is going to be{315}Team {322}.{315}Get ready for the rampage that's{315}about to ensue!
-Round two is about to begin!{315}Your opponent is going to be{315}Team {322}.{315}Get ready for the rampage that's{315}about to ensue!
-Now it's time for the final!{315}This time your opponent will be{315}Team {322}.{315}Let's find out who has the top team!
-The winner of this battle will net{315}a spot in third place.{315}You're set to face off against{315}Team {322}.
-Although this is a battle between losers, you can still come out a winner!{315}Your opponent is Team {322}.{315}This is your chance! Make it count!
-The winner of this battle will gain fifth place.{315}Never give up hope and never surrender!{315}Your opponent is going to be{315}Team {322}.
-The winner of this battle will slide{315}into seventh place.{315}Never give up hope and never surrender!{315}Your opponent is going to be{315}Team {322}.
-The other participants are still battling.{315}Please wait.
-All the participants have finished battling.{315}After viewing the results, press the A Button.
-The other participants are still viewing the results.{315}Please wait.
-All the participants have finished battling.{315}The tournament is over, and here are the final results!
-Congratulations on winning the tournament!{315}You're an inspiration to all scouts, young{315}and old. Keep on training your monsters and{315}honing your skills, and bring honour to the{315}title of Tournament Champion!
-Congratulations on coming in second place!{315}Your perseverance is matched only by your{315}perspiration! Next time, aim for the top!
-Congratulations on coming in third place!{315}You may not be THE best, but you're{315}one of the best! Next time, aim for the top!
-You've come {322}th in the tournament, but don't lose hope!{315}Train your monsters and your mind, then take on the challenge again!
-Preparing to begin tournament{315}Please wait.
-You have selected two or more monsters from the same family.{315}Please select different monsters.
-Vs Team {322}
-Number Of Battles:
-Wins:
-Losses:
+Il n'y a pas assez de participants.{315}Un tournoi se joue à deux joueurs minimum.
+En attente de réponse de l'autre joueur...{315}Appuyez sur le bouton B pour annuler.
+Le tournoi a été annulé.
 
 
 
 
 
+Les autres participants sont en train de modifier la composition de leur équipe.{315}Appuyez sur le bouton B pour modifier la composition de la vôtre.
+La 1re manche va bientôt commencer！{315}Votre adversaire sera l'équipe {322}.{315}Tenez-vous prêt pour le carnage qui s'annonce！
+La 2e manche va bientôt commencer！{315}Vous allez affronter l'équipe {322}.{315}Tenez-vous prêt pour le carnage qui s'annonce！
+Nous allons maintenant passer à la finale！{315}Cette fois, vous allez affronter l'équipe {322}.{315}Voyons quelle est la meilleure équipe！
+Le vainqueur de ce combat s'appropriera{315}la 3e place.{315}Apprêtez-vous à affronter l'équipe{315}{322}.
+Même si ce combat ne réunit que des perdants, il peut quand même vous permettre d'empocher une victoire！{315}Vous allez affronter l'équipe {322}.{315}C'est votre chance！ Saisissez-la！
+Le match pour la 5e place va commencer！{315}Ne perdez pas espoir et donnez tout ce que vous avez！{315}Vous allez affronter l'équipe {322}！
+Le vainqueur de ce combat viendra se{315}classer 7e. Ne perdez jamais espoir et{315}n'abandonnez pas！{315}Vous allez combattre l'équipe{315}{322}.
+Les autres participants sont encore en train de combattre.{315}Veuillez patienter.
+Tous les participants ont terminé leurs combats.{315}Une fois que vous aurez pris connaissance des résultats, appuyez sur le bouton A.{30c}
+Les autres participants sont encore en train de regarder les résultats.{315}Veuillez patienter.
+Tous les participants ont terminé leurs combats.{315}Le tournoi touche à sa fin, et voici les résultats définitifs！{30c}
+Vous avez remporté le tournoi, bravo！{315}Vous êtes un exemple pour les dresseurs de tous âges.{315}Continuez à entraîner vos monstres et à perfectionner vos compétences pour faire honneur à votre titre de champion du tournoi！{30c}
+Félicitations pour votre 2e place！{315}Votre persévérance n'a d'égale que votre transpiration！{315}La prochaine fois, visez la plus haute marche du podium！{30c}
+Félicitations pour votre 3e place！{315}Vous n'êtes peut-être pas LE meilleur, mais vous faites partie du peloton de tête！{315}La prochaine fois, visez la plus haute marche du podium！{30c}
+Vous êtes arrivé {322}e du tournoi, mais ne perdez pas espoir！{315}Entraînez vos monstres, renforcez votre mental, puis retentez votre chance！{30c}
+Préparation du tournoi en cours.{315}Veuillez patienter.
+Vous avez sélectionné deux monstres ou plus de la même famille.{315}Veuillez sélectionner des monstres différents.
+contre l'équipe {322}
+Nombres de combats：
+Victoires：
+Défaites：
 
-Your opponent's team may contain unauthorised monster data.{315}The battle has been called off.
-Your team may contain unauthorised monster data.{315}The battle has been called off.
-The battle could not be started.
-The battle could not be started.
 
-Team Members
-Substitutes
-Party Rank: {322}
+
+
+
+
+Il se peut que l'équipe de votre adversaire présente des données de monstres non autorisées.{315}Le combat a été annulé.
+Il se peut que votre équipe présente des données de monstres non autorisées.{315}Le combat a été annulé.
+Malheureusement,{315}le combat n'a pas pu être validé.
+Malheureusement,{315}le combat n'a pas pu être validé.
+
+Équipiers
+Remplaçants
+Rang de l'équipe : {322}
 ☆1
 ☆2
 ☆3

@@ -82,8 +82,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x42d00000
 SYS_18 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}I say! You're that scruffy stowaway from that wreck of an airship."
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Oh！ Vous êtes le clandestin qui se cachait à bord de cette poubelle de vaisseau？{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -119,16 +119,16 @@ STORE 0x18 0x1 0x40000000 0x2 0x41a00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}Your assistance was quite unnecessary, you know.{WAIT}{CLEAR}I wouldn't have had the slightest trouble dealing with those mangy mutts."
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Votre aide n'était pas indispensable, vous savez.{PAGE}{WAIT}{CLEAR}Je n'aurais pas eu le moindre mal à me débarrasser de ces chiens galeux.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}Still, I'm rather surprised I wasn't the sole survivor from the crash."
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}En tout cas, je suis plutôt surprise de ne pas être la seule survivante du crash.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}How did our fellow passengers fare,{BREAK}pray tell?"
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Mais dites-moi ce qu'il est advenu des autres passagers.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -171,19 +171,19 @@ STORE 0x18 0x1 0x0 0x0 0x40000000
 STORE 0x18 0x1 0x3f800000 0x2 0x42d40000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}Alive and well for the most part, you say? But some remain unaccounted for?{WAIT}{CLEAR}How dreadful...{BREAK}Anyway, enough about them."
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}La plupart sont sains et saufs, mais certains manquent encore à l'appel？{PAGE}{WAIT}{CLEAR}C'est terrible... Mais assez parlé d'eux.{PAGE}"
 SYS_44 0x8 
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}I for one have absolutely no intention of returning to that rustbucket just yet.{WAIT}{CLEAR}And you know why, don't you?"
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Moi, je n'ai nullement l'intention de retourner dans ce tas de rouille.{PAGE}{WAIT}{CLEAR}Et vous savez pourquoi, n'est-ce pas？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x40000000
 STORE 0x18 0x1 0x3f800000 0x2 0x3fcccccd
 SYS_4E 0x8 
 WAIT 0x10 0x2 0x41a00000
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}Why, my precious Countess, of course!{WAIT}{CLEAR}She flew away into the mountains, abandoning her poor Mumsy-Wumsy."
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}À cause de ma très chère Comtesse, bien sûr！{PAGE}{WAIT}{CLEAR}Elle s'est enfuie dans les montagnes en abandonnant sa pauvre maman chérie.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -227,8 +227,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x41200000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}Of course! The Captain's orders! You're to be at my beck and call at all times!"
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Mais bien sûr！ Les ordres du capitaine！ Vous devez être à mon entière disposition！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x42200000
 STORE 0x18 0x1 0x0 0x0 0x40000000
@@ -238,12 +238,12 @@ WAIT 0x10 0x2 0x420c0000
 STORE 0x18 0x1 0x0 0x0 0x40000000
 STORE 0x18 0x1 0x3f800000 0x2 0x42d40000
 SYS_18 0x8 
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}You are going to make yourself useful.{BREAK}Help me search for my dear Countess."
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Vous allez vous rendre utile. Aidez-moi à retrouver ma chère Comtesse.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}All right, let's be off! Come along now, and do try to keep up."
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Très bien, allons-y！ Suivez-moi et essayez de ne pas traîner."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

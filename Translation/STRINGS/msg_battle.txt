@@ -1,95 +1,93 @@
 
 
-{30f} managed to escape!
-You were defeated...
+{30f} prend la fuite！
+{30f} est vaincu！
 
-But you were surrounded!
-You surprised the enemy!
-Preemptive strike!
-This looks like a good time to scout!
-{321}{328}
-And the result is...
-{321}{30f}'s team wins!
-{321}{30f}'s team loses!
-It's a draw!
-The opponent forfeits!
-{321}{30f}'s team forfeits!
-Both teams forfeit, so it's a draw!
-The Standby Team is here to help!
-The missing lynx wanders off.
-But they can't cast spells!
-A gigantic monster is nearby.
-The enemy flees!
-{30f} dropped {322}G!
-A gigantic monster attacks!
-The gigantic monster wandered off.
-The enemy is flustered!
-Everybody gets psyched up!
-The enemy is annihilated!
-The gigantic monster attacks!
-Everybody cowers in fear!
-Everybody is confused!
-{321}{30f}'s team prays...
-An enemy joined {30f}'s team!
-But the gigantic monster wanders off.
-{321}{30b}{00} has disappeared.
-The gigantic monster closes in!
-Insufficient MP!
-But the dance is sealed!
-But their mouth is shut!
-Abiliterated!
-Blade is blunted!
-Steals {328}!
-Steals {322}G!
-But nothing happens!
-Attack
-Defence
-Agility
-Wisdom
-The {322} bubbles furiously!
-The {322} roars fiercely!
-The {322} gets aggravated!
-The {322} flails angrily!
-The {322} starts slamming around!
-The {322} screams in anger!
-The {322} seems perturbed...
-The {322} bulks up!
-Do nothing
-Fight
-Order
-Tactics
-Scout
-Items
-Flee
+L'ennemi vous encercle！
+Vous surprenez l'ennemi！
+Attaque surprise！
+Bon moment pour dresser！{306}
+{321}{328}{306}
+Résultat{311}Ht.{311}Ht.{311}Ht.{306}
+{30f} l'emporte！{306}
+{30f} a perdu！{306}
+Match nul！{306}
+L'adversaire abandonne！{306}
+{321}{30f} abandonne！{306}
+Double forfait ! Nul！{306}
+Mais les renforts arrivent！{306}
+L'ailéopard s'en va.{306}
+Mais les sorts sont scellés！{306}
+Géant tout proche{311}Ht.{311}Ht.{311}Ht.{306}
+L'ennemi fuit！{306}
+{322} po tombent au sol！{306}
+Un géant attaque！{306}
+L'énorme monstre s'en va.{306}
+L'ennemi vacille！{306}
+Tous se concentrent！{306}
+L'ennemi est terrassé！{306}
+L'énorme monstre attaque！{306}
+Tous tremblent de peur！{306}
+Tous sont confus！{306}
+{30f} prie...{306}
+Un ennemi rejoint l'équipe！{306}
+L'énorme monstre s'en va.{306}
+{321}{30b} a disparu.{306}
+Le géant approche！{306}
+PM insuffisants！
+Danse impossible.{306}
+Bouche cousue.{306}
+Aptitudes scellées.{306}
+Lame émoussée！{306}
+Vole {328}！
+Vole {322} po.
+Rien ne se passe！{306}
+Attaque{306}
+Défense{306}
+Agilité{306}
+Sagesse{306}
+{322}Aura Gluante{306}
+{322}Aura Draconique{306}
+{322}Aura Naturelle{306}
+{322}Aura Bestiale{306}
+{322}Aura Matérielle{306}
+{322}Aura Démoniaque{306}
+{322}Aura Zombie{306}
+{322}Aura Prodigieuse{306}
+Inaction.{306}
+Combattre
+Ordres
+Tactique
+Dresser
+Objets
+Fuir
 
-You can't scout because the monster pen is full!
-Switch
-Forfeit
-Turns Remaining: {322}
-Time Remaining: {324}
-Waiting for opponent...
-Can't cast spells!
-Turn {322}
-Battle {324}
-{321}{30f} prepares to scout!
-A talented scouting!
+Enclos plein : dressage impossible.
+Changer
+Forfait
+Tours restants： {322}
+Temps restant： {324}
+Attente de l'adversaire...
+Sorts scellés！
+Tour {322}
+Combat {324}
+{321}{30f} va dresser！{306}
+Quel talent！{306}
 
-Scouting successful!
-Failed to scout!
+Dressage réussi！{306}
+Dressage raté！{306}
 
-The monster is sizing things up.
-The monster took offense!
-
-
-Obtained {322} skill points!
-{322} has reached max level!
-Obtained {328}!
-Forfeit the current battle.
-Return to the current battle.
-This monster is special,{315}so it cannot be scouted!
-This monster is special,{315}so it cannot be scouted!
+Le monstre évalue.{306}
+{321} se vexe！{306}
 
 
+{321} gagne {322} PC！
+{321}{322} au niveau max.
+Obtient {328}！
+Abandonner ce combat.
+Reprenez le combat en cours.
+Monstre spécial,{315}dressage impossible！
+Monstre spécial,{315}dressage impossible！
 
 
 
@@ -100,52 +98,54 @@ This monster is special,{315}so it cannot be scouted!
 
 
 
-Message not supported
 
-Attack restored!
-Defence restored!
-Agility restored!
-Wisdom restored!
-The Insulatle has worn off!
-The poison has worn off!
-The monster is not offended!
-The monster has calmed down a bit!
-The paralysis has worn off!
-The monster woke up!
-The monster is no longer confused!
-The Tongue Lashing has worn off!
-The dance effect has worn off!
-The monster is no longer afraid!
-The monster is no longer afraid!
-The monster can cast spells again!
-The monster can dance again!
-The Gobstop effect has worn off!
-Accuracy restored!
-Accuracy restored!
-Accuracy restored!
-Resistance is restored!
-Resistance is restored!
-Critical Miss has worn off!
-Bounce has worn off!
-Deep Breath has worn off!
-Brake Wind has worn off!
-Mist Me has worn off!
-Resistance is restored!
-Reheal has worn off!
-Artful Dodger has worn off!
-Clang has worn off!
-Counter has worn off!
-Active again!
-The Amor Seco Rain has worn off!
-The Song of Salvation has worn off!
-Blowback has worn off!
-The effect has worn off!
-Prezing has worn off!
-Abiliterator has worn off!
-Blade Blunter has worn off!
-Aha has worn off!
-Selflessness has worn off!
-Tacticlamp has worn off!
-Resurrected!!
-Lingering Mahlhaze has worn off!
-Unnatural Order has worn off!
+
+Message non défini
+
+Attaque rétablie.
+Défense rétablie.
+Agilité rétablie.
+Sagesse rétablie.
+Fin de la Superisolation.
+Le poison se dissipe.
+Vexation digérée.
+Tension apaisée.
+La paralysie se dissipe.
+Réveil du monstre.
+La confusion se dissipe.
+La Léchouille se dissipe.
+Fin de la danse.
+Le monstre reprend courage.
+Le monstre reprend courage.
+Fin de l'Antimagie.
+Fin de l'Antidanse.
+Fin de l'Hygiaphone.
+Précision rétablie.
+Précision rétablie.
+Précision rétablie.
+Résistance rétablie.
+Résistance rétablie.
+Fin du Plantage critique.
+Fin de la Réflexion.
+Fin de la Grande inspiration.
+Fin du Vent contraire.
+Fin de la Brume de bataille.
+Résistance rétablie.
+Fin des Soins réguliers.
+Fin de la Double esquive.
+Fin de l'Immoblindage.
+Fin de la Riposte.
+Le monstre agit de nouveau.
+La Pluie salvatrice se dissipe.
+Le Chant rédempteur se dissipe.
+Fin du Rétrosouffle.
+L'effet se dissipe.
+Fin du Prérappel.
+Fin de la Raptitude.
+Fin de la Lame-en-peine.
+Fin de l'Aha.
+Fin de l'Altruisme.
+Fin du Tactifige.
+Le monstre revient à la vie.
+L'Embrouillard se dissipe.
+Le Désordre se dissipe.

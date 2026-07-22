@@ -1,229 +1,229 @@
-Vulnerable to Frizz
+Flamme : faible
 
-Frizz Damage ↓25%
-Frizz Damage ↓50%
-Frizz Damage ↓75%
-Frizzproof
-Reflects Frizz
-Healed by Frizz
-Vulnerable to Bang
+Flamme ↓25％
+Flamme ↓50％
+Flamme ↓75％
+Flamme : immunisé
+Flamme : renvoie
+Flamme : soigné
+Bang : faible
 
-Bang Damage ↓25%
-Bang Damage ↓50%
-Bang Damage ↓75%
-Bangproof
-Reflects Bang
-Healed by Bang
-Vulnerable to Woosh
+Bang ↓25％
+Bang ↓50％
+Bang ↓75％
+Bang : immunisé
+Bang : renvoie
+Bang : soigné
+Tornade : faible
 
-Woosh Damage ↓25%
-Woosh Damage ↓50%
-Woosh Damage ↓75%
-Wooshproof
-Reflects Woosh
-Healed by Woosh
-Vulnerable to Crack
+Tornade ↓25％
+Tornade ↓50％
+Tornade ↓75％
+Tornade : immunisé
+Tornade : renvoie
+Tornade : soigné
+Glace : faible
 
-Crack Damage ↓25%
-Crack Damage ↓50%
-Crack Damage ↓75%
-Crackproof
-Reflects Crack
-Healed by Crack
-Vulnerable to Zap
+Glace ↓25％
+Glace ↓50％
+Glace ↓75％
+Glace : immunisé
+Glace : renvoie
+Glace : soigné
+Foudre : faible
 
-Zap Damage ↓25%
-Zap Damage ↓50%
-Zap Damage ↓75%
-Zapproof
-Reflects Zap
-Healed by Zap
-Vulnerable to Zam
+Foudre ↓25％
+Foudre ↓50％
+Foudre ↓75％
+Foudre : immunisé
+Foudre : renvoie
+Foudre : soigné
+Élec : faible
 
-Zam Damage ↓25%
-Zam Damage ↓50%
-Zam Damage ↓75%
-Zamproof
-Reflects Zam
-Healed by Zam
-Vulnerable to Fire Breath
+Élec ↓25％
+Élec ↓50％
+Élec ↓75％
+Élec : immunisé
+Élec : renvoie
+Élec : soigné
+Souffle de feu : faible
 
-Fire Breath Damage ↓25%
-Fire Breath Damage ↓50%
-Fire Breath Damage ↓75%
-Fire Breathproof
-Reflects Fire Breath
-Healed by Fire Breath
-Vulnerable to Ice Breath
+Souffle de feu ↓25％
+Souffle de feu ↓50％
+Souffle de feu ↓75％
+Souffle de feu : immunisé
+Souffle de feu : renvoie
+Souffle de feu : soigné
+Souffle glacial : faible
 
-Ice Breath Damage ↓25%
-Ice Breath Damage ↓50%
-Ice Breath Damage ↓75%
-Ice Breathproof
-Reflects Ice Breath
-Healed by Ice Breath
-Vulnerable to Whack
+Souffle glacial ↓25％
+Souffle glacial ↓50％
+Souffle glacial ↓75％
+Souffle glacial : immunisé
+Souffle glacial : renvoie
+Souffle glacial : soigné
+Kill : faible
 
-Whack Resistance ↑25%
-Whack Resistance ↑50%
-Whack Resistance ↑75%
-Whackproof
-Reflects Whack
-Whackproof
-Vulnerable to Dazzle
+Kill ↑25％
+Kill ↑50％
+Kill ↑75％
+Kill : immunisé
+Kill : renvoie
+Kill : immunisé
+Illusion : faible
 
-Dazzle Resistance ↑25%
-Dazzle Resistance ↑50%
-Dazzle Resistance ↑75%
-Dazzleproof
-Reflects Dazzle
-Dazzleproof
-Vulnerable to Poison
+Illusion ↑25％
+Illusion ↑50％
+Illusion ↑75％
+Illusion : immunisé
+Illusion : renvoie
+Illusion : immunisé
+Poison : faible
 
-Poison Resistance ↑25%
-Poison Resistance ↑50%
-Poison Resistance ↑75%
-Poisonproof
-Reflects Poison
-Poisonproof
-Vulnerable to Drain Magic
+Poison ↑25％
+Poison ↑50％
+Poison ↑75％
+Poison : immunisé
+Poison : renvoie
+Poison : immunisé
+Aspirmagie : faible
 
-Drain Magic Resistance ↑25%
-Drain Magic Resistance ↑50%
-Drain Magic Resistance ↑75%
-Drain Magicproof
-Reflects Drain Magic
-Drain Magicproof
-Vulnerable to Fizzle
+Aspirmagie ↑25％
+Aspirmagie ↑50％
+Aspirmagie ↑75％
+Aspirmagie : immunisé
+Aspirmagie : renvoie
+Aspirmagie : immunisé
+Antimagie : faible
 
-Fizzle Resistance ↑25%
-Fizzle Resistance ↑50%
-Fizzle Resistance ↑75%
-Fizzleproof
-Reflects Fizzle
-Fizzleproof
-Vulnerable to Gobstopper
+Antimagie ↑25％
+Antimagie ↑50％
+Antimagie ↑75％
+Antimagie : immunisé
+Antimagie : renvoie
+Antimagie : immunisé
+Hygiaphone : faible
 
-Gobstopper Resistance ↑25%
-Gobstopper Resistance ↑50%
-Gobstopper Resistance ↑75%
-Gobstopperproof
-Reflects Gobstopper
-Gobstopperproof
-Vulnerable to Ban Dance
+Hygiaphone ↑25％
+Hygiaphone ↑50％
+Hygiaphone ↑75％
+Hygiaphone : immunisé
+Hygiaphone : renvoie
+Hygiaphone : immunisé
+Antidanse : faible
 
-Ban Dance Resistance ↑25%
-Ban Dance Resistance ↑50%
-Ban Dance Resistance ↑75%
-Ban Danceproof
-Reflects Ban Dance
-Ban Danceproof
-Vulnerable to Confusion
+Antidanse ↑25％
+Antidanse ↑50％
+Antidanse ↑75％
+Antidanse : immunisé
+Antidanse : renvoie
+Antidanse : immunisé
+Confusion : faible
 
-Confusion Resistance ↑25%
-Confusion Resistance ↑50%
-Confusion Resistance ↑75%
-Confusionproof
-Reflects Confusion
-Confusionproof
-Vulnerable to Inaction
+Confusion ↑25％
+Confusion ↑50％
+Confusion ↑75％
+Confusion : immunisé
+Confusion : renvoie
+Confusion : immunisé
+Inaction : faible
 
-Inaction Resistance ↑25%
-Inaction Resistance ↑50%
-Inaction Resistance ↑75%
-Inactionproof
-Reflects Inaction
-Inactionproof
-Vulnerable to Paralysis
+Inaction ↑25％
+Inaction ↑50％
+Inaction ↑75％
+Inaction : immunisé
+Inaction : renvoie
+Inaction : immunisé
+Paralysie : faible
 
-Paralysis Resistance ↑25%
-Paralysis Resistance ↑50%
-Paralysis Resistance ↑75%
-Paralysisproof
-Reflects Paralysis
-Paralysisproof
-Vulnerable to Sleep
+Paralysie ↑25％
+Paralysie ↑50％
+Paralysie ↑75％
+Paralysie : immunisé
+Paralysie : renvoie
+Paralysie : immunisé
+Sommeil : faible
 
-Sleep Resistance ↑25%
-Sleep Resistance ↑50%
-Sleep Resistance ↑75%
-Sleepproof
-Reflects Sleep
-Sleepproof
-Vulnerable to Sag
+Sommeil ↑25％
+Sommeil ↑50％
+Sommeil ↑75％
+Sommeil : immunisé
+Sommeil : renvoie
+Sommeil : immunisé
+Affaiblo : faible
 
-Sag Resistance ↑25%
-Sag Resistance ↑50%
-Sag Resistance ↑75%
-Sagproof
-Reflects Sag
-Sagproof
-Vulnerable to Sap
+Affaiblo ↑25％
+Affaiblo ↑50％
+Affaiblo ↑75％
+Affaiblo : immunisé
+Affaiblo : renvoie
+Affaiblo : immunisé
+Altération : faible
 
-Sap Resistance ↑25%
-Sap Resistance ↑50%
-Sap Resistance ↑75%
-Sapproof
-Reflects Sap
-Sapproof
-Vulnerable to Decelerate
+Altération ↑25％
+Altération ↑50％
+Altération ↑75％
+Altération : immunisé
+Altération : renvoie
+Altération : immunisé
+Décéléro : faible
 
-Decelerate Resistance ↑25%
-Decelerate Resistance ↑50%
-Decelerate Resistance ↑75%
-Decelerateproof
-Reflects Decelerate
-Decelerateproof
-Vulnerable to Dim
+Décéléro ↑25％
+Décéléro ↑50％
+Décéléro ↑75％
+Décéléro : immunisé
+Décéléro : renvoie
+Décéléro : immunisé
+Simplet : faible
 
-Dim Resistance ↑25%
-Dim Resistance ↑50%
-Dim Resistance ↑75%
-Dimproof
-Reflects Dim
-Dimproof
-Vulnerable to Sizz
+Simplet ↑25％
+Simplet ↑50％
+Simplet ↑75％
+Simplet : immunisé
+Simplet : renvoie
+Simplet : immunisé
+Crame : faible
 
-Sizz Damage ↓25%
-Sizz Damage ↓50%
-Sizz Damage ↓75%
-Sizzproof
-Reflects Sizz
-Healed by Sizz
-Vulnerable to Magical Sabotage
+Crame ↓25％
+Crame ↓50％
+Crame ↓75％
+Crame : immunisé
+Crame : renvoie
+Crame : soigné
+Sabotemage : faible
 
-Magical Sabotage Resistance ↑25%
-Magical Sabotage Resistance ↑50%
-Magical Sabotage Resistance ↑75%
-Magical Sabotageproof
-Reflects Magical Sabotage
-Magical Sabotageproof
-Vulnerable to Abiliterator
+Sabotemage ↑25％
+Sabotemage ↑50％
+Sabotemage ↑75％
+Sabotemage : immunisé
+Sabotemage : renvoie
+Sabotemage : immunisé
+Raptitude : faible
 
-Abiliterator Resistance ↑25%
-Abiliterator Resistance ↑50%
-Abiliterator Resistance ↑75%
-Abiliteratorproof
-Reflects Abiliterator
-Abiliteratorproof
-Vulnerable to Blade Blunter
+Raptitude ↑25％
+Raptitude ↑50％
+Raptitude ↑75％
+Raptitude : immunisé
+Raptitude : renvoie
+Raptitude : immunisé
+Lame-en-peine : faible
 
-Blade Blunter Resistance ↑25%
-Blade Blunter Resistance ↑50%
-Blade Blunter Resistance ↑75%
-Blade Blunterproof
-Reflects Blade Blunter
-Blade Blunterproof
-Vulnerable to Donk
+Lame-en-peine ↑25％
+Lame-en-peine ↑50％
+Lame-en-peine ↑75％
+Lame-en-peine : immunisé
+Lame-en-peine : renvoie
+Lame-en-peine : immunisé
+Lest : faible
 
-Donk Damage ↓25%
-Donk Damage ↓50%
-Donk Damage ↓75%
-Donkproof
-Reflects Donk
-Donkproof
-Practically Invincible
-Attack Magicproof
+Lest ↓25％
+Lest ↓50％
+Lest ↓75％
+Lest : immunisé
+Lest : renvoie
+Lest : immunisé
+Presque invincible
+attaques magiques : immunisé
 
 
 

@@ -1,266 +1,266 @@
-Attacks a single enemy physically.
-Defender takes half damage.
-Raises tension, boosting attack strength.
+Attaque physique, un ennemi.
+Subit la moitié des dégâts.
+Augmente la tension et la puissance.
 
 
 
 
 
-Colossal{315}magic slash damage{315}to all enemies.
-Two tornadoes deal colossal damage to all.
-Extra slash to Demon,{315}Undead, Material, ???.
-Extra slash to Slime,{315}Dragon, Nature, Beast.
-Massive Fire and Ice breath{315}to all.
-Boulders deal massive damage to enemies.
-Whole party's MP for Zap damage.
+Énormes dégâts tranchants{315}magiques à tous.
+Deux tornades: dégâts colossaux à tous.
+Tranchage: Démons,{315}Morts-vivants, Matière, ???
+Tranchage: Gluants,{315}Dragons, Nature, Bêtes.
+Souffle Feu et Glace massif{315}à tous
+Rochers: dégâts massifs à tous.
+PM de tous pour dégâts Foudre.
 
-Singes one enemy with a fireball.
-Burns one enemy with a fireball.
-Incinerates one enemy with a fireball.
-Cremates one enemy with a fireball.
-Damages all enemies with a small explosion.
-Engulfs all enemies in an explosion.
-Blasts all enemies with a large explosion.
-Blasts all enemies with a huge explosion.
-Flays all enemies with a small whirlwind.
-Flays all enemies with a whirlwind.
-Flays all enemies with a mighty whirlwind.
-Flays all enemies with a fierce whirlwind.
-Pierces one enemy with icicles.
-Strikes all enemies with icicles.
-Rips all enemies with razor icicles.
-Skewers all enemies with razor icicles.
-Strikes one enemy with holy lightning.
-Strikes one enemy with hallowed lightning.
-Strikes one enemy with sacred lightning.
-Strikes one enemy with divine lightning.
-Strikes one enemy with dark lightning.
-Strikes one enemy with hellish lightning.
-Strikes one enemy with abyssal lightning.
-Strikes one enemy with stygian lightning.
-Blocks one enemy from using Selflessness.
-Deals slash damage{315}to all enemies.
-Punishes enemy field abilities;{315}else targets user.
-Drains MP four times{315}from random enemies.
-Sends one enemy to the hereafter.
-Sends all enemies to the hereafter.
-Caster dies attempting to destroy all enemies.
-Restores about 30 HP to one ally.
-Restores about 75 HP to one ally.
-Restores about 350 HP to one ally.
-Restores about 90 HP to all allies.
-Restores about 350 HP to all allies.
-Gives half caster's MP to an ally.
-Gives all caster's MP to an ally.
-Sometimes revives one ally with half HP.
-Revives one ally with half HP.
-Caster dies to revive all allies.
-Cures one ally of poison.
-Cures all allies of sleep{315}and paralysis.
-Greatly boosts one ally's attack.
-Boosts all allies' attack.
-Greatly lowers one enemy's attack.
-Lowers all enemies' attack.
-Greatly boosts one ally's defence.
-Boosts all allies' defence.
-Greatly lowers one enemy's defence.
-Lowers all enemies' defence.
-Greatly boosts one ally's agility.
-Boosts all allies' agility.
-Greatly lowers one enemy's agility.
-Lowers all enemies' agility.
-Greatly boosts one ally's wisdom.
-Boosts all allies' wisdom.
-Greatly lowers one enemy's wisdom.
-Lowers all enemies' wisdom.
-Reduces all enemies' attack accuracy.
-Puts one enemy to sleep.
-Puts all enemies to sleep.
-Steals MP from one enemy.
-Silences one enemy.
-Silences all enemies.
-Reflects spells back at the caster.
-Confuses one enemy.
-Confuses all enemies.
-Nullifies enemies attacks;{315}caster can't move.
-Protects all allies from breath attacks.
-Greatly protects one ally from breath attacks.
-Blows hot breath at all enemies.
-Blows fiery breath at all enemies.
-Blows blazing breath at all enemies.
-Blows scorching breath at all enemies.
-Blows cool breath at all enemies.
-Blows chilly breath at all enemies.
-Blows cold breath at all enemies.
-Blows freezing breath at all enemies.
-Expends all MP for massive magic damage.
-Barrier reduces enemy offensive spell power.
-Weakens all enemies' spell resistance.
-Fiery slash targeting enemy weakpoint.
-Blazing slash targeting enemy weakpoint.
-Explosive slash targeting enemy weakpoint.
-Huge explosive slash targeting enemy weakpoint.
-Tailwind slash targeting enemy weakpoint.
-Howling wind slash targeting enemy weakpoint.
-Steaming slash targeting enemy weakpoint.
-Scalding slash targeting enemy weakpoint.
-Chilling slash targeting enemy weakpoint.
-Freezing slash targeting enemy weakpoint.
-Holy slash targeting enemy weakpoint.
-Divine slash targeting enemy weakpoint.
-Dark slash targeting enemy weakpoint.
-Hellish dark slash targeting enemy weakpoint.
-Damages metal-bodied enemies reliably.
-Heavy damage to dragons.
-Heavy damage to ??? family monsters.
-Slash damage to all enemies.
-Bang slash to one enemy.
-Bang slash to all enemies.
-Smashes one enemy, lowering their defence.
-Unpredictable attack; may deal critical damage.
-May fell one enemy in one blow.
-Massive damage; attacker also takes damage.
-Damages target; may skip their turn.
-Deals damage and steals gold.
-Deals damage and steals an item.
-Poisons target while dealing damage.
-Envenomates target while dealing damage.
-Paralyses target while dealing damage.
-Puts target to sleep while dealing damage.
-Confuses target while dealing damage.
-Lowers target's attack while dealing damage.
-Lowers target's agility while dealing damage.
-Lowers target's wisdom while dealing damage.
-Seals target's breath while dealing damage.
-Seals target's dancing while dealing damage.
-Lowers target's accuracy while dealing damage.
-Hurls a rock at one enemy.
-Pierces all enemies with deadly rocks.
-Sprays water at one enemy.
-Blasts all enemies with water.
-Strikes one enemy with lightning.
-Strikes all enemies with lightning.
-Lightly burns one enemy.
-Badly chars all enemies.
-Hurls rocks at all enemies.
-Devastating flood hits all enemies.
-Devastating lightning hits all enemies.
-Massive fire engulfs all enemies.
-Counter stance; counters almost any attack.
-Greatly reduces damage taken.
-Huge damage; lowers user's defence briefly.
-Reduces target and user's HP to 1.
-Heavy damage to target and user.
-Sighs all enemies to sleep.
-Burp may paralyse all enemies.
-Toxic cloud may poison all enemies.
-Deadly haze may envenom all enemies.
-Belch may confuse all enemies.
-Dance reduces one enemy's MP.
-Dance steals MP from one enemy.
-Dance confuses all enemies.
-Dance sends all enemies to hereafter.
-Dance entices one enemy to dance.
-Revives all allies; dancer perishes.
-Dance restores about 70 HP to all allies.
-Readies one dancer for evasive moves.
-Blinds all enemies with sand.
-Glaring light blinds all enemies.
-Weakens all enemies' magic resistance.
-Removes most ailments from all allies.
-Impairs all attributes of one enemy.
-Removes most magic effects from all enemies.
-Boosts power of next breath attack.
-Lick drops one enemy's defence to 1.
-Battle cry paralyses all enemies.
-Seals dancing for all enemies.
-Seals one enemy's breath attacks.
-Storm deflects the next breath attack.
-Fog blocks nearly any single attack.
-Absorbs breath damage and reflects it.
-Restores about 400 HP to the user.
-50% chance to revive all allies.
-Healing shower revives all allies next turn.
-Prevents one enemy from landing crits.
-Restores some HP each action briefly.
-Lightning-fast strike; user always attacks first.
-Counters slash attacks{315}when enemies use them.
-Counters physical skills{315}when enemies use them.
-Reflects spells{315}when enemies use them.
-Reflects breath attacks{315}when enemies use them.
-Reflects dance attacks{315}when enemies use them.
-Allies' MP fuels{315}massive damage to all.
-Prevents from using{315}disruption abilities.
-Passes user's tension to one ally.
-Acts last but deals{315}heavy slash damage.
-User will perish while {315}taking one enemy.
-Woosh slash hits all enemy weakpoints.
-Crack slash hits all enemy weakpoints.
-Sizz slash hits all enemy weakpoints.
-Unleashes 4-12 random consecutive slashes.
+Roussit 1 ennemi, boule de feu.
+Brûle 1 ennemi, boule de feu.
+Incinère 1 ennemi, boule de feu.
+Calcine 1 ennemi, boule de feu.
+Petite explosion, tous les ennemis.
+Explosion, tous les ennemis.
+Grande explosion, tous les ennemis.
+Explosion colossale, tous les ennemis.
+Petite tornade, tous les ennemis.
+Tornade, tous les ennemis.
+Puissante tornade, tous les ennemis.
+Tornade déchaînée, tous les ennemis.
+Perce 1 ennemi de glaçons.
+Glaçons sur tous les ennemis.
+Stalactites, tous les ennemis.
+Stalactites tranchantes, tous.
+Frappe un ennemi d'un éclair béni.
+Frappe un ennemi d'un éclair saint.
+Frappe un ennemi d'un éclair sacré.
+Frappe un ennemi d'un éclair divin.
+Frappe 1 ennemi, éclair sombre.
+Frappe un ennemi d'un éclair infernal.
+Frappe un ennemi d'un éclair abyssal.
+Frappe un ennemi d'un éclair stygien.
+Bloque Remplacement sur 1 ennemi.
+Dégâts tranchants à tous.
+Tue qui altère l'espace;{315}sinon tue le lanceur.
+Vole les PM 4 fois,{315}ennemis au hasard.
+Mort possible sur 1 ennemi.
+Mort possible, tous les ennemis.
+Sacrifie le lanceur pour tuer tous.
+Rend environ 30 PV à un allié.
+Rend environ 75 PV à un allié.
+Rend environ 350 PV à un allié.
+Rend environ 90 PV, tous alliés.
+Rend 350 PV à tous les alliés.
+Donne 1/2 de ses PM à un allié.
+Donne tous ses PM à un allié.
+Ranime parfois un allié à 1/2 PV.
+Ranime un allié à 1/2 PV.
+Le lanceur meurt, ranime tous.
+Soigne 1 allié du poison.
+Soigne sommeil/paralysie du groupe.
+Monte fort l'Attaque, 1 allié.
+Monte l'Attaque alliée.
+Baisse fort l'Attaque, 1 ennemi.
+Baisse l'Attaque adverse.
+Monte fort la Défense, 1 allié.
+Monte la Défense alliée.
+Baisse fort la Défense, 1 ennemi.
+Baisse la Défense adverse.
+Monte fort l'Agilité, 1 allié.
+Monte l'Agilité alliée.
+Baisse fort l'Agilité, 1 ennemi.
+Baisse l'Agilité adverse.
+Monte fort la Sagesse, 1 allié.
+Monte la Sagesse alliée.
+Baisse fort la Sagesse, 1 ennemi.
+Baisse la Sagesse adverse.
+Réduit la précision adverse.
+Endort un ennemi.
+Endort tous les ennemis.
+Vole les PM d'un ennemi.
+Muselle un ennemi.
+Muselle les ennemis.
+Renvoie les sorts au lanceur.
+Trouble un ennemi.
+Trouble les ennemis.
+Annule les attaques,{315}fige le lanceur.
+Protège le groupe des souffles.
+Protège fort un allié des souffles.
+Souffle chaud sur les ennemis.
+Souffle ardent sur les ennemis.
+Souffle brûlant sur les ennemis.
+Souffle incandescent sur les ennemis.
+Souffle frais sur les ennemis.
+Souffle un air froid sur tous.
+Souffle un air glacé sur tous.
+Souffle un air glacial sur tous.
+Épuise tous les PM. Dégâts massifs.
+Barrière contre les sorts offensifs.
+Baisse toute résistance adverse.
+Taillade le point faible. Feu.
+Forte taillade du point faible. Feu.
+Taillade le point faible. Explosion.
+Forte taillade du point faible. Explosion.
+Taillade le point faible. Vent.
+Forte taillade du point faible. Vent.
+Taillade le point faible. Flamme.
+Forte taillade du point faible. Flamme.
+Taillade le point faible. Glace.
+Forte taillade du point faible. Glace.
+Taillade le point faible. Sacré.
+Forte taillade du point faible. Sacré.
+Taillade le point faible. Ténèbres.
+Forte taillade du point faible. Ténèbres.
+Blesse à coup sûr les monstres de métal.
+Gros dégâts aux dragons.
+Gros dégâts à la famille ???.
+Tranche tous les ennemis.
+Lame de Bang. 1 ennemi.
+Lame de Bang sur tous.
+Frappe un ennemi et baisse sa Défense.
+Attaque risquée, parfois critique.
+Tue parfois en un coup.
+Gros dégâts, mais en subit aussi.
+Blesse, peut faire perdre un tour.
+Blesse et vole de l'or.
+Blesse et vole un objet.
+Blesse et intoxique la cible.
+Blesse et empoisonne la cible.
+Blesse et paralyse la cible.
+Blesse et endort la cible.
+Blesse et sème la confusion.
+Inflige des dégâts et baisse l'attaque.
+Inflige des dégâts et baisse l'agilité.
+Inflige des dégâts et baisse la sagesse.
+Inflige des dégâts et scelle le souffle.
+Inflige des dégâts et scelle la danse.
+Inflige des dégâts et baisse la précision.
+Rocher sur 1 ennemi.
+Perce tous les ennemis de rochers.
+Jet d'eau sur 1 ennemi.
+Torrent d'eau sur tous.
+Frappe un ennemi avec la foudre.
+Foudroie tous les ennemis.
+Brûle un peu 1 ennemi.
+Grave brûlure à tous.
+Gros rochers sur tous.
+Déluge dévastateur sur tous.
+Foudre dévastatrice sur tous.
+Immense brasier sur tous.
+Contre presque toutes les attaques.
+Divise par 10 les dégâts.
+Gros dégâts mais vous encaissez plus.
+Met à 1 les PV cible et lanceur.
+Gros dégâts à cible et lanceur.
+Endort tous les ennemis.
+Peut paralyser les ennemis.
+Peut empoisonner tous les ennemis.
+Peut intoxiquer tous les ennemis.
+Peut troubler les ennemis.
+Baisse les PM d'un ennemi.
+Vole les PM d'un ennemi.
+Trouble tous les ennemis.
+Danse tuant tous les ennemis.
+Force un ennemi à danser.
+Ranime les alliés, danseur meurt.
+Rend près de 70 PV aux alliés.
+Prépare un danseur à l'esquive.
+Baisse la précision de tous.
+Éblouit et baisse la précision.
+Baisse les résistances de tous.
+Soigne la plupart des maux du groupe.
+Réduit les stats d'un ennemi.
+Dissipe les effets magiques ennemis.
+Renforce votre prochain souffle.
+Réduit la Défense d'un ennemi à 1.
+Cri qui paralyse les ennemis.
+Bloque la danse des ennemis.
+Bloque le souffle d'un ennemi.
+Renvoie le prochain souffle subi.
+Brouillard: bloque une attaque.
+Absorbe le souffle et le renvoie.
+Rend environ 400 PV au lanceur.
+50% pour ranimer le groupe.
+Soigne tout le groupe au tour suivant.
+Prive un ennemi de coups critiques.
+Régénère les PV un moment.
+Attaque éclair: frappe toujours en premier.
+Contre les attaques de type tranchage.
+Contre les aptitudes physiques ennemies.
+Renvoie les sorts ennemis.
+Renvoie les souffles ennemis.
+Renvoie les danses ennemies.
+PM du groupe:{315}gros dégâts à tous.
+Interdit la Brèche aux ennemis.
+Transfère sa tension à un allié.
+En dernier: lourds dégâts tranchants.
+Le lanceur meurt et emporte 1 ennemi.
+Tranche les points faibles: Tornade.
+Tranche les points faibles: Glace.
+Tranche les points faibles: Foudre.
+4 à 12 coups tranchants aléatoires.
 
-Dastardly dance damages in random direction.
-Weak slash that reveals enemy stats.
-
-
-
-
-
-
-Grants a second action{315}next round.
+Danse qui frappe une cible au hasard.
+Coup faible qui analyse l'ennemi.
 
 
 
 
 
 
-
-Randomly lands a critical hit on anyone.
-Shields one ally by taking their damage.
-Removes magic effects; seals magic briefly.
-Reveals one enemy's attributes.
-Seals certain abilities of one enemy.
-Readies one ally for resurrection if fallen.
-Cancels all turn actions once per battle.
-Forces one enemy to repeat their tactic.
-Seals certain slash attacks of one enemy.
-Lowest agility monsters move first.
-Breath locks all enemy tactics.
-Breath seals all enemies' slash attacks.
-Breath seals all enemies' physical skills.
-Dance deals 3 to 7 hits.
-HP and MP recovery{315}deals damage.
-Singes all enemies with fire.
-Burns all enemies with fire.
-Incinerates all enemies with fire.
-Cremates all enemies with blazing fire.
-Smites all enemies with holy light.
-Damages enemy; heals user for half.
-Deals extra damage to slimes.
-Deals extra damage to naturalists.
-Deals extra damage to beasts.
-Deals extra damage to materialists.
-Deals extra damage to demons.
-Deals extra damage to the undead.
-Four random weak strikes on enemy.
-Dark energy wave blasts all enemies.
-Cures all allies of confusion.
-Restores a little of caster's MP.
-Greatly reduces one enemy's MP.
-Vortex slashes one enemy.
-Vortex slashes all enemies.
-Vortex shreds all enemies.
-Chains turns for{315}consecutive attacks.
-Reduces one enemy's HP by 1/4.
-Reduces all enemies' HP by 1/6.
-Deals ferocious  damage to one enemy.
-Use skill
-Configure AI skill use in battle.
++1 action{315}au prochain tour.
 
 
 
-Help 1
-Help 2
+
+
+
+
+Coup critique, cible au hasard.
+Protège un allié, subit ses dégâts.
+Dissipe la magie; la scelle un temps.
+Analyse un ennemi.
+Scelle des aptitudes d'un ennemi.
+Prépare un allié à ressusciter.
+Annule les actions du tour, 1x/combat.
+Force un ennemi à répéter sa tactique.
+Scelle les taillades d'un ennemi.
+Les moins agiles agissent en 1er.
+Bloque les tactiques ennemies.
+Scelle les taillades ennemies.
+Scelle les aptitudes physiques ennemies.
+Danse: 3 à 7 coups.
+Soigner PV/PM cause des dégâts.
+Feu: roussit les ennemis.
+Feu: brûle les ennemis.
+Feu: calcine tous les ennemis.
+Brasier: incinère tous les ennemis.
+Frappe sacrée sur les ennemis.
+Blesse; rend la moitié en PV.
+Dégâts accrus aux Gluants.
+Dégâts accrus aux Naturels.
+Dégâts accrus aux Bêtes.
+Dégâts accrus aux Matières.
+Dégâts accrus aux Démons.
+Dégâts accrus aux Zombies.
+4 frappes faibles au hasard.
+Onde sombre sur tous les ennemis.
+Guérit les alliés confus.
+Rend quelques PM au lanceur.
+Ampute les PM d'un ennemi.
+Vortex taille 1 ennemi.
+Vortex taille les ennemis.
+Vortex hache les ennemis.
+Lie les tours: attaques d'affilée.
+Retire 1/4 PV d'un ennemi.
+Retire 1/6 des PV ennemis.
+Dégâts féroces à 1 ennemi.
+Aptitude
+Réglage IA des aptitudes.
+
+
+
+Aide 1
+Aide 2
 
 
 

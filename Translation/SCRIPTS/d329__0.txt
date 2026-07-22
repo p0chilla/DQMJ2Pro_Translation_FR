@@ -45,12 +45,12 @@ SPAWN 0x10 L_680
 DATA 0x00000001
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Baboorood"
-SAY "{VOICE=03}K'hee-hee-hee. How could a mere human{BREAK}challenge me?"
+SETNAME "Seigneur Hyurde"
+SAY "{VOICE=03}Kek kek kek... Je suis invincible.{BREAK}Que compte donc me faire un misérable humain？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Baboorood"
-SAY "{VOICE=03}You must be stupid to think an insect{BREAK}like you could face me."
+SETNAME "Seigneur Hyurde"
+SAY "{VOICE=03}Écraser un insecte tel que toi{BREAK}ne mérite même pas que je me lève...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x2 0x41a80000
@@ -59,8 +59,8 @@ SYS_16 0x8
 STORE 0x18 0x1 0x0 0x2 0x41a80000
 STORE 0x18 0x1 0x3f800000 0x2 0x41000000
 SYS_17 0x8 
-SETNAME "Baboorood"
-SAY "{VOICE=03}You will bow before my counter attacks,{BREAK}and submit yourself to despair!"
+SETNAME "Seigneur Hyurde"
+SAY "{VOICE=03}Prosterne-toi devant mes contres{BREAK}et goûte à un désespoir sans fin！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

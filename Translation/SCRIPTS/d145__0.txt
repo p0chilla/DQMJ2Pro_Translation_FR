@@ -97,7 +97,7 @@ STORE 0x18 0x1 0x3f800000 0x2 0x3f800000
 SYS_18 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SAY "{VOICE=07}...I-Is someone th-there!?"
+SAY "{VOICE=07}I-Il y a quelqu'un ici！?"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -139,8 +139,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x41200000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x42200000
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Hoots! It's the wee stowaway! I'm glad tae see yer still drawin' breath."
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Ça alors！ Le petit clandestin, {NAME}！{BREAK}Quel soulagement... Tu es encore en vie！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -197,20 +197,20 @@ STORE 0x18 0x1 0x40000000 0x2 0x41f00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Yer lookin' right as rain, laddie. Let's thank the Goddess for small mercies."
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Oh！ Mais c'est notre petit clandestin！ Je suis ravi de te voir encore en vie.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}There's not a soul on board the ship and yer the first survivor I've foond."
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Tu as l'air en forme, fiston. Remercions la Déesse, car c'est déjà un bon point.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Och, it's grand that we're alive, but we're still stuck in a big auld jungle."
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Il n'y a plus âme qui vive à bord et tu es le premier survivant que j'ai trouvé.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Now we jest need tae find the others."
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}C'est super d'être en vie, mais on est quand même coincés dans une jungle.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -249,8 +249,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x40c00000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41c80000
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Jings! What's happenin'!?"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Maintenant, il ne nous reste plus qu'à trouver les autres."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -424,12 +424,12 @@ STORE 0x18 0x1 0x40000000 0x2 0x41200000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x42700000
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}What could that have been? It didnae look good, whatever it was..."
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Bon sang！ Qu'est-ce qui se passe！?"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Jest what manner of place have we landed up in?"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Qu'est-ce que ça peut bien être？ Quoi que ce soit, ça ne me dit rien qui vaille...{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -460,16 +460,16 @@ STORE 0x18 0x1 0x3f800000 0x2 0x42880000
 SYS_18 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}This island's a rough place. We'll need tae work together tae stand a chance."
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Dans quel genre d'endroit on a bien pu atterrir？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Anyhoo, it doesnae look like the time tae be doin' any explorin'."
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Cette île m'a l'air inhospitalière. Il va falloir se serrer les coudes.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Let's rest up and consider our options on the morrow."
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Ce n'est pas vraiment le moment idéal pour explorer les environs.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

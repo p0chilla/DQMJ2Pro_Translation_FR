@@ -81,12 +81,12 @@ STORE 0x18 0x1 0x40000000 0x2 0x41f00000
 SYS_02 0x8 
 SYS_03 0x8 
 SYS_42 0x8 
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}There you are! Oh, darling! Don't worry, your Mumsy-Wumsy is here now!"
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Oh, te voilà！ Ma chérie！ Ne t'inquiète pas, ta maman est là, maintenant！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}Whatever possessed you to fly away like that, my angel?"
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Qu'est-ce qui t'a pris de t'enfuir comme ça, mon ange？"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

@@ -193,19 +193,19 @@ STORE 0x18 0x1 0x0 0x2 0x41a00000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SAY "{VOICE=08}Gah! Is that the pipsqueak you{BREAK}were on about, Tiko!?"
+SAY "{VOICE=08}Attends！ Celui que Tiko a ramené,{BREAK}c'est ce petit microbe！？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SPAWN 0x10 L_3fa8
 DATA 0x00000005
-SAY "{VOICE=08}Wait, SERIOUSLY? They're human!{BREAK}Kya-ha-ha! I've won this match!"
+SAY "{VOICE=08}N'importe quoi... Sérieux？ Un humain！{BREAK}Kya ha ha！ Ce duel, Kukri l'emporte！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Elder"
-SAY "{VOICE=03}Now, now, Kukri.{BREAK}Let's not get ahead of ourselves..."
+SETNAME "Ancien"
+SAY "{VOICE=03}Allons, allons, Kukri.{BREAK}Ne va pas si vite en besogne.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x2 0x41a80000
@@ -215,12 +215,12 @@ STORE 0x18 0x1 0x0 0x2 0x41a80000
 STORE 0x18 0x1 0x3f800000 0x2 0x42700000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x42700000
-SETNAME "Elder"
-SAY "{VOICE=03}You are {NAME}, no?{BREAK}I heard your story from Tiko."
+SETNAME "Ancien"
+SAY "{VOICE=03}Vous êtes {NAME}, n'est-ce pas？{BREAK}Tiko m'a tout raconté.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Elder"
-SAY "{VOICE=03}I am grateful that you have risen{BREAK}to our, the Pipit tribe's, aid."
+SETNAME "Ancien"
+SAY "{VOICE=03}Je vous remercie d'avoir répondu{BREAK}à l'appel de notre peuple Pipit.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x2 0x41b00000
@@ -229,8 +229,8 @@ SYS_16 0x8
 STORE 0x18 0x1 0x0 0x2 0x41b00000
 STORE 0x18 0x1 0x3f800000 0x2 0x42700000
 SYS_17 0x8 
-SETNAME "Elder"
-SAY "{VOICE=03}I guess you're wondering what happened{BREAK}here? Why you were chosen? I'll explain."
+SETNAME "Ancien"
+SAY "{VOICE=03}Je vais vous expliquer ce qui s'est passé{BREAK}ici, et pourquoi vous avez été appelé.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x41500000
@@ -247,28 +247,28 @@ STORE 0x18 0x1 0x0 0x2 0x41f80000
 STORE 0x18 0x1 0x3f800000 0x2 0x446d8000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Elder"
-SAY "{VOICE=03}A little while ago, a giant monkey{BREAK}monster suddenly appeared on our island."
+SETNAME "Ancien"
+SAY "{VOICE=03}Il y a peu de temps, un monstre géant{BREAK}en forme de singe a surgi sur cette île.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Elder"
-SAY "{VOICE=03}That monster threatened our peace,{BREAK}so we call them 'the uninvited guest'."
+SETNAME "Ancien"
+SAY "{VOICE=03}Ce monstre qui menace notre île,{BREAK}nous l'appelons l'hôte indésirable...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Elder"
-SAY "{VOICE=03}Soon after he landed, he tore out of {BREAK}here, and went to the islands center."
+SETNAME "Ancien"
+SAY "{VOICE=03}À peine posé ici, l'hôte indésirable{BREAK}a traîné sa masse vers le centre de l'île.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Elder"
-SAY "{VOICE=03}Our king lives there, It's our{BREAK}holy land, known as 'Blanc Palace'."
+SETNAME "Ancien"
+SAY "{VOICE=03}Au centre de l'île se dresse le sanctuaire{BREAK}où réside notre roi： le palais Blanc.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Elder"
-SAY "{VOICE=03}...it's likely our power will soon fade out..."
+SETNAME "Ancien"
+SAY "{VOICE=03}Si notre pouvoir est en train de s'éteindre,{BREAK}c'est sans doute...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Elder"
-SAY "{VOICE=03}No doubt caused by that creature{BREAK}wrecking havoc in our holy land..."
+SETNAME "Ancien"
+SAY "{VOICE=03}...parce que l'hôte indésirable répand{BREAK}le malheur sur notre sanctuaire."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -289,11 +289,11 @@ STORE 0x18 0x1 0x3f800000 0x2 0x43410000
 SYS_18 0x8 
 SYS_42 0x8 
 SETNAME "Kukri"
-SAY "{VOICE=08}If more devastation occurs, we'll{BREAK}lose our power to connect worlds."
+SAY "{VOICE=08}Si le sanctuaire continue d'être souillé,{BREAK}le pouvoir des Pipit disparaîtra...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Kukri"
-SAY "{VOICE=08}And finally, the folks on this island{BREAK}will ALL disappear!"
+SAY "{VOICE=08}Et à la toute fin, les habitants de l'île{BREAK}disparaîtront tous, touuus！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -316,12 +316,12 @@ STORE 0x18 0x1 0x0 0x0 0x41600000
 STORE 0x18 0x1 0x3f800000 0x2 0x434a0000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Elder"
-SAY "{VOICE=03}And so, before we lose the power{BREAK}to connect worlds to each other,"
+SETNAME "Ancien"
+SAY "{VOICE=03}C'est pourquoi, avant que ce pouvoir de{BREAK}relier les mondes ne se perde à jamais...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Elder"
-SAY "{VOICE=03}...our strategy was to scout warriors from{BREAK}other worlds who would lend us aid!"
+SETNAME "Ancien"
+SAY "{VOICE=03}...nous avons décidé de recruter, dans tous{BREAK}les mondes, des guerriers pour nous aider！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x41500000
@@ -341,8 +341,8 @@ STORE 0x18 0x1 0x0 0x2 0x42b60000
 STORE 0x18 0x1 0x3f800000 0x2 0x40e00000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Elder"
-SAY "{VOICE=03}Thus, you have been scouted to{BREAK}serve as one of those warriors!"
+SETNAME "Ancien"
+SAY "{VOICE=03}Voilà！ Et c'est à ce titre que vous avez{BREAK}été recruté comme l'un de ces guerriers！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x41600000
@@ -359,16 +359,16 @@ SYS_13 0x8
 STORE 0x18 0x1 0x0 0x2 0x42200000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Elder"
-SAY "{VOICE=03}By the way, our scouters are these{BREAK}two here, Tiko and Kukri."
+SETNAME "Ancien"
+SAY "{VOICE=03}...Les recruteuses désignées sont{BREAK}Tiko et Kukri, ici présentes.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Elder"
-SAY "{VOICE=03}They are having a little match{BREAK}between themselves..."
+SETNAME "Ancien"
+SAY "{VOICE=03}Et je les ai lancées toutes deux{BREAK}dans une petite compétition...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Elder"
-SAY "{VOICE=03}If the one to defeat the uninvited{BREAK}guest is the warrior they scouted,"
+SETNAME "Ancien"
+SAY "{VOICE=03}Si le guerrier que l'une a amené parvient{BREAK}à terrasser l'hôte indésirable...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x41600000
@@ -385,8 +385,8 @@ WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x41600000
 STORE 0x18 0x1 0x3f800000 0x2 0x434a0000
 SYS_18 0x8 
-SETNAME "ELder"
-SAY "{VOICE=03}Then I vowed that the victor would{BREAK}become the next elder!"
+SETNAME "Ancien"
+SAY "{VOICE=03}...alors j'ai promis de lui confier{BREAK}la charge du prochain Ancien！{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -415,8 +415,8 @@ STORE 0x18 0x1 0x0 0x2 0x42480000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Elder"
-SAY "{VOICE=03}Now, Kukri. Please introduce me to{BREAK}the warrior you've brought here."
+SETNAME "Ancien"
+SAY "{VOICE=03}Allons, Kukri. Présente-nous donc{BREAK}le guerrier que tu as ramené, toi aussi."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -429,7 +429,7 @@ SYS_17 0x8
 WAIT 0x10 0x2 0x42200000
 SYS_42 0x8 
 SETNAME "Kukri"
-SAY "{VOICE=08}Tee-hee. That's fine.{BREAK}But don't get too depressed, Tiko."
+SAY "{VOICE=08}Hihihi. Volontiers, mais...{BREAK}Tiko, ne va pas déprimer, hein.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SPAWN 0x10 L_3ccc
@@ -458,7 +458,7 @@ STORE 0x18 0x1 0x0 0x0 0x40400000
 STORE 0x18 0x1 0x3f800000 0x2 0x43410000
 SYS_18 0x8 
 SETNAME "Kukri"
-SAY "{VOICE=08}Okay, you may enter!{BREAK}Strongest swordsman in the land, Leokid!"
+SAY "{VOICE=08}Entrez donc, je vous prie！{BREAK}Sire Lionyxeau, le plus fort des épéistes！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -589,8 +589,8 @@ STORE 0x18 0x1 0x0 0x0 0x41600000
 STORE 0x18 0x1 0x3f800000 0x2 0x434a0000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Elder"
-SAY "{VOICE=03}Oh my, he does look strong!{BREAK}Well done, Kukri!"
+SETNAME "Ancien"
+SAY "{VOICE=03}Oh... En voilà un qui a l'air puissant...！{BREAK}Bien joué, Kukriii！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -614,8 +614,8 @@ STORE 0x18 0x1 0x0 0x2 0x427c0000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Leokid"
-SAY "{VOICE=07}Hmph. So you're the other one?{BREAK}You got somethin' to say to me?"
+SETNAME "Lionyxeau"
+SAY "{VOICE=07}Hmm. C'est toi, l'autre guerrier.{BREAK}T'as l'air d'avoir un truc à me dire, non？"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -658,16 +658,16 @@ STORE 0x18 0x1 0x0 0x0 0x40e00000
 STORE 0x18 0x1 0x3f800000 0x2 0x437a0000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Leokid"
-SAY "{VOICE=07}What? You know someone who looks like{BREAK}me, but they're an ADULT me!?"
+SETNAME "Lionyxeau"
+SAY "{VOICE=07}...Quoi？ Un type qui me ressemble？{BREAK}Et en plus, ce serait moi adulte！？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Leokid"
-SAY "{VOICE=07}A-ha-ha! What're you sayin'!?{BREAK}You're tryin' to pull one over on me!"
+SETNAME "Lionyxeau"
+SAY "{VOICE=07}Ahahaha！ Qu'est-ce que tu racontes！{BREAK}J'suis pas venu écouter des sornettes！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Leokid"
-SAY "{VOICE=07}I came here to test my blade as I{BREAK}was told some strong foes were here..."
+SETNAME "Lionyxeau"
+SAY "{VOICE=07}On m'a parlé d'un type balèze par ici,{BREAK}alors je suis venu me faire la main.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x41500000
@@ -688,8 +688,8 @@ STORE 0x18 0x1 0x0 0x2 0x428e0000
 STORE 0x18 0x1 0x3f800000 0x2 0x40e00000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Leokid"
-SAY "{VOICE=07}So are we done with the pleasantries?{BREAK}Now hurry up an' take me to that guy!"
+SETNAME "Lionyxeau"
+SAY "{VOICE=07}Hé！ On a assez fait les politesses, non？{BREAK}Grouille-toi de m'emmener jusqu'à lui."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -736,7 +736,7 @@ SYS_14 0x8
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
 SETNAME "Kukri"
-SAY "{VOICE=08}Ahh he's amazing!{BREAK}Please wait up, Leokid!"
+SAY "{VOICE=08}Ah！ Sire Lionyxeau,{BREAK}attendez-moiii！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -787,8 +787,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x41f00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Elder"
-SAY "{VOICE=03}Kukri's done a mighty fine job.{BREAK}They might even take this match..."
+SETNAME "Ancien"
+SAY "{VOICE=03}Cette Kukri, elle est douée, ma foi.{BREAK}Le duel est peut-être bien déjà joué."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -798,15 +798,15 @@ SYS_18 0x8
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
 SETNAME "Tiko"
-SAY "{VOICE=08}WHAT! Don't be silly, elder!{BREAK}I'm sure {NAME} will win!"
+SAY "{VOICE=08}Quoi！ Même l'Ancien se moque de moi！{BREAK}{NAME} aussi y arrivera, vous verrez！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Tiko"
-SAY "{VOICE=08}Let's go, {NAME}! Our destination is{BREAK}the holy land, and the uninvited guest!"
+SAY "{VOICE=08}En route, {NAME}！{BREAK}Cap sur le sanctuaire de l'hôte indésirable！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Tiko"
-SAY "{VOICE=08}I'll tell you how when we leave{BREAK}town! I'm not gonna lose to Kukri!"
+SAY "{VOICE=08}Une fois sortis, je t'indiquerai la route{BREAK}du sanctuaire！ Kukri ne nous battra pas！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

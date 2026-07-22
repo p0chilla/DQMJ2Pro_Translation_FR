@@ -251,14 +251,14 @@ STORE 0x18 0x1 0x0 0x2 0x41f00000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Leokid"
-SAY "{VOICE=07}You've... got to be kidding...?"
+SETNAME "Lionyxeau"
+SAY "{VOICE=07}C'est... une blague...？"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
 SETNAME "Incarnus"
-SAY "{VOICE=07}That was the strength of a monster scout."
+SAY "{VOICE=07}Voilà la force du dresseur de monstres."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -282,8 +282,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x42700000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Leokid"
-SAY "{VOICE=07}A monster scout..."
+SETNAME "Lionyxeau"
+SAY "{VOICE=07}Un dresseur de monstres..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -303,11 +303,11 @@ SYS_14 0x8
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
 SETNAME "Incarnus"
-SAY "{VOICE=07}You are by no means weak.{BREAK}Just..."
+SAY "{VOICE=07}Tu n'es pas faible, loin de là.{BREAK}Seulement...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Incarnus"
-SAY "{VOICE=07}Your power does not measure up{BREAK}to what true strength is."
+SAY "{VOICE=07}La vraie force ne se mesure pas{BREAK}à sa seule puissance personnelle."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -319,8 +319,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x42200000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x42200000
 SYS_42 0x8 
-SETNAME "Leokid"
-SAY "{VOICE=07}Are you saying you want to work{BREAK}together?"
+SETNAME "Lionyxeau"
+SAY "{VOICE=07}...Tu me demandes de faire équipe？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x40c00000
@@ -330,12 +330,12 @@ WAIT 0x10 0x2 0x41f00000
 STORE 0x18 0x1 0x0 0x0 0x40c00000
 STORE 0x18 0x1 0x3f800000 0x2 0x437a0000
 SYS_18 0x8 
-SETNAME "Leokid"
-SAY "{VOICE=07}I'm sorry.{BREAK}I'll become stronger my own way."
+SETNAME "Lionyxeau"
+SAY "{VOICE=07}...Très peu pour moi.{BREAK}J'ai grandi en force à ma façon.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Leokid"
-SAY "{VOICE=07}I just like to be by myself, you see."
+SETNAME "Lionyxeau"
+SAY "{VOICE=07}Seul, face à moi-même,{BREAK}j'ai forgé mon talent.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x41700000
@@ -376,8 +376,8 @@ STORE 0x18 0x0 0x40a00000 0x2 0x3f800000
 STORE 0x18 0x1 0x0 0x0 0x40c00000
 STORE 0x18 0x1 0x3f800000 0x2 0x43780000
 SYS_18 0x8 
-SETNAME "Leokid"
-SAY "{VOICE=07}I've no intention of changing now.{BREAK}I will go alone."
+SETNAME "Lionyxeau"
+SAY "{VOICE=07}Pas question de changer maintenant.{BREAK}...Je continue seul."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -402,7 +402,7 @@ SYS_18 0x8
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
 SETNAME "Kukri"
-SAY "{VOICE=08}WHAT!? Ahh, wait up!{BREAK}Isn't that good? Teaming up that is!"
+SAY "{VOICE=08}Hein！？ Ah, attendez！{BREAK}C'est une bonne idée, faisons équipe！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -570,7 +570,7 @@ SYS_18 0x8
 WAIT 0x10 0x2 0x41700000
 SYS_42 0x8 
 SETNAME "Tiko"
-SAY "{VOICE=08}My, my. That Leokid.{BREAK}He's got a lot of growing up to do."
+SAY "{VOICE=08}Pfff. Ce Lionyxeau, franchement...{BREAK}Il finira mal, ce gamin.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -599,18 +599,18 @@ DATA 0x0000000c
 WAIT 0x10 0x2 0x42a00000
 SYS_42 0x8 
 SETNAME "Tiko"
-SAY "{VOICE=08}{NAME}. We finally made it.{BREAK}This is our holy land, Blanc Palace."
+SAY "{VOICE=08}{NAME}... On y est enfin.{BREAK}Voici notre sanctuaire, le palais Blanc."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
 SETNAME "Incarnus"
-SAY "{VOICE=07}When we defeat him, I will return to the{BREAK}world where my friend awaits, satisfied."
+SAY "{VOICE=07}Le Seigneur Hyurde vaincu, je pourrai enfin{BREAK}regagner le monde où m'attend mon ami...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Incarnus"
-SAY "{VOICE=07}Now, let's go, {NAME}."
+SAY "{VOICE=07}Allons, {NAME}. En route."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

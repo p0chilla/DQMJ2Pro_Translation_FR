@@ -46,16 +46,16 @@ STORE 0x18 0x1 0x40000000 0x2 0x42200000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x42200000
 SYS_42 0x8 
-SETNAME "Leonyx"
-SAY "{VOICE=07}Ah, {NAME}. So you have come."
+SETNAME "Lionyx"
+SAY "{VOICE=07}Ah, {NAME}. Alors tu es venu.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Leonyx"
-SAY "{VOICE=07}As I promised, now is the time to gift you my power."
+SETNAME "Lionyx"
+SAY "{VOICE=07}Comme je te l'avais promis, il est temps que je t'offre ma puissance.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Leonyx"
-SAY "{VOICE=07}Hold out your arm!"
+SETNAME "Lionyx"
+SAY "{VOICE=07}Tends-moi ton bras！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -147,7 +147,7 @@ STORE 0x18 0x1 0x40000000 0x2 0x41200000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SAY "{COLOR=2}{E321}{NAME}'s scout ring has been enhanced!"
+SAY "{COLOR=2}L'anneau de dresseur de {NAME} a évolué！"
 WAIT 0x10 0x2 0x3f800000
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
@@ -170,16 +170,16 @@ SYS_02 0x8
 SYS_03 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Leonyx"
-SAY "{VOICE=07}From this day forth, you will be able to scout giant monsters!"
+SETNAME "Lionyx"
+SAY "{VOICE=07}À partir d'aujourd'hui, tu seras en mesure de dresser des monstres géants！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Leonyx"
-SAY "{VOICE=07}Be they wormongers or missing lynxes...{WAIT}{CLEAR}...you can now use the Scout command to try to add them to your team."
+SETNAME "Lionyx"
+SAY "{VOICE=07}Qu'il s'agisse de vercules ou d'ailéopards...{PAGE}{WAIT}{CLEAR}... tu peux utiliser la commande Dresser pour essayer de les ajouter à ton équipe.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Leonyx"
-SAY "{VOICE=07}When - and only when - you have sufficiently honed your skills..."
+SETNAME "Lionyx"
+SAY "{VOICE=07}Si... et seulement si... tu as suffisamment aiguisé tes talents...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x2 0x41f80000
@@ -189,12 +189,12 @@ STORE 0x18 0x1 0x0 0x2 0x41f80000
 STORE 0x18 0x1 0x3f800000 0x2 0x41700000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41a00000
-SETNAME "Leonyx"
-SAY "{VOICE=07}...you will be able to take me on and let me witness your strength."
+SETNAME "Lionyx"
+SAY "{VOICE=07}... tu seras en mesure de m'affronter pour que je puisse tester ta force.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Leonyx"
-SAY "{VOICE=07}Now that I have returned to my true form, my power is even more formidable.{WAIT}{CLEAR}So you must train and train, and then train some more!"
+SETNAME "Lionyx"
+SAY "{VOICE=07}J'ai retrouvé ma forme d'origine et ma puissance est encore plus phénoménale.{PAGE}{WAIT}{CLEAR}Alors tu dois t'entraîner et t'entraîner encore！{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -213,16 +213,16 @@ STORE 0x18 0x1 0x0 0x2 0x42480000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Leonyx"
-SAY "{VOICE=07}My revival has brought about all manner of changes on this island."
+SETNAME "Lionyx"
+SAY "{VOICE=07}Mon retour à la vie a induit toutes sortes de changements sur cette île.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Leonyx"
-SAY "{VOICE=07}As part of your training, I heartily recommend you take a tour of the island."
+SETNAME "Lionyx"
+SAY "{VOICE=07}En guise d'entraînement, je te conseille vivement de faire un tour sur l'île.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Leonyx"
-SAY "{VOICE=07}I eagerly await the day you face me as an even more powerful scout!"
+SETNAME "Lionyx"
+SAY "{VOICE=07}J'ai hâte de t'affronter quand tu seras devenu encore plus puissant！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

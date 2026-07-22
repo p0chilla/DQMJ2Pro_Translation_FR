@@ -108,8 +108,8 @@ STORE 0x18 0x1 0x0 0x0 0x0
 STORE 0x18 0x1 0x3f800000 0x2 0x42700000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}I never dreamt it'd be you who rode to the rescue! Rookie, I'm proud of you!"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Dire que c'est toi qui voles à mon secours！ Je suis fier de toi, le bleu！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x2 0x41f80000
@@ -117,12 +117,12 @@ SYS_13 0x8
 STORE 0x18 0x1 0x0 0x2 0x41f80000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41f00000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Lemme take a look at you... Dang, Rookie! You look like a whole new man."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Laisse-moi te regarder... Mince alors！{BREAK}Tu as l'air d'être un autre homme！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}I can tell you've seen some serious frontline action."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}On dirait un vrai dresseur de monstres{BREAK}pro！ Je ne t'arrive pas à la cheville！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x41a00000
@@ -155,8 +155,8 @@ STORE 0x18 0x1 0x0 0x2 0x41300000
 STORE 0x18 0x1 0x3f800000 0x2 0x41200000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x40a00000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}But what about my other passengers? Who's missin' in action? Who's AWOL?{WAIT}{CLEAR}I need a full situation report, stat!"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Et les autres passagers？ Qui a disparu？ Qui manque à l'appel？{PAGE}{WAIT}{CLEAR}Je veux un rapport complet de la situation sur-le-champ！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -175,20 +175,20 @@ STORE 0x18 0x1 0x40000000 0x2 0x41200000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x42200000
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}...That's good to hear. So besides us and Melonie, everyone's back at base."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}... Voilà qui me rassure. Donc à part nous et Bétanie, tout le monde est à la base.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}When the Albatross took a dive,{BREAK}I ended up in the drink.{WAIT}{CLEAR}It was all I could do to swim to the coast."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Quand l'Albatros a fait le grand plongeon, j'ai fini à la baille.{PAGE}{WAIT}{CLEAR}Il ne me restait plus qu'à regagner la rive à la nage.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}I found myself wanderin' deep in hostile territory, my coordinates unknown..."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Je me suis retrouvé en territoire hostile, sans connaître ma position...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Then I heard Melonie scream, and I knew what my mission was - to protect her."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Puis j'ai entendu Bétanie crier et là, j'ai su que ma mission était de la protéger."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -205,8 +205,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x42680000
 SYS_18 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}But I gotta say I'm impressed, Rookie.{BREAK}You did well to find this place."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Mais je dois dire que je suis impressionné que tu aies trouvé cet endroit, le bleu."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -230,20 +230,20 @@ STORE 0x18 0x1 0x0 0x0 0x0
 STORE 0x18 0x1 0x3f800000 0x2 0x42700000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}...Huh!? I'm not sure I'm readin' you correctly.{WAIT}{CLEAR}...A Monster Scout Challenge run by moles!?{WAIT}{CLEAR}...A giant bird at the top of these cliffs!?"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}... Hein！? Je ne suis pas sûr de bien comprendre.{PAGE}{WAIT}{CLEAR}... Un Championnat des Dresseurs organisé par des taupes！?{PAGE}{WAIT}{CLEAR}... Un oiseau géant au sommet de ces falaises！?{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}I'm findin' this a little hard to follow, Rookie."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}J'ai un peu de mal à te suivre, le bleu.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}So to cut a long story short, you're here to meet some bigshot bird, right?"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Dire que c'est toi qui voles à mon secours！ Je suis fier de toi, le bleu！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41f00000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}...What the!?"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Laisse-moi te regarder... Mince alors！ Tu as l'air d'être un autre homme！{PAGE}{WAIT}{CLEAR}Tu as dû livrer de sacrés combats.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -283,14 +283,14 @@ STORE 0x18 0x1 0x0 0x2 0x0
 SYS_8C 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}You're still alive!?"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Et les autres passagers？ Qui a disparu？ Qui manque à l'appel？{PAGE}{WAIT}{CLEAR}Je veux un rapport complet de la situation sur-le-champ！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Jamirus"
-SAY "{VOICE=07}So you've come in search of that giant bird..."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}... Voilà qui me rassure. Donc à part nous et Bétanie, tout le monde est à la base.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -334,8 +334,8 @@ STORE 0x18 0x1 0x40400000 0x2 0x0
 SYS_1E 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Jamirus"
-SAY "{VOICE=07}Well, best of luck to you... Har har har!"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Quand l'Albatros a fait le grand plongeon, j'ai fini à la baille.{PAGE}{WAIT}{CLEAR}Il ne me restait plus qu'à regagner la rive à la nage.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -426,16 +426,16 @@ STORE 0x18 0x1 0x3f800000 0x2 0x42680000
 SYS_18 0x8 
 STORE 0x18 0x0 0x40a00000 0x2 0x3f800000
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Hold it! Just what d'you mean by that!?"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Je me suis retrouvé en territoire hostile, sans connaître ma position...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x40400000
 STORE 0x18 0x1 0x3f800000 0x2 0x42c80000
 SYS_1F 0x8 
 WAIT 0x10 0x2 0x41a00000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Dagnabit! He got away..."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Puis j'ai entendu Bétanie crier et là, j'ai su que ma mission était de la protéger."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -481,8 +481,8 @@ SYS_18 0x8
 STORE 0x18 0x0 0x3f800000 0x2 0x3f800000
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Why you lookin' at me like that, Rookie? Have I got crumbs in my beard again?"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Mais je dois dire que je suis impressionné que tu aies trouvé cet endroit, le bleu."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -501,8 +501,8 @@ STORE 0x18 0x1 0x0 0x2 0x42200000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}You say you saw my GHOST!?"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}... Hein！? Je ne suis pas sûr de bien comprendre.{PAGE}{WAIT}{CLEAR}... Un Championnat des Dresseurs organisé par des taupes！?{PAGE}{WAIT}{CLEAR}... Un oiseau géant au sommet de ces falaises！?{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x0
@@ -512,8 +512,8 @@ WAIT 0x10 0x2 0x422c0000
 STORE 0x18 0x1 0x0 0x0 0x0
 STORE 0x18 0x1 0x3f800000 0x2 0x42700000
 SYS_18 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Hah! You've got your wires crossed. Captain Rex Mayday is alive and kickin'!"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}J'ai un peu de mal à te suivre, le bleu.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -543,16 +543,16 @@ STORE 0x18 0x1 0x40000000 0x2 0x41200000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Now let's stow the ghost stories and work on trackin' down Melonie."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Alors pour résumer, tu es venu ici pour trouver un oiseau important, c'est ça？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}We may've chased that birdbrain away, and I know she can handle herself, but..."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}... Qu'est-ce que...!?"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}...Captain Rex Mayday never leaves one of his troops behind on the battlefield!{WAIT}{CLEAR}We need to find her ASAP!"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Tu es toujours vivant！?"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x0
@@ -562,8 +562,8 @@ WAIT 0x10 0x2 0x422c0000
 STORE 0x18 0x1 0x0 0x0 0x0
 STORE 0x18 0x1 0x3f800000 0x2 0x42700000
 SYS_18 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}But this is uncharted territory. Who knows what dangers are waitin' to ambush us?"
+SETNAME "Jamirus"
+SAY "{VOICE=07}Ah, je vois. Donc vous êtes à la recherche de cet oiseau géant..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

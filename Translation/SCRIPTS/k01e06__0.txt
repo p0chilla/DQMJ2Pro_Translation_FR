@@ -723,19 +723,19 @@ SYS_55 0x8
 SYS_42 0x8 
 CMP_EQ 0x18 0x0 0x423c0000 0x2 0x43360000
 JMP_IFNOT 0xc L_26d8
-SAY "{COLOR=2}{NAME} obtains the Minus sceptre!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}le sceptre {COLOR=0}{232}{COLOR=2}！"
 JMP_ABS 0xc L_2770
 L_26d8:
 CMP_EQ 0x18 0x0 0x423c0000 0x2 0x43350000
 JMP_IFNOT 0xc L_2730
-SAY "{COLOR=2}{NAME} obtains the Plus sceptre!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}le sceptre {COLOR=0}{231}{COLOR=2}！"
 JMP_ABS 0xc L_2770
 L_2730:
 JMP_REL L_2738
 L_2738:
 JMP_ABS 0xc L_2744
 L_2744:
-SAY "{COLOR=2}{NAME} obtains {E328}!"
+SAY "{COLOR=2}{E321}{NAME} obtient {E328}！"
 JMP_ABS 0xc L_2770
 L_2770:
 WAIT 0x10 0x2 0x42340000
@@ -747,7 +747,7 @@ JMP_IFNOT 0xc L_2c5c
 SYS_42 0x8 
 CMP_EQ 0x18 0x0 0x42400000 0x2 0x40400000
 JMP_IFNOT 0xc L_293c
-SAY "{COLOR=2}The mysterious ore is actually a monster in disguise!"
+SAY "{COLOR=2}Le minerai mystère est en fait un monstre qui en avait pris l'apparence！"
 WAIT 0x10 0x2 0x42340000
 SYS_43 0x8 
 STORE 0x18 0x1 0x0 0x2 0x3f800000
@@ -766,7 +766,7 @@ JMP_ABS 0xc L_2c50
 L_293c:
 CMP_EQ 0x18 0x0 0x42400000 0x2 0x40800000
 JMP_IFNOT 0xc L_2c50
-SAY "{COLOR=2}The bag is actually a monster in disguise!"
+SAY "{COLOR=2}Le sac est en fait un monstre déguisé！"
 WAIT 0x10 0x2 0x42340000
 SYS_43 0x8 
 STORE 0x18 0x1 0x0 0x2 0x42c80000
@@ -822,19 +822,19 @@ SYS_55 0x8
 SYS_42 0x8 
 CMP_EQ 0x18 0x0 0x423c0000 0x2 0x43360000
 JMP_IFNOT 0xc L_2d58
-SAY "{COLOR=2}{NAME} obtains the Minus sceptre!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}le sceptre {COLOR=0}{232}{COLOR=2}！"
 JMP_ABS 0xc L_2df0
 L_2d58:
 CMP_EQ 0x18 0x0 0x423c0000 0x2 0x43350000
 JMP_IFNOT 0xc L_2db0
-SAY "{COLOR=2}{NAME} obtains the Plus sceptre!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}le sceptre {COLOR=0}{231}{COLOR=2}！"
 JMP_ABS 0xc L_2df0
 L_2db0:
 JMP_REL L_2db8
 L_2db8:
 JMP_ABS 0xc L_2dc4
 L_2dc4:
-SAY "{COLOR=2}{NAME} obtains {E328}!"
+SAY "{COLOR=2}{E321}{NAME} obtient {E328}！"
 JMP_ABS 0xc L_2df0
 L_2df0:
 WAIT 0x10 0x2 0x42340000
@@ -1206,7 +1206,7 @@ STORE 0x18 0x1 0x3f800000 0x2 0x3f19999a
 SYS_54 0x8 
 WAIT 0x10 0x2 0x42480000
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME}'s team is healed."
+SAY "{COLOR=2}{E321}{NAME} obtient {E328}！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1217,7 +1217,7 @@ L_44b0:
 JMP_ABS 0xc L_44bc
 L_44bc:
 SYS_42 0x8 
-SAY "{COLOR=2}There's no response. {NAME} cannot use this...for now."
+SAY "{COLOR=2}Le minerai mystère est en fait un monstre qui en avait pris l'apparence！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1328,10 +1328,10 @@ STORE 0x18 0x0 0x426c0000 0x1 0x0
 CMP_EQ 0x18 0x0 0x426c0000 0x2 0x0
 JMP_IFNOT 0xc L_4c7c
 SYS_42 0x8 
-SAY "{COLOR=2}Curiosity killed the cat, but not the monster scout!{WAIT}{CLEAR}Examine these curious stones to learn new abilities and commands."
+SAY "{COLOR=2}Le sac est en fait un monstre déguisé！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}These Scout's Stones appear on the map as blue icons."
+SAY "{COLOR=2}Toute l'équipe est guérie."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1361,13 +1361,13 @@ SYS_A4 0x8
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41400000
 JMP_IFNOT 0xc L_4fb4
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} learns Zoom!"
+SAY "{COLOR=2}Pas de réaction.{PAGE}{WAIT}{CLEAR}{E321}{NAME} ne peut pas utiliser ceci... pour l'instant."
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This ability enables {NAME} to teleport to previously visited regions!"
+SAY "{COLOR=2}La curiosité est un vilain défaut, mais pas pour un dresseur de monstres！{PAGE}{WAIT}{CLEAR}Examinez ces étranges pierres pour apprendre de nouvelles choses.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}Apart from a few special locations, it can be used anywhere, including caves!"
+SAY "{COLOR=2}Ces Pierres du dresseur sont représentées par des icônes bleues sur la carte."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1384,10 +1384,10 @@ L_4fb4:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41700000
 JMP_IFNOT 0xc L_50ec
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} learns Vanish!"
+SAY "{COLOR=2}{E321}{NAME} apprend l'aptitude Invisibilité！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This ability enables {NAME} to slink past enemy monsters undetected."
+SAY "{COLOR=2}Cette aptitude permet de passer près des ennemis sans se faire repérer."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1401,10 +1401,10 @@ L_50ec:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x40c00000
 JMP_IFNOT 0xc L_52a0
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} can now use Heal All!"
+SAY "{COLOR=2}{E321}{NAME} peut désormais utiliser le sort Soigner tous！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This spell lets {NAME} restore the health of his entire team!"
+SAY "{COLOR=2}Ce sort de guérison lui permet de restaurer tous les PV de son équipe！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1424,10 +1424,10 @@ L_52a0:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41600000
 JMP_IFNOT 0xc L_53dc
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} learns Nose for Treasure!"
+SAY "{COLOR=2}{E321}{NAME} apprend l'aptitude Détectrésor！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This ability lets {NAME} find out how many items are hidden nearby."
+SAY "{COLOR=2}Cette aptitude permet de savoir combien d'objets sont cachés alentour."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1441,16 +1441,16 @@ L_53dc:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41500000
 JMP_IFNOT 0xc L_5618
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} learns Zip!"
+SAY "{COLOR=2}{E321}{NAME} apprend l'aptitude Téléportaïaut！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This ability lets {NAME} Zip to the local Zip Portal, quick as a flash!"
+SAY "{COLOR=2}Elle permet d'aller au téléportail le plus proche en un clin d'œil！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}Of course, the portal must already be open for this to work."
+SAY "{COLOR=2}Bien sûr, le portail doit être déjà ouvert pour que l'opération fonctionne.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}So if {NAME} finds a new portal, he should examine it right away."
+SAY "{COLOR=2}Si vous apercevez un téléportail,{BREAK}examinez-le donc sans attendre."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1468,13 +1468,13 @@ L_5618:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41200000
 JMP_IFNOT 0xc L_589c
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} obtains the Monster Mender!"
+SAY "{COLOR=2}{NAME} obtient le Monstrequinque！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}Use this bottle to restore the HP and MP of {NAME}'s entire team."
+SAY "{COLOR=2}Utilisez ce flacon pour restaurer les PV et les PM de toute l'équipe.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}Good for three doses per outing. Once it runs out, head to the airship for a refill!"
+SAY "{COLOR=2}Contient trois doses.{PAGE}{WAIT}{CLEAR}Une fois qu'il est vide, retournez au vaisseau pour le remplir！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1502,7 +1502,7 @@ L_58a4:
 JMP_ABS 0xc L_58b0
 L_58b0:
 SYS_42 0x8 
-SAY "debug message MENU ERRORE"
+SAY "debug message MENU ERRORE{PAGE}6"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -3433,10 +3433,10 @@ WAIT 0x10 0x2 0x41a00000
 STORE 0x18 0x1 0x0 0x2 0x423c0000
 SYS_49 0x8 
 SYS_42 0x8 
-SAY "{COLOR=2}The cover on the ventilation duct is open."
+SAY "{COLOR=2}La grille du conduit d'aération est ouverte.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}How about it? Want to climb in?{VOICE=09}"
+SAY "{COLOR=2}Vous faufiler à l'intérieur？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_7A 0x8 
@@ -3451,11 +3451,11 @@ JMP_IFNOT 0xc L_d3e0
 CMP_EQ 0x18 0x0 0x42a60000 0x2 0x41500000
 JMP_IFNOT 0xc L_d3d4
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}What're ye playin' at, ye daft loon?{BREAK}Are ye tryin' tae get yerself killed?"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}À quoi tu joues, espèce d'idiot？ Tu veux te tuer？{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Och, youngsters these days dinnae have the sense they were born with."
+SAY "{VOICE=07}Ah, les jeunes d'aujourd'hui n'ont plus toute leur tête."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -3543,7 +3543,7 @@ STORE 0x18 0x1 0x3f800000 0x2 0x3ecccccd
 SYS_54 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SAY "{COLOR=2}Looks like someone's in here.{BREAK}It might be best to head back up."
+SAY "{COLOR=2}On dirait qu'il y a quelqu'un. Il vaudrait mieux remonter pour l'instant."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -3845,22 +3845,22 @@ STORE 0x18 0x0 0x42c40000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42c40000 0x2 0x0
 JMP_IFNOT 0xc L_f080
 SYS_42 0x8 
-SAY "{COLOR=2}{E321}{NAME} introduces himself and explains what he is doing on board."
+SAY "{COLOR=2}{E321}{NAME} se présente et explique ce qu'il fait à bord du vaisseau."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
 SYS_42 0x8 
-SAY "{VOICE=07}Och, so it's ye, is it? The rotten laddie who stowed his wee self aboord ma ship."
+SAY "{VOICE=07}Oh, alors c'est toi le sale gamin qui s'est planqué dans mon vaisseau？{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Well, Rory Bellows is ma name.{WAIT}{CLEAR}I'm chief engineer on this fine vessel,{BREAK}and dinnae ye forget it."
+SAY "{VOICE=07}Moi, c'est Bob Lattirail.{PAGE}{WAIT}{CLEAR}Je suis le chef mécanicien de ce petit bijou. Je te conseille de t'en souvenir.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Cap'n Rex may be a big softie, but ye cannae pull the wool over ma eyes."
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Le capitaine a peut-être bon cœur, mais moi, on ne me roule pas dans la farine.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}There'll be no free rides aboord the Albatross. Ye'll pay yer passage!"
+SAY "{VOICE=07}On ne voyage pas gratuitement à bord de l'Albatros. Il va falloir payer la balade！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -3912,11 +3912,11 @@ L_f088:
 JMP_ABS 0xc L_f094
 L_f094:
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Cap'n Rex may be a big softie, but ye cannae pull the wool over ma eyes."
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Le capitaine a peut-être bon cœur, mais moi, on ne me roule pas dans la farine.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}There'll be no free rides aboord the Albatross. Ye'll pay yer passage!"
+SAY "{VOICE=07}On ne voyage pas gratuitement à bord de l'Albatros. Il va falloir payer la balade！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -3927,11 +3927,11 @@ L_f184:
 CMP_EQ 0x18 0x0 0x42a60000 0x2 0x41200000
 JMP_IFNOT 0xc L_f28c
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Cap'n Rex may be a big softie, but ye cannae pull the wool over ma eyes."
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Le capitaine a peut-être bon cœur, mais moi, on ne me roule pas dans la farine.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}There'll be no free rides aboord the Albatross. Ye'll pay yer passage!"
+SAY "{VOICE=07}On ne voyage pas gratuitement à bord de l'Albatros. Il va falloir payer la balade！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -3942,11 +3942,11 @@ JMP_IFNOT 0xc L_fb18
 STORE 0x18 0x1 0x0 0x2 0x42b40000
 SYS_23 0x8 
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Och, what're ye doin' doon here? Have ye come tae check on ma engines, laddie?"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Oh, qu'est-ce que tu fais là？ Tu es venu vérifier les moteurs, fiston？{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Well, go straight back up that ladder and start worryin' aboot yer own business!"
+SAY "{VOICE=07}Eh bien, remonte par cette échelle et va t'occuper de tes affaires！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -3999,8 +3999,8 @@ STORE 0x18 0x1 0x40800000 0x2 0x0
 STORE 0x18 0x1 0x40a00000 0x2 0x0
 SYS_51 0x8 
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}...Crivvens!"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}... Nom d'un chien！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4022,8 +4022,8 @@ STORE 0x18 0x1 0x0 0x2 0x40400000
 SYS_2B 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}This doesnae look good... No, it doesnae look good at all!"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}C'est mauvais signe... Oui, très mauvais signe！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4036,11 +4036,11 @@ STORE 0x18 0x1 0x40000000 0x2 0x3f800000
 SYS_3B 0x8 
 WAIT 0x10 0x2 0x41700000
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Get tae the bridge and tell the Cap'n what's happenin', do ye hear?"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Va dans la cabine de pilotage et explique ce qui se passe au capitaine, compris？{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}That impact damaged ma engines - and we may be headin' for a crash landin'!"
+SAY "{VOICE=07}Le choc a endommagé les moteurs... il va falloir faire un atterrissage forcé！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4055,11 +4055,11 @@ L_fb18:
 CMP_EQ 0x18 0x0 0x42a60000 0x2 0x41500000
 JMP_IFNOT 0xc L_fc30
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Och, laddie. what're ye still haiverin' aroond here for? Report tae the Cap'n!"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Oh, qu'est-ce que tu fiches encore ici？ Va faire ton rapport au capitaine！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}That impact damaged ma engines - and we may be headin' for a crash landin'!"
+SAY "{VOICE=07}Le choc a endommagé les moteurs... il va falloir faire un atterrissage forcé！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4077,17 +4077,17 @@ STORE 0x18 0x0 0x42c40000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42c40000 0x2 0x0
 JMP_IFNOT 0xc L_fe90
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Ach, if it isnae ma favourite stowaway. What're ye doin' doon here?"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Tiens, {NAME}.{BREAK}Qu'est-ce qui t'amène par ici？{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Ye don't say! A wee mousie was spotted, and ye've been sent to hunt it doon?"
+SAY "{VOICE=07}Ne dis rien！ Une souris a été repérée et on t'a envoyé la chasser？{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Well, soonds like a mighty important job ye've been given there, laddie."
+SAY "{VOICE=07}Eh bien, c'est une sacrée mission qu'on t'a confiée là, fiston.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}But you willnae find any rodents in ma engine room.{WAIT}{CLEAR}Why don't ye scamper up the ladder and search the cargo hold? "
+SAY "{VOICE=07}Mais tu ne trouveras aucun rongeur dans ma salle des machines.{PAGE}{WAIT}{CLEAR}Et si tu montais voir dans la soute？"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4101,8 +4101,8 @@ L_fe98:
 JMP_ABS 0xc L_fea4
 L_fea4:
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Ma engine room's officially a mousie-free zone! Try the cargo hold, why don't ye?"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Ma salle des machines est interdite aux souris！ Essaie peut-être la soute？"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4189,7 +4189,7 @@ STORE 0x18 0x1 0x0 0x2 0x42480000
 SYS_49 0x8 
 WAIT 0x10 0x2 0x42340000
 SYS_42 0x8 
-SAY "{COLOR=2}It's covered in dials and gauges.{BREAK}It appears to be the ship's engine."
+SAY "{COLOR=2}Il y a plein de cadrans et de jauges. C'est le moteur du vaisseau."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4339,7 +4339,7 @@ JMP_IFNOT 0xc L_10ce8
 CMP_LE 0x18 0x0 0x42e80000 0x2 0x40e00000
 JMP_IFNOT 0xc L_109ec
 SYS_42 0x8 
-SAY "{COLOR=2}It's securely locked. It appears to belong to a member of the crew."
+SAY "{COLOR=2}C'est bien fermé. Ça doit appartenir à un membre de l'équipage."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4361,7 +4361,7 @@ L_10a88:
 CMP_EQ 0x18 0x0 0x42e40000 0x2 0x3f800000
 JMP_IFNOT 0xc L_10b18
 SYS_42 0x8 
-SAY "{COLOR=2}It seems to be Rory Bellows' trunk. It's securely locked."
+SAY "{COLOR=2}Il semble s'agir de la malle de Bob Lattirail. Elle est bien fermée."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4372,7 +4372,7 @@ L_10b20:
 JMP_ABS 0xc L_10b2c
 L_10b2c:
 SYS_42 0x8 
-SAY "{COLOR=2}It's securely locked. It appears to belong to a member of the crew."
+SAY "{COLOR=2}C'est bien fermé. Ça doit appartenir à un membre de l'équipage."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4394,7 +4394,7 @@ CMP_LE 0x18 0x2 0x41400000 0x0 0x42e80000
 JMP_IFNOT 0xc L_10cdc
 L_10c40:
 SYS_42 0x8 
-SAY "{COLOR=2}It seems to be Rory Bellows' trunk. It's securely locked."
+SAY "{COLOR=2}Il semble s'agir de la malle de Bob Lattirail. Elle est bien fermée."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4410,7 +4410,7 @@ L_10cf0:
 JMP_ABS 0xc L_10cfc
 L_10cfc:
 SYS_42 0x8 
-SAY "{COLOR=2}It seems to be Rory Bellows' trunk. It's securely locked."
+SAY "{COLOR=2}Il semble s'agir de la malle de Bob Lattirail. Elle est bien fermée."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4437,7 +4437,7 @@ STORE 0x18 0x1 0x0 0x2 0x423c0000
 SYS_49 0x8 
 WAIT 0x10 0x2 0x41600000
 SYS_42 0x8 
-SAY "{COLOR=2}It looks like this is Rory Bellows' trunk. It's unlocked."
+SAY "{COLOR=2}Il semble s'agir de la malle de Bob Lattirail. Elle n'est pas fermée à clef."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4459,7 +4459,7 @@ SYS_73 0x8
 STORE 0x18 0x1 0x0 0x0 0x42dc0000
 SYS_55 0x8 
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} obtains {E328}!"
+SAY "{COLOR=2}{E321}{NAME} obtient {E328}！"
 WAIT 0x10 0x2 0x42340000
 SYS_43 0x8 
 STORE 0x18 0x1 0x0 0x2 0x3f800000

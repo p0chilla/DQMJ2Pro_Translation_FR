@@ -83,8 +83,8 @@ STORE 0x18 0x1 0x0 0x0 0x40800000
 STORE 0x18 0x1 0x3f800000 0x2 0x42d00000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}My darling pugsie-wugsie! What are you doing in a place like this?"
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Mon petit amour！ Que fais-tu dans un endroit pareil？{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -173,8 +173,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x41f00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x42480000
 SYS_42 0x8 
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}I was simply frantic with worry. I shan't let you out of my sight again!"
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}J'étais morte d'inquiétude. Je ne te quitterai plus des yeux！{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -231,8 +231,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x41200000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}I say! It's {NAME}! It seems you've proved useful once again."
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Ah, {NAME}！ Il semblerait que vous ayez encore su vous rendre utile.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -289,8 +289,8 @@ STORE 0x18 0x1 0x0 0x0 0x40800000
 STORE 0x18 0x1 0x3f800000 0x2 0x42d40000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}Here, take this. It's just a bauble,{BREAK}but I'm sure it will thrill you..."
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Tenez. Ce n'est qu'une babiole, mais je suis sûre que ça vous fera très plaisir..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -299,7 +299,7 @@ SYS_33 0x8
 SYS_42 0x8 
 STORE 0x18 0x1 0x0 0x2 0x41c00000
 SYS_55 0x8 
-SAY "{COLOR=2}{NAME} obtains {E328}!"
+SAY "{COLOR=2}{NAME} obtient {E328}！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -333,8 +333,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x41a00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}Now then, dear Countess. Let's return to that wretched rustbucket."
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Maintenant, Comtesse chérie, retournons dans ce fichu tas de ferraille."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -347,8 +347,8 @@ STORE 0x18 0x1 0x0 0x2 0x42700000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "The Countess"
-SAY "{VOICE=08}Squawk! Squik!"
+SETNAME "Comtesse"
+SAY "{VOICE=08}Scouac！ Scouic！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

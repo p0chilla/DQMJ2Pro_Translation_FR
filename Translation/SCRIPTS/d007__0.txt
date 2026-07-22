@@ -91,8 +91,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x41a00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x42200000
 SYS_42 0x8 
-SETNAME "Don Mole"
-SAY "{VOICE=07}...Woo-ee! Brother, when I said 'Hit me!', you sure did take me literal.{WAIT}{CLEAR}You've got soul, my man!"
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}... Wouhou！ Eh bien, mon frère, ça, on peut dire que vous m'avez surpris！{PAGE}{WAIT}{CLEAR}Vous avez du groove, mon ami！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -109,14 +109,14 @@ STORE 0x18 0x1 0x3f800000 0x2 0x42b40000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x428c0000
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}Don Mole, I salute you. You have always been righteous and true."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Mister Taupe, je vous salue. Vous avez toujours été loyal et sincère."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Don Mole"
-SAY "{VOICE=07}Hey, righteous is my middle name, brother! Now, I gotta rest up backstage."
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Loyal, c'est mon deuxième prénom！ Bien, je vais aller me reposer en coulisse."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -171,8 +171,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x42200000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x42700000
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}Thanks to Don Mole's sterling work,{BREAK}I have a clear idea of your abilities."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Grâce à l'excellent travail de Mister Taupe, j'ai pu voir vos capacités.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -183,8 +183,8 @@ STORE 0x18 0x1 0x0 0x2 0x42000000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}Now, it is time for your final test."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Maintenant, il est temps pour vous de passer l'épreuve finale.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x41200000
@@ -195,8 +195,8 @@ STORE 0x18 0x1 0x0 0x2 0x42040000
 STORE 0x18 0x1 0x3f800000 0x2 0x41200000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}Defeat my little monster here... If you can!"
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Vous devez battre mon petit monstre... si vous le pouvez！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

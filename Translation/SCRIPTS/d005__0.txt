@@ -93,19 +93,19 @@ STORE 0x18 0x1 0x40000000 0x2 0x41a00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x42a00000
 SYS_42 0x8 
-SETNAME "Don Mole"
-SAY "{VOICE=07}Woo-wee! You didn't just stumble upon that medal by mistake, brother.{WAIT}{CLEAR}You're the real deal!"
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Youhou！ Vous n'avez pas obtenu cette médaille par hasard, mon frère.{PAGE}{WAIT}{CLEAR}Ça ne rigole pas！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Don Mole"
-SAY "{VOICE=07}Rack up victories here and the road ahead's gonna open right up!"
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Enchaînez les victoires et le chemin s'ouvrira devant vous！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}...W-Wait just one moment, Mr Mole Sir!"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}... Euh, une seconde, Monsieur Taupe！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -157,16 +157,16 @@ STORE 0x18 0x1 0x0 0x0 0x3f800000
 STORE 0x18 0x1 0x3f800000 0x2 0x42a40000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}Would this 'road ahead' be a way to get off this island, by any chance?"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Ce chemin, il ne permettrait pas de quitter cette île, par hasard？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Archie Logg"
-SAY "{VOICE=07}I've been taking the opportunity to study the books in your library here..."
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}J'ai eu l'occasion d'étudier les livres de votre bibliothèque...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Archie Logg"
-SAY "{VOICE=07}...and there isn't a single reference to your Monster Scout Challenge!"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}... et nulle part il n'est fait mention de votre Championnat des Dresseurs！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -191,8 +191,8 @@ STORE 0x18 0x1 0x0 0x2 0x42200000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x42480000
 SYS_42 0x8 
-SETNAME "Don Mole"
-SAY "{VOICE=07}So you're doubtin' the downright funky and most righteous words of Don Mole?"
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Alors vous mettez en doute la parole de Mister Taupe？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x2 0x42240000
@@ -201,12 +201,12 @@ SYS_16 0x8
 STORE 0x18 0x1 0x0 0x2 0x42240000
 STORE 0x18 0x1 0x3f800000 0x2 0x41700000
 SYS_17 0x8 
-SETNAME "Don Mole"
-SAY "{VOICE=07}Tell you what, my man. If you can survive Rank D...{WAIT}{CLEAR}...I'll tell you all about a happenin' little place I know."
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Je vais vous dire une chose, mon jeune ami. Si vous survivez au niveau D...{PAGE}{WAIT}{CLEAR}... je vous parlerai d'un endroit funky que je connais...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Don Mole"
-SAY "{VOICE=07}You head there, and all your doubts will be laid to rest. I guarantee it!"
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Vous irez y faire un tour et tous vos doutes s'envoleront. Je vous le garantis！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

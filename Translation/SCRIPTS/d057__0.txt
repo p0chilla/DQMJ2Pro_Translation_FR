@@ -132,12 +132,12 @@ STORE 0x18 0x1 0x0 0x2 0x41200000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Eugene Poole"
-SAY "{VOICE=03}...It pains me to report that Captain Mayday has been gravely injured...{WAIT}{CLEAR}It's extraordinary that he managed to stay on his feet for so long."
+SETNAME "Eugène Étik"
+SAY "{VOICE=03}... Je suis navré de vous annoncer que le capitaine a été gravement blessé...{PAGE}{WAIT}{CLEAR}C'est incroyable qu'il ait réussi à tenir debout aussi longtemps.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Eugene Poole"
-SAY "{VOICE=03}There's precious little we can do for him while we're on this island.{WAIT}{CLEAR}We must return home, and soon!"
+SETNAME "Eugène Étik"
+SAY "{VOICE=03}Nous ne pourrons pas faire grand-chose tant que nous serons sur cette île.{PAGE}{WAIT}{CLEAR}Nous devons rentrer chez nous, et vite！{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -165,15 +165,15 @@ STORE 0x18 0x1 0x3f800000 0x2 0x42be0000
 SYS_18 0x8 
 WAIT 0x10 0x2 0x42200000
 SYS_42 0x8 
-SETNAME "Eugene Poole"
-SAY "{VOICE=03}Rory, dear boy. How is the repair work on the ship progressing?"
+SETNAME "Eugène Étik"
+SAY "{VOICE=03}Mon cher Bob. Où en sont les réparations？"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Och, I cannae lie tae you.{BREAK}It's no goin' well at all.{WAIT}{CLEAR}It may jest be quicker tae build a new ship from scratch."
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Oh, je ne vais pas vous mentir. Ça ne va pas du tout.{PAGE}{WAIT}{CLEAR}Ça irait sans doute plus vite de construire un nouveau vaisseau."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -189,8 +189,8 @@ STORE 0x18 0x1 0x0 0x0 0x40c00000
 STORE 0x18 0x1 0x3f800000 0x2 0x42ea0000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Melonie"
-SAY "{VOICE=08}This is 'orrible! We can't just leave the poor Captain like this! It's all my fault..."
+SETNAME "Bétanie"
+SAY "{VOICE=08}C'est affreux！ On ne peut pas laisser le capitaine comme ça！ Tout est de ma faute..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -225,15 +225,15 @@ L_f0c:
 JMP_ABS 0xc L_e5c
 L_f18:
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}I'm sorry, Cap'n! I've let ye doon again!{WAIT}{CLEAR}And after everythin' we've been through together...!"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Désolé, Capitaine！ Je vous ai encore laissé tomber！{PAGE}{WAIT}{CLEAR}Après tout ce qu'on a traversé ensemble...!"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x42a00000
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}Pardon me. Might I make a small suggestion?"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Excusez-moi. Puis-je faire une petite suggestion？{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -273,8 +273,8 @@ STORE 0x18 0x1 0x0 0x0 0x40400000
 STORE 0x18 0x1 0x3f800000 0x2 0x42a40000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}I propose that we leave this in {NAME}'s capable hands."
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Je propose que ce soit {NAME} qui s'occupe du problème.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -298,13 +298,13 @@ STORE 0x18 0x1 0x40000000 0x2 0x41f00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x42200000
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}If he can't find a way out of this bind, then no one can."
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Je suis certain que {NAME} nous trouvera{BREAK}un moyen de nous en sortir！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x42480000
-SETNAME "Archie Logg"
-SAY "{VOICE=07}Empyrea told us to trust in the forces of fate.{WAIT}{CLEAR}If she is right, I say we entrust our fate{BREAK}to {NAME}."
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Empyréa nous a dit de nous en remettre aux forces du destin.{PAGE}{WAIT}{CLEAR}Si elle dit vrai, je crois que nous pouvons confier notre destin à {NAME}."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -318,8 +318,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x40800000
 SYS_1F 0x8 
 WAIT 0x10 0x2 0x42480000
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}...Rookie... Listen to me..."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}... {NAME}... Écoute-moi..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -344,8 +344,8 @@ STORE 0x18 0x1 0x0 0x2 0x42700000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Cap'n!"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Capitaine！{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -365,8 +365,8 @@ STORE 0x18 0x1 0x0 0x0 0x40000000
 STORE 0x18 0x1 0x3f800000 0x2 0x428c0000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Cap'n! Ye're alive!"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Capitaine！ Vous êtes vivant！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -381,8 +381,8 @@ STORE 0x18 0x1 0x0 0x0 0x40000000
 STORE 0x18 0x1 0x3f800000 0x2 0x42880000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}Don't over-exert yourself. You shouldn't even try to speak in your condition!"
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Ne faites pas trop d'efforts. Vous ne devriez même pas parler dans votre état！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -397,8 +397,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x41200000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "The Countess"
-SAY "{VOICE=08}Squeeeak! SQUAAAK!"
+SETNAME "Comtesse"
+SAY "{VOICE=08}Scouiiiic！ Scouaaac！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -414,8 +414,8 @@ STORE 0x18 0x1 0x0 0x0 0x40400000
 STORE 0x18 0x1 0x3f800000 0x2 0x42a40000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}{E321}{NAME}, you'd better tell the Captain not to push himself too hard..."
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}{E321}{NAME}, vous devriez dire au capitaine de ne pas en faire trop..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -452,23 +452,23 @@ STORE 0x18 0x1 0x0 0x0 0x0
 STORE 0x18 0x1 0x3f800000 0x2 0x3f800000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}It's gonna take...more than a scratch{BREAK}...to shut Captain Rex Mayday up!{WAIT}{CLEAR}Now...listen up, Rookie..."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Une simple égratignure... Ce n'est rien...{BREAK}{NAME}... Écoute-moi bien..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}When the Albatross took a dive,{BREAK}I had to swim for my life.{WAIT}{CLEAR}I managed to make it to the coast..."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Quand l'Albatros a fait le grand plongeon, j'ai dû nager pour survivre.{PAGE}{WAIT}{CLEAR}J'ai réussi à atteindre la côte...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}That's where I spotted an incoming bogey - the biggest monster I'd ever seen."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Et là, j'ai repéré un véritable titan... le plus gros monstre que j'aie jamais vu.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}I had to beat a tactical retreat, which is how I ended up in the mountains."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}J'ai dû fuir. C'est comme ça que je me suis retrouvé dans les montagnes."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -507,8 +507,8 @@ STORE 0x18 0x1 0x0 0x0 0x40400000
 STORE 0x18 0x1 0x3f800000 0x2 0x42a40000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}Yes! One of the ancient tomes I read spoke of a gigantic monster by the coast."
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Oui！ L'un des livres anciens que j'ai lus parlait d'un monstre géant près de la côte."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -517,12 +517,12 @@ SYS_13 0x8
 STORE 0x18 0x1 0x0 0x2 0x42a20000
 SYS_14 0x8 
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Rookie... Now you're battle-hardened...{BREAK}I think you're ready...to hit the coast..."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}{NAME}... Tel que tu es devenu...{BREAK}tu sauras atteindre cette côte...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}If we can't rely...on Empyrea to fly us out...maybe the sea's our only hope..."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Si on ne peut pas compter sur Empyréa... la mer est notre dernier espoir..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -544,13 +544,13 @@ STORE 0x18 0x1 0x40000000 0x2 0x41f00000
 SYS_02 0x8 
 SYS_03 0x8 
 SYS_42 0x8 
-SAY "{COLOR=2}{E321}{NAME} can now go to a new region - Unshore!"
+SAY "{COLOR=2}{E321}{NAME} peut désormais accéder à une nouvelle région： Engloutîle！"
 WAIT 0x10 0x2 0x3f800000
 STORE 0x18 0x1 0x0 0x2 0x42780000
 SYS_A5 0x8 
 WAIT 0x10 0x2 0x42340000
 WAIT 0x10 0x2 0x41200000
-SAY "{COLOR=2}Go to the main map and the new region will be displayed!"
+SAY "{COLOR=2}Ouvrez la carte principale et la nouvelle région s'affichera！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

@@ -736,19 +736,19 @@ SYS_55 0x8
 SYS_42 0x8 
 CMP_EQ 0x18 0x0 0x423c0000 0x2 0x43360000
 JMP_IFNOT 0xc L_26d8
-SAY "{COLOR=2}{NAME} obtains the Minus sceptre!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}le sceptre {COLOR=0}{232}{COLOR=2}！"
 JMP_ABS 0xc L_2770
 L_26d8:
 CMP_EQ 0x18 0x0 0x423c0000 0x2 0x43350000
 JMP_IFNOT 0xc L_2730
-SAY "{COLOR=2}{NAME} obtains the Plus sceptre!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}le sceptre {COLOR=0}{231}{COLOR=2}！"
 JMP_ABS 0xc L_2770
 L_2730:
 JMP_REL L_2738
 L_2738:
 JMP_ABS 0xc L_2744
 L_2744:
-SAY "{COLOR=2}{NAME} obtains {E328}!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}{E328}！"
 JMP_ABS 0xc L_2770
 L_2770:
 WAIT 0x10 0x2 0x42340000
@@ -760,7 +760,7 @@ JMP_IFNOT 0xc L_2c5c
 SYS_42 0x8 
 CMP_EQ 0x18 0x0 0x42400000 0x2 0x40400000
 JMP_IFNOT 0xc L_293c
-SAY "{COLOR=2}The mysterious ore is actually a monster in disguise!"
+SAY "{COLOR=2}Le minerai mystère est en fait un monstre qui en avait pris l'apparence！"
 WAIT 0x10 0x2 0x42340000
 SYS_43 0x8 
 STORE 0x18 0x1 0x0 0x2 0x3f800000
@@ -779,7 +779,7 @@ JMP_ABS 0xc L_2c50
 L_293c:
 CMP_EQ 0x18 0x0 0x42400000 0x2 0x40800000
 JMP_IFNOT 0xc L_2c50
-SAY "{COLOR=2}The bag is actually a monster in disguise!"
+SAY "{COLOR=2}Le sac est en fait un monstre déguisé！"
 WAIT 0x10 0x2 0x42340000
 SYS_43 0x8 
 STORE 0x18 0x1 0x0 0x2 0x42c80000
@@ -835,19 +835,19 @@ SYS_55 0x8
 SYS_42 0x8 
 CMP_EQ 0x18 0x0 0x423c0000 0x2 0x43360000
 JMP_IFNOT 0xc L_2d58
-SAY "{COLOR=2}{NAME} obtains the Minus sceptre!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}le sceptre {COLOR=0}{232}{COLOR=2}！"
 JMP_ABS 0xc L_2df0
 L_2d58:
 CMP_EQ 0x18 0x0 0x423c0000 0x2 0x43350000
 JMP_IFNOT 0xc L_2db0
-SAY "{COLOR=2}{NAME} obtains the Plus sceptre!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}le sceptre {COLOR=0}{231}{COLOR=2}！"
 JMP_ABS 0xc L_2df0
 L_2db0:
 JMP_REL L_2db8
 L_2db8:
 JMP_ABS 0xc L_2dc4
 L_2dc4:
-SAY "{COLOR=2}{NAME} obtains {E328}!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}{E328}！"
 JMP_ABS 0xc L_2df0
 L_2df0:
 WAIT 0x10 0x2 0x42340000
@@ -1219,7 +1219,7 @@ STORE 0x18 0x1 0x3f800000 0x2 0x3f19999a
 SYS_54 0x8 
 WAIT 0x10 0x2 0x42480000
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME}'s team is healed."
+SAY "{COLOR=2}{NAME} et son équipe{BREAK}récupèrent toute leur vitalité."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1230,7 +1230,7 @@ L_44b0:
 JMP_ABS 0xc L_44bc
 L_44bc:
 SYS_42 0x8 
-SAY "{COLOR=2}There's no response. {NAME} cannot use this...for now."
+SAY "{COLOR=2}Pas de réaction.{PAGE}{WAIT}{CLEAR}{NAME} ne peut pas utiliser ceci... pour l'instant."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1341,10 +1341,10 @@ STORE 0x18 0x0 0x426c0000 0x1 0x0
 CMP_EQ 0x18 0x0 0x426c0000 0x2 0x0
 JMP_IFNOT 0xc L_4c7c
 SYS_42 0x8 
-SAY "{COLOR=2}Curiosity killed the cat, but not the monster scout!{WAIT}{CLEAR}Examine these curious stones to learn new abilities and commands."
+SAY "{COLOR=2}La curiosité est un vilain défaut, mais pas pour un dresseur de monstres！{PAGE}{WAIT}{CLEAR}Examinez ces étranges pierres pour apprendre de nouvelles choses.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}These Scout's Stones appear on the map as blue icons."
+SAY "{COLOR=2}Ces Pierres du dresseur sont représentées par des icônes bleues sur la carte."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1374,13 +1374,13 @@ SYS_A4 0x8
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41400000
 JMP_IFNOT 0xc L_4fb4
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} learns Zoom!"
+SAY "{COLOR=2}{NAME} apprend l'aptitude Téléportation！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This ability enables {NAME} to teleport to previously visited regions!"
+SAY "{COLOR=2}Cette aptitude permet de rejoindre en un instant une zone déjà visitée.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}Apart from a few special locations, it can be used anywhere, including caves!"
+SAY "{COLOR=2}Sauf en de rares endroits, elle s'utilise partout, grottes comprises."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1397,10 +1397,10 @@ L_4fb4:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41700000
 JMP_IFNOT 0xc L_50ec
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} learns Vanish!"
+SAY "{COLOR=2}{NAME} apprend l'aptitude Invisibilité！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This ability enables {NAME} to slink past enemy monsters undetected."
+SAY "{COLOR=2}Cette aptitude permet de passer près des ennemis sans se faire repérer."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1414,10 +1414,10 @@ L_50ec:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x40c00000
 JMP_IFNOT 0xc L_52a0
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} can now use Heal All!"
+SAY "{COLOR=2}{NAME} peut désormais utiliser le sort Soigner tous！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This spell lets {NAME} restore the health of his entire team!"
+SAY "{COLOR=2}Ce sort de guérison lui permet de restaurer tous les PV de son équipe！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1437,10 +1437,10 @@ L_52a0:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41600000
 JMP_IFNOT 0xc L_53dc
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} learns Nose for Treasure!"
+SAY "{COLOR=2}{NAME} apprend l'aptitude Détectrésor！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This ability lets {NAME} find out how many items are hidden nearby."
+SAY "{COLOR=2}Cette aptitude permet de savoir combien d'objets sont cachés alentour."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1454,16 +1454,16 @@ L_53dc:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41500000
 JMP_IFNOT 0xc L_5618
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} learns Zip!"
+SAY "{COLOR=2}{NAME} apprend l'aptitude Téléportaïaut！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This ability lets {NAME} Zip to the local Zip Portal, quick as a flash!"
+SAY "{COLOR=2}Elle permet d'aller au téléportail le plus proche en un clin d'œil！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}Of course, the portal must already be open for this to work."
+SAY "{COLOR=2}Bien sûr, le portail doit être déjà ouvert pour que l'opération fonctionne.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}So if {NAME} finds a new portal, he should examine it right away."
+SAY "{COLOR=2}Si vous apercevez un téléportail,{BREAK}examinez-le donc sans attendre."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1481,13 +1481,13 @@ L_5618:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41200000
 JMP_IFNOT 0xc L_589c
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} obtains the Monster Mender!"
+SAY "{COLOR=2}{NAME} obtient le Monstrequinque！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}Use this bottle to restore the HP and MP of {NAME}'s entire team."
+SAY "{COLOR=2}Utilisez ce flacon pour restaurer les PV et les PM de toute l'équipe.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}Good for three doses per outing. Once it runs out, head to the airship for a refill!"
+SAY "{COLOR=2}Contient trois doses.{PAGE}{WAIT}{CLEAR}Une fois qu'il est vide, retournez au vaisseau pour le remplir！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -3295,25 +3295,25 @@ STORE 0x18 0x1 0x0 0x2 0x41d80000
 SYS_27 0x8 
 STORE 0x18 0x0 0x42b00000 0x1 0x0
 SYS_42 0x8 
-SETNAME "Eugene Poole"
+SETNAME "GJ"
 CMP_EQ 0x18 0x0 0x42b00000 0x2 0x0
 JMP_IFNOT 0xc L_cf8c
-SAY "{VOICE=03}Ohh, thanks for coming!{BREAK}I've been searching for you!"
+SAY "{VOICE=03}Oh！ Vous voilà enfin, jeune homme！{BREAK}Cela fait un moment que je vous cherche！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=03}When I first got lost here{BREAK}I didn't know what to do,"
+SAY "{VOICE=03}La première fois que je me suis égaré{BREAK}ici, j'étais trop troublé pour agir...{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=03}but maybe 'cause I woke up{BREAK}I've wanted to fight you."
+SAY "{VOICE=03}Mais à mon réveil, allez savoir pourquoi,{BREAK}l'envie de vous affronter m'a pris.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=03}I was a monster scout in my day.{BREAK}And I'm itching to give it a go again."
+SAY "{VOICE=03}Le sang du dresseur que j'étais jadis{BREAK}doit bouillir encore dans mes veines.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=03}And so how 'bout it?{BREAK}Won't you scout battle with me?"
+SAY "{VOICE=03}Alors voilà, qu'en dites-vous？{BREAK}Un petit combat de dresseurs avec moi？{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=03}If you beat me, I'll give you a prize{BREAK}So won't you fight me now?{VOICE=09}"
+SAY "{VOICE=03}Battez-moi et vous aurez une récompense！{BREAK}Alors, on s'affronte tout de suite？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 STORE 0x18 0x1 0x0 0x2 0x41d80000
@@ -3323,14 +3323,14 @@ JMP_ABS 0xc L_d0a8
 L_cf8c:
 CMP_EQ 0x18 0x0 0x42b00000 0x2 0x3f800000
 JMP_IFNOT 0xc L_d018
-SAY "{VOICE=03}Ohh, you. So you do really{BREAK}want to scout battle?{VOICE=09}"
+SAY "{VOICE=03}Oh, vous voilà. Vous acceptez donc{BREAK}de faire ce combat de dresseurs？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 JMP_ABS 0xc L_d0a8
 L_d018:
 CMP_EQ 0x18 0x0 0x42b00000 0x2 0x40000000
 JMP_IFNOT 0xc L_d0a8
-SAY "{VOICE=03}Ohh, it's you! We meet again!{BREAK}Well? fancy a battle?{VOICE=09}"
+SAY "{VOICE=03}Oh, jeune homme！ On se retrouve！{BREAK}Alors, un combat de dresseurs avec moi？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 JMP_ABS 0xc L_d0a8
@@ -3347,10 +3347,10 @@ L_d128:
 CMP_EQ 0x18 0x0 0x42b00000 0x2 0x3f800000
 JMP_IFNOT 0xc L_d230
 L_d14c:
-SAY "{VOICE=03}Really! That's great!"
+SAY "{VOICE=03}Bien, bien！ Vous acceptez donc！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=03}It's been a long time, so{BREAK}try to go easy on me..."
+SAY "{VOICE=03}Un combat de dresseurs, ça faisait un bail.{BREAK}Soyez un peu indulgent, hein."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 STORE 0x18 0x1 0x0 0x2 0x41d80000
@@ -3360,10 +3360,10 @@ JMP_ABS 0xc L_d2f4
 L_d230:
 CMP_EQ 0x18 0x0 0x42b00000 0x2 0x40000000
 JMP_IFNOT 0xc L_d2f4
-SAY "{VOICE=03}Ho-ho-ho!{BREAK}You really shouldn't."
+SAY "{VOICE=03}Ho ho ho！{BREAK}Voilà qui est parlé！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=03}Okay, let's go!{BREAK}Don't go easy on me!"
+SAY "{VOICE=03}Allez, c'est parti！{BREAK}Moi, je ne retiendrai pas mes coups！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 JMP_ABS 0xc L_d2f4
@@ -3377,10 +3377,10 @@ JMP_REL L_d340
 L_d340:
 JMP_ABS 0xc L_d34c
 L_d34c:
-SAY "{VOICE=03}Ohh, I see.{BREAK}Well, you got other fish to fry."
+SAY "{VOICE=03}... Ah, je vois, je vois.{BREAK}Vous avez sûrement d'autres choses à faire.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=03}I was feelin' a bit sentimental,{BREAK}but, well, I don't really care."
+SAY "{VOICE=03}Ça me rend un brin nostalgique,{BREAK}mais ne vous en faites pas pour moi."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 STORE 0x18 0x1 0x0 0x2 0x41d80000
@@ -3494,21 +3494,21 @@ STORE 0x18 0x1 0x0 0x2 0x40400000
 SYS_24 0x8 
 STORE 0x18 0x0 0x42bc0000 0x1 0x0
 SYS_42 0x8 
-SETNAME "Eugene Poole"
-SAY "{VOICE=03}Kah! I lost!{BREAK}You really are strong."
+SETNAME "GJ"
+SAY "{VOICE=03}Bon sang de bonsoir！ J'ai perdu！{BREAK}Vous êtes vraiment fort, jeune homme.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=03}I'll give you a monster as{BREAK}a reward for showing  me a good time."
+SAY "{VOICE=03}Tenez, pour me remercier de ce bon moment,{BREAK}je vais vous offrir un de mes monstres.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=03}Do you want one of the monsters{BREAK}in my lively collection?{VOICE=09}"
+SAY "{VOICE=03}Voulez-vous un spécimen de la collection{BREAK}de monstres attrayants d'Eugène？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_7A 0x8 
 STORE 0x18 0x0 0x42ba0000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42ba0000 0x2 0x0
 JMP_IFNOT 0xc L_e0e8
-SAY "{VOICE=03}Good! Now go ahead{BREAK}and take them with you!"
+SAY "{VOICE=03}Parfait！ Alors vous pouvez prendre{BREAK}ce bon petit compagnon！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -3555,7 +3555,7 @@ SYS_A3 0x8
 JMP_ABS 0xc L_e088
 L_e088:
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} received{BREAK}{E322} from Eugene Poole!"
+SAY "{COLOR=2}{NAME} reçoit d'Eugène{BREAK}{E322}！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
 SYS_43 0x8 
@@ -3565,14 +3565,14 @@ JMP_REL L_e0f0
 L_e0f0:
 JMP_ABS 0xc L_e0fc
 L_e0fc:
-SAY "{VOICE=03}Then how about a monster from{BREAK}my muscle collection?{VOICE=09}"
+SAY "{VOICE=03}Alors, un spécimen de la collection{BREAK}de monstres musclés d'Eugène？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_7A 0x8 
 STORE 0x18 0x0 0x42ba0000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42ba0000 0x2 0x0
 JMP_IFNOT 0xc L_e548
-SAY "{VOICE=03}Good! Now go ahead{BREAK}and take them with you!"
+SAY "{VOICE=03}Parfait！ Alors vous pouvez prendre{BREAK}ce bon petit compagnon！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -3619,7 +3619,7 @@ SYS_A3 0x8
 JMP_ABS 0xc L_e4e8
 L_e4e8:
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} received{BREAK}{E322} from Eugene Poole!"
+SAY "{COLOR=2}{NAME} reçoit d'Eugène{BREAK}{E322}！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
 SYS_43 0x8 
@@ -3629,14 +3629,14 @@ JMP_REL L_e550
 L_e550:
 JMP_ABS 0xc L_e55c
 L_e55c:
-SAY "{VOICE=03}Hmm. Then how about one from{BREAK}my heart throb collection?{VOICE=09}"
+SAY "{VOICE=03}Hmm. Alors ce sera la collection secrète{BREAK}de monstres palpitants d'Eugène？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_7A 0x8 
 STORE 0x18 0x0 0x42ba0000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42ba0000 0x2 0x0
 JMP_IFNOT 0xc L_e9e8
-SAY "{VOICE=03}Good! Now go ahead{BREAK}and take them with you!"
+SAY "{VOICE=03}Parfait！ Alors vous pouvez prendre{BREAK}ce bon petit compagnon！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -3686,7 +3686,7 @@ SYS_A3 0x8
 JMP_ABS 0xc L_e988
 L_e988:
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} received{BREAK}{E322} from Eugene Poole!"
+SAY "{COLOR=2}{NAME} reçoit d'Eugène{BREAK}{E322}！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
 SYS_43 0x8 
@@ -3696,7 +3696,7 @@ JMP_REL L_e9f0
 L_e9f0:
 JMP_ABS 0xc L_e9fc
 L_e9fc:
-SAY "{VOICE=03}What! I'm too old for these games!{BREAK}So I decide what you get! HERE!"
+SAY "{VOICE=03}Allons！ Cessez de vous jouer d'un vieillard！{BREAK}Prenez celui que j'ai choisi！ Tenez！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -3830,7 +3830,7 @@ SYS_A3 0x8
 JMP_ABS 0xc L_f3a4
 L_f3a4:
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} was forced a{BREAK}{E322} by Eugene Poole!"
+SAY "{COLOR=2}{NAME} s'est vu imposer par Eugène{BREAK}{E322}！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
 SYS_43 0x8 
@@ -3844,16 +3844,16 @@ STORE 0x18 0x1 0x0 0x2 0x41e00000
 SYS_27 0x8 
 STORE 0x18 0x0 0x42b80000 0x1 0x0
 SYS_42 0x8 
-SETNAME "Eugene Poole"
+SETNAME "GJ"
 CMP_LE 0x18 0x0 0x42b80000 0x2 0x40400000
 JMP_IFNOT 0xc L_f5b4
-SAY "{VOICE=03}Scout battles really are fun.{BREAK}Thanks for humoring an old man."
+SAY "{VOICE=03}Décidément, les combats de dresseurs,{BREAK}c'est un plaisir. Merci pour ce moment.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=03}Now, I want a strong monster{BREAK}so I guess I'll roam about for one."
+SAY "{VOICE=03}Bien. Je vais errer quelque temps{BREAK}en quête de monstres plus puissants.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=03}Come see me again tomorrow.{BREAK}Fun times await."
+SAY "{VOICE=03}Revenez me trouver demain, jeune homme.{BREAK}Je vous attendrai avec impatience."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 JMP_ABS 0xc L_f698
@@ -3862,10 +3862,10 @@ JMP_REL L_f5bc
 L_f5bc:
 JMP_ABS 0xc L_f5c8
 L_f5c8:
-SAY "{VOICE=03}Scout battles really are fun.{BREAK}Thanks for humoring an old man."
+SAY "{VOICE=03}Décidément, les combats de dresseurs,{BREAK}c'est un plaisir. Merci pour ce moment.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=03}Now, I guess it's about time{BREAK}to wake up after all those battles."
+SAY "{VOICE=03}Bien. Nous nous sommes bien battus,{BREAK}il est temps pour moi de me réveiller."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 JMP_ABS 0xc L_f698
@@ -4218,7 +4218,7 @@ STORE 0x18 0x1 0x0 0x2 0x40c00000
 SYS_60 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SAY "{COLOR=2}You sense an evil presence ahead.{BREAK}Do you want to continue?{VOICE=09}"
+SAY "{COLOR=2}Une présence maléfique émane de plus loin.{BREAK}Voulez-vous continuer？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_7A 0x8 
@@ -4501,7 +4501,7 @@ WAIT 0x10 0x2 0x41f00000
 CMP_EQ 0x18 0x0 0x42cc0000 0x2 0x430b0000
 JMP_IFNOT 0xc L_119c4
 SYS_42 0x8 
-SAY "{COLOR=2}You sense an evil presence ahead.{BREAK}Do you want to continue?{VOICE=09}"
+SAY "{COLOR=2}Une présence maléfique émane de plus loin.{BREAK}Voulez-vous continuer？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 JMP_ABS 0xc L_11a5c
@@ -4509,7 +4509,7 @@ L_119c4:
 CMP_EQ 0x18 0x0 0x42cc0000 0x2 0x43140000
 JMP_IFNOT 0xc L_11a5c
 SYS_42 0x8 
-SAY "{COLOR=2}You sense an evil presence around.{BREAK}Do you still want to approach the fire?{VOICE=09}"
+SAY "{COLOR=2}Une présence maléfique rôde alentour.{BREAK}Approcher tout de même du feu de camp？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 JMP_ABS 0xc L_11a5c
@@ -4627,7 +4627,7 @@ STORE 0x18 0x1 0x0 0x2 0x40c00000
 SYS_60 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SAY "{COLOR=2}You sense an evil presence around.{BREAK}Do you still want to approach the fire?{VOICE=09}"
+SAY "{COLOR=2}Une présence maléfique rôde alentour.{BREAK}Approcher tout de même du feu de camp？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_7A 0x8 
@@ -5088,7 +5088,7 @@ STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_49 0x8 
 WAIT 0x10 0x2 0x41700000
 SYS_42 0x8 
-SAY "{COLOR=2}A strong ward blocks you{BREAK}from continuing ahead."
+SAY "{COLOR=2}Une puissante barrière a été dressée ici.{BREAK}Impossible d'aller plus loin."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5390,13 +5390,13 @@ CMP_EQ 0x18 0x0 0x42de0000 0x2 0x41000000
 JMP_IFNOT 0xc L_15180
 SYS_42 0x8 
 SETNAME "Incarnus"
-SAY "{VOICE=07}Now, {NAME}. We set out{BREAK}for the holy land where Baboorood awaits."
+SAY "{VOICE=07}Allons, {NAME}. Gagnons le palais Blanc,{BREAK}terre sainte où siège le Seigneur Hyurde.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}But the evil presence grows{BREAK}stronger up ahead."
+SAY "{VOICE=07}Mais au-delà de ce point,{BREAK}la présence maléfique se renforce encore.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Take good care as you continue.{BREAK}I will follow after you."
+SAY "{VOICE=07}Avance avec la plus grande prudence.{BREAK}Je te suivrai pas à pas."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -9551,10 +9551,10 @@ SYS_49 0x8
 STORE 0x18 0x1 0x0 0x2 0x40000000
 SYS_AD 0x8 
 SYS_42 0x8 
-SAY "{COLOR=2}The flames of the bonfire dance in the cold air."
+SAY "{COLOR=2}Les flammes dansent dans l'air froid.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}Will you take out the torch?{VOICE=09}"
+SAY "{COLOR=2}Prendre une torche dans le feu crépitant？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_7A 0x8 
@@ -9690,7 +9690,7 @@ SYS_49 0x8
 STORE 0x18 0x1 0x0 0x2 0x40000000
 SYS_AD 0x8 
 SYS_42 0x8 
-SAY "{COLOR=2}The flames of the bonfire dance in the cold air."
+SAY "{COLOR=2}Les flammes dansent dans l'air froid."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -9714,7 +9714,7 @@ JMP_IFNOT 0xc L_2ac44
 CMP_EQ 0x18 0x0 0x43230000 0x2 0x3f800000
 JMP_IFNOT 0xc L_2ac38
 SYS_42 0x8 
-SAY "{COLOR=2}The torch holds a strong power.{BREAK}It won't go out even if you fight."
+SAY "{COLOR=2}La torche brûle avec vigueur.{BREAK}Aucun combat ne semble pouvoir l'éteindre."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -9772,7 +9772,7 @@ STORE 0x18 0x1 0x0 0x2 0x3f800000
 STORE 0x18 0x1 0x3f800000 0x2 0x0
 SYS_A6 0x8 
 SYS_42 0x8 
-SAY "{COLOR=2}The torch has gone out!"
+SAY "{COLOR=2}La torche s'est éteinte！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -9797,7 +9797,7 @@ L_2b060:
 STORE 0x18 0x1 0x0 0x2 0x40a00000
 SYS_49 0x8 
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} can't do this while carrying a torch."
+SAY "{COLOR=2}Vous portez une torche pour le moment."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -9991,7 +9991,7 @@ STORE 0x18 0x1 0x0 0x2 0x44024000
 STORE 0x18 0x1 0x3f800000 0x2 0x3f800000
 SYS_2A 0x8 
 SYS_42 0x8 
-SAY "{COLOR=2}The Tantamount has dropped{BREAK}something."
+SAY "{COLOR=2}Le tempêtalon a laissé tomber{BREAK}quelque chose.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -9999,7 +9999,7 @@ STORE 0x18 0x1 0x0 0x2 0x41500000
 SYS_A7 0x8 
 SYS_AC 0x8 
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} got the{BREAK}Vivifying Flame!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}la Flamme du renouveau！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 

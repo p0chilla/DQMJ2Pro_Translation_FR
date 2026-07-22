@@ -196,7 +196,7 @@ STORE 0x18 0x1 0x3f800000 0x2 0x40a00000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SAY "{VOICE=08}So you thought you could hitch a free ride to the Monster Scout Challenge, eh?"
+SAY "{VOICE=08}Vous pensiez vous faire emmener à l'œil au championnat, hein？{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -225,7 +225,7 @@ STORE 0x18 0x1 0x0 0x0 0x0
 STORE 0x18 0x1 0x3f800000 0x2 0x42d40000
 SYS_18 0x8 
 SYS_42 0x8 
-SAY "{VOICE=08}You're the captain of this rustbucket, right? {WAIT}{CLEAR}I insist you make this scruffy stowaway walk the plank this instant!"
+SAY "{VOICE=08}Vous êtes le capitaine de ce tas de ferraille, n'est-ce pas？{PAGE}{WAIT}{CLEAR}J'insiste pour que vous vous débarrassiez de ce clandestin crasseux sur-le-champ！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -237,12 +237,12 @@ STORE 0x18 0x1 0x0 0x0 0x40400000
 STORE 0x18 0x1 0x3f800000 0x2 0x42700000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Woah there! Hold your horses!{BREAK}Let's not go crazy here."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Hé-ho！ Doucement！ Ne nous emballons pas.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}C'mon, you're a monster scout yourself, Miss Gilder.{WAIT}{CLEAR}You must be able to understand where this kid's comin' from."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Allons, vous êtes vous-même une dresseuse, Mademoiselle Fleurdelys.{PAGE}{WAIT}{CLEAR}Vous pouvez comprendre ce qui motive ce jeune homme.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x0
@@ -261,8 +261,8 @@ SYS_16 0x8
 STORE 0x18 0x1 0x0 0x2 0x424c0000
 STORE 0x18 0x1 0x3f800000 0x2 0x42a00000
 SYS_17 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}That burnin' desire to compete that would make someone try to hitch a free ride..."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Cette inextinguible soif de compétition peut vous pousser vers l'illégalité..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -314,8 +314,8 @@ STORE 0x18 0x1 0x0 0x0 0x0
 STORE 0x18 0x1 0x3f800000 0x2 0x42d00000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}Captain, in case you hadn't noticed, I am a woman of elegance and distinction. {WAIT}{CLEAR}I have not the faintest idea what is going on in this scruffy stowaway's head."
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Capitaine, vous avez dû remarquer que je suis une femme distinguée.{PAGE}{WAIT}{CLEAR}Je n'ai aucune idée de ce qui peut passer par la tête de ce clandestin crasseux."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -327,12 +327,12 @@ STORE 0x18 0x1 0x0 0x0 0x40400000
 STORE 0x18 0x1 0x3f800000 0x2 0x42700000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Listen, I'm not sayin' he's gonna get away scot-free.{WAIT}{CLEAR}Stowin' away is a serious offence in Captain Rex Mayday's book."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Écoutez, je ne vous dis pas qu'il va s'en sortir comme ça.{PAGE}{WAIT}{CLEAR}Embarquer clandestinement est une infraction sérieuse à mon code.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}So here's the deal..."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Voilà ce que j'ai décidé...{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -401,12 +401,12 @@ STORE 0x18 0x1 0x40000000 0x2 0x41200000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}I'm happy to announce that we now have a new crew member on board the Albatross.{WAIT}{CLEAR}Our freeloadin' young friend's gonna pay his fare by workin' as a rookie deckhand."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Je vous annonce que nous avons un nouveau membre d'équipage à bord.{PAGE}{WAIT}{CLEAR}Notre jeune ami clandestin va payer son billet en travaillant comme manœuvre.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}He'll be at your beck and call for the duration of the flight. Sound fair?"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Il sera à votre service pendant toute la durée du vol. Cela vous semble juste？"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -440,8 +440,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x42680000
 SYS_18 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}So, Rookie! Do we have a deal?"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Alors, le bleu, marché conclu？"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -460,12 +460,12 @@ STORE 0x18 0x1 0x0 0x0 0x0
 STORE 0x18 0x1 0x3f800000 0x2 0x42d40000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}Hmph. Well, I still think he should have walked the plank..."
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Mmpf. Eh bien, je reste convaincue que vous auriez dû vous en débarrasser...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}But so be it. He'll just have to attend to my every whim!"
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Mais qu'il en soit ainsi. Il devra juste satisfaire le moindre de mes caprices！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -586,12 +586,12 @@ STORE 0x18 0x1 0x40000000 0x2 0x41f00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Okay, Rookie..."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Très bien, le bleu...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Hold on! I just realised you're workin' for me, and I don't know your name..."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Attends un peu！ Tu travailles pour moi, mais je ne connais pas ton nom...{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -604,12 +604,12 @@ STORE 0x18 0x1 0x0 0x0 0x40400000
 STORE 0x18 0x1 0x3f800000 0x2 0x42700000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}What's that? {E321}{NAME}, huh?{BREAK}Well, I prefer 'Rookie'."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Hein？ {E321}{NAME}？{BREAK}Hum. Je préfère \"le bleu\".{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}I want you to give me a full debriefing. Let's head to the flightdeck."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Je veux que tu me fasses un rapport complet. Allons dans la cabine de pilotage."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

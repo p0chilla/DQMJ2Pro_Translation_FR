@@ -138,16 +138,16 @@ STORE 0x18 0x1 0x3f800000 0x2 0x42700000
 SYS_3C 0x8 
 WAIT 0x10 0x2 0x42200000
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}Le-Leonyx, the Great One!"
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}L-Lionyx, Être suprême！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x2 0x41f80000
 SYS_13 0x8 
 STORE 0x18 0x1 0x0 0x2 0x41f80000
 SYS_14 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}It is I, Mynos. Does Your Greatness remember me?"
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}C'est moi, Mynos. Votre Grandeur se souvient-elle de moi？"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -158,12 +158,12 @@ STORE 0x18 0x1 0x0 0x2 0x41f00000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x42700000
 SYS_42 0x8 
-SETNAME "Malevolynx"
-SAY "{VOICE=03}Grrr... Grrragh..."
+SETNAME "Vilionyx"
+SAY "{VOICE=03}Grrr... Grraah...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Malevolynx"
-SAY "{VOICE=03}I...I will...crush you... Grrragh...!{BREAK}I will...devour you all!"
+SETNAME "Vilionyx"
+SAY "{VOICE=03}Je... Je vais... vous écraser... Grraah...! Je vais... tous... vous dévorer！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -243,8 +243,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x41980000
 SYS_18 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}Ah... It is clear Leonyx's heart is still engulfed in darkness..."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Ah... Il est évident que le cœur de Lionyx est toujours prisonnier des ténèbres...{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -332,8 +332,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x3f800000
 SYS_4E 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}Eh...?"
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Que...? "
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
