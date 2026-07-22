@@ -1,0 +1,422 @@
+Rang,N°,Monstre,Tail.,Famille,PV,PM,Att.,Déf.,Agi.,Sag.,Traits,,,
+F,1,Feuillu,1,Gluant,760,340,550,660,670,500,Professionnel de santé,Kill imparable,Whack Attack,Pré-Accélération
+F,2,Souffleu,1,Dragon,740,400,660,540,620,320,Double esquive,Distributor,Gigantis,Souffle de feu imparable
+F,3,Concombrageur,1,Nature,660,480,680,720,430,580,Dernier mot,Simplet imparable,Aspirmagie,Contre-attaque farouche
+F,4,Démonius,1,Bête,720,380,620,650,590,560,Droit au but,Embuscade,Illusion imparable,Agit 1-2x
+F,5,Tristecire,1,Matériel,650,360,740,750,560,580,Maestroflamme,Décéléro imparable,Protective Fog,Flamme imparable
+F,6,Clindœil,1,Démon,660,420,640,820,540,560,Desperado,Antimagie imparable,Hypnose,Agit 1-2x
+F,7,Feu follet,1,Mort-vivant,780,480,360,670,580,700,Maestroflamme,Flamme imparable,Maestrocrame,Aspirmagie
+F,8,Gluant,1,Gluant,720,280,680,570,780,500,Avantage critique,Flamme imparable,Maestrofoudre,Agit 1-2x
+F,9,Komodor,1,Dragon,800,120,760,580,760,200,Souffle de feu imparable,As de la cavale,Chanceux,Agit 1-2x
+F,10,Agressaim,1,Nature,720,300,720,450,800,460,Double esquive,Distributor (6),Vent contraire incertain,Agit 1-2x
+F,11,Ornithox,1,Bête,680,380,700,740,580,400,Distributor (3),Charme fou,Enemy Tension Down,Random Fizzle
+F,12,Maransac,1,Matériel,700,480,520,580,670,700,Sommeil imparable,Inaction imparable,Pré-Tilt,Laminage
+F,13,Vampivol,1,Démon,640,380,610,670,920,540,Double esquive,Tornade imparable,Altération imparable,Ally Tension Rise
+F,14,Fantôme,1,Mort-vivant,650,480,580,620,710,700,Double esquive,Antimagie imparable,Affaiblo imparable,Dormite
+F,15,Grœuf,1,Gluant,680,380,600,880,580,520,Hygiaphone imparable,Antidanse imparable,Drain de PM,Tension super rare
+F,16,Fri-fri,1,Dragon,800,260,700,660,470,300,Droit au but,Souffle de feu imparable,Pré-Décuplo,Confusion imparable
+F,17,Piperaduo,1,Nature,740,440,560,600,560,560,Ally Tension Rise,Lame-en-peine imparable,Régénération magique,Whack Attack
+F,18,Pataupe,1,Bête,710,280,720,700,640,440,Increase Tension,Item Chance Up,Banco,Agit 1-2x
+F,19,Pantin de boue,1,Matériel,700,360,690,800,560,280,Antidanse imparable,Confusion imparable,Aspirmagie,Agit 1-2x
+F,20,Bisebave,1,Démon,690,440,640,700,540,480,Confusion imparable,Altération imparable,Random Fizzle,Inaction imparable
+F,21,Souche louche,1,Mort-vivant,740,360,680,820,350,380,Raptitude imparable,Aspirmagie imparable,Aspirmagie,Régénération magique
+F,22,Gluanbulle,1,Gluant,680,460,620,680,580,520,Défense toxique,Élec imparable,Toxicite,Agit 1-2x
+F,23,Dragronce,1,Dragon,780,240,580,820,630,380,Double esquive,Poison imparable,Dormite,Aspirmagie imparable
+F,24,Furibombyx,1,Nature,700,380,620,690,620,580,Desperado,Toxicite,Pré-Protection,Contre-attaque
+F,25,Faune,1,Bête,740,340,640,700,520,520,Scout Chance Up,Random Fizzle,Sommeil imparable,Confusion imparable
+F,26,Kaméclate,1,Matériel,710,360,720,720,480,400,Maestrogravité,Décuplo incertain,Tension super rare,Chance Brouillard d'outremonde
+F,27,Tailletron,1,Démon,640,480,620,680,710,500,Double esquive,Distributor (4),Confusion imparable,Agit 1-2x
+F,28,Champigoule,1,Mort-vivant,680,400,660,700,600,520,Poison imparable,Confusite,Illusion imparable,Contre-attaque farouche
+F,29,Médigluant,1,Gluant,640,480,490,660,840,800,Professionnel de santé,Aspirmagie imparable,Aspirmagie,Hypnose
+F,30,Lézard argon,1,Dragon,800,160,760,620,620,240,As de la cavale,Paralysite,Prems,Simplet imparable
+F,31,Fourmic-mac,1,Nature,680,280,740,820,580,480,Pré-Protection,Raptitude imparable,Pré-Décuplo,Desperado
+F,32,Marteleur,1,Bête,780,160,800,640,540,360,Increase Tension,Ally Tension Rise,Desperado,Pré-Tension
+F,33,Brûlegel,1,Matériel,700,380,680,630,600,500,Maestroglace,Souffle glacial imparable,Glace imparable,Petit tueur
+F,34,Glanclan,1,Démon,680,320,660,660,840,440,Distributor (4),Scout Chance Up,Increase Tension,Agit 1-2x
+F,35,Main de boue,1,Mort-vivant,700,420,680,590,570,480,Raptitude imparable,Lame-en-peine imparable,Confusion imparable,Confusite
+F,36,Gluante,1,Gluant,800,320,600,530,600,460,Maestroflamme,Illusion imparable,Antimagie imparable,Hygiaphone imparable
+F,37,Saint-berneur,1,Dragon,800,160,780,800,300,440,Avantage critique,Tension super rare,Petit tueur,Desperado
+F,38,Kingfuchsia,1,Nature,640,360,640,600,950,580,Pré-Accélération,Antimagie imparable,Charme fou,Chanceux
+F,39,Scarapince,1,Nature,780,280,660,920,320,320,Increase Tension,Paralysie imparable,Persistent,Pré-Tension
+F,40,Blaireau Bongo,1,Bête,730,180,740,740,660,480,Enemy Tension Down,Expérientissimo,Scout Chance Up,Agit 1-2x
+F,41,Spitnik,1,Matériel,680,480,680,720,440,400,Maestrobang,Bang imparable,Lèvetard,Contre-action
+F,42,Biglœil,1,Démon,670,480,480,500,900,800,Double esquive,Professionnel de santé,Antidanse imparable,Pré-Accélération
+F,43,Mallusque,1,Mort-vivant,680,400,610,620,780,520,Flustered,Drain de PM,Attaque imparable,Chanceux
+F,44,Gluancornu,1,Gluant,700,340,680,560,740,520,Double esquive,Crame imparable,Pré-Accélération,Desperado
+F,45,Libellugon,1,Dragon,740,360,620,480,840,320,Double esquive,Maestrofoudre,Sabotemage imparable,Petit tueur
+F,46,Frelon de l'enfer,1,Nature,660,340,650,520,980,560,Double esquive,Paralysite,Paralysie imparable,Chance Brouillard d'outremonde
+F,47,Altérapace,1,Bête,700,330,720,560,710,460,Distributor (2),Simplet imparable,As de la cavale,Agit 1-2x
+F,48,Grimasque,1,Matériel,720,320,680,980,280,520,Illusion imparable,Pré-Vent contraire,Pré-Accélération,Pressure
+F,49,Gourou bouh,1,Démon,690,480,600,550,530,800,Contre-attaque,Antidanse imparable,Hygiaphone imparable,Deuxième chance
+F,50,Sméagoule,1,Mort-vivant,630,480,660,540,670,780,Dormite,Décéléro imparable,Lame-en-peine imparable,Agit 1-2x
+E,51,Gluant de crin,1,Gluant,760,260,800,500,480,520,Increase Tension,Foudre imparable,Pré-Tension,Agit 1-2x
+E,52,Serpolaire,2,Dragon,1150,320,820,720,590,820,Méga corps (1-2x),Double esquive,Maestroglace,Souffle glacial imparable
+E,53,Poids-coq,2,Nature,1020,440,840,660,940,720,Méga corps (1-2x),Double esquive,As de la cavale,Tension super rare
+E,54,Yéti yétu,1,Bête,740,260,760,680,460,520,Distributor (2),Souffle glacial imparable,Maestroglace,Contre-attaque
+E,55,Talismaboule,1,Matériel,660,480,580,670,600,740,Sabotemage imparable,Simplet imparable,Contre-attaque farouche,Laminage
+E,56,Face de crapaud,1,Démon,680,420,680,620,540,640,Pré-Décuplo,Kill imparable,Hygiaphone imparable,Whack Attack
+E,57,Momignon,1,Mort-vivant,720,400,660,700,500,400,Dormite,Décéléro imparable,Avantage critique,Sabotemage imparable
+E,58,Gluanbulot,1,Gluant,780,480,420,960,240,560,Scout Chance Up,Sabotemage imparable,Pré-Protection,Critical Guard
+E,59,Dracorne,1,Dragon,760,260,760,660,500,320,Increase Tension,Inaction imparable,Raptitude imparable,Whack Attack
+E,60,Gourdéchaîné,1,Nature,660,460,680,660,460,720,Toxicite,Maestrocrame,Raptitude imparable,Aspirmagie
+E,61,Bélicorne,1,Bête,730,320,630,700,540,680,Dormite,Sommeil imparable,Desperado,Ally Tension Rise
+E,62,Hachâlereux,1,Matériel,760,240,740,660,440,600,Décéléro imparable,Protection incertaine,Avantage critique,Agit 1-2x
+E,63,Chasseur de têtes,1,Démon,660,340,800,660,700,240,Laminage,Kill imparable,Laminage,Whack Attack
+E,64,Cavale-démon,1,Mort-vivant,680,220,680,700,880,600,Contre-attaque,Affaiblo imparable,Pré-Décuplo,Prems
+E,65,Gluant moucheté,1,Gluant,720,360,620,640,660,520,Foudre imparable,Maestrogravité,Imaginative,Agit 1-2x
+E,66,Épironce,1,Dragon,760,230,720,810,400,500,Double esquive,Pré-Vent contraire,Maestroflamme,Agit 1-2x
+E,67,Cactueur,1,Nature,720,230,800,630,580,500,Droit au but,Antidanse imparable,Contre-attaque,Sabotemage imparable
+E,68,Volanchat,1,Bête,700,320,560,590,860,780,Double esquive,Prems,Random Fizzle,Antimagie imparable
+E,69,Rochexplosif,1,Matériel,760,210,710,940,240,680,Increase Tension,Tension super rare,Tension super rare,Kill imparable
+E,70,Sorcimol,1,Démon,680,480,460,720,680,800,Professionnel de santé,Aspirmagie imparable,Maestrotornade,Aspirmagie
+E,71,Mirliflore,1,Mort-vivant,660,360,660,480,880,720,Distributor,Imaginative,Laminage,Dormite
+E,72,Traumallusque,1,Mort-vivant,760,360,540,570,680,620,Scout Chance Up,Aspirmagie imparable,Magic Counter,Attaque imparable
+E,73,Chargosaure,1,Dragon,760,140,740,580,920,200,Pré-Tension,Souffle de feu imparable,Souffle glacial imparable,Avantage critique
+E,74,Smilodon de lait,1,Nature,720,180,740,740,720,440,Distributor,Hygiaphone imparable,Kill imparable,Sabotemage imparable
+E,75,Rapaglace,1,Bête,680,400,660,560,680,640,Double esquive,Souffle glacial imparable,Random Fizzle,Moins une
+E,76,Brûleflamme,1,Matériel,660,420,660,700,600,600,Maestroflamme,Flamme imparable,Souffle de feu imparable,Petit tueur
+E,77,Diablotin,1,Démon,680,280,680,680,680,800,Maestrobang,Bang imparable,Souffle de feu imparable,Perturbonde
+E,78,Bottœil,1,Mort-vivant,660,380,600,860,680,520,As de la cavale,Antidanse imparable,Tension super rare,Prems
+E,79,Escargluant,1,Gluant,720,400,640,1000,160,560,As de la cavale,Magic Barrier,Prems,Corps de métal léger
+E,80,Dragon vert,2,Dragon,1300,240,760,670,460,540,Méga corps (1-2x),Embuscade,Souffle de feu imparable,Foudre imparable
+E,81,Chimère,1,Nature,660,420,680,640,600,640,Double esquive,Distributor (2),Gigantis,Desperado
+E,82,Canidémon,1,Bête,680,300,700,700,680,600,Distributor (2),Starting Fizzle,Simplet imparable,Agit 1-2x
+E,83,Dingo-dong,1,Matériel,640,420,560,880,640,720,Confusite,Gambling Body,Lest imparable,Chanceux
+E,84,Escogriffon,1,Démon,800,400,560,800,300,360,Distributor,Restless ,Lest imparable,Décuplo incertain
+E,85,Chien de l'enfer,1,Mort-vivant,700,180,700,820,740,560,Increase Tension,Droit au but,Accélération incertaine,Intimidation
+E,86,Dangeleux,1,Gluant,660,400,700,740,480,680,Maestroglace,Glace imparable,Kill imparable,Pré-Accélération
+E,87,Damoiselle,1,Dragon,660,420,580,460,940,720,Double esquive,Illusion imparable,Sommeil imparable,Inaction imparable
+E,88,Taurapace,1,Nature,660,380,720,680,600,560,Contre-attaque,Sommeil imparable,Increase Tension,Pré-Tension
+E,89,Sanguini vache,1,Bête,600,480,600,640,880,640,Double esquive,Charme fou,Prems,Vague de soulagement
+E,90,Sacatrésor,1,Matériel,620,480,560,780,680,760,Moins une,Confusion imparable,Sabotemage imparable,Magic Counter
+E,91,Diable dansant,1,Démon,720,460,420,700,720,680,Enemy Tension Reset,Lest imparable,Simplet imparable,Agit 1-2x
+E,92,Mouchomme,1,Mort-vivant,660,360,640,660,890,420,Double esquive,Simplet imparable,Défense toxique,Poison imparable
+D,93,Monte-gluant,1,Gluant,660,420,660,740,560,600,Contre-attaque,Bang imparable,Altération imparable,Pré-Décuplo
+D,94,Dragos,1,Dragon,800,240,720,600,480,400,Maestroglace,Maestroélec,Récupération régulière,Souffle glacial imparable
+D,95,Sanglimer,1,Nature,620,440,680,680,680,640,Défense paralysante,Inaction imparable,Toxicite,Paralysie imparable
+D,96,Empereur nocturne,1,Bête,680,440,680,680,460,600,Double esquive,Sommeil imparable,Restless ,Contre-attaque farouche
+D,97,Canniboîte,1,Matériel,720,280,720,800,490,460,Desperado,Item Chance Up,Sommeil imparable,Kill imparable
+D,98,Démon du dessert,1,Démon,760,340,680,640,360,640,Avantage critique,Lest imparable,Moins une,Laminage
+D,99,Cercœil,1,Mort-vivant,760,280,680,480,580,760,Distributor (3),Élec imparable,Contre-attaque farouche,Défense paralysante
+D,100,Gluant de métal,1,Gluant,20,480,500,1200,1200,720,Corps d'acier,Flustered,Foudre imparable,Deuxième chance
+D,101,Slurpierre,1,Gluant,760,220,640,860,480,600,Gambling Body,Pré-Protection,Récupération régulière,Critical Guard
+D,102,Dragonflé,1,Dragon,790,180,680,880,480,320,Expérientissimo,Banco,Item Chance Up,Scout Chance Up
+D,103,Chagriffeur,1,Nature,700,300,660,660,700,640,Maestroglace,Charme fou,Restless ,Lèvetard
+D,104,Loup de Mer,1,Bête,680,400,720,560,680,400,Maestrotornade,Gigantis,Droit au but,Enemy Tension Reset
+D,105,Ombre,1,Matériel,620,480,540,650,860,740,Maestroélec,Distributor (2),Contre-attaque farouche,Drain de PM
+D,106,Mutancre,1,Matériel,720,300,700,930,300,580,Altération imparable,Lest imparable,Magic Barrier,Desperado
+D,107,Démon inférieur,1,Démon,680,480,580,600,580,760,Lest imparable,Sabotemage imparable,Crame imparable,Enemy Tension Reset
+D,108,Pompom Bomb,1,Mort-vivant,700,420,660,580,560,600,Double esquive,Distributor (3),Confusite,Laminage
+D,109,Gluangélique,1,Gluant,660,480,480,620,820,800,Double esquive,Professionnel de santé,Deuxième chance,Chanceux
+D,110,Butanosaure,1,Dragon,760,320,680,880,240,480,Dernier mot,Flamme imparable,Maestrofoudre,Régénération magique
+D,111,Lièvrecorne,1,Nature,730,260,620,660,780,560,Increase Tension,Foudre imparable,Confused Frenzy,Whack Attack
+D,112,Bandit manchot,1,Nature,660,420,560,640,860,600,Chanceux,Maestrotornade,Tornade imparable,Persistent
+D,113,Mousquetueur,1,Bête,620,360,710,660,860,520,Prems,Maestrogravité,Droit au but,Contre-attaque
+D,114,Moaï marrant,2,Matériel,1100,520,740,820,420,880,Méga corps (1-2x),Lame-en-peine imparable,Hygiaphone imparable,Antidanse imparable
+D,115,Chienfernal,1,Matériel,720,380,650,580,560,640,Dernier mot,Persistent,Pré-Protection,Lest imparable
+D,116,Nakunœil,1,Démon,760,380,680,680,260,600,Distributor,Restless ,Paralysie imparable,Pré-Tension
+D,117,Squelette,1,Mort-vivant,790,240,720,620,480,440,Raptitude imparable,Contre-attaque,Moins une,Perturbonde
+D,118,Roi gluant moucheté,1,Gluant,800,260,720,640,340,520,Magic Barrier,Sommeil imparable,Confused Frenzy,Agit 1-2x
+D,119,Aquasaure,1,Dragon,780,180,780,880,280,400,Double esquive,Protective Fog,Souffle glacial imparable,Récupération régulière
+D,120,Puce tule,1,Nature,660,360,680,680,650,700,Décéléro imparable,Affaiblo imparable,Altération imparable,Pré-Décuplo
+D,121,Orque,1,Bête,700,360,700,600,580,600,Professionnel de santé,Pré-Tilt,Lame-en-peine imparable,Agit 1-2x
+D,122,Hécatombereau,1,Matériel,630,380,720,780,640,520,Raptitude imparable,Accélération incertaine,Whack Attack,Kill imparable
+D,123,Golem d'or,1,Matériel,760,300,700,840,320,400,Increase Tension,Décéléro imparable,Aspirmagie imparable,Hygiaphone imparable
+D,124,Silvapithèque,1,Démon,700,440,520,700,600,760,Antimagie imparable,Maestrocrame,Crame imparable,Magic Counter
+D,125,Gigluant,1,Gluant,800,420,660,680,160,400,Increase Tension,Desperado,Antidanse imparable,Restless
+D,126,Dragon rouge,2,Dragon,1200,240,960,680,380,680,Méga corps (1-2x),Sommeil imparable,Souffle glacial imparable,Starting Nether Fog
+D,127,Crabarbare,1,Nature,680,260,640,980,680,440,Moins une,Aspirmagie imparable,Pré-Protection,Chanceux
+D,128,Scorpion,1,Nature,660,300,700,1000,520,480,Avantage critique,Paralysite,Poison imparable,Corps de métal léger
+D,129,Tigriff,1,Bête,700,320,680,770,540,580,Avantage critique,Distributor,Hypnose,Antidanse imparable
+D,130,Martebrun,1,Bête,700,220,880,700,440,520,Increase Tension,Scout Chance Up,Desperado,Pré-Tension
+D,131,Rouage-gorge,1,Matériel,680,360,620,940,520,520,Double esquive,Expérientissimo,Electrifying,Laminage
+D,132,Cyclomage,1,Démon,720,480,540,560,520,800,Maestroélec,Simplet imparable,Bang imparable,Vague de soulagement
+D,133,Escrimeur fantôme,1,Mort-vivant,620,380,760,480,860,600,Double esquive,Gigantis,Avantage critique,Droit au but
+D,134,Monte-gluant de métal,1,Gluant,660,320,660,860,680,520,Corps de métal léger,Contre-attaque,Paralysie imparable,Pré-Décuplo
+D,135,Mille-armes,1,Nature,740,260,700,1030,280,420,Paralysite,Protection incertaine,Défense paralysante,Corps de métal léger
+D,136,Malicongre,1,Nature,700,320,680,680,680,480,Toxicite,Affaiblo imparable,Avantage critique,Décéléro imparable
+D,137,Battering Ram,1,Bête,660,340,680,820,500,800,Random Fizzle,Imaginative,Antimagie imparable,Moins une
+D,138,Glaglator,1,Matériel,720,360,660,660,480,680,Maestroglace,Souffle glacial imparable,Pré-Décuplo,Glace imparable
+D,139,Bouffon baffeur,1,Démon,700,260,730,420,920,560,Maestrofoudre,Accélération incertaine,Foudre imparable,Agit 1-2x
+D,140,Boa constrictos,1,Mort-vivant,720,340,640,640,680,480,Antidanse imparable,Glace imparable,Accélération incertaine,Moins une
+D,141,Gigluante,1,Gluant,800,280,700,740,280,440,Maestroflamme,Desperado,Inaction imparable,Paralysie imparable
+D,142,Hippocampik,1,Dragon,680,280,740,680,620,680,Droit au but,Lame-en-peine imparable,Petit tueur,Critical Guard
+D,143,Khalamarmot,1,Nature,680,400,680,660,540,640,Charme fou,Aspirmagie imparable,Glace imparable,Aspirmagie
+D,144,Vercule,3,Nature,1950,220,680,620,540,480,Giga corps (1-3x),Défense toxique,Défense paralysante,Lest imparable
+D,145,Archer vert,1,Bête,740,360,620,680,620,360,Poison imparable,Tension super rare,Toxicite,Avantage critique
+D,146,Hauberserk,1,Matériel,750,220,740,940,280,520,Élec imparable,Gambling Body,Laminage,Critical Guard
+D,147,Chaperonde,1,Démon,740,280,720,600,600,480,Distributor,Foudre imparable,Accélération incertaine,Maestrogravité
+D,148,Charpiranha,1,Démon,640,400,700,620,660,720,Maestrocrame,Paralysie imparable,Hygiaphone imparable,Pré-Décuplo
+C,149,Gluandragon,1,Gluant,760,400,780,680,800,640,Double esquive,Altération imparable,Protective Fog,Souffle de feu imparable
+C,150,Hachosaure,1,Dragon,880,160,900,640,700,440,Distributor (2),Gigantis,Hypnose,Tout ou rien
+C,151,Condor infernal,1,Nature,840,440,730,660,630,420,Double esquive,Illusion imparable,Simplet imparable,Pré-Accélération
+C,152,Folycanthrope,1,Bête,740,400,780,680,780,840,Distributor (3),Increase Tension,Pré-Protection,Pré-Tension
+C,153,Crapouillot,2,Bête,1400,580,760,620,440,520,Méga corps (1-2x),Distributor (4),Imaginative,Défense paralysante
+C,154,Marionnettiste,1,Matériel,700,540,720,710,720,900,Ally Tension Rise,Enemy Tension Reset,Enemy Tension Rise,Enemy Tension Down
+C,155,Rapace-muraille,1,Démon,780,400,800,900,480,600,Maestrobang,Bang imparable,Toxicite,Poison imparable
+C,156,Glanclan X,1,Mort-vivant,700,320,620,980,360,560,Agit 1-2x,Moins une,Malchanceux,Corps de métal léger
+C,157,Aggluantin,1,Gluant,780,420,760,730,660,660,Distributor (3),Expérientissimo,Protective Fog,Agit 1-2x
+C,158,Tortumastok,1,Dragon,860,540,460,960,380,840,Distributor,Contre-attaque farouche,Enemy Tension Down,Critical Guard
+C,159,Gorille infernal,1,Nature,880,200,840,600,760,480,Distributor (3),Tout ou rien,Pré-Tension,Maestrogravité
+C,160,Smilodon,1,Nature,860,120,900,560,960,400,Distributor (2),Prems,Tornade imparable,Agit 1-2x
+C,161,Hippotigre,1,Bête,780,480,720,620,700,720,Récupération régulière,Altération imparable,Random Fizzle,Agit 1-2x
+C,162,Gargouille,1,Bête,760,460,760,720,720,560,Double esquive,Maestrogravité,Starting Fizzle,Agit 1-2x
+C,163,Royalgue,1,Matériel,720,540,700,800,640,800,Ally Tension Rise,Lame-en-peine imparable,Enemy Tension Down,Pré-Tilt
+C,164,Grand vampivol,1,Démon,820,200,780,820,840,600,Double esquive,Tornade imparable,Accélération incertaine,Vague de soulagement
+C,165,Mort-vivant,1,Mort-vivant,900,320,840,660,420,400,Défense toxique,Poison imparable,Chance Brouillard d'outremonde,Agit 1-2x
+C,166,Dragon marin,1,Dragon,800,440,720,720,660,600,Double esquive,Souffle glacial imparable,Altération imparable,Illusion imparable
+C,167,Tronc-bine,2,Nature,1250,660,850,720,450,820,Méga corps (1-2x),Distributor (2),Désenchantement,Aspirmagie imparable
+C,168,Sirénien,1,Bête,780,400,720,840,740,520,Raptitude imparable,Altération imparable,Tension super rare,Professionnel de santé
+C,169,Octocorne,1,Matériel,800,380,780,920,440,640,Distributor,Lest imparable,Affaiblo imparable,Récupération régulière
+C,170,Lampféroce,1,Matériel,780,400,700,750,820,620,Distributor,Ally Tension Rise,Pré-Protection,Magic Barrier
+C,171,Garde octavien,1,Démon,760,500,720,790,620,620,Embuscade,Illusion imparable,Affaiblo imparable,Agit 1-2x
+C,172,Armure errante,1,Mort-vivant,760,400,740,980,620,560,Increase Tension,Lest imparable,Embuscade,Laminage
+C,173,Roi gluant,1,Gluant,880,340,640,780,520,840,Avantage critique,Moins une,Magic Barrier,Intimidation
+C,174,Gazosaure,1,Dragon,840,300,820,840,540,440,Double esquive,Embuscade,Bang imparable,Pré-Tension
+C,175,Requindrupède,1,Nature,820,280,800,700,780,560,Distributor (2),Enemy Tension Reset,Tension super rare,Whack Attack
+C,176,Carnigore,1,Bête,800,320,820,600,920,400,Embuscade,Distributor (2),Droit au but,Contre-attaque
+C,177,Cumulus lex,1,Matériel,860,540,640,520,460,840,Distributor,Régénération magique,Vent contraire incertain,Vague de soulagement
+C,178,Mécachasseur,1,Matériel,780,240,670,680,480,400,Agit 1-2x,Laminage,Décuplo incertain,Electrifying
+C,179,Écœil,1,Mort-vivant,820,400,760,740,540,640,Distributor (3),Élec imparable,Défense toxique,Starting Fizzle
+C,180,Guérigluant,1,Gluant,760,540,600,660,770,900,Professionnel de santé,Aspirmagie imparable,Tilt incertain,Agit 1-2x
+C,181,Dragon de métal,1,Dragon,780,420,720,900,580,640,Gambling Body,Lame-en-peine imparable,Élec imparable,Petit tueur
+C,182,Barracuda,1,Nature,820,380,840,620,660,400,Prems,Confused Frenzy,Décéléro imparable,Avantage critique
+C,183,Pipit,1,Nature,900,540,260,690,860,900,Professionnel de santé,Charme fou,Attallergie,Contre-action
+C,184,Sanglinaire,2,Bête,1300,290,840,480,330,410,Méga corps (1-3x),Distributor (2),Attallergie,Pré-Décuplo
+C,185,Monstromasque,1,Bête,860,400,720,740,540,480,Maestrotornade,Vague de soulagement,Tilt incertain,Tornade imparable
+C,186,Golem,1,Matériel,880,260,820,960,280,560,Increase Tension,Affaiblo imparable,Récupération régulière,Tension super rare
+C,187,Cimetueur,1,Démon,740,380,780,720,900,600,Double esquive,Droit au but,Laminage,Pré-Accélération
+C,188,Décérébère,1,Mort-vivant,640,220,580,420,600,440,Agit 1-3x,Distributor,Sorts de prix,Défense toxique
+C,189,Cybergluant,1,Gluant,800,400,780,760,500,760,Défense paralysante,Item Chance Up,Paralysie imparable,Paralysite
+C,190,Gluant de mercure,1,Gluant,40,540,580,1300,1300,800,Corps d'acier,As de la cavale,Persistent,Bang imparable
+C,191,Dingodrag,1,Dragon,900,170,720,450,350,240,Agit 1-2x,Poison imparable,Starting Break Bind,Confused Frenzy
+C,192,Écrevicieux,1,Nature,760,420,700,980,660,560,Distributor (2),Altération imparable,Pré-Protection,Affaiblo imparable
+C,193,Moby pick,3,Nature,1800,340,700,670,500,800,Giga corps (2-3x),Restless ,Lèvetard,Sorts de prix
+C,194,Meno macho,1,Bête,880,220,840,760,600,400,Raptitude imparable,Lame-en-peine imparable,Confused Frenzy,Quiquequoi
+C,195,Ailéopard,3,Bête,2100,210,750,700,890,580,Giga corps (1-3x),Intimidation,Tornade imparable,Lame-en-peine imparable
+C,196,Griffon,1,Démon,800,520,700,700,580,560,Illusion imparable,Antimagie imparable,Pré-Tilt,Agit 1-2x
+C,197,Grand faucheur,1,Démon,760,420,760,670,840,580,Régénération magique,Flamme imparable,Enemy Tension Reset,Whack Attack
+B,198,Sorciglu,1,Gluant,780,540,480,680,910,900,Distributor,Maestrocrame,Crame imparable,Aspirmagie
+B,199,Grand lézard argon,1,Dragon,900,200,820,840,560,320,Desperado,Toxicite,Protection incertaine,Poison imparable
+B,200,Général mandragore,1,Dragon,780,420,740,760,680,640,Distributor (2),Increase Tension,Flamme imparable,Critical Guard
+B,201,Scarablindé,1,Nature,780,280,800,1000,680,480,Increase Tension,Raptitude imparable,Gambling Body,Élec imparable
+B,202,Aiglefeu,1,Bête,760,360,780,680,880,640,Double esquive,Souffle de feu imparable,Starting Fizzle,Moins une
+B,203,Magmasse,1,Matériel,800,400,760,740,600,680,Maestroflamme,Souffle de feu imparable,Protection incertaine,Flamme imparable
+B,204,Capitaine catastrophe,1,Démon,760,400,800,800,600,720,Distributor,Avantage critique,Prems,Desperado
+B,205,Épéiste fantôme,1,Mort-vivant,720,500,720,700,860,640,Double esquive,Confusite,Contre-attaque farouche,Drain de PM
+B,206,Soldat squelette,1,Mort-vivant,840,420,740,640,640,480,Paralysite,Aspirmagie imparable,Brise-brèche incertain,Moins une
+B,207,Vampigluant,1,Gluant,740,520,620,680,830,900,Maestroélec,Enemy Tension Reset,Malchanceux,Agit 1-2x
+B,208,Tyrantosaure,1,Dragon,900,180,860,660,740,240,Distributor (2),Avantage critique,Pressure,Whack Attack
+B,209,Nécromante,1,Nature,740,480,720,860,640,680,Distributor (2),Confusite,Droit au but,Petit tueur
+B,210,Cocoricoq,1,Bête,840,120,800,820,1000,360,Droit au but,Maestrotornade,Pré-Vent contraire,Tornade imparable
+B,211,Stainless Scrapper,1,Matériel,600,320,500,560,510,580,Agit 1-3x,Distributor (2),Sorts de prix,Laminage
+B,212,Prêtre damné,1,Démon,800,540,400,830,840,900,Maestroélec,Élec imparable,Tilt incertain,Agit 1-2x
+B,213,Cavalier fantôme,1,Mort-vivant,820,380,740,620,800,520,Contre-attaque,Confusion imparable,Droit au but,Persistent
+B,214,Grouillâme,1,Mort-vivant,760,540,440,860,920,840,Distributor (3),Confusite,Défense paralysante,Chance Brouillard d'outremonde
+B,215,Monstruœuf,1,Gluant,780,440,640,980,600,680,Contre-attaque,Crame imparable,Pré-Accélération,Drain de PM
+B,216,Serpenlair,2,Dragon,1300,440,900,700,760,520,Méga corps (1-2x),Double esquive,Affaiblo imparable,Tension super rare
+B,217,Phalène géante,1,Nature,780,540,600,800,640,720,Distributor,Défense paralysante,Pré-Vent contraire,Drain de PM
+B,218,Sanguini rose,1,Bête,800,460,700,720,720,480,Double esquive,Charme fou,Sabotemage imparable,Vague de soulagement
+B,219,Imitapeur,1,Matériel,780,400,700,840,760,560,Avantage critique,Scout Chance Up,Kill imparable,Starting Fizzle
+B,220,Saltimbranque,1,Démon,830,500,660,540,700,640,Distributor (4),Confusion imparable,Décuplo incertain,Agit 1-2x
+B,221,Archidémon,1,Démon,840,380,720,760,520,720,Maestrobang,Bang imparable,Enemy Tension Reset,Agit 1-2x
+B,222,Capitenace,1,Mort-vivant,760,500,760,740,580,640,Desperado,Affaiblo imparable,Paralysite,Pressure
+B,223,Monte-vampigluant,1,Gluant,820,460,680,800,540,600,Increase Tension,Maestroélec,Vent contraire incertain,Pré-Accélération
+B,224,Mégalodon,1,Dragon,780,380,800,820,660,480,Double esquive,Régénération magique,Tension super rare,Whack Attack
+B,225,Frou-frou,1,Dragon,900,160,860,980,400,360,Desperado,Dormite,Glace imparable,Sommeil imparable
+B,226,Gorerille,1,Nature,880,140,700,860,900,480,Avantage critique,Intimidation,Tension super rare,Agit 1-2x
+B,227,Taupe-toc,1,Bête,800,260,840,780,800,440,Banco,Item Chance Up,Expérientissimo,Scout Chance Up
+B,228,Frère Pompoko,1,Bête,720,500,740,740,700,800,Distributor,Banco,Expérientissimo,Scout Chance Up
+B,229,Charretier blindé,1,Matériel,700,320,620,700,670,500,Agit 1-2x,Electrifying,Dormite,Starting Break Bind
+B,230,Armure fatale,1,Démon,820,380,760,860,560,440,Embuscade,Affaiblo imparable,Enemy Tension Rise,Corps de métal léger
+B,231,Chef troll,2,Démon,1500,220,900,880,400,160,Méga corps (1-2x),Distributor (2),Pressure,Desperado
+B,232,Jamirus,1,Démon,610,420,420,400,460,840,Agit 2x,Ally Tension Rise,Sorts de prix,Flamme imparable
+B,233,Seigneur malheur,1,Mort-vivant,820,330,800,660,720,560,Embuscade,Gigantis,Laminage,Droit au but
+B,234,Dragon vert X,1,Mort-vivant,860,520,520,580,680,840,Défense toxique,Défense paralysante,Confusite,Confusion imparable
+B,235,Feuilluberlu,1,Gluant,720,540,660,720,820,760,Expérientissimo,Sabotemage imparable,Hygiaphone imparable,Récupération régulière
+B,236,Abyssaure,1,Dragon,900,120,760,860,800,360,Double esquive,Confusion imparable,Protection incertaine,Récupération régulière
+B,237,Dragonnier,1,Dragon,740,320,620,520,660,560,Agit 1-2x,Double esquive,Enemy Tension Rise,Maestrotornade
+B,238,Corbarbac,1,Nature,770,460,620,820,840,600,Double esquive,Enemy Tension Reset,Maestroélec,Pré-Vent contraire
+B,239,Tempêtalon,1,Bête,820,400,720,720,620,680,Prems,Maestrofoudre,Malchanceux,Contre-action
+B,240,Gon,1,Matériel,900,320,660,900,440,600,Pré-Protection,Pré-Accélération,Trouille,Agit 1-2x
+B,241,Chevalier aberrant,1,Démon,860,260,760,880,480,720,Distributor (3),Avantage critique,Sommeil imparable,Petit tueur
+B,242,Squelette X,1,Mort-vivant,740,540,600,700,820,880,Paralysite,Élec imparable,Tilt incertain,Magic Counter
+B,243,Roi guérigluant,1,Gluant,900,540,360,780,590,860,Professionnel de santé,Moins une,Tilt incertain,Simplet imparable
+B,244,Dracularge,1,Dragon,900,300,800,840,390,340,Pressure,Increase Tension,Restless ,Hygiaphone imparable
+B,245,Tizon,1,Nature,820,480,780,540,500,720,Double esquive,Maestroflamme,Pré-Vent contraire,Flamme imparable
+B,246,Trompelœil,2,Bête,1500,380,740,640,480,480,Méga corps (1-2x),Avantage critique,Lest imparable,Pressure
+B,247,Nhé,3,Bête,2300,190,800,600,240,360,Giga corps (2x),Distributor (2),Intimidation,Dernier mot
+B,248,Carnagénie,2,Matériel,1200,440,720,540,490,650,Méga corps (1-3x),Desperado,Sorts de prix,Maestrobang
+B,249,Djinn fizz,1,Démon,720,500,760,680,720,800,Double esquive,Maestrofoudre,Tornade imparable,Gambling Body
+B,250,Roi gowin de klenfer II,1,Mort-vivant,840,420,680,700,620,640,Distributor,Maestrofoudre,Crame imparable,Agit 1-2x
+B,251,Lionyxeau,1,???,700,300,680,580,660,600,Agit 2x,Trouille,Persistent,Attaque imparable
+A,252,Tensiocératops,1,Dragon,780,400,720,980,580,560,Distributor (2),Pré-Protection,Dernier mot,Increase Tension
+A,253,Glazon,1,Nature,800,520,680,620,660,640,Double esquive,Maestroglace,Starting Fizzle,Glace imparable
+A,254,Géant,2,Bête,1300,200,900,960,500,280,Méga corps (1-2x),Dernier mot,Décéléro imparable,Tout ou rien
+A,255,Machine à tuer,1,Matériel,620,360,500,500,420,560,Agit 2x,Electrifying,Sorts de prix,Inaction imparable
+A,256,Shivattak,1,Démon,660,320,440,560,380,600,Agit 2x,Distributor (3),Sorts de prix,Drain de PM
+A,257,Chaperon vert,1,Démon,720,520,780,720,740,520,Increase Tension,Intimidation,Enemy Tension Reset,Tension super rare
+A,258,Hurlherbe,1,Mort-vivant,820,520,520,720,700,840,Ally Tension Rise,Enemy Tension Down,Enemy Tension Reset,Deuxième chance
+A,259,Roi gluanbulle,1,Gluant,900,500,620,660,340,720,Défense toxique,Toxicite,Restless ,Petit tueur
+A,260,Rashaverak,1,Dragon,820,400,780,720,500,680,Distributor,Paralysie imparable,Accélération incertaine,Moins une
+A,261,Défamphibien,1,Nature,720,420,820,680,800,720,Pré-Décuplo,Desperado,Maestrocrame,Critical Guard
+A,262,Encorneur,1,Bête,870,200,800,900,640,360,Increase Tension,Hygiaphone imparable,Pré-Tension,Pré-Décuplo
+A,263,Eradikator,1,Matériel,820,420,780,700,540,560,Distributor,Défense paralysante,Confused Frenzy,Laminage
+A,264,Hyperanémox,1,Démon,800,520,740,540,520,840,Maestrofoudre,Foudre imparable,Toxicite,Récupération régulière
+A,265,Gigamute,1,Mort-vivant,900,260,820,900,360,360,Double esquive,Restless ,Foudre imparable,Agit 1-2x
+A,266,Famille gluant,3,Gluant,1800,400,500,550,1000,600,Giga corps (2-3x),Pré-Accélération,Charme fou,Sorts de prix
+A,267,Troublosaure,1,Dragon,820,380,800,640,600,640,Contre-attaque,Tout ou rien,Attallergie,Récupération régulière
+A,268,Aligatueur,1,Nature,900,360,760,920,260,360,Double esquive,Élec imparable,Restless ,Petit tueur
+A,269,Lord Lionel,2,Bête,1300,460,920,760,540,680,Méga corps (1-2x),Distributor (3),Glace imparable,Crame imparable
+A,270,Phix,1,Matériel,860,280,780,940,420,560,Banco,Attaque imparable,Laminage,Magic Barrier
+A,271,Bataglan,1,Démon,740,400,700,800,900,680,Increase Tension,Distributor (4),Deuxième chance,Charme fou
+A,272,Exorsus,2,Mort-vivant,1300,700,500,700,800,1000,Méga corps (1-2x),Maestrocrame,Crame imparable,Starting Fizzle
+A,273,Gluanpereur de métal,2,Gluant,60,700,660,1600,1600,1180,Méga corps (1-2x),Corps d'acier,Prems,Starting Break Bind
+A,274,Duellis,2,Dragon,1100,380,660,640,1000,710,Méga corps (2x),Distributor,Toxicite,Petit tueur
+A,275,Rase-marée,1,Nature,780,300,740,780,880,680,Prems,Distributor,Maestroélec,Glace imparable
+A,276,Sangliogre,1,Bête,900,240,800,700,500,640,Avantage critique,Professionnel de santé,Décuplo incertain,Desperado
+A,277,Dis,1,Matériel,800,500,600,800,700,600,Pré-Accélération,Récupération régulière,Lest imparable,Agit 1-2x
+A,278,Gracos,1,Démon,840,440,580,820,600,760,Maestroglace,Souffle glacial imparable,Protective Fog,Agit 1-2x
+A,279,Âme en peine,1,Mort-vivant,860,520,400,720,750,900,Paralysie imparable,Maestrocrame,Brise-brèche incertain,Crame imparable
+A,280,Grand dragon,1,Dragon,820,240,900,800,600,480,Maestroflamme,Souffle de feu imparable,Vent contraire incertain,Moins une
+A,281,Épinéa,2,Nature,1400,200,900,820,620,720,Méga corps (1-2x),Distributor (2),Professionnel de santé,Imaginative
+A,282,Slon,1,Bête,900,360,860,460,500,400,Distributor (2),Avantage critique,Confused Frenzy,Critical Guard
+A,283,Statue vivante,1,Matériel,860,320,740,940,400,600,Avantage critique,Altération imparable,Protection incertaine,Agit 1-2x
+A,284,Mortella,2,Démon,1300,400,720,660,1000,1000,Méga corps (1-2x),Distributor (2),Paralysite,Enemy Tension Reset
+A,285,Sanguini vache X,1,Mort-vivant,840,420,720,620,620,640,Défense toxique,Droit au but,Confusite,Gambling Body
+A,286,Superslurp,1,Gluant,720,400,780,620,1000,680,Prems,Gigantis,Moins une,Laminage
+A,287,Faucondor,1,Nature,720,460,680,800,920,640,Double esquive,Persistent,Vent contraire incertain,Desperado
+A,288,Belzébik,1,Bête,820,360,800,700,500,800,Increase Tension,Maestrocrame,Immobilisme,Magic Counter
+A,289,Sal,1,Matériel,700,500,800,800,550,900,Pré-Accélération,Professionnel de santé,Trouille,Agit 1-2x
+A,290,Baron ecchymose,2,Démon,1200,600,860,880,640,720,Méga corps (1-2x),Crame imparable,Imaginative,Electrifying
+A,291,Gémon,2,Démon,1200,460,920,800,1000,480,Méga corps (1-2x),Droit au but,Hypnose,Magic Counter
+A,292,Rosegarde,1,Mort-vivant,720,360,580,820,440,560,Agit 1-2x,Contre-attaque,Protection incertaine,Desperado
+A,293,Seigneur terreur,1,Mort-vivant,820,380,780,800,420,760,Laminage,Droit au but,Gigantis,Critical Guard
+A,294,Nemeslurp,1,Gluant,660,400,600,540,800,640,Agit 1-2x,Intimidation,Droit au but,Laminage
+A,295,Mécadragon,1,Dragon,880,300,720,1000,380,520,Avantage critique,Défense paralysante,Paralysie imparable,Magic Counter
+A,296,Dangerose,2,Nature,1300,400,550,720,280,750,Méga corps (1-3x),Distributor (2),Défense toxique,Aspirmagie
+A,297,Atoner,2,Bête,1100,600,600,600,760,630,Méga corps (2x),Maestrobang,Trouille,Magic Counter
+A,298,Mi,1,Matériel,800,500,700,900,500,400,Professionnel de santé,Régénération magique,Désenchantement,Agit 1-2x
+A,299,Dhurian,1,Démon,800,400,800,560,740,600,Distributor,Intimidation,Élec imparable,Agit 1-2x
+A,300,Bélial,1,Démon,720,360,580,680,480,760,Agit 1-2x,Maestrobang,Professionnel de santé,Increase Tension
+A,301,Méno Macho,1,Mort-vivant,760,500,720,640,680,800,Enemy Tension Rise,Starting Break Bind,Brise-brèche incertain,Accélération incertaine
+A,302,Baron d'os,1,Mort-vivant,820,440,500,760,920,720,Contre-attaque,Enemy Tension Reset,Confusite,Décuplo incertain
+A,303,Kon ,1,Nature,800,400,720,760,560,880,Distributor (3),Laminage,Tornade imparable,Contre-attaque farouche
+A,304,Dorsalam,2,Bête,1300,520,720,620,900,800,Méga corps (1-2x),Maestrotornade,Kill imparable,Inaction imparable
+A,305,Claynite,2,Matériel,1100,320,740,960,680,630,Méga corps (1-3x),Maestrotornade,Désenchantement,Critical Guard
+A,306,Pazuzu,1,Démon,800,400,660,800,680,800,Maestrotornade,Tornade imparable,Tilt incertain,Agit 1-2x
+A,307,Tarantueur,2,Mort-vivant,1200,460,1040,760,600,880,Méga corps (1-2x),Hypnose,Tornade imparable,Élec imparable
+A,308,Roi gluant de métal,1,Gluant,60,540,420,1400,1400,880,Corps d'acier,As de la cavale,Antidanse imparable,Pré-Tilt
+A,309,Korol,1,Démon,780,500,720,560,630,900,Desperado,Bang imparable,Enemy Tension Down,Imaginative
+A,310,Mac-assin,1,Bête,900,160,900,800,460,440,Increase Tension,Avantage critique,Tension super rare,Contre-attaque
+A,311,Mac-hulotte,1,Démon,780,540,480,740,850,900,Confusion imparable,Deuxième chance,Enemy Tension Rise,Magic Counter
+A,312,Faureau,2,Bête,1200,320,860,640,880,640,Méga corps (1-2x),Désenchantement,Confused Frenzy,Tout ou rien
+A,313,Capricorn,2,Mort-vivant,1200,600,840,640,780,1000,Méga corps (1-2x),Double esquive,Paralysie imparable,Pré-Tension
+A,314,Typhonia,3,Matériel,2100,410,750,860,320,600,Giga corps (2x),Gambling Body,Pré-Protection,Dernier mot
+A,315,Empyréa,3,Nature,1900,400,740,820,1000,1000,Giga corps (1-3x),Distributor (2),Foudre imparable,Maestrofoudre
+A,316,Stella,1,???,740,480,640,550,1000,900,Distributor,Enemy Tension Reset,Deuxième chance,Chanceux
+A,317,Disciple de zoma,1,???,720,420,480,600,570,900,Agit 1-2x,Distributor,Sorts de prix,Perturbonde
+S,318,Gluanzer,3,Gluant,1700,240,880,1000,240,640,Giga corps (2x),Corps de métal léger,Gigantis,Dernier mot
+S,319,Dragon noir,1,Dragon,1000,360,800,720,660,600,Maestroélec,Hypnose,Crame imparable,Décuplo incertain
+S,320,Scarabrute,1,Nature,900,360,920,1000,620,440,Increase Tension,Pré-Protection,Pré-Tension,Décéléro imparable
+S,321,Atlas,2,Bête,1400,300,500,900,500,300,Méga corps (1-3x),Tout ou rien,Increase Tension,Tension super rare
+S,322,Sanguini irisé,1,Bête,1000,560,520,900,440,1000,Double esquive,Contre-attaque,Confusite,Enemy Tension Reset
+S,323,Boîte à pièges,1,Matériel,900,560,740,800,640,720,Avantage critique,Gambling Body,Drain de PM,Protective Fog
+S,324,Décapitête,1,Mort-vivant,800,520,820,920,720,960,Increase Tension,Pré-Décuplo,Paralysite,Tension super rare
+S,325,Monte-gluancien,1,Gluant,660,660,680,660,620,800,Agit 1-2x,Contre-attaque,Droit au but,Dernier mot
+S,326,Draculard,1,Dragon,1000,200,900,1000,540,520,Avantage critique,Pressure,Protective Fog,Hypnose
+S,327,Calmaroi,2,Nature,1350,400,1000,600,400,300,Méga corps (1-3x),Distributor,Décéléro imparable,Imaginative
+S,328,Mister taupe,1,Bête,900,560,840,940,420,480,Contre-attaque,Whack Attack,Enemy Tension Down,Random Fizzle
+S,329,Machine à exterminer,1,Matériel,630,500,510,620,640,400,Agit 2x,Distributor (3),Inaction imparable,Sorts de prix
+S,330,Aamon,2,Démon,1300,800,580,860,1100,1360,Méga corps (1-2x),Vague de soulagement,Sorts de prix,Magic Counter
+S,331,Chimère XY,1,Mort-vivant,800,600,580,540,400,1000,Agit 1-2x,Flamme imparable,Magic Counter,Pré-Tilt
+S,332,Trianguille,2,Dragon,1480,400,740,400,400,700,Méga corps (1-3x),Distributor (3),Glace imparable,Inaction imparable
+S,333,Doyen pipit,1,Nature,600,1000,500,800,1200,1200,Accélération incertaine,Bang imparable,Maestrogravité,Tilt incertain
+S,334,Bastonnier,1,Bête,1000,260,1000,1000,320,320,Dernier mot,Gigantis,Trouille,Persistent
+S,335,Blindogre,1,Matériel,800,480,880,1200,620,520,Pré-Protection,Souffle glacial imparable,Corps de métal léger,Critical Guard
+S,336,Noirkœur,1,Démon,600,540,630,610,250,800,Agit 2x,Maestrocrame,Souffle de feu imparable,Trouille
+S,337,Roi maudit,1,Mort-vivant,800,1000,200,940,960,1000,Défense toxique,Régénération magique,Aspirmagie,Tilt incertain
+S,338,Slurpgirl,2,Gluant,1000,500,750,500,2000,700,Méga corps (1-3x),Pré-Décuplo,Pré-Tension,Ally Tension Rise
+S,339,Dragon d'albâtre,2,Dragon,1300,600,1060,1000,640,880,Méga corps (1-2x),Increase Tension,Souffle de feu imparable,Vague de soulagement
+S,340,Dark-en-ciel,1,Nature,860,620,840,640,740,520,Souffle de feu imparable,Souffle glacial imparable,Vague de soulagement,Prems
+S,341,Rossfératu,1,Bête,820,620,880,680,640,800,Enemy Tension Down,Toxicite,Poison imparable,Régénération magique
+S,342,Time Sage,1,Matériel,600,660,410,420,540,1000,Agit 1-3x,Pré-Accélération,Pré-Tilt,Sorts de prix
+S,343,Titanis,2,Démon,1300,800,540,440,430,1200,Méga corps (2x),Hypnose,Intimidation,Pressure
+S,344,Gluant ténérium,2,Gluant,60,720,620,1500,1500,1285,Méga corps (2x),Corps d'acier,Distributor (3),Dernier mot
+S,345,Chiron,2,Dragon,1200,600,600,1000,1200,1200,Méga corps (1-2x),Prems,Tout ou rien,Trouille
+S,346,Mac-léo,1,Nature,530,300,800,610,800,540,Agit 2x,Intimidation,Tout ou rien,Trouille
+S,347,Deïckenz,2,Bête,1300,500,1000,700,140,620,Méga corps (1-3x),Distributor (2),Petit tueur,Trouille
+S,348,Lordraco,1,Dragon,860,600,720,700,760,920,Hypnose,Antimagie imparable,Pré-Vent contraire,Starting Break Bind
+S,349,Chef troll,2,Bête,1100,800,500,700,1000,1300,Méga corps (2x),Distributor (2),Starting Malhaze,Random Malhaze
+S,350,Salmigondis,1,Matériel,820,540,1000,1000,300,680,Maestrobang,Défense paralysante,Affaiblo imparable,Laminage
+S,351,Meurtor,1,Démon,920,520,640,720,800,960,Maestroglace,Souffle glacial imparable,Sommeil imparable,Brise-brèche incertain
+S,352,Baramos,1,Démon,780,600,520,560,580,1000,Agit 1-2x,Distributor,Maestroflamme,Souffle de feu imparable
+S,353,Kaos,1,Démon,940,580,620,760,600,960,Récupération régulière,Distributor,Antimagie imparable,Tilt incertain
+S,354,Malroth,2,Démon,1260,680,680,670,420,1000,Méga corps (2x),Distributor,Professionnel de santé,Perturbonde
+S,355,Dawk,1,???,1000,460,700,700,580,800,Enemy Tension Reset,Contre-attaque farouche,Enemy Tension Down,Perturbonde
+S,356,Tyrannomort,1,Démon,700,220,800,520,450,380,Agit 2x,Imaginative,Electrifying,Sorts de prix
+S,357,Capitaine Crow,1,Mort-vivant,920,500,760,840,760,400,Increase Tension,Ally Tension Rise,Perturbonde,Vent contraire incertain
+S,358,Gluancien,2,Gluant,1300,800,740,1000,720,1200,Méga corps (1-2x),Perturbonde,Tension super rare,Maestrofoudre
+S,359,Canzer,3,Gluant,2550,200,800,800,200,400,Giga corps (2x),Distributor (2),Moins une,Protective Fog
+S,360,Khalamar,3,Nature,2300,400,900,760,440,800,Giga corps (2x),Distributor (2),Increase Tension,Illusion imparable
+S,361,Dhoulmagus,1,Bête,800,560,800,860,720,1000,Distributor,Increase Tension,Contre-attaque,Maestroélec
+S,362,Mékanocinglé,1,Matériel,800,200,900,900,600,200,Agit 1-2x,Distributor (3),Magic Counter,Décuplo incertain
+S,363,Gluant satellite,3,Gluant,2000,600,500,1000,200,1200,Giga corps (1-3x),Magic Counter,Contre-action,Lèvetard
+S,364,King Godwyn,3,Mort-vivant,1900,700,550,500,800,1000,Giga corps (2-3x),Aspirmagie,Perturbonde,Désenchantement
+S,365,Ruine,3,Matériel,2150,200,800,1000,200,400,Giga corps (2x),Tout ou rien,Désenchantement,Dernier mot
+SS,366,Gluandor,2,Gluant,80,800,640,1800,1800,1400,Méga corps (1-2x),Corps d'acier,Distributor (3),Enemy Tension Rise
+SS,367,Lordragon,2,Dragon,1100,520,1000,900,600,820,Méga corps (1-3x),Increase Tension,Moins une,Malchanceux
+SS,368,Léopold,1,Nature,840,540,740,820,1000,520,Double esquive,Prems,Gigantis,Starting Malhaze
+SS,369,Psaro,2,Matériel,1400,500,1000,900,800,600,Méga corps (1-2x),Desperado,Kill imparable,Magic Counter
+SS,370,Épouse du chaperon,2,Bête,1250,400,960,600,700,660,Méga corps (2x),Distributor,Pré-Tension,Charme fou
+SS,371,Prince des voleurs,1,Démon,760,360,820,620,760,440,Agit 1-2x,Pressure,Enemy Tension Down,Confused Frenzy
+SS,372,Nimzo,2,???,1300,500,720,700,600,820,Méga corps (2x),Perturbonde,Altération imparable,Tension super rare
+SS,373,Xiphos,3,Dragon,1900,400,800,540,1000,720,Giga corps (2-3x),Distributor (2),Critical Guard,Désenchantement
+SS,374,Gluant de diamant,1,Gluant,100,400,750,1400,1400,1000,Corps d'acier résistant,Tension super rare,Aspirmagie,Désenchantement
+SS,375,Hydragon,3,Dragon,2600,220,720,520,340,520,Giga corps (1-3x),Distributor (4),Souffle de feu imparable,Tension super rare
+SS,376,Trode,1,Nature,880,600,800,700,680,600,Increase Tension,Contre-attaque,As de la cavale,Enemy Tension Reset
+SS,377,Pruslas,3,Bête,2200,200,800,800,200,400,Giga corps (1-3x),Tout ou rien,Dernier mot,Trouille
+SS,378,Trauminator,2,Matériel,1200,400,830,1000,730,720,Méga corps (2x),Maestrobang,Inaction imparable,Magic Barrier
+SS,379,Warubou,1,Démon,800,600,800,500,1000,1000,Enemy Tension Down,Scout Chance Up,Contre-action,Protective Fog
+SS,380,Dr Rebelote,2,Mort-vivant,1100,600,920,700,610,1200,Méga corps (2x),Distributor (2),Défense toxique,Confusite
+SS,381,Zoma,1,???,620,600,660,860,640,1000,Agit 1-2x,Magic Counter,Glace imparable,Pré-Tilt
+SS,382,Roi gluant de mercure,3,Gluant,200,1000,565,1600,1600,1490,Giga corps (2-3x),Corps d'acier,Petit tueur,Gambling Body
+SS,383,Barbarus,2,Dragon,1300,280,940,710,600,800,Méga corps (2x),Pressure,Lest imparable,Chance Brouillard d'outremonde
+SS,384,Numen,1,Nature,840,590,760,760,700,960,Deuxième chance,Vague de soulagement,Chanceux,Pré-Tilt
+SS,385,Doudouleur,1,Bête,820,540,840,700,900,720,Ally Tension Rise,Scout Chance Up,Magic Counter,Protective Fog
+SS,386,Schwarzleim,3,Matériel,1800,300,850,1000,100,400,Giga corps (1-3x),Corps de métal léger,Desperado,Sorts de prix
+SS,387,Mortamor,2,???,1000,800,870,710,800,1000,Méga corps (1-3x),Distributor,Starting Nether Fog,Perturbonde
+SS,388,Baboon Beast,3,???,2100,400,550,640,560,800,Giga corps (2-3x),Dormite,Contre-action,Sorts de prix
+SS,389,Grizius,2,Dragon,1300,320,920,670,650,700,Méga corps (2x),Maestrofoudre,Deuxième chance,Décuplo incertain
+SS,390,Yggdrasil,3,Nature,2000,1200,600,1000,400,800,Giga corps (1-3x),Distributor (4),Contre-attaque,Moins une
+SS,391,Sagitaure,3,Matériel,2300,400,600,1000,800,800,Giga corps (2x),Distributor (4),Prems,Brise-brèche incertain
+SS,392,Orgodémir,2,???,1100,700,830,800,490,1200,Méga corps (1-3x),Distributor,Souffle glacial imparable,Imaginative
+SS,393,Gadis,3,???,1900,600,550,750,650,1200,Giga corps (2-3x),Distributor (2),Perturbonde,Désenchantement
+SS,394,Xenlon,2,Dragon,1300,420,780,800,580,740,Méga corps (1-3x),Maestrofoudre,Souffle de feu imparable,Random Fizzle
+SS,395,Munchi,1,Nature,720,600,920,740,980,720,Souffle de feu imparable,Souffle glacial imparable,Charme fou,Ally Tension Rise
+SS,396,Nokturnus,1,Démon,760,300,900,620,640,600,Agit 1-2x,Distributor,Contre-attaque,Trouille
+SS,397,Rhapthorne,1,???,820,600,520,980,1000,1000,Double esquive,Perturbonde,Sabotemage imparable,Magic Barrier
+SS,398,Dark Robot Slime,3,Gluant,1500,400,650,900,1000,1000,Giga corps (2-3x),Distributor (2),Tout ou rien,Sorts de prix
+SS,399,Dragon du temps,2,Dragon,1300,500,850,600,800,800,Méga corps (2-3x),Contre-attaque farouche,Enemy Tension Rise,Trouille
+SS,400,Adverso,3,Bête,2600,240,600,600,520,400,Giga corps (2x),Increase Tension,Avantage critique,Magic Barrier
+SS,401,Estark,3,Matériel,2350,450,820,730,460,540,Giga corps (2x),Distributor (2),Perturbonde,Restless
+SS,402,Rhapthorne Ⅱ,3,???,2200,800,600,800,400,1200,Giga corps (1-3x),Distributor (2),Élec imparable,Aspirmagie imparable
+SS,403,Grand oiseau céleste,3,Nature,2200,600,600,700,1200,600,Giga corps (2x),Distributor (2),Souffle glacial imparable,Vent contraire incertain
+SS,404,Vilionyx,3,???,2300,300,900,720,780,600,Giga corps (2x),Dormite,Crame imparable,Random Malhaze
+SS,405,Lionyx,3,???,2300,300,800,800,800,800,Giga corps (2x),Distributor (2),Attaque imparable,Trouille
+SS,406,Rigor mortex,3,???,2300,620,600,1100,360,600,Giga corps (1-3x),Magic Counter,Gambling Body,Starting Nether Fog
+SS,407,Magarugi,3,???,2000,900,540,770,1000,1500,Giga corps (1-3x),Distributor (3),Foudre imparable,Élec imparable
+SS,408,Corvus,1,???,600,360,770,600,380,720,Agit 2x,Perturbonde,Élec imparable,Deuxième chance
+SS,409,Seigneur dragovien,2,Dragon,1500,200,1100,1000,700,600,Méga corps (1-2x),Avantage critique,Desperado,Désenchantement
+SS,410,Dragon du zénith,3,Dragon,2400,400,600,800,600,800,Giga corps (1-3x),Distributor (4),Desperado,Contre-attaque farouche
+SS,411,Evil Beast,3,???,1900,550,550,720,780,1200,Giga corps (2-3x),Distributor (2),Magic Counter,Sorts de prix
+SS,412,Apik,1,???,800,400,620,780,680,600,Increase Tension,Foudre imparable,Droit au but,Charme fou
+SS,413,Akœur,1,???,820,400,600,780,600,680,Increase Tension,Distributor (2),Prems,Charme fou
+SS,414,Atrèfle,1,???,820,400,680,720,600,480,Increase Tension,Gigantis,Avantage critique,Charme fou
+SS,415,Akaro,1,???,840,400,680,720,460,600,Increase Tension,Ally Tension Rise,Laminage,Charme fou
+SS,416,Atoupik,1,???,800,500,800,900,840,920,Increase Tension,Distributor,Foudre imparable,Droit au but
+SS,417,Atoukœur,1,???,680,560,500,800,930,860,Agit 1-2x,Increase Tension,Prems,Trouille
+SS,418,Atoutrèfle,1,???,820,510,840,900,760,720,Increase Tension,Distributor (3),Gigantis,Avantage critique
+SS,419,Atoukaro,1,???,880,540,770,820,640,800,Increase Tension,Distributor (2),Ally Tension Rise,Laminage
+SS,420,As de pique,1,???,860,520,800,830,700,780,Distributor,Maestroélec,Starting Fizzle,Magic Barrier
+SS,421,Joker,1,???,620,600,1000,1000,920,800,Distributor,Contre-action,Vague de soulagement,Protective Fog

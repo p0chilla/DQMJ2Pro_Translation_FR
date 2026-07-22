@@ -1,0 +1,51 @@
+RESIDUS non traduits automatiquement (à valider par un expert DQ)
+================================================================
+
+MONSTRES sans correspondance (17) :
+  - Baboon Beast
+  - Battering Ram
+  - Capricorn
+  - Claynite
+  - Dark Robot Slime
+  - Evil Beast
+  - Gigamute
+  - King Godwyn
+  - Kingfuchsia
+  - Kon
+  - Korol
+  - Pompom Bomb
+  - Rottney
+  - Slon
+  - Stainless Scrapper
+  - Time Sage
+  - Warubou
+
+TRAITS sans correspondance sûre (26) :
+  - Ally Tension Rise
+  - Confused Frenzy
+  - Critical Guard
+  - Electrifying
+  - Enemy Tension Down
+  - Enemy Tension Reset
+  - Enemy Tension Rise
+  - Flustered
+  - Gambling Body
+  - Imaginative
+  - Increase Tension
+  - Item Chance Up
+  - Magic Barrier
+  - Magic Counter
+  - Persistent
+  - Pressure
+  - Protective Fog
+  - Random Fizzle
+  - Random Malhaze
+  - Restless
+  - Scout Chance Up
+  - Starting Break Bind
+  - Starting Fizzle
+  - Starting Malhaze
+  - Starting Nether Fog
+  - Whack Attack
+
+FAMILLES inconnues (0) :
