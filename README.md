@@ -1,86 +1,148 @@
-## [V1.0.0 Release Announcement](https://github.com/saneezore07/DQMJ2Pro_Translation/blob/master/Guide/v1.0_announcement_post.md) & [F.A.Q](Guide/faq.md)
+# Dragon Quest Monsters : Joker 2 Professional — Traduction française
 
-This fork of Ceris White's Joker 2 Professional repository includes a post-game translation by Gerb.
+Traduction française intégrale de *Dragon Quest Monsters: Joker 2 Professional*
+(Nintendo DS, 2011), jamais sorti hors du Japon.
 
 <img src="./Database/credits.png" width="700">
 
-[Patcher Program](https://github.com/saneezore07/dqmj2pro_translation/releases) with friendly user interface for patching your legally obtained rom. Select your rom, check which patch options you want, then run the program.<br>
+Ce dépôt est un fork du projet [DQMJ2 Professional Translation](https://github.com/saneezore07/DQMJ2Pro_Translation)
+de **Ceris White** et de son équipe, qui a rendu le jeu modifiable et l'a traduit
+en anglais après quinze ans de blocage technique. Nous en reprenons l'outillage
+et le patcheur pour proposer une version **française**.
+
 <img src="./Database/GUI_Patcher/gui.png" width="300">
+---
 
-Database of Monster [Synthesis](https://github.com/saneezore07/DQMJ2Pro_Translation/blob/master/Database/synthesis_database.csv) Recipes.<br>
-Database of [new synthesis recipes](https://github.com/saneezore07/DQMJ2Pro_Translation/blob/197d7b66a751dda1b87c52e3715e6815f96e5450/Database/synthesis_database.csv#L295).<br>
-Database of Monster [Stats and Traits](https://github.com/saneezore07/DQMJ2Pro_Translation/blob/master/Database/monster_database.csv).<br>
-Database of Monster [Resistances](https://github.com/saneezore07/DQMJ2Pro_Translation/blob/master/Database/monster_resistance_database.csv).
+## Fonctionnalités
 
-### Features
-- In-game menus, story dialogue, and post-game dialogue have been translated/localised from its original Japanese to English.
-- New synthesis recipes have been added to the game for monsters that exist in the game files, but were either wi-fi exclusive monsters or otherwise not obtainable in gameplay.
-- A user interface program has been created for a seemless patching process.
-- Anti-Piracy patching has been implemented in the patch, allowing users to play on original hardware.
-- Optional QOL and gameplay changes have be provided.
-- Game databases have been provided for synthesis, traits, skills and resistances.
-- Game randomiser, with rank/family/size filtering, XP randomisation, and challenge options.
+- **Menus, dialogues de la trame et du post-game traduits** du japonais vers le
+  français (terminologie officielle Square Enix, voir plus bas).
+- **Nouvelles recettes de synthèse** pour des monstres présents dans les fichiers
+  du jeu mais normalement inobtenables (exclusifs à des évènements Wi-Fi fermés).
+- **Interface de patch** conviviale : sélectionnez votre ROM, cochez vos options,
+  patchez.
+- **Patch anti-piracy appliqué automatiquement** par le patcheur : jouable sur
+  console réelle (DS / 3DS) sans aucune manipulation supplémentaire.
+- **Options de confort** facultatives : multiplicateur d'XP, niveau minimum de
+  synthèse, assouplissement des conditions de dressage.
+- **Randomiseur** avec filtrage par rang, famille et taille, XP aléatoire et
+  options de challenge.
 
-### Known Issues
-- The randomiser is naturally going to introduce game instability.
-- For example, what was previously fighting three slimes for a total of three enemy slots may become three of a 3-slot monster for a total of nine enemy monster slots. This will probably crash the game. For a more stable randomiser run, consider filtering out 3-slot monsters when you configure your randomiser. Or simply flee if it is an optional battle.
-- With `Randomise synthesis recipes`, ??? family results are sometimes not able to be synthesised, and will sometimes crash the game when viewed. If you see synthesis results with no name displayed, avoid selecting or viewing that option to avoid crashing.
-- When naming a scouted monster, if the monsters original name is longer than 13 characters (e.g. Liquid Metal King Slime = 23 characters), the bottom screen's keyboard will get a visual bug when you attempt to revert the nickname to the default. Since this is just a visual bug, you are able to continue naming your mon without issue.
+### La terminologie officielle Square Enix
 
-### Credits
-**Technical Development:**
-- Ceris White: Creation of the python toolkit used for ROM modification and English text injection.
-- Saneezore: Creation of the Patcher graphic user interface.
-- Mow: Implementation of the overlay 4 anti-piracy patch.
-- WireOn: Whose work on their [DQMJ2 randomiser](https://github.com/Wire0n-misc/dqmj2-randomizer) was adapted for this project.<br>
+*Joker 2* (le premier du nom) est sorti en français en 2011. Sa traduction
+officielle a été extraite de la version européenne du jeu, puis **transplantée**
+automatiquement dans *Professional* : monstres, sorts, objets et lieux portent les
+noms que les joueurs français connaissent déjà (« gluant de métal »,
+« médigluant », « Championnat du Monde ») plutôt que des inventions. Seul le
+contenu inédit à *Professional* a été traduit à la main. (Le projet anglais fait
+exactement de même avec la traduction officielle anglaise.)
 
-**Translation and Localisation:**
-- Ceris White, Ilario, Reflex: Importing of existing English text and translation of game menus.
-- Gerb: Post-game translation and localisation.
-- GemSlimee: Proofreading and editing.<br>
+---
 
-**New Synthesis Recipes:**
-- Darko, Hoodiniebobeenie, Anthcny: Creation of new recipes and game balancing.<br>
+## Bases de données (référence)
 
-**Playtesting:**
-- Ilario, Reflex, Gerb, Darko, GemSlimee, Hoodinibobeenie, Mad Raigo, Matthew McConville, Nurfed, Chris, diortememirp, Nightaura, Sloppydeck, Anti-Tank Guided Missile, Ghostface, Blark<br>
+Tableaux consultables, générés en **mappant** chaque terme vers la terminologie
+officielle française du jeu (donc cohérents avec ce que vous voyez à l'écran) :
 
-**The [Dragon Quest Translations](https://discord.gg/aX6Ac8cC84) discord server:**
-- For hosting collaboration efforts.
+- Recettes de [synthèse](traduction_fr/Database_FR/synthesis_database.csv)
+- [Stats et traits](traduction_fr/Database_FR/monster_database.csv) des monstres
+- [Résistances](traduction_fr/Database_FR/monster_resistance_database.csv) élémentaires et de statut
 
+---
 
-<details>
-<summary>Manually Patching the Translation</summary>
+## Installation
 
-[Manual Guide](https://github.com/saneezore07/DQMJ2Pro_Translation/blob/master/Guide/step-by-step.md) to patch your legally obtained rom. [Linux](https://github.com/saneezore07/DQMJ2Pro_Translation/blob/master/Guide/linux_guide.md).<br>
-Note: The windows guide tells the patcher to independently source `ndstool.exe`. Since `ndstool` is a [GPL3](https://github.com/saneezore07/DQMJ2Pro_Translation/blob/master/Database/ndstool_license_COPYING.gpl3)+[MIT](https://github.com/saneezore07/DQMJ2Pro_Translation/blob/master/Database/ndstool_license_COPYING.mit) project, a compiled windows binary has been provided in this repository, dated to March 2026. <br>
-Before patching: [New synthesis recipes](https://github.com/saneezore07/DQMJ2Pro_Translation/blob/master/Guide/adding_new_synths.md) has been added to the game for monsters that exist in the game files, but were either wi-fi exclusive monsters or otherwise not obtainable in gameplay.
+1. Procurez-vous **votre propre ROM japonaise** de *Joker 2 Professional*
+   (fichier `.nds`, environ 256 Mo). **Aucune ROM n'est distribuée ici**, ni avant
+   ni après patch.
+2. Lancez le patcheur (`DQMJ2PPatcher-FR.exe`), sélectionnez votre ROM, choisissez
+   vos options, patchez. **La traduction, le patch mémoire (arm9) et l'anti-piracy
+   sont appliqués automatiquement.**
+3. Jouez sur émulateur en **mode DS** (et non DSi) — melonDS ou DeSmuME — ou sur
+   une vraie DS / 3DS (custom firmware requis pour la 3DS).
 
-Eugene Pool \(the old man on the airship\) missing is an anti-piracy measure \(among others\) by the developers.<br>
-This can be circumvented by [pre-applying an anti-piracy \(AP\) patch](https://github.com/saneezore07/DQMJ2Pro_Translation/blob/master/Guide/ap_patching.md) before applying the translation patch.<br>
-This happens on hardware \(DS, 3DS\), but not emulation \(desume, melonDS\).
+Le guide joueur détaille la procédure pas à pas.
 
-</details>
+---
 
-<details>
-<summary>Ceris White's Technical Tools</summary>
+## Problèmes connus
 
-You will need the J2P ROM, BLZ, ndstool (<https://github.com/devkitpro/ndstool>), and python. A compiled build of BLZ is provided for Windows as blz_win.exe; The scripts expect it to be named blz.exe when used.
-You will have to find a compiled ndstool or build it yourself.
-The ndstool command I usually use comes out to this (inside of a `Pro_ROM` folder):
-`../ndstool -x ../DQMJ2P.nds -7 arm7.bin -9 arm9.bin -d data_dir -y overlay_dir -t banner.bin -h header.bin -y7 y7.bin -y9 y9.bin -t banner.bin -o logo.bin`
-and to make the new ROM after changing things:
-`../ndstool -c ../edited.nds -7 arm7.bin -9 arm9.bin -d data_dir -y overlay_dir -t banner.bin -h header.bin -y7 y7.bin -y9 y9.bin -t banner.bin -o logo.bin`
+- Le **randomiseur** déséquilibre le jeu par nature : trois gluants remplacés par
+  trois monstres occupant chacun trois emplacements font neuf adversaires, ce que
+  le jeu ne supporte pas toujours. Filtrez les monstres à trois emplacements, ou
+  fuyez les combats facultatifs.
+- Avec la **randomisation des recettes**, certains résultats de la famille ??? ne
+  sont pas synthétisables et peuvent faire planter le jeu à l'affichage. Si un
+  résultat apparaît sans nom, ne le sélectionnez pas.
+- **Renommer un monstre** dont le nom d'origine dépasse 13 caractères provoque un
+  défaut d'affichage du clavier tactile. C'est purement visuel, la saisie
+  fonctionne.
 
-- arm9tool.py: Compresses and decompresses the arm9.bin file; You will need to put a copy of the decompressed arm9.bin in Pro_Tools as Pro_ARM9.bin for msgtool to work. `python Pro_Tools/arm9tool.py decompress Pro_ROM/arm9.bin Pro_Tools/Pro_ARM9.bin`
-- find_untranslated.py: `python Pro_Tools/find_untranslated.py <directory>` will list every file with JP characters inside it. Use with `-v` to print the exact line numbers and strings themselves.
-- msgtool.py: extracts strings. `python Pro_Tools/msgtool.py extract Pro_ROM/data_dir STRINGS/` will extract the msg files to a new STRINGS directory. `python Pro_Tools/msgtool.py repack STRINGS/ OUTPUT/` will rebuild the files to OUTPUT
-- storytool.py: extracts scripts. `python Pro_Tools/storytool.py disasm Pro_ROM/data_dir SCRIPTS/` will extract the script files to a new SCRIPTS directory. `python Pro_Tools/storytool.py asm SCRIPTS/ OUTPUT/` will rebuild the files to OUTPUT
+---
 
-Extract the strings and scripts, edit them, rebuild them to OUTPUT, copy the contents of OUTPUT to data_dir (`cp OUTPUT/* Pro_ROM/data_dir/`) and then rebuild with ndstool. Finally, test your changes by running edited.nds in your emulator of choice.
+## Crédits
 
-Newly added:
-- apply_patches.py: Provides an interface for applying patches to the ROM directory, including the above and some other optional patches.
-- performpatch.py: Automatically applies the necessary patches + swaps the gender icons for polarity icons, then builds the translated files for you. For people who only want to play the translated game.
+**Développement technique**
+- **Ceris White** : boîte à outils Python de modification de la ROM + injection du
+  texte anglais.
+- **Saneezore** : interface graphique du patcheur.
+- **Mow** : patch anti-piracy (overlay 4).
+- **WireOn** : randomiseur, adapté de son [projet DQMJ2](https://github.com/Wire0n-misc/dqmj2-randomizer).
 
-</details>
+**Traduction et localisation anglaise**
+- **Ceris White, Ilario, Reflex** : import du texte anglais et traduction des menus.
+- **Gerb** : traduction du post-game.
+- **GemSlimee** : relecture et corrections.
+
+**Nouvelles recettes de synthèse**
+- **Darko, Hoodiniebobeenie, Anthcny** : création des recettes et équilibrage.
+
+**Traduction française**
+- **Sfynx** : traduction (également auteur des VF de *Joker 3*, *Joker 3
+  Professional* et *DQM2 3DS*).
+- **TheFrenchPepeAI** : traduction, outillage d'extraction et de contrôle,
+  transplantation de la version officielle, écrans personnalisés.
+- **Reflex** : accueil du projet français au sein du dépôt.
+
+**Testeurs (version anglaise)** : Ilario, Reflex, Gerb, Darko, GemSlimee,
+Hoodinibobeenie, Mad Raigo, Matthew McConville, Nurfed, Chris, diortememirp,
+Nightaura, Sloppydeck, Anti-Tank Guided Missile, Ghostface, Blark.
+
+**Le serveur Discord [Dragon Quest Translations](https://discord.gg/aX6Ac8cC84)**
+pour héberger la collaboration.
+
+---
+
+## Notes techniques (pour les traducteurs)
+
+Le fichier **[ERREURS_CORRIGEES.md](ERREURS_CORRIGEES.md)** détaille, en français
+et en anglais, tous les pièges du moteur rencontrés et leur correction (tampon de
+combat caché, débordements de tampons, codes de variables, etc.). De quoi gagner
+des dizaines d'heures pour une traduction vers une autre langue. En résumé :
+
+- **`grow_msg_pool` est obligatoire** (sinon le jeu se fige après la saisie du nom
+  du héros : les textes traduits, plus longs, débordent la mémoire d'origine).
+- **Les codes de variables `{E3xx}` doivent être conservés** : le moteur les
+  utilise pour résoudre les variables (nom du héros, nom d'objet, accord des
+  articles). Les retirer casse leur affichage. `{E32A}` (nom d'objet côté européen)
+  doit être réécrit `{E328}` (côté *Professional*).
+- **`msg_battle` a un tampon de combat dédié** calibré ~taille anglaise : s'il
+  déborde, tout le menu et les messages de combat s'affichent vides. À condenser.
+
+Pour patcher **manuellement** (sans le patcheur graphique), ou sur console réelle
+par une autre méthode, un patch anti-piracy doit être pré-appliqué, sinon un
+personnage nécessaire à la progression (« Eugene Pool », le vieil homme du
+zeppelin) reste introuvable. Ce mécanisme ne se déclenche pas en émulation. **Le
+patcheur graphique fourni s'en charge déjà automatiquement.**
+
+---
+
+## Cadre légal
+
+Aucune ROM n'est distribuée, patchée ou non. Ce dépôt ne contient que des outils
+et des fichiers de traduction, inutilisables sans une copie du jeu que vous
+possédez légalement.
+
+Les outils originaux sont ceux de Ceris White et de l'équipe anglaise, dont la
+seule condition d'usage est d'être crédités : elle est respectée ici.
