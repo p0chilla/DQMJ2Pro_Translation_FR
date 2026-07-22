@@ -38,9 +38,9 @@ Frappe 1 ennemi, éclair sombre.
 Frappe un ennemi d'un éclair infernal.
 Frappe un ennemi d'un éclair abyssal.
 Frappe un ennemi d'un éclair stygien.
-Bloque Remplacement sur 1 ennemi.
+Bloque Altruisme sur 1 ennemi.
 Dégâts tranchants à tous.
-Tue qui altère l'espace;{315}sinon tue le lanceur.
+Punis les brumes;{315}ou tue le lanceur.
 Vole les PM 4 fois,{315}ennemis au hasard.
 Mort possible sur 1 ennemi.
 Mort possible, tous les ennemis.
@@ -110,7 +110,7 @@ Taillade le point faible. Sacré.
 Forte taillade du point faible. Sacré.
 Taillade le point faible. Ténèbres.
 Forte taillade du point faible. Ténèbres.
-Blesse à coup sûr les monstres de métal.
+Blesse obligatoirement les monstres de métal.
 Gros dégâts aux dragons.
 Gros dégâts à la famille ???.
 Tranche tous les ennemis.
@@ -167,7 +167,7 @@ Prépare un danseur à l'esquive.
 Baisse la précision de tous.
 Éblouit et baisse la précision.
 Baisse les résistances de tous.
-Soigne la plupart des maux du groupe.
+Soigne certains maux du groupe.
 Réduit les stats d'un ennemi.
 Dissipe les effets magiques ennemis.
 Renforce votre prochain souffle.

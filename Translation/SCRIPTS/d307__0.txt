@@ -300,7 +300,7 @@ SAY "{VOICE=03}Oui. L'Incarnus et l'hôte indésirable...{BREAK}Leur venue ici n
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Ancien"
-SAY "{VOICE=03}Le plus simple est d'attendre qu'il{BREAK}se rétablisse, puis de l'interroger.{PAGE}"
+SAY "{VOICE=03}Aidons-le à se rétablir{BREAK}puis posons-lui les questions.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x41200000

@@ -248,7 +248,7 @@ STORE 0x18 0x1 0x3f800000 0x2 0x446d8000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Ancien"
-SAY "{VOICE=03}Il y a peu de temps, un monstre géant{BREAK}en forme de singe a surgi sur cette île.{PAGE}"
+SAY "{VOICE=03}Il y a peu de temps, un singe{BREAK}monstrueux a surgi sur cette île.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Ancien"
@@ -268,7 +268,7 @@ SAY "{VOICE=03}Si notre pouvoir est en train de s'éteindre,{BREAK}c'est sans do
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Ancien"
-SAY "{VOICE=03}...parce que l'hôte indésirable répand{BREAK}le malheur sur notre sanctuaire."
+SAY "{VOICE=03}...parce que l'hôte indésirable saccage{BREAK}notre sanctuaire."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

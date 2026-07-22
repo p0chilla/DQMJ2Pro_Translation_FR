@@ -1,37 +1,37 @@
 
-herbe médicinale
-remède puissant
-remède spécial
-multiremède
-rosée d'Yggdrasil
-élixir magique
-élixir du sage
-élixir elfique
-feuille d'Yggdrasil
-herbe curative
-botryche lunaire
-panacée
-poudre antimagique
-poudre Décuplo
-denier de sorcier
-sou de sorcier
+Herbe médicinale
+Remède puissant
+Remède spécial
+Multiremède
+Rosée d'Yggdrasil
+Elixir magique
+Elixir du sage
+Elixir elfique
+Feuille d'Yggdrasil
+Herbe curative
+Botryche lunaire
+Panacée
+Poudre antimagique
+Poudre Décuplo
+Denier de sorcier
+Sou de sorcier
 Isolacto
-maxi Isolacto
-graine de Compétence
-graine de Vie
-graine de Magie
-graine de Force
-graine de Défense
-graine d'Agilité
-graine de Sagesse
-crottin de monstre
-graine de Joie
-carte de fidélité
-pépite d'or
+Maxi Isolacto
+Graine de Compétence
+Graine de Vie
+Graine de Magie
+Graine de Force
+Graine de Défense
+Graine d'Agilité
+Graine de Sagesse
+Crottin de monstre
+Graine de Joie
+Carte de fidélité
+Pépite d'or
 "Positif mag'"
 "Pensée négative"
 "Terrain neutre"
-sève de desmodium
+Sève de desmodium
 
 
 
@@ -40,48 +40,48 @@ sève de desmodium
 
 
 
-ticket de métal
+Ticket de métal
 
 
-accroquettes
-sels de choc
+Accroquettes
+Sels de choc
 
 Livre d'Apik
 Livre d'Akœur
 Livre d'Akaro
 Livre d'Atrèfle
-parchemin du guerrier
-parchemin du mage
-parchemin du prêtre
-parchemin martial
-parchemin du sage
-parchemin du voleur
-pelotox
-éclat de bombe
+Parchemin du guerrier
+Parchemin du mage
+Parchemin du prêtre
+Parchemin martial
+Parchemin du sage
+Parchemin du voleur
+Pelotox
+Eclat de bombe
 
-médoc en toc
-
-
+Médoc en toc
 
 
-tambourin de tension
-poudre Affaiblo
-altérine
-décélérox
-simpletiol
-protectine
-accélérox
-tiltobiol
+
+
+Tambourin de tension
+Poudre Affaiblo
+Altérine
+Décélérox
+Simpletiol
+Protectine
+Accélérox
+Tiltobiol
 "Soins malins"
 "Sorcellerie secrète"
 "La loi du plus fort"
 "Vives esquives"
 "Vite et bien"
 "Savoir et pouvoir"
-médaille mystérieuse
-clef d'Archéopolis
-anneau de dresseur
-lettre visqueuse
+Médaille mystérieuse
+Clef d'Archéopolis
+Anneau de dresseur
+Lettre visqueuse
 "Gaie guérison"
 
 
@@ -91,9 +91,9 @@ lettre visqueuse
 
 
 
-bout de caillou
-brisure de bronze
-éclat d'argent
+Bout de caillou
+Brisure de bronze
+Eclat d'argent
 
 
 
@@ -105,103 +105,101 @@ brisure de bronze
 
 
 
-pièce détachée
+Pièce détachée
 
-médaille du Mérite
+Médaille du Mérite
 
-cœur de boue
-épée de cuivre
-dague divine
-rapière
-épée large d'acier
-fléau des zombies
-fléau des dragons
-épée d'obsidienne
-épée large d'argent
-punition des zombies
-punition des dragons
-épée de géant
-tueuse de zombies
-tueuse de dragons
-katana perdu
-épée royale
-lance de fer
-fourche
-pique sacrée
-pertuisane
-lance sacrée
-lance de chasse
-lance du Dragon
-hallebarde
-lance de héros
+Coeur de boue
+Epée de cuivre
+Dague divine
+Rapière
+Epée large d'acier
+Fléau des zombies
+Fléau des dragons
+Epée d'obsidienne
+Epée large d'argent
+Punition des zombies
+Punition des dragons
+Epée de géant
+Tueuse de zombies
+Tueuse de dragons
+Katana perdu
+Epée royale
+Lance de fer
+Fourche
+Pique sacrée
+Pertuisane
+Lance sacrée
+Lance de chasse
+Lance du Dragon
+Hallebarde
+Lance de héros
 Gae Bolga
-hache de pierre
-hache de bûcheron
-hache de fer
-hache de boquillon
-hache de bourreau
-hache de guerre
-hache de forestier
-hache de roi
-hache de garde
-hache d'exécuteur
-massue de chêne
-maillet de boue
-marteau de fer
-marteau d'armes
-maillet miraculeux
-clef géante
-masse de guerre
-massue de maraudeur
-marteau de guerre
-masse miraculeuse
-fouet de cuir
-fouet de combat
-fouet d'épines
-claque-vent
-fouet du Serpent
-fouet de chaîne
-fouet du Dragon
-fouet d'acier
-fouet de discipline
-fouet de Gringham
-griffes de pierre
-griffes de métal
-griffes de fer
-griffes sacrées
-griffes sabres
-griffes d'acier
-serres de métal
-serres de griffon
-serres sacrées
-griffes d'orichalque
-bâton de cyprès
-bâton runique
-sceptre du Phénix
+Hache de pierre
+Hache de bûcheron
+Hache de fer
+Hache de boquillon
+Hache de bourreau
+Hache de guerre
+Hache de forestier
+Hache de roi
+Hache de garde
+Hache d'exécuteur
+Massue de chêne
+Maillet de boue
+Marteau de fer
+Marteau d'armes
+Maillet miraculeux
+Clef géante
+Masse de guerre
+Massue de maraudeur
+Marteau de guerre
+Masse miraculeuse
+Fouet de cuir
+Fouet de combat
+Fouet d'épines
+Claque-vent
+Fouet du Serpent
+Fouet de chaîne
+Fouet du Dragon
+Fouet d'acier
+Fouet de discipline
+Fouet de Gringham
+Griffes de pierre
+Griffes de métal
+Griffes de fer
+Griffes sacrées
+Griffes sabres
+Griffes d'acier
+Serres de métal
+Serres de griffon
+Serres sacrées
+Griffes d'orichalque
+Bâton de cyprès
+Bâton runique
+Sceptre du Phénix
 
-sceptre Plus
-sceptre Moins
-bâton de cristal
-bâton des ténèbres
-bâton du sage
-sceptre royal
-épée de fauve
-gluance-missile
-grimasse
-serres d'ébène
-lance diablo
-
-
-pattes
-massglue
-épée miracle
-serres de faucon
-bâton de Paradisia
-griffes de dragon
-trident de gracos
-fouet ensorcelé
+Sceptre Plus
+Sceptre Moins
+Bâton de cristal
+Bâton des ténèbres
+Bâton du sage
+Sceptre royal
+Epée de fauve
+Gluance-missile
+Grimasse
+Serres d'ébène
+Lance diablo
 
 
+Pattes
+Massglue
+Epée miracle
+Serres de faucon
+Bâton de Paradisia
+Griffes de dragon
+Trident de gracos
+Fouet ensorcelé
 
 
 
@@ -210,29 +208,31 @@ fouet ensorcelé
 
 
 
-flamme du renouveau
-larme de dragon
-cristal du temps
-plaque des plaines
-plaque des cimes enneigées
-plaque des falaises
-plaque de la côte
-plaque du Dieu guerrier
-épée galactique
-lame de feu
-tue-lame
-lance des enfers
-lance de l'amour
-hache divine
-brise-étoile
-brise-motivation
-véritable fouet de Gringham
-fouet de sorcière
-griffes de xenlon
-foreuse de noyau
-bâton de lumière
-bâton de chance
-œuf de monstre
+
+
+Flamme du renouveau
+Larme de dragon
+Cristal du temps
+Plaque des plaines
+Plaque des cimes enneigées
+Plaque des falaises
+Plaque de la côte
+Plaque du Dieu guerrier
+Epée galactique
+Lame de feu
+Tue-lame
+Lance des enfers
+Lance de l'amour
+Hache divine
+Brise-étoile
+Brise-motivation
+Véritable fouet de Gringham
+Fouet de sorcière
+Griffes de xenlon
+Foreuse de noyau
+Bâton de lumière
+Bâton de chance
+Oeuf de monstre
 Superdécuplo
 Mégaprotection
 Superaccéléro
@@ -241,17 +241,17 @@ Mégaffaiblo
 Mégaltération
 Mégadécéléro
 Mégamutisme
-soma du Phénix
-parchemin Anti-lame
-parchemin Anti-sort
-parchemin Anti-souffle
-parchemin de guérison
-parchemin de Morry
-parchemin de l'arène
+Soma du Phénix
+Parchemin Anti-lame
+Parchemin Anti-sort
+Parchemin Anti-souffle
+Parchemin de guérison
+Parchemin de Morry
+Parchemin de l'arène
 
 
-parchemin Anti-métal
-parchemin Anti-zone
-parchemin Anti-géant
+Parchemin Anti-métal
+Parchemin Anti-zone
+Parchemin Anti-géant
 
 

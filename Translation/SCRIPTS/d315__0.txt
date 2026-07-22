@@ -56,7 +56,7 @@ STORE 0x18 0x1 0x0 0x2 0x41a80000
 STORE 0x18 0x1 0x3f800000 0x2 0x41000000
 SYS_17 0x8 
 SETNAME "Seigneur Hyurde"
-SAY "{VOICE=03}Prosterne-toi devant mes contres{BREAK}et goûte à un désespoir sans fin！"
+SAY "{VOICE=03}Prosterne-toi devant ma riposte{BREAK}et goûte à un désespoir sans fin！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

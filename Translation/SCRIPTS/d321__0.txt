@@ -498,7 +498,7 @@ SAY "{VOICE=03}Ah là là, désolé de vous avoir effrayés.{BREAK}Mais je vais 
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Roi Sanguini"
-SAY "{VOICE=03}À l'arrivée du Seigneur Hyurde, j'ai ouvert{BREAK}une porte pour me cacher en un autre monde."
+SAY "{VOICE=03}À l'arrivée du Seigneur Hyurde, j'ai ouvert{BREAK}une porte pour me cacher dans un autre monde."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -687,7 +687,7 @@ SYS_14 0x8
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
 SETNAME "Roi Sanguini"
-SAY "{VOICE=03}Non, tu as été un magnifique guerrier.{BREAK}Nous transmettrons ton histoire aux nôtres.{PAGE}"
+SAY "{VOICE=03}Non, tu as été un guerrier talenteux.{BREAK}Nous transmettrons ton histoire aux nôtres.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Roi Sanguini"
@@ -817,7 +817,7 @@ SAY "{VOICE=07}Merci, {NAME}.{BREAK}Grâce à toi, j'ai enfin ouvert les yeux.{P
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Lionyxeau"
-SAY "{VOICE=07}... Moi, je reconnaissais pas les humains.{BREAK}Je les prenais juste pour des faibles.{PAGE}"
+SAY "{VOICE=07}... Moi, je ne comprenais pas les humains.{BREAK}Je les prenais juste pour des faibles.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x40c00000
@@ -1025,15 +1025,15 @@ STORE 0x18 0x1 0x3f800000 0x2 0x447d8000
 SYS_18 0x8 
 SYS_42 0x8 
 SETNAME "Incarnus"
-SAY "{VOICE=07}... {NAME}, je te dois beaucoup.{BREAK}Nos chemins se séparent ici.{PAGE}"
+SAY "{VOICE=07}... {NAME}, je te dois beaucoup.{BREAK}Mais nos chemins se séparent ici.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Incarnus"
-SAY "{VOICE=07}Mais auparavant, accepterais-tu{BREAK}d'écouter une dernière chose？{PAGE}"
+SAY "{VOICE=07}Cependant, accepterais-tu{BREAK}d'écouter une dernière chose？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Incarnus"
-SAY "{VOICE=07}Un Incarnus, mon semblable, cherche un{BREAK}dresseur à qui confier son enfant.{PAGE}"
+SAY "{VOICE=07}Je suis à la recherche d'un{BREAK}dresseur à qui confier mon enfant.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Incarnus"
@@ -1041,11 +1041,11 @@ SAY "{VOICE=07}Si tu croises cet Incarnus en ce monde,{BREAK}tends-lui la main, 
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Incarnus"
-SAY "{VOICE=07}Toi seul sauras guider cet enfant{BREAK}sur la voie juste.{PAGE}"
+SAY "{VOICE=07}Toi seul sauras guider mon enfant{BREAK}sur le droit chemin.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Incarnus"
-SAY "{VOICE=07}... Sur ce, je vais rentrer au monde{BREAK}où mon ami m'attend."
+SAY "{VOICE=07}... Sur ce, je vais rentrer dans mon monde{BREAK}où mon ami m'attend."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
