@@ -1,13 +1,16 @@
-# Dragon Quest Monsters : Joker 2 Professional — Traduction française
+# Dragon Quest Monsters : Joker 2 Professional - Traduction française
 
 Traduction française intégrale de *Dragon Quest Monsters: Joker 2 Professional*
 (Nintendo DS, 2011), jamais sorti hors du Japon.
+
+<img src="./Database/credits.png" width="700">
 
 Ce dépôt est un fork du projet [DQMJ2 Professional Translation](https://github.com/saneezore07/DQMJ2Pro_Translation)
 de **Ceris White** et de son équipe, qui a rendu le jeu modifiable et l'a traduit
 en anglais après quinze ans de blocage technique. Nous en reprenons l'outillage
 et le patcheur pour proposer une version **française**.
 
+<img src="./Database/GUI_Patcher/gui.png" width="300">
 ---
 
 ## Fonctionnalités
@@ -42,9 +45,9 @@ exactement de même avec la traduction officielle anglaise.)
 Tableaux consultables, générés en **mappant** chaque terme vers la terminologie
 officielle française du jeu (donc cohérents avec ce que vous voyez à l'écran) :
 
-- Recettes de [synthèse](Database_FR/synthesis_database.csv)
-- [Stats et traits](Database_FR/monster_database.csv) des monstres
-- [Résistances](Database_FR/monster_resistance_database.csv) élémentaires et de statut
+- Recettes de [synthèse](traduction_fr/Database_FR/synthesis_database.csv)
+- [Stats et traits](traduction_fr/Database_FR/monster_database.csv) des monstres
+- [Résistances](traduction_fr/Database_FR/monster_resistance_database.csv) élémentaires et de statut
 
 ---
 
@@ -56,7 +59,7 @@ officielle française du jeu (donc cohérents avec ce que vous voyez à l'écran
 2. Lancez le patcheur (`DQMJ2PPatcher-FR.exe`), sélectionnez votre ROM, choisissez
    vos options, patchez. **La traduction, le patch mémoire (arm9) et l'anti-piracy
    sont appliqués automatiquement.**
-3. Jouez sur émulateur en **mode DS** (et non DSi) — melonDS ou DeSmuME — ou sur
+3. Jouez sur émulateur en **mode DS** (et non DSi) - melonDS ou DeSmuME - ou sur
    une vraie DS / 3DS (custom firmware requis pour la 3DS).
 
 Le guide joueur détaille la procédure pas à pas.
@@ -100,7 +103,7 @@ Le guide joueur détaille la procédure pas à pas.
   Professional* et *DQM2 3DS*).
 - **TheFrenchPepeAI** : traduction, outillage d'extraction et de contrôle,
   transplantation de la version officielle, écrans personnalisés.
-- **Reflex** : accueil du projet français au sein du dépôt.
+- **Reflex** : traduction, playtest.
 
 **Testeurs (version anglaise)** : Ilario, Reflex, Gerb, Darko, GemSlimee,
 Hoodinibobeenie, Mad Raigo, Matthew McConville, Nurfed, Chris, diortememirp,
