@@ -1,4 +1,4 @@
-# Dragon Quest Monsters : Joker 2 Professional — Traduction française
+# Dragon Quest Monsters : Joker 2 Professional - Traduction française
 
 Traduction française intégrale de *Dragon Quest Monsters: Joker 2 Professional*
 (Nintendo DS, 2011), jamais sorti hors du Japon.
@@ -59,7 +59,7 @@ officielle française du jeu (donc cohérents avec ce que vous voyez à l'écran
 2. Lancez le patcheur (`DQMJ2PPatcher-FR.exe`), sélectionnez votre ROM, choisissez
    vos options, patchez. **La traduction, le patch mémoire (arm9) et l'anti-piracy
    sont appliqués automatiquement.**
-3. Jouez sur émulateur en **mode DS** (et non DSi) — melonDS ou DeSmuME — ou sur
+3. Jouez sur émulateur en **mode DS** (et non DSi) - melonDS ou DeSmuME - ou sur
    une vraie DS / 3DS (custom firmware requis pour la 3DS).
 
 Le guide joueur détaille la procédure pas à pas.
@@ -103,7 +103,7 @@ Le guide joueur détaille la procédure pas à pas.
   Professional* et *DQM2 3DS*).
 - **TheFrenchPepeAI** : traduction, outillage d'extraction et de contrôle,
   transplantation de la version officielle, écrans personnalisés.
-- **Reflex** : accueil du projet français au sein du dépôt.
+- **Reflex** : traduction, playtest.
 
 **Testeurs (version anglaise)** : Ilario, Reflex, Gerb, Darko, GemSlimee,
 Hoodinibobeenie, Mad Raigo, Matthew McConville, Nurfed, Chris, diortememirp,
