@@ -162,9 +162,9 @@ Tigriff
 
 Géant
 Cocoricoq
-Méno Macho
+Primate Zombie
 Meno macho
-Chef troll
+Roi Sanguini
 Chef troll
 Atlas
 Mister taupe
@@ -315,15 +315,15 @@ Chien de l'enfer
 Soldat squelette
 Épéiste fantôme
 Roi maudit
-Glanclan X
-Squelette X
-Roi gowin de klenfer II
-Dragon vert X
-Sacatrésor X
-Sanguini vache X
-Chimère XY
+Crabe Sombre
+Cardinal Crôtale
+Chevalier Karbon
+Epidémon
+Ventripothame
+Décomposaure
+Erebos le Fou
 
-Sanguini vache XY
+Roi Govin de Klenfer II
 
 
 
@@ -387,7 +387,7 @@ Gazosaure
 Hippocampik
 Serpolaire
 Hydragon
-Dragon du zénith
+Dragon du Zénith
 Altérapace
 Barracuda
 Puce tule
@@ -466,7 +466,7 @@ Lionyx
 Grand dragon
 Roi maudit
 Roi gluant de métal
-Lord Lionel
+Chiron
 Capitaine Crow
 Vilionyx
 
@@ -485,8 +485,8 @@ Mister taupe
 Canzer
 Armure errante
 Rigor mortex
-Armure fatale
-Rosegarde
+Chevalier Karbon
+Chevalier Aberrant
 Phix
 Serpenlair
 Seigneur dragovien
@@ -494,7 +494,7 @@ Léopold
 Machine à exterminer
 Shivattak
 Gluant de mercure
-Furibombyx
+Sagitaure
 Trauminator
 Bastonnier
 Mac-hulotte
