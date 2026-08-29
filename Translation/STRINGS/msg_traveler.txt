@@ -1,5 +1,5 @@
 ????????
-Professionnel
+Professionnels
 Équipe
 Soigner vos monstres
 Rang
@@ -9,8 +9,8 @@ Objets et armes
 Championnat du Monde
 Combats tombola
 Échange
-Invités
-Perdre la marque
+Monstres Invités
+La marque "Invité"
 Dresser
 Dressage réussi
 Remplaçants

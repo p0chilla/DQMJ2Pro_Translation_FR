@@ -24,8 +24,8 @@ Combattre
 Score
 Effacer
 
-De la carte au trésor
-Du Royaume fantôme
+Depuis l'équipe
+Depuis l'enclos des monstres
 Depuis les favoris
 Oui
 Non
@@ -54,9 +54,9 @@ Accédez à la réorganisation pour configurer l'équipe des Combats tombola.
 Choisissez parmi vos favoris pour configurer l'équipe des Combats tombola.{315}Vous pouvez également réorganiser votre liste de favoris.
 
 Activer la communication Combats tombola？
-　Recherche d'adversaires en cours...{315}Vous pouvez fermer votre console de la série Nintendo DS à tout moment. Appuyez sur le bouton B pour interrompre la communication Combats tombola.
-　　　　Choisissez l'action à attribuer à chacun{315}de vos adversaires des Combats tombola.
-　　　　{322} adversaire(s) trouvé(s)！{315}Appuyez sur le bouton B pour quitter les Combats tombola.
+Recherche d'adversaires en cours...{315}Vous pouvez fermer votre console de la série Nintendo DS à tout moment. Appuyez sur le bouton B pour interrompre la communication Combats tombola.
+Choisissez l'action à attribuer à chacun{315}de vos adversaires des Combats tombola.
+{322} adversaire(s) trouvé(s)！{315}Appuyez sur le bouton B pour quitter les Combats tombola.
 Vous défiez {322}！
 Vous défiez l'équipe DQM Joker 2{315}de {322}！
 
