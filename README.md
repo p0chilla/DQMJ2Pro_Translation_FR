@@ -78,6 +78,13 @@ Le guide joueur détaille la procédure pas à pas.
 - **Renommer un monstre** dont le nom d'origine dépasse 13 caractères provoque un
   défaut d'affichage du clavier tactile. C'est purement visuel, la saisie
   fonctionne.
+- L'**éditeur de sauvegardes** (`DQMJ2P-EditeurSaves-FR.exe`) affiche
+  « impossible de charger le convertisseur » au lancement, même placé à côté de
+  `Pro_Tools` : une fois empaqueté, il cherche ce dossier dans
+  `C:\Users\<nom>\AppData\`. En attendant un exe corrigé, copiez-y le dossier
+  `Pro_Tools` du dépôt (dans `AppData`, pas dans `AppData\Roaming`), puis copiez
+  le dossier `Translation` du dépôt dans ce `Pro_Tools` pour afficher les noms
+  des monstres au lieu de `unknown#<id>`.
 
 ---
 
