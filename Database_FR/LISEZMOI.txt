@@ -1,0 +1,46 @@
+BASES DE DONNÉES DE RÉFÉRENCE - VERSION FRANÇAISE
+==================================================
+
+Trois tableaux de référence pour les joueurs (l'équivalent français des CSV du
+projet anglais) :
+
+  - monster_database.csv           stats + traits de chaque monstre
+  - monster_resistance_database.csv résistances élémentaires et de statut
+  - synthesis_database.csv          recettes de synthèse
+
+COMMENT ILS SONT FAITS
+----------------------
+Ils ne sont PAS traduits à la main. Le script outils_fr/traduit_csv.py les
+génère en MAPPANT chaque terme anglais vers la terminologie officielle française
+DÉJÀ transplantée dans le jeu (STRINGS) :
+
+  - noms de monstres  <- msg_monstername   (Slime = Gluant)
+  - traits            <- msg_tokusei       (Artful Dodger = Double esquive)
+  - éléments/statuts  <- msg_taiseiname    (Frizz = Flamme, Sizz = Crame)
+
+Résultat : cohérent à 100 % avec ce que le joueur voit à l'écran. Rejouable à
+volonté (relancer le script).
+
+COUVERTURE
+----------
+  - noms de monstres : ~98 % des cases
+  - traits           : ~84 % des cases
+  - familles/éléments/résistances : 100 %
+
+CE QUI RESTE EN ANGLAIS (voir RESIDUS_CSV_FR.txt)
+-------------------------------------------------
+  - 17 monstres renommés par la localisation anglaise Pro : ils n'ont aucune
+    correspondance textuelle automatique (ex. bosses et monstres spéciaux).
+  - ~26 traits que le CSV anglais nomme autrement que le jeu, sans équivalent
+    sûr. Laissés en anglais plutôt que devinés (un doc de référence doit être
+    juste). À compléter par un connaisseur DQ.
+
+NON MODIFIÉ
+-----------
+Les CSV FONCTIONNELS lus par le patcheur (Database/GUI_Patcher/.../randomizer/ et
+new_synths_*.csv) ne sont PAS touchés : les traduire casserait le build. Ces
+tableaux-ci sont purement de la documentation.
+
+Familles : les noms de familles ne figurent pas dans le texte extractible du jeu
+(affichés via icône). Noms DQ FR standard utilisés (Gluant, Bête, Nature,
+Matériel, Dragon, Démon, Mort-vivant, ???).

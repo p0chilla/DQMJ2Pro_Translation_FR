@@ -116,8 +116,8 @@ STORE 0x18 0x1 0x0 0x0 0x40800000
 STORE 0x18 0x1 0x3f800000 0x2 0x43040000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}Oh, my dear pugsie-wugsie!{BREAK}You're safe and sound!"
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Oh, mon petit bouchon.{BREAK}Tu es saine et sauve！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -157,8 +157,8 @@ STORE 0x18 0x1 0x0 0x0 0x40000000
 STORE 0x18 0x1 0x3f800000 0x2 0x42d00000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}Wait there, dear Countess! You've really given us the royal run-around."
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Dis donc, ma Comtesse！ Tu nous as bien fait courir."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

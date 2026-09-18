@@ -107,8 +107,8 @@ WAIT 0x10 0x2 0x42200000
 SPAWN 0x10 L_3a04
 DATA 0x00000008
 SYS_42 0x8 
-SETNAME "Miles"
-SAY "{VOICE=07}Hey man, why you encroachin' on our turf? You launchin' a one-man invasion!?"
+SETNAME "Taupla"
+SAY "{VOICE=07}Hé, qu'est-ce que vous faites sur nos plates-bandes？{PAGE}{WAIT}{CLEAR}Vous tentez une invasion en solo！?"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -162,12 +162,12 @@ STORE 0x18 0x1 0x0 0x2 0x42e60000
 SYS_33 0x8 
 WAIT 0x10 0x2 0x40a00000
 SYS_42 0x8 
-SETNAME "Eugene Poole"
-SAY "{VOICE=03}...An invasion!? Why, I've never heard anything so preposterous!{WAIT}{CLEAR}I am merely an old man who comes in peace."
+SETNAME "Eugène Étik"
+SAY "{VOICE=03}... Une invasion！? Je n'ai jamais rien entendu d'aussi grotesque！{PAGE}{WAIT}{CLEAR}Je suis juste un vieil homme qui vient en paix.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Eugene Poole"
-SAY "{VOICE=03}In a fit of absent-mindedness, I may have given that unfortunate mole a nasty bump..."
+SETNAME "Eugène Étik"
+SAY "{VOICE=03}J'ai peut-être bousculé une taupe dans un moment de distraction, mais..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -194,8 +194,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x442f4000
 SYS_18 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Billie"
-SAY "{VOICE=08}Never mind that, daddy-o!{BREAK}Just what are you, anyway!?{WAIT}{CLEAR}I ain't never seen a monster like you before."
+SETNAME "Miopy"
+SAY "{VOICE=08}Oubliez ça, papy！ Mais qu'est-ce que vous êtes, au juste！?{PAGE}{WAIT}{CLEAR}Je n'avais encore jamais vu de monstre comme vous."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -207,8 +207,8 @@ STORE 0x18 0x1 0x0 0x0 0x3f800000
 STORE 0x18 0x1 0x3f800000 0x2 0x42c20000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Eugene Poole"
-SAY "{VOICE=03}I can assure you, my dearest Madame Mole, that I am no monster.{WAIT}{CLEAR}I am a genuine, certified human being!"
+SETNAME "Eugène Étik"
+SAY "{VOICE=03}Chère Madame, je puis vous assurer que je ne suis pas un monstre.{PAGE}{WAIT}{CLEAR}Je suis un authentique être humain！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -250,20 +250,20 @@ STORE 0x18 0x1 0x3f800000 0x2 0x40e00000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41880000
 SYS_42 0x8 
-SETNAME "Duke"
-SAY "{VOICE=07}I got it! There's only one thing a mystified mole can do at a time like this...{WAIT}{CLEAR}...Consult the good doctor!"
+SETNAME "Iggytaupe"
+SAY "{VOICE=07}Bon... Dans un moment pareil, une taupe perplexe n'a qu'une chose à faire...{PAGE}{WAIT}{CLEAR}... consulter ce bon docteur！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 SPAWN 0x10 L_3704
 DATA 0x00000005
 SYS_42 0x8 
-SETNAME "Billie"
-SAY "{VOICE=08}Now you're talkin', brother! Dr Lump's our in-house synthesis expert.{WAIT}{CLEAR}What he don't know 'bout monsters ain't worth knowin'."
+SETNAME "Miopy"
+SAY "{VOICE=08}Ça, c'est parlé, mon frère！ Le Dr Flappy est notre expert en synthèse.{PAGE}{WAIT}{CLEAR}S'il ignore quelque chose sur les monstres, c'est que ça n'a aucun intérêt.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Billie"
-SAY "{VOICE=08}So let's see what Dr Lump has to say. Let's go, daddy-o!"
+SETNAME "Miopy"
+SAY "{VOICE=08}Alors voyons ce que le Dr Flappy aura à nous dire. Allons-y, papy！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -305,16 +305,16 @@ SPAWN 0x10 L_3c58
 DATA 0x0000000a
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Eugene Poole"
-SAY "{VOICE=03}P-Please! Don't molehandle me! Wh-Where are you taking me...!?"
+SETNAME "Eugène Étik"
+SAY "{VOICE=03}J-Je vous en prie！ Ne me faites pas de mal！ Où m'emmenez-vous...!?"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 SPAWN 0x10 L_3a04
 DATA 0x00000008
 SYS_42 0x8 
-SETNAME "Miles"
-SAY "{VOICE=07}Hm? Looks like someone's come to crash the party."
+SETNAME "Taupla"
+SAY "{VOICE=07}Mmm？ Je crois que quelqu'un vient gâcher la fête."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -380,12 +380,12 @@ STORE 0x18 0x1 0x0 0x0 0x41700000
 STORE 0x18 0x1 0x3f800000 0x2 0x3e6147ae
 SYS_54 0x8 
 SYS_42 0x8 
-SETNAME "Eugene Poole"
-SAY "{VOICE=03}Oh my dear boy, it's such a relief to see a familiar face!{WAIT}{CLEAR}This has all been rather trying. I'm not as young as I used to be, you know!"
+SETNAME "Eugène Étik"
+SAY "{VOICE=03}Oh, très cher jeune homme, quel soulagement de voir un visage familier！{PAGE}{WAIT}{CLEAR}Tous ces événements ont été très éprouvants. Je n'ai plus 20 ans！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Eugene Poole"
-SAY "{VOICE=03}Could you help me out of my little predicament?"
+SETNAME "Eugène Étik"
+SAY "{VOICE=03}Pouvez-vous m'aider à me sortir de cette situation délicate？"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -411,8 +411,8 @@ STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_B1 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Billie"
-SAY "{VOICE=08}Woah! Looks like an even freakier-lookin' monster's come to bust him out."
+SETNAME "Miopy"
+SAY "{VOICE=08}Ouah！ On dirait qu'un monstre encore plus bizarre est venu l'aider à s'échapper."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -426,8 +426,8 @@ WAIT 0x10 0x2 0x41f00000
 SPAWN 0x10 L_3a04
 DATA 0x00000008
 SYS_42 0x8 
-SETNAME "Miles"
-SAY "{VOICE=07}Well sister, they picked the wrong moles to mess with! Let's get 'em!"
+SETNAME "Taupla"
+SAY "{VOICE=07}Eh bien, ma sœur, ils s'en sont pris aux mauvaises taupes！ Attrapons-les！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -572,8 +572,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x41f00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Billie"
-SAY "{VOICE=08}Check this out! That freaky-lookin' monster don't give up easily."
+SETNAME "Miopy"
+SAY "{VOICE=08}Regarde-moi ça！ Ce monstre bizarre ne cède pas facilement."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -585,8 +585,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x41100000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Duke"
-SAY "{VOICE=07}Back for more!? Seems he's got a taste for bein' beaten black and blue."
+SETNAME "Iggytaupe"
+SAY "{VOICE=07}Il en veut encore！? On dirait qu'il aime bien se faire tabasser."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -598,8 +598,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x41100000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Miles"
-SAY "{VOICE=07}C'mon, brothers and sisters! Let's remind him how these moles roll!"
+SETNAME "Taupla"
+SAY "{VOICE=07}Mes frères et mes sœurs！ Montrons-lui comment ça se passe chez les taupes！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

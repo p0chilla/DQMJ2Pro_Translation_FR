@@ -77,15 +77,15 @@ WAIT 0x10 0x2 0x41f00000
 STORE 0x18 0x1 0x0 0x2 0x42820000
 SYS_A5 0x8 
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}...Oi!"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}......Hé......"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Oi, wake up, ye wee stowaway!{BREAK}Ye've rested enough!"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Hé, debout！ Réveille-toi, {NAME}, le clandestin！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -150,8 +150,8 @@ STORE 0x18 0x1 0x0 0x0 0x40a00000
 STORE 0x18 0x1 0x3f800000 0x2 0x3f800000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}I didnae get a wink o' sleep all night.{BREAK}Ma poor mind's been racin'...{WAIT}{CLEAR}But I've come up with a decisive plan of action!"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}... Hé-oh！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x3f800000
@@ -161,24 +161,24 @@ WAIT 0x10 0x2 0x42340000
 STORE 0x18 0x1 0x0 0x0 0x3f800000
 STORE 0x18 0x1 0x3f800000 0x2 0x428c0000
 SYS_18 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}We're goin' intae that jungle, laddie!{WAIT}{CLEAR}It'll be dangerous, but there might be other survivors requirin' assistance."
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Ohé, réveille-toi, petit clandestin！{BREAK}Tu as assez dormi！"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}I'm goin' tae have tae busy myself repairin' this stricken vessel."
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Je n'ai pas fermé l'œil de la nuit. Je n'ai pas arrêté de réfléchir à tout ça...{PAGE}{WAIT}{CLEAR}Mais j'ai élaboré un plan d'action！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}While I'm up to ma elbows in grease,{BREAK}ye'll need to make yer own way aroond."
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}On va aller dans cette jungle, fiston！ Ce sera dangereux...{PAGE}{WAIT}{CLEAR}... mais il y a peut-être d'autres survivants qui ont besoin de nous.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}That's why I think it's best if I give ye a wee tour of the area."
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Pour le moment, je vais devoir essayer de réparer ce vaisseau déglingué.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}C'mon, laddie! Time's a-wastin'!"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Pendant que j'aurai les mains dans le cambouis, tu exploreras les lieux.{PAGE}{WAIT}{CLEAR}Donc je pense qu'il serait préférable{BREAK}que je te montre un peu le secteur.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -197,8 +197,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x42880000
 SYS_18 0x8 
 STORE 0x18 0x0 0x0 0x2 0x3f800000
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Och, I nearly forgot!"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Allez, fiston！ Il n'y a pas de temps à perdre！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -234,8 +234,8 @@ STORE 0x18 0x1 0x0 0x0 0x3f800000
 STORE 0x18 0x1 0x3f800000 0x2 0x428c0000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Ye havenae got a single monster tae yer name, have ye? Ye'd best come with me."
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Oh, j'ai failli oublier！{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

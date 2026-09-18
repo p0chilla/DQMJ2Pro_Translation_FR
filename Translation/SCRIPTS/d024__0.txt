@@ -397,7 +397,7 @@ STORE 0x18 0x1 0x0 0x2 0x40400000
 SYS_A7 0x8 
 SYS_AC 0x8 
 SYS_42 0x8 
-SAY "{COLOR=2}{E321}{NAME} obtains the mysterious medal!"
+SAY "{COLOR=2}{E321}{NAME} obtient la médaille mystérieuse！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -474,8 +474,8 @@ STORE 0x18 0x1 0x0 0x0 0x41000000
 STORE 0x18 0x1 0x3f800000 0x2 0x42880000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Oooch! Auch! The pain! The pain!{BREAK}...Where am I anyway!?"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Nom d'une clef à molette！ Ce ne serait pas notre petit passager clandestin？{PAGE}{WAIT}{CLEAR}Est-ce que c'est à ton intervention que je dois mon salut, fiston？"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -508,24 +508,24 @@ STORE 0x18 0x1 0x0 0x0 0x41000000
 STORE 0x18 0x1 0x3f800000 0x2 0x428c0000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Jings! If it isnae the wee stowaway!"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Dans ce cas, il est grand temps que j'arrête de t'appeler \"le clandestin\".{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Do I owe ma rapid reversal o' fortune tae your intervention, laddie?"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Je te suis redevable, fiston！ Ça ne fait plus aucun doute...{PAGE}{WAIT}{CLEAR}Tu es un vrai dresseur de monstres, maintenant！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Well then, I suppose it's high time I stop callin' ye the stowaway."
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}La situation avait l'air désespérée, mais tu nous as redonné espoir！"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}I owe ye one, laddie! And there's no doubt aboot it...{WAIT}{CLEAR}...Yer a real monster scout now!"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Bob！ {E321}{NAME}！ La Déesse soit louée, vous êtes sains et saufs！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Things were lookin' bleak, but ye've given us a fightin' chance!"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Je suis sincèrement désolé, Bob, mais quelque chose a retenu mon attenti..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -640,12 +640,12 @@ STORE 0x18 0x1 0x0 0x0 0x40c00000
 STORE 0x18 0x1 0x3f800000 0x2 0x42a40000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}Rory! {E321}{NAME}! Thank the Goddess you're both alright!"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}... (gloups) C-Cette médaille！ L-Laissez-moi y jeter un œil..."
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Archie Logg"
-SAY "{VOICE=07}Now, I'm terribly sorry, Rory, but something has come to my attenti-"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Aucun doute possible. Ce qui signifie que les légendes disent vrai. Je le SAVAIS！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -697,8 +697,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x3e99999a
 SYS_54 0x8 
 WAIT 0x10 0x2 0x40a00000
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}...(gasp) Th-That medal! L-Let me take a look..."
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Ce monstre géant m'a tout de suite fait penser à un passage que j'avais lu...{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -757,8 +757,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x41200000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x42b40000
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}There's no mistaking that insignia. This means the legends are true. I KNEW it!"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}D'après la légende, il existait autrefois un extraordinaire maître dresseur.{PAGE}{WAIT}{CLEAR}On dit qu'il était capable de soumettre les plus grands monstres...{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -829,8 +829,8 @@ STORE 0x18 0x1 0x0 0x0 0x40c00000
 STORE 0x18 0x1 0x3f800000 0x2 0x42a00000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}The instant I saw that huge monster,{BREAK}I recalled something I once read..."
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Et le symbole qui figure sur cette médaille est celui de ce maître dresseur！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x40c00000
@@ -843,8 +843,8 @@ WAIT 0x10 0x2 0x41a00000
 STORE 0x18 0x1 0x0 0x0 0x40c00000
 STORE 0x18 0x1 0x3f800000 0x2 0x42a40000
 SYS_18 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}According to legend, there once lived an extraordinary master scout.{WAIT}{CLEAR}It is said that he was able to bend even the greatest of monsters to his will..."
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Vous ne voyez pas ce que ça veut dire！?{PAGE}{WAIT}{CLEAR}C'est sur cette île sacrée que vivait autrefois ce dresseur légendaire！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -893,8 +893,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x40a00000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x40a00000
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}And the symbol on that medal is that of the master scout!"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Tu es en train de nous dire que tu veux continuer à explorer cet endroit！?{PAGE}{WAIT}{CLEAR}Tu n'as donc pas retenu la leçon, mon garçon？"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -955,8 +955,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x3c23d70a
 SYS_54 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}Don't you see what this means!?{WAIT}{CLEAR}This sacred island was once home to that legendary scout!"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Bien sûr, vous avez raison. Je vais immédiatement retourner au vaisseau.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -1001,8 +1001,8 @@ STORE 0x18 0x1 0x0 0x0 0x41000000
 STORE 0x18 0x1 0x3f800000 0x2 0x428c0000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}So yer sayin' ye want tae keep investigatin' this place!?{WAIT}{CLEAR}Have ye no learned yer lesson yet, laddie?"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Je vous en prie, veillez sur cet objet comme sur la prunelle de vos yeux.{PAGE}{WAIT}{CLEAR}Il est d'une importance historique fondamentale."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -1043,8 +1043,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x42bc0000
 SYS_18 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}...Of course. You're right. I shall return to the ship immediately."
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Oh et tant que je vous tiens, mes petites cervelles de moineaux...{PAGE}{WAIT}{CLEAR}... vous n'auriez pas vu d'autres passagers du vaisseau, par hasard？ "
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -1084,8 +1084,8 @@ STORE 0x18 0x1 0x0 0x0 0x40c00000
 STORE 0x18 0x1 0x3f800000 0x2 0x42a40000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}{E321}{NAME}, please guard that artifact with your life.{WAIT}{CLEAR}It is of supreme historical importance."
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Je crains que non. Mais j'ai trouvé un passage pour rejoindre les plaines.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -1138,8 +1138,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x41a00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Och, one other thing while yer here,{BREAK}ye wee brainbox.{WAIT}{CLEAR}Ye didnae happen tae spot anyone else from the ship, did ye?"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Écoutez-moi attentivement. Je vais vous dire où il se trouve exactement..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -1151,12 +1151,12 @@ STORE 0x18 0x1 0x0 0x0 0x40c00000
 STORE 0x18 0x1 0x3f800000 0x2 0x42a40000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}I'm afraid not. But I did find a passageway to the plains."
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Je n'ai vu personne, hélas. Mais j'ai{BREAK}découvert un passage qui mène à Prairia.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Archie Logg"
-SAY "{VOICE=07}Listen carefully and I'll tell you precisely where it's located..."
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Laissez-moi vous indiquer l'endroit{BREAK}à tous les deux."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -1178,13 +1178,13 @@ STORE 0x18 0x1 0x40000000 0x2 0x41200000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SAY "{COLOR=2}{E321}{NAME} can now go to a new region - the Doubtback!"
+SAY "{COLOR=2}{E321}{NAME} peut désormais accéder à une nouvelle région： Prairia！"
 WAIT 0x10 0x2 0x3f800000
 STORE 0x18 0x1 0x0 0x2 0x42780000
 SYS_A5 0x8 
 WAIT 0x10 0x2 0x42340000
 WAIT 0x10 0x2 0x41200000
-SAY "{COLOR=2}Go to the main map and the new region will be displayed!{WAIT}{CLEAR}From then on, you'll be able to use Zoom to go straight there."
+SAY "{COLOR=2}Rendez-vous sur la carte principale et la nouvelle région s'affichera！{PAGE}{WAIT}{CLEAR}Ensuite, vous pourrez utiliser la Téléportation pour y aller directement."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -1215,8 +1215,8 @@ STORE 0x18 0x1 0x0 0x0 0x41000000
 STORE 0x18 0x1 0x3f800000 0x2 0x428c0000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}All right, let's head back tae the good auld Albatross."
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Bien, retournons à ce bon vieil Albatros."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

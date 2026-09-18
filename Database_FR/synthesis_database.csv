@@ -1,0 +1,336 @@
+Résultat,Rang,Famille,Monstre 1,Monstre 2,Monstre 3,Monstre 4
+Gluant moucheté,E,Gluant,Gluant,Gluante,,
+Gigluante,D,Gluant,Gigluant,Gluante,,
+Monte-gluant de métal,D,Gluant,Gluant de métal,Cavale-démon,,
+Monte-gluant de métal,D,Gluant,Gluant de métal,Monte-gluant,,
+Roi gluant moucheté,D,Gluant,Gluant moucheté,Gluant moucheté,Gluant moucheté,Gluant moucheté
+Roi gluant moucheté,D,Gluant,Gigluant,Gigluante,,
+Guérigluant,C,Gluant,Médigluant,Gigluante,,
+Roi gluant,C,Gluant,Gigluant,Gigluant,,
+Gluant de mercure,C,Gluant,Gluant de métal,Gluant de métal,,
+Monte-vampigluant,B,Gluant,Vampigluant,Cavale-démon,,
+Monte-vampigluant,B,Gluant,Vampigluant,Monte-gluant,,
+Roi guérigluant,B,Gluant,Roi gluant,Roi gluant,,
+Monstruœuf,B,Gluant,Grœuf,Roi gluant moucheté,,
+Roi gluanbulle,A,Gluant,Gluanbulle,Gluanbulle,Roi gluant,Roi gluant
+Gluanpereur de métal,A,Gluant,Monte-gluant de métal,Monte-gluant de métal,Roi guérigluant,Roi guérigluant
+Roi gluant de métal,A,Gluant,Gluant de mercure,Gluant de mercure,Gluant de mercure,Gluant de mercure
+Canzer,S,Gluant,Gluandor,Gluandor,Glanclan X,Glanclan X
+Gluant ténérium,S,Gluant,Gigluante,Gigluante,Roi gluant de métal,Roi gluant de métal
+Gluancien,S,Gluant,Roi guérigluant,Roi guérigluant,Gluanpereur de métal,Gluanpereur de métal
+Monte-gluancien,S,Gluant,Gluanpereur de métal,Gluanpereur de métal,,
+Gluant de diamant,SS,Gluant,Gluandor,Gluandor,Gluant ténérium,Gluant ténérium
+Gluandor,SS,Gluant,Gluancien,Gluancien,Phix,Phix
+Roi gluant de mercure,SS,Gluant,Gluant satellite,Gluant de diamant,,
+Chargosaure,E,Dragon,Komodor,Lézard argon,,
+Chargosaure,E,Dragon,Komodor,Fri-fri,,
+Dragon vert,E,Dragon,Souffleu,Souffleu,,
+Dragon de métal,C,Dragon,Dragon rouge,Mécachasseur,,
+Dragon marin,C,Dragon,Aquasaure,Malicongre,,
+Dragon marin,C,Dragon,Aquasaure,Mille-armes,,
+Dragonnier,B,Dragon,Dingodrag,Cavale-démon,,
+Dragonnier,B,Dragon,Dingodrag,Monte-gluant,,
+Serpenlair,B,Dragon,Serpolaire,Serpolaire,Serpolaire,Serpolaire
+Frou-frou,B,Dragon,Fri-fri,Fri-fri,Fri-fri,Fri-fri
+Grand lézard argon,B,Dragon,Lézard argon,Lézard argon,Lézard argon,Lézard argon
+Général mandragore,B,Dragon,Escrimeur fantôme,Dragon rouge,,
+Grand dragon,A,Dragon,Rashaverak,Atoner,,
+Grand dragon,A,Dragon,Rashaverak,Troublosaure,,
+Grand dragon,A,Dragon,Rashaverak,Tensiocératops,,
+Grand dragon,A,Dragon,Rashaverak,Carnagénie,,
+Mécadragon,A,Dragon,Dragon de métal,Grand dragon,,
+Mécadragon,A,Dragon,Dragon de métal,Rashaverak,,
+Rashaverak,A,Dragon,Grand lézard argon,Grand lézard argon,Frou-frou,Frou-frou
+Troublosaure,A,Dragon,Chevalier aberrant,Dragonnier,,
+Troublosaure,A,Dragon,Chevalier aberrant,Dracularge,,
+Troublosaure,A,Dragon,Chevalier aberrant,Général mandragore,,
+Troublosaure,A,Dragon,Chevalier aberrant,Tensiocératops,,
+Dragon d'albâtre,S,Dragon,Mécadragon,Draculard,,
+Chiron,S,Dragon,Phix,Scarabrute,,
+Chiron,S,Dragon,Phix,Dragon noir,,
+Dragon noir,S,Dragon,Grand dragon,Baron d'os,,
+Dragon noir,S,Dragon,Grand dragon,Gémon,,
+Lordraco,S,Dragon,Grand dragon,Shivattak,,
+Draculard,S,Dragon,Dracularge,Atlas,,
+Draculard,S,Dragon,Dracularge,Bélial,,
+Draculard,S,Dragon,Dracularge,Pazuzu,,
+Trianguille,S,Dragon,Garde octavien,Grand dragon,,
+Trianguille,S,Dragon,Garde octavien,Rashaverak,,
+Lordragon,SS,Dragon,Lordraco,Dragon d'albâtre,,
+Seigneur dragovien,SS,Dragon,Lordragon,Rhapthorne Ⅱ,,
+Grizius,SS,Dragon,Barbarus,Seigneur dragovien,,
+Hydragon,SS,Dragon,Trianguille,Trianguille,Chiron,Chiron
+Xenlon,SS,Dragon,Grizius,Dragon du temps,,
+Xenlon,SS,Dragon,Grizius,Dark-en-ciel,,
+Xenlon,SS,Dragon,Grizius,Yggdrasil,,
+Xiphos,SS,Dragon,Capitaine Crow,Nokturnus,,
+Dragon du zénith,SS,Dragon,Lordragon,Xenlon,,
+Scarapince,F,Nature,Fourmic-mac,Talismaboule,,
+Smilodon,C,Nature,Smilodon de lait,Smilodon de lait,Smilodon de lait,Smilodon de lait
+Moby pick,C,Nature,Dragon marin,Ailéopard,,
+Moby pick,C,Nature,Dragon marin,Vercule,,
+Tronc-bine,C,Nature,Souche louche,Souche louche,Piperaduo,Piperaduo
+Tronc-bine,C,Nature,Souche louche,Souche louche,Gourdéchaîné,Gourdéchaîné
+Écrevicieux,C,Nature,Crabarbare,Crabarbare,,
+Scarablindé,B,Nature,Scarapince,Scarapince,Scarapince,Scarapince
+Nécromante,B,Nature,Scorpion,Mille-armes,,
+Tizon,B,Nature,Grand faucheur,Aiglefeu,,
+Glazon,A,Nature,Grand faucheur,Rapaglace,,
+Faucondor,A,Nature,Condor infernal,Aligatueur,,
+Dangerose,A,Nature,Lord Lionel,Cercœil,,
+Aligatueur,A,Nature,Requindrupède,Mégalodon,,
+Faras le cavalier,A,Nature,Baron d'os,Général mandragore,,
+Rase-marée,A,Nature,Aligatueur,Scarablindé,,
+Rase-marée,A,Nature,Aligatueur,Carnigore,,
+Rase-marée,A,Nature,Aligatueur,Bouffon baffeur,,
+Scarabrute,S,Nature,Scarablindé,Scarablindé,Scarablindé,Scarablindé
+Scarabrute,S,Nature,Scarablindé,Roi gluant de métal,,
+Mac-léo,S,Nature,Smilodon,Chimère XY,Rosegarde,Shivattak
+Khalamar,S,Nature,Khalamarmot,Khalamarmot,Calmaroi,Calmaroi
+Calmaroi,S,Nature,Aligatueur,Sacatrésor X,,
+Calmaroi,S,Nature,Aligatueur,Gracos,,
+Dark-en-ciel,S,Nature,Aiglefeu,Aiglefeu,Rapaglace,Rapaglace
+Dark-en-ciel,S,Nature,Pipit,Faucondor,,
+Grand oiseau céleste,SS,Nature,Seigneur dragovien,Empyréa,,
+Léopold,SS,Nature,Dhoulmagus,Décérébère,,
+Léopold,SS,Nature,Dhoulmagus,Canidémon,,
+Munchi,SS,Nature,Grizius,Doudouleur,,
+Trode,SS,Nature,Dawk,Mister taupe,Rottney,Chef troll
+Yggdrasil,SS,Nature,Doudouleur,Rottney,,
+Rapaglace,E,Bête,Volapistil,Serpolaire,,
+Rapaglace,E,Bête,Volapistil,Yéti yétu,,
+Rapaglace,E,Bête,Volapistil,Dangeleux,,
+Monstromasque,C,Bête,Clindœil,Clindœil,Clindœil,Clindœil
+Crapouillot,C,Bête,Face de crapaud,Boumbone,,
+Cocoricoq,B,Bête,Escrimeur fantôme,Condor infernal,,
+Trompelœil,B,Bête,Monstromasque,Moby pick,,
+Trompelœil,B,Bête,Sanglinaire,Moby pick,,
+Trompelœil,B,Bête,Meno macho,Moby pick,,
+Aiglefeu,B,Bête,Condor infernal,Brûleflamme,,
+Sanguini rose,B,Bête,Sanguini vache,Sanguini vache,Sanguini vache,Sanguini vache
+Tempêtalon,B,Bête,Cavalier fantôme,Aiglefeu,,
+Atoner,A,Bête,Lord Lionel,Belzébik,,
+Encorneur,A,Bête,Cérbélier,Cérbélier,Cérbélier,Cérbélier
+Géant,A,Bête,Moby pick,Chef troll,,
+Géant,A,Bête,Moby pick,Nakunœil,,
+Mac-assin,A,Bête,Sangliogre,Roukh la tour,,
+Lord Lionel,A,Bête,Trompelœil,Trompelœil,,
+Lord Lionel,A,Bête,Sangliogre,Encorneur,,
+Sangliogre,A,Bête,Carnagénie,Smilodon,,
+Sangliogre,A,Bête,Carnagénie,Troublosaure,,
+Sangliogre,A,Bête,Carnagénie,Gluant de crin,,
+Belzébik,A,Bête,Encorneur,Cérbélier,,
+Roukh la tour,A,Bête,Encorneur,Général mandragore,,
+Faureau,A,Bête,Encorneur,Géant,,
+Atlas,S,Bête,Géant,Géant,Géant,Géant
+Atlas,S,Bête,Géant,Faucondor,,
+Atlas,S,Bête,Géant,Belzébik,,
+Deïckenz,S,Bête,Géant,Bélial,,
+Deïckenz,S,Bête,Géant,Dracularge,,
+Deïckenz,S,Bête,Géant,Grand lézard argon,,
+Dhoulmagus,S,Bête,Dragon d'albâtre,Tyrannomort,,
+Mister taupe,S,Bête,Pataupe,Pataupe,Bastonnier,Bastonnier
+Chef troll,S,Bête,Sanguini rose,Sanguini irisé,Pipit,Doyen pipit
+Rossfératu,S,Bête,Baron ecchymose,Sacatrésor X,,
+Bastonnier,S,Bête,Chef troll,Dracularge,,
+Bastonnier,S,Bête,Chef troll,Frou-frou,,
+Bastonnier,S,Bête,Chef troll,Pazuzu,,
+Adverso,SS,Bête,Gracos,Nokturnus,,
+Pruslas,SS,Bête,Ruine,Dragon d'albâtre,,
+Pruslas,SS,Bête,Ruine,Atlas,,
+Pruslas,SS,Bête,Ruine,Draculard,,
+Brûlegel,F,Matériel,Brûleflamme,Serpolaire,,
+Brûlegel,F,Matériel,Brûleflamme,Yéti yétu,,
+Brûleflamme,E,Matériel,Brûlegel,Feu follet,,
+Brûleflamme,E,Matériel,Brûlegel,Spitnik,,
+Sacatrésor,E,Matériel,Maransac,Maransac,,
+Canniboîte,D,Matériel,Maransac,Rochexplosif,,
+Glaglator,D,Matériel,Rapaglace,Golem,,
+Golem d'or,D,Matériel,Golem,Gluandor,,
+Golem d'or,D,Matériel,Golem,Sacatrésor,,
+Cumulus lex,C,Matériel,Brûleflamme,Brûlegel,,
+Golem,C,Matériel,Pantin de boue,Pantin de boue,Pantin de boue,Pantin de boue
+Octocorne,C,Matériel,Cérbélier,Chienfernal,,
+Marionnettiste,C,Matériel,Gluant,Sorcimol,,
+Protantype,B,Matériel,Mécachasseur,Mécachasseur,,
+Charretier blindé,B,Matériel,Hécatombereau,Hécatombereau,Hécatombereau,Hécatombereau
+Magmasse,B,Matériel,Aiglefeu,Golem,,
+Imitapeur,B,Matériel,Canniboîte,Canniboîte,Canniboîte,Canniboîte
+Carnagénie,B,Matériel,Monstromasque,Golem,,
+Carnagénie,B,Matériel,Sanglinaire,Golem,,
+Carnagénie,B,Matériel,Meno macho,Golem,,
+Phix,A,Matériel,Golem,Golem,Golem d'or,Golem d'or
+Phix,A,Matériel,Magmasse,Glaglator,Golem,Golem d'or
+Phix,A,Matériel,Magmasse,Magmasse,Glaglator,Glaglator
+Machine à tuer,A,Matériel,Mécachasseur,Mécachasseur,Mécachasseur,Mécachasseur
+Statue vivante,A,Matériel,Golem,Golem,Golem,Golem
+Eradikator,A,Matériel,Saltimbranque,Cybergluant,,
+Guerracotta,A,Matériel,Talismaboule,Talismaboule,Talismaboule,Talismaboule
+Blindogre,S,Matériel,Eradikator,Statue vivante,,
+Blindogre,S,Matériel,Eradikator,Guerracotta,,
+Blindogre,S,Matériel,Eradikator,Boîte à pièges,,
+Salmigondis,S,Matériel,Sal,Mi,Gon,Dis
+Machine à exterminer,S,Matériel,Phix,Phix,Machine à tuer,Machine à tuer
+Ruine,S,Matériel,Salmigondis,Golem d'or,,
+Ruine,S,Matériel,Salmigondis,Statue vivante,,
+Ruine,S,Matériel,Typhonia,Golem d'or,,
+Ruine,S,Matériel,Typhonia,Statue vivante,,
+Titemps,S,Matériel,Prêtre damné,Prêtre damné,Âme en peine,Âme en peine
+Boîte à pièges,S,Matériel,Imitapeur,Imitapeur,Canniboîte,Gluanpereur de métal
+Boîte à pièges,S,Matériel,Imitapeur,Imitapeur,Mécadragon,Mécadragon
+Estark,SS,Matériel,Titanis,Xiphos,,
+Psaro,SS,Matériel,Noirkœur,Ruine,,
+Sagitaure,SS,Matériel,Trauminator,Machine à exterminer,Machine à tuer,Protantype
+Sagitaure,SS,Matériel,Trauminator,Machine à exterminer,Machine à tuer,Boîte à pièges
+Sagitaure,SS,Matériel,Mékanocinglé,Mékanocinglé,,
+Trauminator,SS,Matériel,Machine à exterminer,Ruine,,
+Grand vampivol,C,Démon,Vampivol,Vampivol,Vampivol,Vampivol
+Grand faucheur,C,Démon,Rapace-muraille,Cimetueur,,
+Grand faucheur,C,Démon,Rapace-muraille,Griffon,,
+Grand faucheur,C,Démon,Rapace-muraille,Garde octavien,,
+Grand faucheur,C,Démon,Rapace-muraille,Bouffon baffeur,,
+Archidémon,B,Démon,Démon du dessert,Démon du dessert,Démon du dessert,Démon du dessert
+Chef troll,B,Démon,Monstromasque,Gorerille,,
+Chef troll,B,Démon,Sanglinaire,Gorerille,,
+Chef troll,B,Démon,Meno macho,Gorerille,,
+Prêtre damné,B,Démon,Cyclomage,Marionnettiste,,
+Djinn fizz,B,Démon,Lampféroce,Cumulus lex,,
+Jamirus,B,Démon,Griffon,Grand faucheur,,
+Chevalier aberrant,B,Démon,Armure errante,Hachosaure,,
+Baron ecchymose,A,Démon,Djinn fizz,Archidémon,,
+Baron ecchymose,A,Démon,Djinn fizz,Chef troll,,
+Baron ecchymose,A,Démon,Djinn fizz,Prêtre damné,,
+Bélial,A,Démon,Archidémon,Archidémon,Archidémon,Archidémon
+Bélial,A,Démon,Archidémon,Phix,,
+Bélial,A,Démon,Archidémon,Grand dragon,,
+Bataglan,A,Démon,Glanclan,Mortella,,
+Bataglan,A,Démon,Glanclan,Épinéa,,
+Dhurian,A,Démon,Tizon,Glazon,,
+Gémon,A,Démon,Jamirus,Atlas,,
+Gémon,A,Démon,Jamirus,Bélial,,
+Gémon,A,Démon,Jamirus,Pazuzu,,
+Gracos,A,Démon,Bélial,Sirénien,,
+Gracos,A,Démon,Bélial,Garde octavien,,
+Mac-hulotte,A,Démon,Jamirus,Faras le cavalier,,
+Roi korol,A,Démon,Âme en peine,Grand dragon,,
+Roi korol,A,Démon,Âme en peine,Rashaverak,,
+Pazuzu,A,Démon,Silvapithèque,Silvapithèque,Silvapithèque,Silvapithèque
+Pazuzu,A,Démon,Silvapithèque,Tarantueur,,
+Pazuzu,A,Démon,Silvapithèque,Rashaverak,,
+Aamon,S,Démon,Roi korol,Baron ecchymose,,
+Aamon,S,Démon,Roi korol,Guerracotta,,
+Baramos,S,Démon,Tensiocératops,Scarabrute,,
+Baramos,S,Démon,Tensiocératops,Titemps,,
+Noirkœur,S,Démon,Aamon,Chimère XY,,
+Kaos,S,Démon,Dhurian,Tarantueur,,
+Kaos,S,Démon,Dhurian,Roi maudit,,
+Malroth,S,Démon,Kaos,Shivattak,,
+Malroth,S,Démon,Kaos,Khalamar,,
+Meurtor,S,Démon,Nhé,Rossfératu,,
+Meurtor,S,Démon,Nhé,Bastonnier,,
+Titanis,S,Démon,Belzébik,Atlas,,
+Titanis,S,Démon,Belzébik,Trianguille,,
+Tyrannomort,S,Démon,Hyperanémox,Noirdaigle,,
+Tyrannomort,S,Démon,Hyperanémox,Faureau,,
+Nokturnus,SS,Démon,Dhurian,Dr Rebelote,,
+Squelette X,B,Mort-vivant,Serpenlair,Prêtre damné,,
+Seigneur malheur,B,Mort-vivant,Soldat squelette,Armure fatale,,
+Cavalier fantôme,B,Mort-vivant,Monstromasque,Cavale-démon,,
+Cavalier fantôme,B,Mort-vivant,Sanglinaire,Cavale-démon,,
+Cavalier fantôme,B,Mort-vivant,Meno macho,Cavale-démon,,
+Épéiste fantôme,B,Mort-vivant,Escrimeur fantôme,Escrimeur fantôme,Escrimeur fantôme,Escrimeur fantôme
+Dragon vert X,B,Mort-vivant,Mort-vivant,Grouillâme,,
+Soldat squelette,B,Mort-vivant,Squelette,Squelette,Squelette,Squelette
+Grouillâme,B,Mort-vivant,Feu follet,Feu follet,Feu follet,Feu follet
+Grouillâme,B,Mort-vivant,Fantôme,Fantôme,Fantôme,Fantôme
+Roi gowin de klenfer II,B,Mort-vivant,Cavalier fantôme,Épéiste fantôme,,
+Baron d'os,A,Mort-vivant,Cavalier fantôme,Cavalier fantôme,,
+Tarantueur,A,Mort-vivant,Vercule,Dangerose,,
+Tarantueur,A,Mort-vivant,Vercule,Seigneur terreur,,
+Tarantueur,A,Mort-vivant,Vercule,Âme en peine,,
+Sacatrésor X,A,Mort-vivant,Crapouillot,Crapouillot,,
+Sanguini vache X,A,Mort-vivant,Dragon vert X,Grand dragon,,
+Sanguini vache X,A,Mort-vivant,Dragon vert X,Rashaverak,,
+Noirdaigle,A,Mort-vivant,Belzébik,Faucondor,,
+Méno Macho,A,Mort-vivant,Gorerille,Frère Pompoko,,
+Méno Macho,A,Mort-vivant,Gorille infernal,Frère Pompoko,,
+Seigneur terreur,A,Mort-vivant,Seigneur malheur,Seigneur malheur,,
+Rosegarde,A,Mort-vivant,Armure fatale,Baron d'os,,
+Rosegarde,A,Mort-vivant,Armure fatale,Rase-marée,,
+Âme en peine,A,Mort-vivant,Seigneur malheur,Squelette X,,
+Âme en peine,A,Mort-vivant,Seigneur malheur,Dragon vert X,,
+Âme en peine,A,Mort-vivant,Seigneur malheur,Hurlherbe,,
+Âme en peine,A,Mort-vivant,Seigneur malheur,Roi gowin de klenfer II,,
+Hurlherbe,A,Mort-vivant,Royalgue,Épéiste fantôme,,
+Hurlherbe,A,Mort-vivant,Royalgue,Soldat squelette,,
+Décapitête,S,Mort-vivant,Baron d'os,Seigneur terreur,,
+Décapitête,S,Mort-vivant,Baron d'os,Ruine,,
+Décapitête,S,Mort-vivant,Baron d'os,Âme en peine,,
+Sanguini vache XY,S,Mort-vivant,Mac-assin,Mac-hulotte,Mac-léo,Barbarus
+Chimère XY,S,Mort-vivant,Roukh la tour,Faras le cavalier,,
+Roi maudit,S,Mort-vivant,Âme en peine,Roi gluanbulle,,
+Roi maudit,S,Mort-vivant,Âme en peine,Roi gluant,,
+Dr Rebelote,SS,Mort-vivant,Gluant ténérium,Meurtor,,
+Dawk,S,???,Meurtor,Noirkœur,,
+As de pique,SS,???,Atoupik,Léopold,,
+Baboon Beast,SS,???,Adverso,Méno Macho,Vilionyx,As de pique
+Corvus,SS,???,Sanguini vache XY,Magarugi,,
+Evil Beast,SS,???,Baboon Beast,Corvus,,
+Gadis,SS,???,Xiphos,Sagitaure,,
+Lionyx,SS,???,Joker,Lionyxeau,,
+Magarugi,SS,???,Rigor mortex,Hydragon,Pruslas,Rottney
+Mortamor,SS,???,Psaro,Blindogre,,
+Mortamor,SS,???,Psaro,Titemps,,
+Nimzo,SS,???,Baramos,Khalamar,,
+Nimzo,SS,???,Baramos,Rossfératu,,
+Orgodémir,SS,???,Tyrannomort,Chiron,,
+Orgodémir,SS,???,Tyrannomort,Trianguille,,
+Rhapthorne,SS,???,Zoma,Nimzo,Mortamor,Orgodémir
+Rhapthorne Ⅱ,SS,???,Rhapthorne,Estark,,
+Rigor mortex,SS,???,Lionyx,Dragon du zénith,,
+Joker,SS,???,Atoupik,Grand oiseau céleste,,
+Zoma,SS,???,Malroth,Décapitête,,
+Zoma,SS,???,Malroth,Roi maudit,,
+___,,,,,,
+New Recipes,,,,,,
+Feuillu,F,Gluant,Souche louche,Gluant,,
+Roi gluant, C,Gluant,Gluant,Gluant,Gluant,Gluant
+Feuilluberlu,B,Gluant,Monstruœuf,Feuillu,,
+Famille gluant,A,Gluant,Roi guérigluant,Sorciglu,Roi gluant,Roi gluant moucheté
+Superslurp,A,Gluant,Dhurian,Rase-marée,Monte-gluant,Monte-gluant de métal
+Nemeslurp,A,Gluant,Dhurian,Roi gowin de klenfer II,Monte-vampigluant,Vampigluant
+Gluanzer,S,Gluant,Typhonia,Roi gluant de métal,Superslurp,Crapouillot
+Slurpgirl,S,Gluant,Monte-gluancien,Mécadragon,Mortella,Gluangélique
+Gluant satellite,S,Gluant,Gluanzer,Empyréa,Canzer,Gluant ténérium
+Mécha-gluant,SS,Gluant,Sagitaure,Schwarzleim,Rhapthorne Ⅱ,Gluant de diamant
+Barbarus,SS,Dragon,Hydragon,Mac-assin,Mac-léo,Mac-hulotte
+Dragon du temps,SS,Dragon,Barbarus,Orgodémir,Dragon d'albâtre,Dragon noir
+Sanglimer,D,Nature,Chasseur de têtes,Agressaim,,
+Vercule,D,Nature,Boa constrictos,Boa constrictos,Serpolaire,Serpolaire
+Pipit,C,Nature,Condor infernal,Grœuf,,
+Empyréa,A,Nature,Faucondor,Faucondor,Stella,Stella
+Doyen pipit,S,Nature,Pipit,Gluancien,,
+Numen,SS,Nature,Doudouleur,Chef troll,,
+Sanguini vache,E,Bête,Canidémon,Vampivol,,
+Ailéopard,C,Bête,Griffon,Griffon,Smilodon,Smilodon
+Taupe-toc,B,Bête,Pataupe,Charretier blindé,,
+Nhé,B,Bête,Trompelœil,Trompelœil,Grand vampivol,Grand vampivol
+Frère Pompoko,B,Bête,Mousquetueur,Mousquetueur,Blaireau Bongo,Blaireau Bongo
+Épouse du chaperon,SS,Bête,Psaro,Malroth,Chaperon vert,Draculard
+Doudouleur,SS,Bête,Dhoulmagus,Sanguini irisé,,
+Mécachasseur,C,Matériel,Monte-gluant de métal,Armure fatale,,
+Typhonia,A,Matériel,Guerracotta,Statue vivante,,
+Mékanocinglé,S,Matériel,Machine à exterminer,Atlas,Tyrantosaure,Cimetueur
+Schwarzleim,SS,Matériel,Gluant satellite,Ruine,Blindogre,Nemeslurp
+Glanclan,F,Démon,Clindœil,Lézard argon,,
+Chaperonde,D,Démon,Glanclan,Diablotin,,
+Chaperon vert,A,Démon,Géant,Chaperonde,,
+Prince des voleurs,SS,Démon,Épouse du chaperon,Sacatrésor,Chaperon vert,Sacatrésor
+Poupouille,SS,Démon,Pruslas,Zoma,,
+Traumallusque,E,Mort-vivant,Mallusque,Mirliflore,,
+Capitaine Crow,S,Mort-vivant,Baron d'os,Capitenace,Machine à tuer,Dorsalam
+Lionyxeau,B,???,Ailéopard,Lord Lionel,,
+Stella,A,???,Épinéa,Faucondor,,
+Disciple de zoma,A,???,Baron d'os,Kaos,,
+Vilionyx,SS,???,Lionyxeau,As de pique,,
+Apik,SS,???,Empyréa,Léopold,,

@@ -61,39 +61,23 @@
 
 
 
-Show No Mercy
-Weaken Foes
-Support
-Focus On Healing
-Don't Use Magic
+Sans pitié
+Affaiblis l'ennemi
+Mélange
+Soins avant tout
+Pas de magie
 
 
 
-Defeat the enemy as quickly as possible, regardless of MP used.
-Prioritize applying debuffs and weakening the enemy.
-Prioritize healing debuffs and strengthening allies.
-Prioritize restoring when ally HP is low.
-Fight without using any MP.
+Battez l'ennemi le plus vite possible sans compter le nombre de PM utilisés.
+Privilégie l'affaiblissement de l'ennemi{315}et les altérations d'état
+Combattez en utilisant différents sorts et aptitudes de soutien.
+Faites attention aux PV de vos coéquipiers.
+Combattez sans utiliser de PM.
 
 
 
-Yes{315}No
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The save data could not be accessed. Please turn off the power and reinsert the DS Game Card.
+Oui{315}Non
 
 
 
@@ -109,14 +93,30 @@ The save data could not be accessed. Please turn off the power and reinsert the 
 
 
 
-Cancel
-Rank F
-Rank E
-Rank D
-Rank C
-Rank B
-Rank A
-Rank X
+Impossible d'accéder aux données.{315}Éteignez la console et réinsérez la carte de jeu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Annuler
+Niveau F
+Niveau E
+Niveau D
+Niveau C
+Niveau B
+Niveau A
+Niveau X
 
 
 

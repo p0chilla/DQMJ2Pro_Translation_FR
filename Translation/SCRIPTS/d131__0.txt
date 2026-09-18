@@ -87,43 +87,43 @@ STORE 0x18 0x1 0x40000000 0x2 0x41f00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}I'd heard she had an attitude, but...SHEESH!"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}J'avais entendu dire qu'elle était caractérielle, mais... aïe, aïe, aïe！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}And to think - she's the reigning champion!"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Et dire que c'est la championne en titre！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SAY "{VOICE=07}Aye, well that's monster scouts for ye. They're a strange breed, and no mistake."
+SAY "{VOICE=07}Aaah, les dresseurs de monstres.{BREAK}C'est une sacrée engeance.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SAY "{VOICE=07}But I cannae help feelin' a wee bit misty-eyed...{WAIT}{CLEAR}...what with the Monster Scout Challenge roond the corner and all."
+SAY "{VOICE=07}Mais je ne peux pas m'empêcher d'être un peu ému...{PAGE}{WAIT}{CLEAR}... avec le Championnat des Dresseurs qui va bientôt avoir lieu."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Ah, happy days. We didn't have two gold coins to rub together, but we had dreams.{WAIT}{CLEAR}We'd sneak onto airships just like this one and head to the Challenge."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Ah, c'était le bon temps. On n'avait pas un sou, mais des rêves, on en avait！{PAGE}{WAIT}{CLEAR}On se faufilait à bord de vaisseaux comme celui-ci pour aller au championnat."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SAY "{VOICE=07}Aye! And if the Cap'n ever caught ye, he'd have yer guts for garters!"
+SAY "{VOICE=07}Oui！ Au risque de terminer en chair à pâté si on se faisait prendre par le capitaine！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}And now it's us flyin' those scouts to the Challenge as they go chasin' their dreams. {WAIT}{CLEAR}Funny how life turns out..."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Aujourd'hui, c'est nous qui emmenons les dresseurs à la poursuite de leurs rêves.{PAGE}{WAIT}{CLEAR}C'est fou ce que la vie nous réserve...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x41a00000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Well, let's save the nostalgia for another time. The passengers will be gettin' antsy.{WAIT}{CLEAR}C'mon! Let's get the Albatross up in the air where she belongs!"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Allez, mettons la nostalgie de côté. Les passagers vont s'impatienter.{PAGE}{WAIT}{CLEAR}C'est parti！{BREAK}Allons faire voler l'Albatros！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

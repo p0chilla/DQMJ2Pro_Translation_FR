@@ -80,15 +80,15 @@ WAIT 0x10 0x2 0x42c80000
 CMP_EQ 0x18 0x0 0x40800000 0x2 0x0
 JMP_IFNOT 0xc L_890
 SYS_42 0x8 
-SAY "{VOICE=07}The name's Cap'n Crow - ruler o' the seven seas! Don't ye forget it!"
+SAY "{VOICE=07}Je suis le capitaine Crow, seigneur des sept mers！ Retiens bien ce nom！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Crow"
-SAY "{VOICE=07}I don't make a habit o' trawlin' these waters, as the pickin's be slim at best!{WAIT}{CLEAR}So imagine me surprise at landin' a catch like yerself!"
+SETNAME "Capitaine Crow"
+SAY "{VOICE=07}Je ne viens que rarement dans ces eaux, car les bonnes prises y sont rares！{PAGE}{WAIT}{CLEAR}Imagine un peu ma surprise d'être tombé sur une prise comme toi！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Crow"
-SAY "{VOICE=07}Let's do battle, matey! Lose, and I'll plunder any gold coins ye may have!"
+SETNAME "Capitaine Crow"
+SAY "{VOICE=07}Affronte-moi, moussaillon！ Et si tu perds, je te prendrai tout ton or！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -129,20 +129,20 @@ L_890:
 CMP_EQ 0x18 0x0 0x40800000 0x2 0x3f800000
 JMP_IFNOT 0xc L_c9c
 SYS_42 0x8 
-SETNAME "Captain Crow"
-SAY "{VOICE=07}The name's Cap'n Crow - ruler o' the seven seas, and don't ye forget it!"
+SETNAME "Capitaine Crow"
+SAY "{VOICE=07}Je suis le capitaine Crow, seigneur des sept mers！ Retiens bien ce nom！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Crow"
-SAY "{VOICE=07}Arrr!? It be ye once again!? Ye've come back fer more, have ye?"
+SETNAME "Capitaine Crow"
+SAY "{VOICE=07}Quoi？ Encore toi？ Tu n'as pas eu ton compte？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Crow"
-SAY "{VOICE=07}Ye may have chalked up one lucky victory, but don't be thinkin' it'll happen again!"
+SETNAME "Capitaine Crow"
+SAY "{VOICE=07}Tu as eu beaucoup de chance. Mais elle ne te sourira pas deux fois！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Crow"
-SAY "{VOICE=07}I promised I'd get ye a permanent address in Davy Jones' Locker and so I will!"
+SETNAME "Capitaine Crow"
+SAY "{VOICE=07}J'ai promis de me débarrasser de toi définitivement et je vais tenir parole！{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -183,16 +183,16 @@ L_c9c:
 CMP_EQ 0x18 0x0 0x40800000 0x2 0x40000000
 JMP_IFNOT 0xc L_103c
 SYS_42 0x8 
-SETNAME "Captain Crow"
-SAY "{VOICE=07}Ahoy there matey! Back once again, I see. Seems ye can't stay away fer long!"
+SETNAME "Capitaine Crow"
+SAY "{VOICE=07}Ainsi, tu es venu... {NAME}.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Crow"
-SAY "{VOICE=07}Yarrr!!! Let's put an end to this tom-foolery. It's time to plunder yer life!"
+SETNAME "Capitaine Crow"
+SAY "{VOICE=07}Holà, moussaillon！ Te revoilà？ On dirait que tu ne peux plus te passer de moi！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Crow"
-SAY "{VOICE=07}The name's Cap'n Crow - ruler o' the seven seas, and don't ye forget it!"
+SETNAME "Capitaine Crow"
+SAY "{VOICE=07}Je suis le capitaine Crow,{BREAK}seigneur des sept mers！ Retiens bien ce nom！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -233,20 +233,20 @@ L_103c:
 CMP_EQ 0x18 0x0 0x40800000 0x2 0x40400000
 JMP_IFNOT 0xc L_143c
 SYS_42 0x8 
-SETNAME "Captain Crow"
-SAY "{VOICE=07}Yarrr!!! So we meet again, matey!"
+SETNAME "Capitaine Crow"
+SAY "{VOICE=07}Raaah！！！{BREAK}Comme on se retrouve, {NAME}！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Crow"
-SAY "{VOICE=07}The name's Cap'n Crow - ruler o' the seven seas, and don't ye forget it!"
+SETNAME "Capitaine Crow"
+SAY "{VOICE=07}Raaaah！!! Mettons fin à cette comédie. Dis adieu à la vie！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Crow"
-SAY "{VOICE=07}Today I've brought along a fearsome ally to put the shivers up yer timbers! Yarrr!"
+SETNAME "Capitaine Crow"
+SAY "{VOICE=07}Je suis le capitaine Crow, seigneur des sept mers！ Retiens bien ce nom！"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Crow"
-SAY "{VOICE=07}Introducing the fearsome, ferocious kingpin of the jungle - the Bilhaw!"
+SETNAME "Capitaine Crow"
+SAY "{VOICE=07}Raaah！!! Comme on se retrouve, moussaillon！{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -287,16 +287,16 @@ L_143c:
 CMP_EQ 0x18 0x0 0x40800000 0x2 0x40800000
 JMP_IFNOT 0xc L_19c8
 SYS_42 0x8 
-SETNAME "Captain Crow"
-SAY "{VOICE=07}The name's Cap'n Crow - ruler o' the seven seas, and don't ye forget it!"
+SETNAME "Capitaine Crow"
+SAY "{VOICE=07}Je suis le capitaine Crow, seigneur des sept mers！ Retiens bien ce nom！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Crow"
-SAY "{VOICE=07}Since my defeat at yer miserable hands, my lily-livered crew have abandoned me."
+SETNAME "Capitaine Crow"
+SAY "{VOICE=07}Je suis venu avec un redoutable allié pour te faire boire la tasse！ Raaah！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Crow"
-SAY "{VOICE=07}A captain with no crew be a pitiful sight. It be more than my pirate pride can take...{WAIT}{CLEAR}That's why I've decided to hang up my pirate hat and start a new life! Yarrr!"
+SETNAME "Capitaine Crow"
+SAY "{VOICE=07}Voici le redoutable, le féroce roi de la jungle... j'ai nommé： Lord Lionel！"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x2 0x42480000
@@ -306,12 +306,12 @@ STORE 0x18 0x1 0x0 0x2 0x42480000
 STORE 0x18 0x1 0x3f800000 0x2 0x41000000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41000000
-SETNAME "Captain Crow"
-SAY "{VOICE=07}But first I have one piece of unfinished business. Gettin' my revenge on ye!"
+SETNAME "Capitaine Crow"
+SAY "{VOICE=07}Mais toi, {NAME}！{BREAK}Tant que tu vis, je n'ai aucun lendemain！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Crow"
-SAY "{VOICE=07}This be my last stand! I'll send ye to Davy Jones' Locker and be reborn!"
+SETNAME "Capitaine Crow"
+SAY "{VOICE=07}Depuis ma défaite, ces froussards qui me servaient d'équipage ont déserté.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

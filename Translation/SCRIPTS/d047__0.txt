@@ -176,12 +176,12 @@ STORE 0x18 0x1 0x40000000 0x2 0x41200000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}There's nowhere to run!{BREAK}What an appalling predicament!"
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Il n'y a nulle part où aller！ Quelle horrible situation！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}We're done for, I fear..."
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Nous sommes fichus, je le crains...{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -193,16 +193,16 @@ STORE 0x18 0x1 0x0 0x0 0x3f800000
 STORE 0x18 0x1 0x3f800000 0x2 0x42d40000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}...No! You can do it, {NAME}.{BREAK}I know you can!"
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Non... {NAME}.{BREAK}Vous, vous pouvez y arriver！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}That monster is clearly an imbecile.{BREAK}Even you should be able to outsmart it!"
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Ce monstre est stupide. Même vous, vous devriez être plus malin que lui！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}Lily, Queen of Scouts has decreed that you defeat this beast. That's an order!"
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}La Reine des dresseurs a décrété que vous deviez le vaincre. C'est un ordre！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -594,16 +594,16 @@ STORE 0x18 0x1 0x0 0x0 0x3f800000
 STORE 0x18 0x1 0x3f800000 0x2 0x42d40000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}I know you can do it!"
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}{NAME}.{BREAK}Vous, vous pouvez y arriver！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}That monster is clearly an imbecile. Even you should be able to outsmart it!"
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Ce monstre est stupide. Même vous, vous devez être plus malin que lui！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}Lily, Queen of Scouts has decreed that you defeat this beast. That's an order!"
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}La Reine des dresseurs a décrété que vous deviez le vaincre. C'est un ordre！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

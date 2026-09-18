@@ -1,221 +1,221 @@
-Battle Friends & Strangers
+Affronter amis et inconnus
 
-World Monster Championship
+Championnat du Monde
 
-Obtain Friend Code
-Nintendo WFC Setup
+Obtenir code ami
+Paramètres CWF Nintendo
 
 
 
 --------
-Register Friend Code
-Battle Friends
-Battle Strangers
-Gift Battle
-Stop Battling
-Friends/Strangers/Gifts
+Enregistrer un code ami
+Affronter des amis
+Affronter des inconnus
+Combat de cadeaux
+Quitter
+Amis / Inconnus / Cadeaux
 
 
 
 
-Battle via Wi-Fi
+Combat via Wi-Fi
 
 
-DB Tallying Results
-DB Tournament Finished
-DB Download Party
-DB Special Gift
-DB Fight from 5th Match
-DB Clear Battle Results
+DB　Résultats
+DB　Fin du tournoi
+DB　Équipe téléchargée
+DB　Cadeau spécial
+DB Reprendre au 5e combat
+DB　Effacer les résultats
 DB
-DB Clear User Data
-Nintendo Zone{315}Location {322}{315}Number {324}
-Nintendo Zone{315}Type {322}{315}AP {324}
+DB　Effacer le profil joueur
+Zone Nintendo{315} Lieu : {322}{315} N° : {324}
+Zone Nintendo{315} Type : {322}{315} PA : {324}
 
 
-Utilise Nintendo Wi-Fi Connection to participate in the World Monster Championship (WMC).
-Utilise Nintendo Wi-Fi Connection to battle against old Friends and new rivals alike.
-Get your own Friend Code.
-Configure Nintendo Wi-Fi Connection settings.
-
-
-
-
-Register another player's Friend Code.
-Battle a player you have exchanged Friend Codes with.
-Battle with players you do not know.
-Battle with special monsters.{315}You might receive a special gift{315}by connecting to the Wi-Fi network{315}via a Nintendo Zone!
-Disconnect from Nintendo Wi-Fi network, and return to the Nintendo Wi-Fi Connection menu.
+Utilisez la connexion Wi-Fi Nintendo pour participer au Championnat du Monde des Monstres (CMM).
+Utilisez la connexion Wi-Fi Nintendo pour affronter de vieux amis ou de nouveaux adversaires.
+Obtenez votre propre code ami.
+Configurez la connexion Wi-Fi Nintendo.
 
 
 
 
-
-Edit the hero's name.{315}Please be aware that inappropriate names will prevent you from playing via Nintendo Wi-Fi Connection.{315}If you have entered an inappropriate name, please change it.
-Connect
-View Explanation
-
-
-
-The World Monster Championship
-Rankings
-Registration Classes
-"Home" and "Away Matches"
-Holding Tournaments
-Registration warning!
-
-
-
-World Monster Championship
-User Data Setup
-Latest Rankings
-Notices
-Quit
+Enregistrez le code ami d'un autre joueur.
+Affrontez un joueur avec lequel vous avez échangé vos codes ami.
+Affrontez des joueurs que vous ne connaissez pas.
+Vous allez affronter un monstre spécial.{315}En vous connectant à la Connexion Wi-Fi{315}Nintendo depuis une Zone Nintendo, vous recevrez{315}peut-être un cadeau très spécial！
+Interrompez la connexion Wi-Fi Nintendo et retournez au menu de connexion Wi-Fi Nintendo.
 
 
 
 
-User Status
-Tournament {322} Victory Points
-Previous Home Match
-Previous Away Match
-Check User Data
-Set User Data
-Switch Monsters
-Form Party
-Change Tactics
-Register Team Name
-Select Location
-Change Registration Class
-Confirm
 
-
-Choose from Pen
-Choose from Favorites
+Modifiez le nom du héros.{315}Attention： en choisissant un nom inadapté, vous ne pourrez pas jouer via la{315}connexion Wi-Fi Nintendo.{315}Si vous avez saisi un nom inadapté, veuillez le changer.
+Se connecter
+Voir la description
 
 
 
-Tactics
-Show No Mercy
-Use Debuffs
-Focus on Healing
-Mix It Up
-Don't Use Magic
+Championnat du Monde
+À propos des classements
+À propos des catégories
+À propos des matchs à "domicile" et à "l'extérieur"
+Organisation du tournoi
+Règles d'inscription
 
 
 
-Global Rankings
-Regional Rankings
-User Rankings
-Hall of Fame
+Championnat du Monde
+Config. données utilisateur
+Classement récent
+Dernières infos
+Quitter
 
 
 
-Unrestricted Class
-F-D RANK Class
-C-A RANK Class
-S/SS RANK Class
+
+Données utilisateur
+Points gagnés au {322}e tournoi
+Précédents matchs à domicile
+Précédents matchs à l'extérieur
+Vérifier le profil joueur
+Config. données utilisateur
+Changer monstres
+Gérer l'équipe
+Changer de tactique
+Enregistrer nom de l'équipe
+Choisir un lieu de résidence
+Changer de catégorie
+Confirmer
+
+
+Choisir dans l'enclos
+Choisir parmi les favoris
 
 
 
-Rankings 1-10
-Rankings 11-20
-Rankings 21-30
+Tactique
+Sans pitié
+Effets nocifs
+Soins avant tout
+Mélange
+Pas de magie
 
 
 
-Hokkaido/Tohoku
+Classement mondial
+Classement régional
+Votre classement
+Meilleures équipes
+
+
+
+Catégorie Libre
+Catégorie Rangs F à D
+Catégorie Rangs C à A
+Catégorie Rangs S et SS
+
+
+
+Classement： 1er～10e
+Classement： 11e～20e
+Classement： 21e～30e
+
+
+
+Hokkaidô/Tôhoku
 Kanto
-Koshinetsu
+Kôshin'etsu
 Hokuriku
 Tokai
 Kinki
 Chugoku
 Shikoku
-Kyushu/Okinawa
+Kyûshû/Okinawa
 
 
 
-No. {322}-{324}
-No. {322}
+N° {322}-{324}
+N° {322}
 
 
-Latest Information
-Commonly Seen Monsters
-Rarely Seen Monsters
-
-
-
-Back
-Match {322} Results
-RANK: F
-RANK: E
-RANK: D
-RANK: C
-RANK: B
-RANK: A
-RANK: S
-RANK: SS
-RANK: ??
+Dernières informations
+Monstres courants
+Monstres rares
 
 
 
-
-Back
-Match 1
-Match 2
-Match 3
-Match 4
-Match 5
+Retour
+Résultats du combat {322}
+RANK:F
+RANK:E
+RANK:D
+RANK:C
+RANK:B
+RANK:A
+RANK:S
+RANK:SS
+RANK:？？
 
 
 
 
+Retour
+Mche 1
+Mche 2
+Mche 3
+Mche 4
+Mche 5
 
-Times
-Tournament {322}
+
+
+
+
+Tour
+{322}e tour
 -
 
 
 
-Unregistered
-Origin
-RANK
-Team Name
-Victory Points
-Registration Class: {322}
-Party Rank
-Overall Ranking
-Regional Ranking
-Win/Loss
-{322} Wins
-{322} Losses
-Victories
-Rank {322}
-Tournament {322} ({324})
-Match {322}
+non enregistré
+Origine
+RANG
+Équipe
+Points de victoire
+Catégorie : {322}
+Rang de l'équipe
+Classement mondial
+Classement régional
+Victoires / Défaites
+{322} Victoire(s)
+{322} Défaite(s)
+Victoires
+Rang : {322}
+{322}e Tournoi ({324})
+{322}e tour
 +
-Battle Results
-Explanation
-Start Match {322}
-Forfeit
+Résultats du combat
+Description
+Début du {322}e tour
+Forfait
 ×
 ○
-Points for Victory
-Bonus Points for Monsters Used
+Points pour la victoire
+Bonus selon les monstres utilisés
 BONUS
 Total
-Registration Class
-Tournament {322} Victory Points
-Points from Home Matches
-Points from Away Matches
-Rank
-Win
-Losses
-Defeat
-{322} Draws
-Victory Points ({322}W {324}L)
-Results with this opponent
+Catégorie d'inscription
+Points obtenus (Tournoi {322})
+Points à domicile
+Points à l'extérieur
+Place (ou Rang)
+Victoires
+Perte
+Défaites
+{322} Match(s) nul(s)
+Points pour la victoire ({322} V / {324} D)
+Historique contre cet adversaire
 ☆1
 ☆2
 ☆3
@@ -224,338 +224,338 @@ Results with this opponent
 ☆6
 ☆7
 ☆PRO
-Party Rank:
-Other Victory Points
+Rang de l'équipe :
+Autres points obtenus
 ・
 
-Connect to Wi-Fi?
-Disconnected from Wi-Fi.
-Saving.{315}Please do not turn off the power.
-Save complete!{315}
+Se connecter à la{315}connexion Wi-Fi Nintendo？
+Vous avez été déconnecté de la{315}connexion Wi-Fi Nintendo.
+Sauvegarde en cours...{315}N'éteignez pas la console.
+Sauvegarde terminée！
 
 
 
-The World Monster Championship is the{315}ultimate Wi-Fi ranking battle to{315}determine the world's strongest.{315}Good luck aiming for 1st place!
-The Strongest Master Tournament ends{315}once per set period. At the period end,{315}a final round is held to determine the{315}tournament champion. Then the next day,{315}the rankings are reset and{315}victory points start again from 0,{315}beginning a new tournament.
-Registered user data can be viewed{315}by many different players,{315}so please be careful not to register{315}personal information! Also, if your data{315}is not updated for a long time,{315}it will be deleted,{315}so please be aware of this as well!
-View rankings of 10 players centered around your position.
-The team name has not been registered.{315}Please enter the team name in{315}"Set User Data".
-You cannot use{315}Wi-Fi Connection with your current{315}team name. Please change the team name.
-You cannot use{315}Wi-Fi Connection with the name of the monster{315}you are using ({322}). Please change the monster's name.
-The origin has not been registered.{315}Please set your origin in{315}"Set User Data".
-There is a suspicion of{315}illegal data in the monster data.{315}Please change the monster in{315}"Set User Data".
-You cannot register because there are{315}2 or more monsters of the same species in the party.{315}Please change the monster in{315}"Set User Data".
-Because a certain period of time has passed{315}since the last registration,{315}the registration has been removed{315}from the World Monster Championship.
-You received{315}{322} as a participation prize!
-Are you sure{315}you want to register {322}?
-You received{315}{322} x {324} as a participation prize!
-The monster storage is full.{315}You cannot recruit them unless you{315}part with a monster in the storage.{315}Do you want to part with a monster in the storage?
-Registered for the World Monster Championship!
-Checking registration details.
-For fighting to the end today,{315}a small part is presented!
-Your team is not yet{315}reflected in the rankings.
-Thank you for waiting.{315}We will now announce the team{315}you will be battling today.
-Disconnecting from the Wi-Fi Connection{315}to start the battle.
-You will forfeit from the World Monster Championship.{315}Is that okay?
-Thank you for waiting.{315}Now, we will announce the battle results!
-Oh my! A{315}special present has been sent from SQEX!!
-Monsters with a "Guest" mark{315}cannot participate in the World Monster Championship.
+Le Championnat du Monde des Monstres{315}se joue grâce à la connexion{315}Wi-Fi Nintendo pour déterminer les{315}meilleurs dresseurs de la planète.{315}Visez le premier rang du classement！
+Au terme d'une période donnée, le{315}Championnat du Monde des Monstres{315}se terminera.{315}Un combat final aura lieu et un{315}champion sera couronné.{315}Le jour suivant, le classement sera{315}remis à zéro et une nouvelle saison{315}du championnat commencera.
+Les données enregistrées pour le{315}Championnat du Monde des Monstres{315}peuvent être vues par tous. Ne saisissez{315}aucune information personnelle dans{315}les données que vous enregistrez！{315}Si les données enregistrées ne sont pas{315}mises à jour avant la fin du championnat{315}suivant, elles seront effacées.
+Affiche le classement des 10 joueurs situés autour de votre rang.
+Vous devez saisir un nom d'équipe dans "Config. données utilisateur".
+Impossible d'accéder à la{315}connexion Wi-Fi Nintendo avec ce nom d'équipe. Veuillez changer votre nom d'équipe.
+Impossible d'accéder à la connexion Wi-Fi{315}Nintendo avec ce nom de monstre ({322}).{315}Veuillez changer le nom du monstre.
+Vous devez déterminer un lieu de résidence dans "Config. données utilisateur".
+Il se peut que votre équipe présente des données de monstres non autorisées.{315}Veuillez la réorganiser dans "Config. données utilisateur".
+Votre équipe ne peut pas compter deux monstres de la même espèce！{315}Veuillez la réorganiser dans "Config. données utilisateur".
+Vos données d'inscription n'ayant pas été mises à jour depuis un certain temps, elles ont été supprimées des résultats du Championnat du Monde des Monstres.
+Vous recevez {315}{322} en guise de prix de participation！
+Valider l'inscription pour le {322}？
+Pour votre participation, vous recevez :{315}{322} × {324}！
+L'enclos des monstres est plein！{315}À moins de relâcher un monstre, vous ne pourrez pas recevoir la récompense.{315}Voulez-vous relâcher un monstre？
+Inscription terminée！
+Vérification du contenu de l'inscription.
+Pour avoir combattu jusqu'au bout aujourd'hui,{315}vous recevez un petit composant en cadeau！
+Votre équipe n'apparaît pas dans{315}le classement actuel.{315}Veuillez patienter jusqu'à ce qu'elle{315}y figure.
+Merci d'avoir patienté. Voici les équipes que vous allez affronter aujourd'hui.
+Déconnexion de la{315}connexion Wi-Fi Nintendo
+Voulez-vous vraiment vous retirer du Championnat du Monde des Monstres？
+Merci d'avoir patienté.{315}Voici l'annonce des résultats du combat！
+Incroyable！ Un cadeau spécial de SQEX{315}vous a été envoyé！！
+Les monstres portant la marque "Invité"{315}ne peuvent pas participer au Championnat{315}du Monde des Monstres.
 {322}
 
-The World Monster Championship is not being held{315}because the required number of people{315}has not been reached.{315}Please understand that there are no rankings.
-An error is currently occurring{315}in the World Monster Championship.{315}Please wait for a while before{315}reconnecting.
+Il n'y a pas eu suffisamment de participants au Championnat du Monde des Monstres en cours, aucun classement n'est donc disponible pour l'instant. 
+Le serveur du Championnat du Monde des Monstres rencontre actuellement quelques problèmes.{315}Veuillez essayer de vous reconnecter ultérieurement.
 
-The World Monster Championship is not currently{315}being held.{315}For details on the holding period of the{315}World Monster Championship, please see the{315}official DQM Joker 2 Professional website.
-
-
-
-This is the ranking of{315}{322} centered on your position.{315}{315}"Yesterday's average party rank: {324}"
-Your data, which{315}participated in the World Monster Championship for the first time{315}today, has not yet been reflected.{315}Please wait a moment until the{315}tabulation of battle results is finished.
-
-Downloading data.
-Data download{315}complete!
-There is a monster in the party{315}that does not match the class you are trying to register.{315}Please check your party once more{315}before registering again.
-Checking the details.{315}Please wait a moment.
-Creating your{315}user data.
-First, please{315}set your team name.
-Registration class was set to {322}.
-Tournament {322} ({324}){315}your result was{315}{30b}z place.
-Congratulations!{315}The winner of{315}tournament {322} ({324}) is you!!
-Presenting{315}{322} x {324} as the championship prize!
-Presenting{315}{322} as the championship prize!
-Would you like to connect to the{315}Wi-Fi Connection to upload the battle results?
-Battle results{315}uploaded. Disconnecting from the Wi-Fi Connection.
-Disconnected from the Wi-Fi Connection.{315}Saving data.{315}Please do not turn off the power.
-Save complete!{315}
-Next, please set the origin.
-Please register the class you want to participate in.{315}Note that you can{315}change the class later, but if you{315}have victory points, they will become 0.{315}Please be careful when changing.
-Your results for today were{315}{322} wins and {324} losses.{315}You can participate in the World Monster Championship once a day.{315}We look forward to your challenge tomorrow.
-Because they are currently{315}registered in {322}, this monster{315}cannot participate in the World Monster Championship.
-Because they are currently{315}registered in {322}, this party{315}cannot participate in the World Monster Championship.
-Load complete!
-Load failed! Please turn off the power and{315}reinsert the DS card.
-There is no game data, so{315}you cannot connect to the World Monster Championship.
-Please select the monster{315}to part with.
-Do you want to part with {322}?
-You will never see the parted monster again,{315}are you really sure?
-{322} walks away, looking sad to leave.
-
-As this is your first registration,{315}there is no data avaliable.
-
-
-You are currently{315}uploading the match results.{315}Please wait...
-
-
-You cannot register because there is a{315}monster with a "Guest" mark in the party.{315}Please change the monster in{315}"Set User Data".
-If you do not connect to the Wi-Fi connection,{315}the battle results cannot be uploaded, and{315}your hard-earned victory points will disappear.
-Are you sure you want to{315}disconnect without uploading{315}your results?
-
-
-Aim for the top of the rankings in the new tournament...{315}No! Please do your best to win!!
-Congratulations!{315}Your ranking has gone up!!
-I'm sorry,{315}but your ranking has gone down...
-The rankings were updated, but{315}your ranking did not change.
-The victory points you obtained last time were{315}{322} points for home matches and {324} points for away matches.
-Your victory points{315}now total {322} points!
-Your tournament results for today's home matches were{315}{322} wins and {324} losses, and{315}the total victory points were {30b}z points.
-Today's victory points will be{315}reflected in tomorrow's rankings.
-We look forward to{315}your participation in tomorrow's World Monster Championship.
-{322} gets up{315}and looks at you as if wanting to become your friend.{315}Do you want to let it join?
-Presenting{315}{322} as a prize!
-Presenting{315}{322} x {324} as a prize!
-I'm sorry, but there are no prizes.{315}Please do your best next time{315}so you can reach the top of the rankings!
-The results of away matches will also{315}be announced in tomorrow's rankings.
-The {322} that joined you{315}has been sent to the storage.
-You won against team {322}!
-You lost against team {322}.
-{322} has joined the party!
-Participation in the WMC is{315}limited to once a day.{315}Today's World Monster Championship{315}is already over, so you cannot participate.
-Winning a match will get you{315}"Victory Points". The higher your points, the{315}higher you can rank.{315}Also, since the "Victory Points" are{315}tabulated daily, the rankings{315}also fluctuate every day.
-In the WMC, there are:{315}"home matches" where you download{315}opponents to your device and fight,{315}and "away matches" where your data{315}is downloaded to the opponent's console.
-Round {322},{315}starting a battle with team {324}.
-You forfeited the World Monster Championship.{315}Subsequent matches will be counted as losses.
-Good work.{315}All matches for today are finished.
-Depending on your monster's rank, you{315}can enter one of four classes:{315}F-D, C-A, S-SS{315}or the Unrestricted class,{315}which allows any monsters to battle.
-{322}{315}has been sent to the storage.
-Welcome{315}to the World Monster Championship!!
-Please do your best today too{315}aiming for 1st place in the rankings!
-We will now announce{315}the latest rankings.
-Currently, you are in 1st place in the rankings!{315}Keep up the good work.
-Currently, you{315}are in the top 10!!{315}You're just a little bit away from 1st place! Keep it up!
-Currently, you{315}are in the top 50!!{315}Aim for the top 10! Keep it up!!
-Pay attention to the top screen!{315}These 5 teams are today's opponents.
-Team {322} is{315}a formidable opponent!
-Get pumped and do your best!!
-Now then,{315}Ready, fight!!!!
-Team {322} is{315}an opponent you can probably beat.
-Let's do our best without getting careless!!
-The shocking battle results are here!!
-Too bad.{315}Please do your best next time.
-You did it!{315}Let's keep up this momentum for the next one!
-I wonder what your{315}victory points from today's matches are!?
-Please do your best to win.
-Tournament {322} ({324}) has{315}ended.
-First, we will announce the{315}top 10 for tournament {322} ({324}).
-The top 10 are these people!!
-Next, we will{315}announce your results.
-Wha-wha-what, your name is there!!
-Currently, you{315}are in the top 100!{315}It's a position from which you can definitely aim for 1st place.{315}Keep it up!!
-Currently, you{315}are in the top 1000.{315}Next time, let's do our best{315}to enter the top 100!!
-Currently, you{315}are in the top 5000.{315}It's still a position where you can aim higher.{315}Do your best!
-Currently, you{315}are in the top 10000.{315}Further up, formidable rivals are{315}engaging in fierce battles.{315}Do not lose and keep it up!
-Currently, you{315}are in the top 50000.{315}1st place is still far away, but{315}do your best to get a higher ranking!
-Currently, you{315}are in the top 100000.{315}You should be able to aim even higher.{315}Don't give up, let's do our best!
-Try to command your monsters well by{315}having them learn skills or changing your tactics.{315}Getting a high rank shouldn't be a dream either!!
-The announcement of rankings will{315}wait until the number of participants is complete.
-However, this situation is{315}the perfect chance to break into the higher ranks, so do your best!
-A new tournament started today,{315}so there are no rankings yet!
-The new rankings will be{315}announced from tomorrow, please look forward to it!
-Now, let's refresh our mood and{315}start doing our best to aim for the top from today!
-There are few participants in this region,{315}so there are no rankings yet!{315}This is the perfect chance for masters from this region{315}to break into the higher ranks, so do your best!
-There are few participants in this class,{315}so there are no rankings yet!{315}This is the perfect chance for masters in this class{315}to break into the higher ranks, so do your best!
-A new tournament started today,{315}so there are no rankings yet.{315}The new rankings will be announced{315}from tomorrow, please look forward to it!
-When you register for the World Monster Championship,{315}a ranking centered on your{315}position will be displayed.
-You received{315}{322} as a prize!
-The record of your participation in the tournament{315}remains up to this point.{315}We will start the tournament from where you left off.
-Furthermore, as a reward for{315}defeating {322} strong masters, {324} points are added!
-You received{315}{322} x {324} as a prize!
-
-
-Would you like to upload your match results?
-Uploading battle results.
-If you do not upload the battle results,{315}the results will not be uploaded to the server, and{315}your hard-earned victory points will disappear.
-Even so, would it be okay to{315}end the World Monster Championship like this{315}without uploading the battle results?
-There is{315}no data for past champions.
-There is{315}no data for past champions.
-Please select the registration class{315}you want to change.
-If the registration class changes,{315}your victory points will become 0,{315}is that okay?
-The registration class has been changed.{315}Because there is a monster in your party{315}that cannot be registered due to the class change,{315}you will be moved to the "Edit Party" screen.{315}Please change it to a monster that can be registered.
-Today's reception has closed.{315}For details on the reception hours,{315}please see the official DQM Joker 2 Professional website.
-The registration class has been changed.
-You received{315}{322} from Mowmon!
-You received{315}{322} x {324} from Mowmon!
-Register for the World Monster Championship and{315}challenge the download battle,{315}where users from around the world will be your opponents.
-You can check the{315}results and information of the World Monster Championship,{315}and configure registration details such as party composition and team name.
-Check the{315}rankings of the World Monster Championship.{315}The rankings are divided by class,{315}and you can check various rankings such as overall rankings and regional rankings.
-Check the{315}latest information of the World Monster Championship.{315}You can also check notices from the server{315}and monsters commonly seen in the tournament.
-End the World Monster Championship{315}and return to the title screen.
+Le Championnat du Monde des Monstres n'est pas encore ouvert.{315}Rendez-vous sur le site de DQM Joker 2 Professional pour plus d'informations.
 
 
 
-View the{315}rankings for the top 30 places in the region.
-View the{315}rankings for the top 10 places in the region.
-View the{315}10-person ranking centered on your position.
-View the names of{315}those who won in past rankings.
-There are no registered friends.
-Once you remove them from the list,{315}you will no longer be able{315}to have Wi-Fi battles with this friend{315}unless you register them again.
-Friend removed from the list.{315}
-Are you sure{315}you want to remove them from the list?
-Loading data.{315}Please wait a moment.
-This is a friend with whom you have exchanged a friend code.{315}
-Delete a friend from the friend list.
-Return to the previous screen.
-Update Date
-(Unregistered)
-Japan (USA/EU) Rankings
-Remove from List
-Back
-Friend List
-Wins
-Losses
-Draws
-Record against you
-There is no friend data.{315}When your play friends in Wi-Fi battles,{315}your friend's data will be displayed.
-Please enter the friend code.
-The friend code{315}registration is complete!
-Would you like to{315}continue registering?
-Terminating the friend code{315}registration.
-The friend code is not{315}entered correctly.{315}Please check the number once more.
-You cannot register any more friends.{315}Please delete unnecessary{315}friend codes from your friend list{315}before registering again.
-Please enter the friend code.
-This friend code is{315}already entered.
-You do not yet have a friend code.{315}A friend code is a number that{315}identifies you when playing with{315}friends in Wi-Fi battles.
-The Wi-Fi Connection{315}treats the DS card and the device as a set.
-Connecting to Wi-Fi.{315}Please wait a moment.
-The Wi-Fi user information of this device{315}has been saved to the DS card.{315}For future connections to the Wi-Fi network,{315}please use this device.
-Your friend code is{315}{322}.
-Disconnecting from Wi-Fi.
-Disconnected from Wi-Fi.
-Retrieval of the friend code has been canceled.{315}Returning to the menu screen.
-The friend code has already been retrieved.{315}Your friend code is{315}{322}.
-Because the Wi-Fi user information{315}of the device and the DS card{315}differ, you cannot connect to the Wi-Fi network.
-If you update the Wi-Fi user information,{315}the data you have used{315}so far on the Wi-Fi Connection{315}will be lost.
-There is a possibility that{315}the Wi-Fi user information of the device{315}has been erased. Please check{315}the connection destination settings in the Wi-Fi Connection settings.
-If you add each other's friend codes,{315}you can play Wi-Fi battles togther.
+Voici le classement de la catégorie {322}{315}autour du rang de votre équipe.{315}{315}" Rang moyen des équipes d'hier : {324}
+Vos données n'apparaissent pas encore,{315}car vous participez pour la première fois{315}au Championnat du Monde des Monstres aujourd'hui.{315}Veuillez patienter le temps que le calcul{315}des résultats des combats soit terminé.
+
+Téléchargement des données en cours...
+Téléchargement terminé！
+Un monstre de votre équipe ne correspond{315}pas aux critères de la catégorie choisie.{315}Veuillez vérifier votre composition{315}puis réessayez de vous inscrire.
+Vérification du contenu en cours.{315}Veuillez patienter un moment.
+Création de vos données d'utilisateur{315}en cours.
+Pour commencer, veuillez choisir{315}le nom de votre équipe.
+La catégorie d'inscription a été{315}configurée sur : {322}
+Dans le CMM n°{322} ({324}) vous étiez classé {30b}z.
+Félicitations！{315}Vous avez remporté le CMM n°{322} ({324}).
+Vous avez gagné une récompense！{315}Vous recevez：{322}×{324}！
+En guise de prix de la victoire,{315}vous recevez : {322}！
+Se connecter à la{315}connexion Wi-Fi Nintendo？
+Déconnexion de la{315}connexion Wi-Fi Nintendo.
+Vous n'êtes plus connecté à la connexion Wi-Fi Nintendo.{315}Vos données vont être enregistrées. N'éteignez pas la console.
+Sauvegarde terminée！
+Veuillez sélectionner votre région.
+Veuillez choisir la catégorie{315}à laquelle vous souhaitez participer.{315}Sachez qu'il est possible de changer{315}de catégorie plus tard, mais si vous{315}avez des points de victoire, ils seront{315}réinitialisés à 0.{315}Faites donc attention si vous changez.
+Aujourd'hui, vous avez gagné {322} fois et perdu {324} fois.{315}Vous ne pouvez participer au Championnat du Monde des Monstres qu'une fois par jour.{315}Réessayez demain！
+Vous êtes actuellement inscrit{315}dans la catégorie {322}.{315}Ce monstre ne peut donc pas participer{315}au Championnat du Monde des Monstres.
+Vous êtes actuellement inscrit{315}dans la catégorie {322}.{315}Cette équipe ne peut donc pas participer{315}au Championnat du Monde des Monstres.
+Chargement des données réussi！
+Impossible d'accéder aux données.{315}Éteignez la console et réinsérez la carte de jeu.
+Aucune donnée de jeu n'a été trouvée.{315}Connexion au Championnat du Monde{315}des Monstres impossible.
+Veuillez sélectionner un monstre à relâcher.
+Voulez-vous vraiment relâcher {322}？
+Les monstres relâchés sont{315}à jamais perdus.{315}Voulez-vous vraiment continuer？
+{322} retourne à la nature à contrecœur！
+
+Comme il s'agit de votre première inscription,{315}aucune donnée d'utilisateur n'a été trouvée.
+
+
+Connexion au Wi-Fi en cours et{315}envoi des résultats de combat.{315}Veuillez patienter un moment.
+
+
+Vous ne pouvez pas enregistrer votre équipe car elle contient des monstres invités.{315}Réorganisez votre équipe dans "Config. données utilisateur". 
+Si vous n'accédez pas à la connexion Wi-Fi Nintendo, les résultats ne seront pas transmis et votre progression ne sera pas enregistrée.{315}Vous ne pourrez pas non plus recevoir de récompense en cas de victoire.
+Voulez-vous toujours quitter le Championnat du Monde des Monstres sans accéder à la connexion Wi-Fi Nintendo？
+
+
+Visez le haut du classement pour ce nouveau{315}tournoi... Non！ Visez carrément la victoire！ Bonne chance！
+Félicitations！{315}Vous avez amélioré votre place au classement！
+Vous êtes malheureusement descendu dans le classement.
+Le classement a été mis à jour, mais{315}votre rang n'a pas changé.
+Votre compte de points est le suivant：{315}Combats à domicile： {322}{315}Combats à l'extérieur： {324}
+Votre compte actuel de points de victoire est de {322}.
+Résultats de vos combats du jour à domicile：{315}Victoires： {322}{315}Défaites： {324}{315}Votre compte de points est de {30b}z.
+Votre compte de points du jour sera reflété{315}dans le classement de demain.
+Nous espérons vous revoir demain au Championnat du Monde des Monstres.
+{322} se relève{315}et vous regarde en semblant vouloir devenir votre ami.{315}Voulez-vous qu'il rejoigne votre équipe？
+Vous avez gagné une récompense - {322}！
+En guise de récompense,{315}vous recevez : {322} × {324}！
+Malheureusement, pas de récompense pour vous cette fois-ci.{315}Donnez tout ce que vous avez et visez le haut du classement la prochaine fois！
+Les résultats des combats à l'extérieur apparaîtront dans le classement de demain.
+{322} a rejoint vos rangs{315}et a été envoyé à l'enclos.
+Vous avez battu l'équipe {322}！
+Vous avez perdu contre l'équipe {322}！
+{322} a rejoint votre équipe！
+Vous ne pouvez participer au Championnat du Monde des Monstres qu'une fois par jour.{315}Le Championnat du Monde des Monstres d'aujourd'hui étant terminé, vous ne pouvez plus participer.
+Quand vous remportez un combat, votre{315}compte de points de victoire augmente.{315}Plus votre compte est élevé, plus vous {315}grimperez vers le haut du classement.{315}Le classement change quotidiennement, {315}reflétant le compte de victoires et de{315}défaites.
+Dans le Championnat du Monde des{315}Monstres, il existe des combats{315}à domicile et à l'extérieur.{315}Dans les combats à domicile, vous{315}téléchargez les données de votre{315}adversaire, dans les combats à{315}l'extérieur, vos propres données sont {315}téléchargées par l'adversaire.
+{322} - Que le combat avec l'équipe {324} commence！
+Vous avez déclaré forfait pour le Championnat du Monde des Monstres.{315}Vous serez également déclaré forfait pour tous les combats suivants.
+C'est tout pour aujourd'hui, dresseur！{315}Les combats sont terminés！
+Les catégories d'inscription sont divisées{315}selon le RANG de vos monstres. Il y a la{315}" Catégorie RANG F-D " pour les rangs F à D,{315}" Catégorie RANG C-A " pour les rangs C à A,{315}" Catégorie RANG S/SS " pour les rangs S et SS,{315}et la " Catégorie Sans restriction ", soit un{315}total de 4 catégories dans lesquelles combattre.
+{322}part{315}dans l'enclos des monstres.
+Bienvenue au Championnat du Monde des Monstres！
+Visez le haut du classement et essayez {315}de prendre la première place！
+Sans plus attendre, voici le dernier classement！
+Vous êtes actuellement numéro un！{315}Continuez cet excellent travail！
+Vous faites actuellement partie des dix meilleurs！{315}La première place est à portée de main！
+Vous faites actuellement partie des cinquante meilleurs！{315}Vous pouvez faire partie des dix meilleurs！
+Les cinq équipes affichées sur{315}l'écran supérieur seront vos{315}adversaires du jour.
+L'équipe {322} est vraiment un adversaire redoutable！
+Donnez tout ce que vous avez！
+... À vos marques！ ... Prêts！ ... COMBATTEZ！！
+Vous avez vos chances contre l'équipe {322}.
+Mais tout n'est pas encore joué！
+Voici les incroyables résultats du combat！
+Quel dommage！{315}Vous aurez plus de chance la prochaine fois！
+Vous avez réussi！{315}Continuez comme ça lors de vos futurs combats！
+Combien de points de victoire obtiendrez-vous aujourd'hui？
+Visez le haut du classement！
+Le championnat {322} ({324}) est terminé.
+Avant de poursuivre, voici les dix meilleures équipes du championnat {322} ({324})！
+Voici les dix meilleurs joueurs！！
+Voici les dix meilleures équipes！
+O-O-Oh... Incroyable！ Votre nom apparaît！！
+Vous faites actuellement partie des cent meilleurs！{315}Visez la première place！
+Vous faites actuellement partie des mille meilleurs！{315}Vous pouvez faire partie des cent meilleurs！
+Vous faites actuellement partie des cinq mille meilleurs！{315}Continuez comme ça et essayez d'atteindre la première place！
+Vous faites actuellement partie des dix mille meilleurs！{315}Armez-vous de courage et remportez la victoire sur vos adversaires.
+Vous faites actuellement partie des cinquante mille meilleurs！{315}La route sera longue jusqu'au sommet, mais chaque victoire vous en rapproche！
+Vous faites actuellement partie des cent mille meilleurs！{315}Accrochez-vous et vous parviendrez à grimper dans le classement！
+Faites apprendre à vos monstres de nouvelles compétences et aptitudes, travaillez votre tactique et vous pourrez vous hisser dans le haut du classement！
+Les résultats seront communiqués dès que le nombre total de participant aura été calculé.{315}Veuillez patienter...
+Voici l'occasion rêvée d'arracher votre place parmi les premiers du classement！ Bonne chance！
+Le nouveau championnat ayant commencé aujourd'hui, il n'y a pas encore de classement.
+Le nouveau classement sera communiqué demain.
+Concentrez-vous, respirez profondément et visez le sommet！
+Les participants de cette région étant{315}encore rares, il n'y a pas encore de{315}classement. L'occasion rêvée pour les{315}dresseurs locaux de viser le sommet！
+Les participants de cette catégorie{315}étant rares, il n'y a pas encore de{315}classement. L'occasion rêvée pour les{315}dresseurs ambitieux de viser le sommet！
+Un nouveau championnat ayant commencé aujourd'hui, il n'y a pas encore de classement.{315}Le nouveau classement sera communiqué demain.
+Une fois votre enregistrement au Championnat du Monde des Monstres terminé, vous pourrez consulter le classement et votre propre position.
+Vous recevez {322}{315}en guise de prix！
+Une sauvegarde de votre progression dans le tournoi{315}a été trouvée.{315}Vous reprenez là où vous vous étiez arrêté.
+De plus, en récompense pour avoir battu{315}{322} puissants dresseurs, vous gagnez {324} points bonus！
+Vous recevez {322} x{324}{315}en guise de prix！
+
+
+Voulez-vous envoyer les résultats{315}de vos combats sur le serveur？
+Envoi des résultats des combats en cours...
+Si vous n'envoyez pas vos résultats,{315}ils ne seront pas enregistrés sur le serveur{315}et vos précieux points de victoire seront perdus.
+Voulez-vous vraiment quitter le Championnat du Monde{315}des Monstres sans envoyer vos résultats,{315}quitte à perdre votre progression？
+Il n'y a aucune donnée disponible{315}concernant les anciens champions.
+Il n'y a aucune donnée disponible{315}concernant les anciens champions.
+Veuillez sélectionner la catégorie{315}que vous souhaitez modifier.
+Si vous changez de catégorie,{315}vos points de victoire retomberont à 0.{315}Voulez-vous vraiment continuer？
+La catégorie a bien été modifiée.{315}En raison de ce changement, votre équipe contient{315}des monstres non autorisés. Vous allez être{315}redirigé vers l'écran " Former l'équipe ".{315}Veuillez choisir des monstres éligibles.
+Les inscriptions pour aujourd'hui sont closes.{315}Pour plus de détails concernant les horaires,{315}veuillez consulter le site officiel de{315}Dragon Quest Monsters : Joker 2 Professional.
+La catégorie a bien été modifiée.
+Sanguini Vache vous donne {322}！{315}
+Sanguini Vache vous donne {322} x{324}！{315}
+En vous inscrivant au Championnat du Monde{315}des Monstres, vous pourrez relever le défi{315}des combats en ligne face aux joueurs du monde entier.
+Permet de consulter vos résultats ou vos infos{315}sur le Championnat du Monde des Monstres, et de{315}gérer votre inscription (former l'équipe,{315}modifier le nom de votre équipe, etc.).
+Permet de consulter les classements du Championnat{315}du Monde des Monstres. Divisés par catégories,{315}vous pouvez y découvrir divers classements,{315}qu'ils soient généraux ou régionaux.
+Permet de consulter les dernières informations{315}sur le Championnat du Monde des Monstres.{315}Vous y trouverez les annonces du serveur ainsi que{315}la liste des monstres les plus populaires du tournoi.
+Permet de quitter le Championnat du Monde{315}des Monstres pour revenir à l'écran titre.
+
+
+
+Affichez les trente meilleures équipes du classement mondial.
+Affichez les dix meilleures équipes du classement régional.
+Affichez un classement de 10 joueurs{315}centré autour de votre propre rang.
+Affichez les anciens champions du Championnat du Monde des Monstres.
+Personne n'est enregistré dans votre liste d'amis.
+Si vous supprimez cette entrée de votre liste d'amis, {315}vous ne pourrez plus affronter cet ami via la connexion Wi-Fi Nintendo {315}jusqu'à ce que vous l'ajoutiez à nouveau à votre liste d'amis.
+Supprimée de votre liste d'amis.{315}
+Voulez-vous vraiment supprimer {315}cette entrée de votre liste d'amis？
+Chargement des données en cours...{315}Veuillez patienter.
+Quelqu'un avec qui vous avez échangé vos codes ami.{315}
+Supprimez une entrée de votre liste d'amis.
+Retournez à l'écran précédent.
+Der. mise à jour
+(non enregistré)
+Class. Japon/Am. N/UE
+Supprimer ami
+Retour
+Liste d'amis
+V
+D
+N
+Combats contre vous
+Il n'existe pas de données pour cet ami.{315}Vous pouvez consulter les données de{315}votre ami en sélectionnant l'option{315}"Affronter des amis" de la{315}CWF Nintendo.
+Veuillez saisir un code ami.
+Code ami enregistré！
+Voulez-vous enregistrer un autre code ami？
+Enregistrement des codes ami terminé.
+Ce code ami est incorrect. {315}Veuillez le vérifier puis essayez à nouveau de le saisir.
+Votre liste d'amis est pleine. {315}Veuillez supprimer une entrée avant d'en ajouter une autre.{315}
+Veuillez saisir un code ami.
+Ce code ami a déjà été saisi.
+Vous n'avez pas encore de code ami.{315}Ce code permet à vos amis de vous identifier pendant que vous jouez {315}via la connexion Wi-Fi Nintendo.
+La connexion Wi-Fi Nintendo considère {315}votre carte DS et votre console comme un ensemble. 
+Accès à la connexion Wi-Fi Nintendo...{315}Veuillez patienter...
+Les informations d'utilisateur de la connexion Wi-Fi Nintendo de cette console ont été sauvegardées sur la carte DS. À partir de maintenant, utilisez cette console pour vous connecter à la connexion Wi-Fi Nintendo.
+Votre code ami est {322}.
+Déconnexion de la{315}connexion Wi-Fi Nintendo.
+Vous avez été déconnecté de la{315}connexion Wi-Fi Nintendo.
+La récupération du code ami a été{315}annulée. Retour au menu de la{315}connexion Wi-Fi Nintendo.
+Vous avez déjà un code ami.{315}Votre code ami est {315}{322}.
+Les informations d'utilisateur de la connexion Wi-Fi Nintendo de cette console et de la carte DS ne correspondent pas. Impossible de se connecter à la{315}connexion Wi-Fi Nintendo.
+Vous perdrez toutes les données utilisées pour vous connecter à la connexion Wi-Fi Nintendo si vous continuez.
+Vos informations d'utilisateur de la{315}connexion Wi-Fi Nintendo peuvent avoir été{315}effacées. Vérifiez vos paramètres de la{315} connexion Wi-Fi Nintendo.
+En échangeant vos codes ami,{315}vous pourrez vous affronter via{315}la connexion Wi-Fi Nintendo.
 Dummy
-Do you want to retrieve your friend code?
-Would you like to save the device's{315}Wi-Fi user information to the DS card{315}and connect to the Wi-Fi network?
-By{315}registering friend codes with each other, you will be able to play{315}"Battle with a Friend" in Wi-Fi battles.
-Would you like to update{315}the Wi-Fi user information saved on the DS card?
-In the case of this game, you can{315}use your friend list as it is, but{315}when playing against a distant friend in a Wi-Fi battle,{315}your friend will need to re-register your friend code.
+Obtenir un code ami？
+Se connecter à la connexion Wi-Fi Nintendo en sauvegardant les informations d'utilisateur de la connexion Wi-Fi Nintendo de cette console sur cette{315}carte DS？
+En échangeant vos codes ami, vous pourrez vous affronter via la connexion Wi-Fi Nintendo.
+Mettre à jour les informations d'utilisateur de la connexion Wi-Fi Nintendo sauvegardées sur la carte DS？
+Vous pouvez utiliser votre liste d'amis avec ce jeu. Cependant, si vous voulez jouer avec des amis qui sont loin de vous via la connexion Wi-Fi Nintendo, ils vont devoir enregistrer à nouveau votre code ami.
 
-After connecting to the Wi-Fi network,{315}your Wi-Fi user information will be updated.{315}Are you sure you want to continue?
-The Wi-Fi Connection treats the DS card{315}and the device as a set.
-Would you like to save the device's{315}Wi-Fi user information to the DS card{315}and connect to the Wi-Fi network?
-Because the Wi-Fi user information{315}of the device and the DS card differ,{315}you cannot connect to the Wi-Fi network.
-Would you like to update{315}the Wi-Fi user information saved on the DS card?
-If you update the Wi-Fi user information,{315}the data you have used so far{315}on the Wi-Fi network will be lost.
-To battle against friends{315}registered in your friend list in Wi-Fi battles,{315}those friends will need to register you{315}once again.
-Connecting to the Wi-Fi network to{315}update the Wi-Fi user information.{315}Are you really sure you want to update?
-Connecting to the Wi-Fi network.{315}Please wait a moment.
-The Wi-Fi user information of this device{315}has been saved to the DS card.{315}For future connections to the Wi-Fi network,{315}please use this device.
-There is a possibility that{315}the Wi-Fi user information of the device{315}has been erased.{315}Please check the connection destination settings in the Wi-Fi connection settings.
-Are you sure{315}you want to disconnect from Wi-Fi?
-Disconnecting from Wi-Fi.
-Disconnected from Wi-Fi.
-Cannot connect to the Wi-Fi network.{315}For details, please refer to the guidebook.{315}Error code: {322}
-You cannot connect because the Wi-Fi connection is busy{315}or the service is suspended.{315}Please wait a moment and try again.{315}Error code: {322}
-Your Wi-Fi Connection ID{315}has been deleted because it was not used for a long time.{315}For details, please refer to the guidebook.{315}Error code: {322}
-The Wi-Fi connection service for this software has ended.{315}Thank you for using it.{315}Error code: {322}
-You cannot connect because the access point is busy.{315}Please wait a moment and try again.{315}Error code: {322}
-Access point not found.{315}Move closer to the access point{315}and try again.{315}Error code: {322}
-No connectable access point{315}was found.{315}Please check the connection destination settings in the Wi-Fi Connection settings.{315}Error code: {322}
-Cannot connect to the Nintendo Wi-Fi USB Connector.{315}Please check the Nintendo{315}Wi-Fi USB Connector connection in the Wi-Fi Connection settings.{315}Error code: {322}
-Cannot connect to the Wi-Fi network.{315}Please check{315}the connection destination settings in the Wi-Fi connection settings.{315}Error code: {322}
-There is no response from the opponent.{315}It is possible that the opponent is no longer{315}connected to the Wi-Fi network or that{315}you have been removed from their friend list.{315}Error code: {322}
-A communication error has occurred.{315}Error code: {322}
-Because an error has occurred,{315}you cannot use the Wi-Fi Connection functions.{315}Please turn off the power and try again.{315}Error code: {322}
-A communication error has occurred.{315}The Wi-Fi communication will be terminated.
-Communication error.{315}Please start over from the beginning.
-Download failed.{315}Error code: {322}
+Se connecter à la connexion Wi-Fi Nintendo pour mettre à jour les informations d'utilisateur de la{315}connexion Wi-Fi Nintendo？
+La connexion Wi-Fi Nintendo considère votre carte DS et votre console comme un ensemble.
+Se connecter à la connexion Wi-Fi Nintendo en sauvegardant les informations d'utilisateur de la connexion Wi-Fi Nintendo de cette console sur cette carte DS？
+Les informations d'utilisateur de la connexion Wi-Fi Nintendo de cette console et de la carte DS ne correspondent pas. Impossible de se connecter à la connexion Wi-Fi Nintendo.
+Mettre à jour les informations d'utilisateur de la connexion Wi-Fi Nintendo sauvegardées sur la carte DS？
+Vous perdrez toutes les données utilisées pour vous connecter à la connexion Wi-Fi Nintendo si vous continuez.
+Si votre ami figure déjà dans votre liste d'amis, il devra enregistrer à nouveau votre code ami pour que vous puissiez vous affronter via la connexion Wi-Fi Nintendo.
+Se connecter à la connexion Wi-Fi Nintendo pour mettre à jour les informations d'utilisateur de la connexion Wi-Fi Nintendo？
+Accès à la connexion Wi-Fi Nintendo...{315}Veuillez patienter...
+Les informations d'utilisateur de la connexion Wi-Fi Nintendo de cette console ont été sauvegardées sur la carte DS. À partir de maintenant, utilisez cette console pour vous connecter à la connexion Wi-Fi Nintendo.
+Vos informations d'utilisateur de la connexion Wi-Fi Nintendo peuvent avoir été effacées. Vérifiez vos paramètres de la connexion Wi-Fi Nintendo.
+Voulez-vous interrompre la{315}connexion Wi-Fi Nintendo？
+Déconnexion de la{315}connexion Wi-Fi Nintendo.
+Vous avez été déconnecté de la{315}connexion Wi-Fi Nintendo.
+Impossible de se connecter à la{315}connexion Wi-Fi Nintendo. Pour toute assistance, consultez le mode d'emploi ou visitez le site support.nintendo.com.{315}Code d'erreur： {322}
+Soit la connexion Wi-Fi Nintendo connaît un trafic trop important, soit le service est interrompu. Veuillez réessayer ultérieurement. Pour toute assistance, visitez le site support.nintendo.com.{315}Code d'erreur： {322}
+L'identifiant de connexion Wi-Fi Nintendo a été effacé parce qu'il est resté inutilisé pendant une période prolongée. Pour toute assistance, visitez le site support.nintendo.com.{315}Code d'erreur： {322}
+Le service de connexion Wi-Fi Nintendo pour ce logiciel a été interrompu. Visitez le site support.nintendo.com pour une liste actuelle des logiciels compatibles avec la connexion Wi-Fi Nintendo.{315}Code d'erreur： {322}
+Le point d'accès n'est pas disponible. Vous ne pouvez pas vous connecter. Veuillez réessayer ultérieurement.{315}Pour toute assistance, visitez le site support.nintendo.com.{315}Code d'erreur： {322}
+Aucun point d'accès ne se trouve à proximité. Veuillez réessayer en vous rapprochant d'un point d'accès. Pour toute assistance, visitez le site support.nintendo.com.{315}Code d'erreur： {322}
+Aucun point d'accès compatible ne se trouve à proximité. Veuillez vérifier vos paramètres de connexion et réessayer.{315}Pour toute assistance, visitez le site support.nintendo.com.{315}Code d'erreur： {322}
+Connexion au connecteur Wi-Fi USB{315}Nintendo impossible. Veuillez vérifier{315}les paramètres du connecteur Wi-Fi USB{315}dans la configuration de la Connexion Wi-Fi Nintendo.{315}Code erreur : {322}
+Impossible de se connecter à la{315}connexion Wi-Fi Nintendo. Vérifiez les paramètres de la connexion puis réessayez. Pour toute assistance, visitez le site support.nintendo.com.{315}Code d'erreur： {322}
+Aucune réponse. Le joueur n'est pas connecté à la connexion Wi-Fi Nintendo ou vous n'êtes pas dans sa liste d'amis.{315}Code d'erreur： {322}
+Erreur de communication. Pour toute assistance, visitez le site support.nintendo.com.{315}Code d'erreur： {322}
+Une erreur est survenue. Impossible d'utiliser la connexion Wi-Fi Nintendo. Veuillez éteindre la console et réessayer.{315}Code d'erreur： {322}
+Une erreur de communication est survenue.{315}Fermeture de la connexion Wi-Fi.
+Erreur de communication.{315}Veuillez tout recommencer depuis le début.
+Le téléchargement a échoué.{315}Pour toute assistance, visitez le site support.nintendo.com.{315}Code d'erreur： {322}
 HEAP CREATE FAILED!{315}size:{322} id:{324}
-Download failed.{315}Please start over from the beginning.
+Le téléchargement a échoué.{315}Veuillez réessayer depuis le début.
 
-Challenge the person selected to a battle.{315}If their name is glowing, they are{315}currently challenging busy battling.{315}If dim, they are offline.
-You cannot use this{315}until you can do favorite organization{315}in the storage.
+Défiez l'adversaire sélectionné.{315}Les noms apparaissant en jaune cherchent un combat. Ceux qui sont en gris sont déjà engagés dans un combat ou ont été déconnectés de la CWF Nintendo.
+Vous ne pourrez pas utiliser ceci{315}tant que la fonction d'équipe favorite{315}de l'enclos n'aura pas été débloquée.
 
-{322} is currently looking...{315}Please wait.{315}You can cancel by pressing B.
-{322} has been found.
-The friend code is not registered.{315}Please register a friend code before{315}playing "Battle with a Friend".
-Start Battle
-Team Setup
-Check Rules
-
-
-{322} has updated{315}their friends list.
-{322} has changed{315}the name to {324}.{315}From now on, the changed name will be reflected in the game.
-Waiting for the opponent to confirm.{315}Please wait a moment.
-{322}{315}has disappeared...
-Please wait a moment.
-
-Find an opponent
-Team Setup
-Set RANK
-Check Profile
-Edit Party
-Change Tactics
-Confirm
+Recherche de votre ami {322} en cours...{315}Veuillez patienter.{315}Appuyez sur le bouton B pour annuler.
+Vous avez trouvé {322}！
+Aucun code ami enregistré.{315}Pour affronter un ami via la{315}connexion Wi-Fi Nintendo, vous devez{315}d'abord enregistrer son code ami.
+Débuter le combat
+Composition de l'équipe
+Consulter les règles
 
 
+Mise à jour de la liste d'amis de :{315}{322}.
+{322}a changé son nom en {324}.{315}C'est ce nouveau nom qui sera utilisé dans le jeu désormais.
+En attente de la confirmation de l'adversaire.{315}Veuillez patienter quelques instants.
+{322}{315}est parti...
+Veuillez patienter.
 
-Opponent
-Party Rank
-{322} Won
-{322} Loss
-{322} Battles
-World Monster Championships
-F-D RANK
-C-A RANK
-S/SS RANK
-Unrestrict.
-
-{322} Rank
-Stranger Battles
-StreetPass Btl
-Win-strk Btl
-Play Time
-Library %
-{322} Teams
-The profile is{315}displayed on the top screen.
+Chercher un adversaire
+Composition de l'équipe
+Définir le rang
+Voir le profil
+Changer de monstres
+Changer de tactique
+Confirmer
 
 
-You cannot use the{315}Wi-Fi network with your current{315}player name. Please change your player name.
-You cannot use the{315}Wi-Fi network with your current{315}monster name ({322}). Please change the monster name.
-There is a suspicion of{315}illegal data in the monster data.{315}Please change the monster in{315}"Team Setup".
-Starting a battle{315}with {322} from {324}.
-Starting a battle{315}with {322}.
-Battle
-Team Setup
-Check Rules
-Special distribution data found!
-Special distribution data was not found.{315}Battling with normal distribution data.
-A mysterious monster appeared!{315}Press a button and let's start the battle!
-Dimensional Dragon appeared!{315}Press a button and let's start the battle!
-Stella appeared!{315}Press a button and let's start the battle!
-Slider Hero appeared!{315}Press a button and let's start the battle!
-Shinigami Slidark appeared!{315}Press a button and let's start the battle!
-You won the present battle!
-You lost the present battle.
-You tied the present battle.
-Present battles are limited to{315}once a day. Do your best!
-Present battles are limited to{315}once a day. Please try again tomorrow.
-Present battles start{315}on 2011/{322}/{324}.
-A limited-time special distribution data was{315}found!
-Unregistered
+
+Adversaire
+Rang de l'équipe
+{322}V
+{322}D
+{322}Combat(s)
+Meilleur rang : Chpt du Monde
+Catégorie Rangs F-D
+Catégorie Rangs C-A
+Catégorie Rangs S-SS
+Catégorie Libre
+
+{322}e Place
+Match aléatoire
+Mode Passant
+Défi Survie
+Temps de jeu
+Monstrothèque
+{322}Équipe(s)
+Le profil est actuellement affiché{315}sur l'écran supérieur.
+
+
+Impossible d'accéder à la{315}connexion Wi-Fi Nintendo avec ce nom de héros. Veuillez changer le nom du héros.
+Impossible d'accéder à la connexion Wi-Fi{315}Nintendo avec ce nom de monstre ({322}).{315}Veuillez changer le nom du monstre.
+Il se peut que votre équipe présente des données de monstres non autorisées.{315}Veuillez la réorganiser dans{315}"Composition de l'équipe".
+Le combat contre {322}{315}de la région : {324}{315}va commencer！
+Le combat contre {322}{315}va commencer！
+Combattre
+Composition de l'équipe
+Consulter les règles
+Des données de distribution spéciale ont été trouvées！
+Aucune donnée de distribution spéciale trouvée.{315}Vous allez affronter l'équipe de distribution normale.
+Un monstre mystérieux apparaît！{315}Appuyez sur un bouton pour lancer le combat！
+Dragon du temps　apparaît！{315}Appuyez sur un bouton pour lancer le combat！
+Stella apparaît！{315}Appuyez sur un bouton pour lancer le combat！
+Superslurp apparaît！{315}Appuyez sur un bouton pour lancer le combat！
+Néméslurp　apparaît！{315}Appuyez sur un bouton pour lancer le combat！
+Vous avez gagné le Combat Cadeau！
+Vous avez perdu le Combat Cadeau.
+Match nul！
+Le Combat Cadeau n'a lieu qu'une fois{315}par jour. Bonne chance！
+Le Combat Cadeau n'a lieu qu'une fois{315}par jour. Revenez tenter votre chance demain！
+Le Combat Cadeau débute{315}le {324}/{322}/2011.
+Des données de distribution spéciale{315}à durée limitée ont été trouvées！
+non enregistré
 Hokkaido
 Aomori
 Iwate
@@ -593,7 +593,7 @@ Hiroshima
 Yamaguchi
 Tokushima
 Kagawa
-Ehime
+Ehime 
 Kochi
 Fukuoka
 Saga

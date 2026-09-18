@@ -1,8 +1,8 @@
-Profile Settings
-Change Name
-Set Region
-Finish Settings
-Select Region
+Paramètres du profil
+Modifier le nom
+Choisir la région
+Valider les choix
+Choisir votre région
 
 
 
@@ -30,41 +30,41 @@ Select Region
 
 
 
-You can change your display name.{315}If you enter an inappropriate name,{315}you cannot use Wi-Fi communications.{315}If your name is inappropriate,{315}please change it before playing.
-Set your region / country.{315}It appears in Tag Mode Battles,{315}Wireless Battles and Wi-Fi communications.
-Confirm your changes and save.
+Vous pouvez modifier le nom du protagoniste.{315}Si vous saisissez un nom inapproprié,{315}vous ne pourrez pas jouer en ligne.{315}Si votre nom actuel est inapproprié,{315}veuillez le modifier maintenant.
+Vous pouvez définir votre région d'origine.{315}Elle sera affichée lors des combats{315}en Mode Passant, en sans-fil local{315}ou via la Connexion Wi-Fi.
+Enregistrer le nom du protagoniste et sa région d'origine.
 
 
-Select your region.
-Select your country.
-Select your area.
-Select your region.
-Region set to {30b}{00}.
-
-
-
+Veuillez sélectionner votre continent.
+Veuillez sélectionner votre pays.
+Veuillez sélectionner votre région.
+Veuillez sélectionner votre lieu d'origine.
+Votre lieu d'origine a été configuré sur : {30b}{00}.
 
 
 
-Asia
-Europe / CIS
-Middle East
-North America
-Latin America
-Africa
-Oceania
-Hokkaido/Tohoku
-Kanto
-Koshinetsu
+
+
+
+Asie
+Europe / CEI
+Moyen-Orient
+Amérique du Nord
+Amérique latine
+Afrique
+Océanie
+Hokkaidô & Tôhoku
+Kantô
+Kôshin'etsu
 Hokuriku
-Tokai
+Tôkai
 Kinki
-Chugoku
+Chûgoku
 Shikoku
-Kyushu/Okinawa
-Region
-Unregistered
-Hokkaido
+Kyûshû & Okinawa
+Région
+Non défini
+Hokkaidô
 Aomori
 Iwate
 Miyagi
@@ -91,7 +91,7 @@ Mie
 Shiga
 Kyoto
 Osaka
-Hyogo
+Hyôgo
 Nara
 Wakayama
 Tottori
@@ -102,12 +102,12 @@ Yamaguchi
 Tokushima
 Kagawa
 Ehime
-Kochi
+Kôchi
 Fukuoka
 Saga
 Nagasaki
 Kumamoto
-Oita
+Ôita
 Miyazaki
 Kagoshima
 Okinawa
@@ -303,13 +303,13 @@ FJI
 MHL
 FSM
 JPN
-Select an Asian country.
-Select a Europe/CIS country.
-Select a Middle East country.
-Select a North American country.
-Select a Latin American country.
-Select an African country.
-Select an Oceanian country.
+Sélection du pays (Région : Asie)
+Sélection du pays (Région : Europe / CEI)
+Sélection du pays (Région : Moyen-Orient)
+Sélection du pays (Région : Amérique du Nord)
+Sélection du pays (Région : Amérique latine)
+Sélection du pays (Région : Afrique)
+Sélection du pays (Région : Océanie)
 
 
 
@@ -358,195 +358,195 @@ Select an Oceanian country.
 
 
 
-Set region to India.
-Set region to Indonesia.
-Set region to Cambodia.
-Set region to Singapore.
-Set region to Sri Lanka.
-Set region to Thailand.
-Set region to South Korea.
-Set region to China.
-Set region to North Korea.
-Set region to Nepal.
-Set region to Pakistan.
-Set region to Bangladesh.
-Set region to East Timor.
-Set region to Philippines.
-Set region to Bhutan.
-Set region to Brunei.
-Set region to Vietnam.
-Set region to Malaysia.
-Set region to Myanmar.
-Set region to{315}the Maldives.
-Set region to Mongolia.
-Set region to Laos.
-Set region to Iceland.
-Set region to Ireland.
-Set region to Azerbaijan.
-Set region to Albania.
-Set region to Armenia.
-Set region to Andorra.
-Set region to Italy.
-Set region to Ukraine.
-Set region to Uzbekistan.
-Set region to the{315}United Kingdom.
-Set region to Estonia.
-Set region to Austria.
-Set region to the Netherlands.
-Set region to Kazakhstan.
-Set region to Cyprus.
-Set region to Greece.
-Set region to Kyrgyzstan.
-Set region to Georgia.
-Set region to Croatia.
-Set region to San Marino.
-Set region to Switzerland.
-Set region to Sweden.
-Set region to Spain.
-Set region to Slovakia.
-Set region to Slovenia.
-Set region to Serbia.
-Set region to Tajikistan.
-Set region to the{315}Czech Republic.
-Set region to Denmark.
-Set region to Germany.
-Set region to Turkmenistan.
-Set region to Norway.
-Set region to Hungary.
-Set region to Finland.
-Set region to France.
-Set region to Bulgaria.
-Set region to Belarus.
-Set region to Belgium.
-Set region to Poland.
-Set region to{315}Bosnia-Herzegovina.
-Set region to Portugal.
-Set region to Macedonia.
-Set region to Malta.
-Set region to Monaco.
-Set region to Moldova.
-Set region to Montenegro.
-Set region to Latvia.
-Set region to Lithuania.
-Set region to{315}Liechtenstein.
-Set region to Romania.
-Set region to Luxembourg.
-Set region to Russia.
-Set region to Afghanistan.
-Set region to the{315}United Arab Emirates.
-Set region to Yemen.
-Set region to Israel.
-Set region to Iraq.
-Set region to Iran.
-Set region to Oman.
-Set region to Qatar.
-Set region to Kuwait.
-Set region to Saudi Arabia.
-Set region to Syria.
-Set region to Turkey.
-Set region to Bahrain.
-Set region to Jordan.
-Set region to Lebanon.
-Set region to the{315}United States.
-Set region to Canada.
-Set region to Argentina.
-Set region to{315}Antigua/Barbuda.
-Set region to Uruguay.
-Set region to Ecuador.
-Set region to El Salvador.
-Set region to Guyana.
-Set region to Cuba.
-Set region to Guatemala.
-Set region to Grenada.
-Set region to Costa Rica.
-Set region to Colombia.
-Set region to Jamaica.
-Set region to Suriname.
-Set region to{315}St Kitts/Nevis.
-Set region to{315}St Vincent/Grenadines.
-Set region to St Lucia.
-Set region to Chile.
-Set region to Dominica.
-Set region to the{315}Dominican Republic.
-Set region to{315}Trinidad/Tobago.
-Set region to Nicaragua.
-Set region to Haiti.
-Set region to Panama.
-Set region to Bahamas.
-Set region to Paraguay.
-Set region to Barbados.
-Set region to Brazil.
-Set region to Venezuela.
-Set region to Belize.
-Set region to Peru.
-Set region to Bolivia.
-Set region to Honduras.
-Set region to Mexico.
-Set region to Algeria.
-Set region to Angola.
-Set region to Uganda.
-Set region to Egypt.
-Set region to Ethiopia.
-Set region to Eritrea.
-Set region to Ghana.
-Set region to Cape Verde.
-Set region to Gabon.
-Set region to Cameroon.
-Set region to Gambia.
-Set region to Guinea.
-Set region to Guinea-Bissau.
-Set region to Kenya.
-Set region to{315}Cote d'Ivoire.
-Set region to Comoros.
-Set region to Congo.
-Set region to the{315}DR Congo.
-Set region to{315}Sao Tome/Principe.
-Set region to Zambia.
-Set region to Sierra Leone.
-Set region to Djibouti.
-Set region to Zimbabwe.
-Set region to Sudan.
-Set region to Swaziland.
-Set region to Seychelles.
-Set region to{315}Equatorial Guinea.
-Set region to Senegal.
-Set region to Somalia.
-Set region to Tanzania.
-Set region to Chad.
-Set region to{315}Central Africa.
-Set region to Tunisia.
-Set region to Togo.
-Set region to Nigeria.
-Set region to Namibia.
-Set region to Niger.
-Set region to{315}Burkina Faso.
-Set region to Burundi.
-Set region to Benin.
-Set region to Botswana.
-Set region to Madagascar.
-Set region to Malawi.
-Set region to Mali.
-Set region to South Africa.
-Set region to Mauritius.
-Set region to Mauritania.
-Set region to Mozambique.
-Set region to Morocco.
-Set region to Libya.
-Set region to Liberia.
-Set region to Rwanda.
-Set region to Lesotho.
-Set region to Australia.
-Set region to Kiribati.
-Set region to Samoa.
-Set region to the{315}Solomon Islands.
-Set region to Tuvalu.
-Set region to Tonga.
-Set region to Nauru.
-Set region to New Zealand.
-Set region to Vanuatu.
-Set region to{315}Papua New Guinea.
-Set region to Palau.
-Set region to Fiji.
-Set region to the{315}Marshall Islands.
-Set region to Micronesia.
-Set region to Japan.
+Votre lieu d'origine a été configuré sur : Inde.
+Votre lieu d'origine a été configuré sur : Indonésie.
+Votre lieu d'origine a été configuré sur : Cambodge.
+Votre lieu d'origine a été configuré sur : Singapour.
+Votre lieu d'origine a été configuré sur : Sri Lanka.
+Votre lieu d'origine a été configuré sur : Thaïlande.
+Votre lieu d'origine a été configuré sur{315}la Corée du Sud.
+Votre lieu d'origine a été configuré sur{315}la Chine.
+Votre lieu d'origine a été{315}configuré sur{315}la Corée du Nord.
+Votre lieu d'origine a été configuré sur : Népal.
+Votre lieu d'origine a été configuré sur : Pakistan.
+Votre lieu d'origine a été configuré sur{315}le Bangladesh.
+Votre lieu d'origine a été configuré sur{315}le Timor oriental.
+Votre lieu d'origine a été configuré sur : Philippines.
+Votre lieu d'origine a été configuré sur : Bhoutan.
+Votre lieu d'origine a été configuré sur : Brunei.
+Votre lieu d'origine a été configuré sur : Viêt Nam.
+Votre lieu d'origine a été configuré sur : Malaisie.
+Votre lieu d'origine a été configuré sur : Myanmar.
+Votre lieu d'origine a été configuré sur : Maldives.
+Votre lieu d'origine a été configuré sur : Mongolie.
+Votre lieu d'origine a été configuré sur : Laos.
+Votre lieu d'origine a été configuré sur : Islande.
+Votre lieu d'origine a été configuré sur : Irlande.
+Votre lieu d'origine a été configuré sur{315}l'Azerbaïdjan.
+Votre lieu d'origine a été configuré sur : Albanie.
+Votre lieu d'origine a été configuré sur : Arménie.
+Votre lieu d'origine a été configuré sur : Andorre.
+Votre lieu d'origine a été configuré sur : Italie.
+Votre lieu d'origine a été configuré sur : Ukraine.
+Votre lieu d'origine a été configuré sur{315}l'Ouzbékistan.
+Votre lieu d'origine a été configuré sur : Royaume-Uni.
+Votre lieu d'origine a été configuré sur : Estonie.
+Votre lieu d'origine a été configuré sur : Autriche.
+Votre lieu d'origine a été configuré sur : Pays-Bas.
+Votre lieu d'origine a été configuré sur : Kazakhstan.
+Votre lieu d'origine a été configuré sur : Chypre.
+Votre lieu d'origine a été configuré sur : Grèce.
+Votre lieu d'origine a été configuré sur : Kirghizistan.
+Votre lieu d'origine a été configuré sur : Géorgie.
+Votre lieu d'origine a été configuré sur : Croatie.
+Votre lieu d'origine a été configuré sur : Saint-Marin.
+Votre lieu d'origine a été configuré sur : Suisse.
+Votre lieu d'origine a été configuré sur : Suède.
+Votre lieu d'origine a été configuré sur : Espagne.
+Votre lieu d'origine a été configuré sur : Slovaquie.
+Votre lieu d'origine a été configuré sur : Slovénie.
+Votre lieu d'origine a été configuré sur : Serbie.
+Votre lieu d'origine a été configuré sur : Tadjikistan.
+Votre lieu d'origine a été configuré sur : République tchèque.
+Votre lieu d'origine a été configuré sur : Danemark.
+Votre lieu d'origine a été configuré sur : Allemagne.
+Votre lieu d'origine a été configuré sur{315}le Turkménistan.
+Votre lieu d'origine a été configuré sur : Norvège.
+Votre lieu d'origine a été configuré sur : Hongrie.
+Votre lieu d'origine a été configuré sur : Finlande.
+Votre lieu d'origine a été configuré sur : France.
+Votre lieu d'origine a été configuré sur : Bulgarie.
+Votre lieu d'origine a été configuré sur : Biélorussie.
+Votre lieu d'origine a été configuré sur : Belgique.
+Votre lieu d'origine a été configuré sur : Pologne.
+Votre lieu d'origine a été configuré sur{315}la Bosnie-Herzégovine.
+Votre lieu d'origine a été configuré sur : Portugal.
+Votre lieu d'origine a été configuré sur : Macédoine.
+Votre lieu d'origine a été configuré sur : Malte.
+Votre lieu d'origine a été configuré sur : Monaco.
+Votre lieu d'origine a été configuré sur : Moldavie.
+Votre lieu d'origine a été configuré sur : Monténégro.
+Votre lieu d'origine a été configuré sur : Lettonie.
+Votre lieu d'origine a été configuré sur : Lituanie.
+Votre lieu d'origine a été configuré sur{315}le Liechtenstein.
+Votre lieu d'origine a été configuré sur : Roumanie.
+Votre lieu d'origine a été configuré sur{315}le Luxembourg.
+Votre lieu d'origine a été configuré sur : Russie.
+Votre lieu d'origine a été configuré sur{315}l'Afghanistan.
+Votre lieu d'origine a été configuré sur{315}les Émirats arabes unis.
+Votre lieu d'origine a été configuré sur : Yémen.
+Votre lieu d'origine a été configuré sur : Israël.
+Votre lieu d'origine a été configuré sur : Irak.
+Votre lieu d'origine a été configuré sur : Iran.
+Votre lieu d'origine a été configuré sur : Oman.
+Votre lieu d'origine a été configuré sur : Qatar.
+Votre lieu d'origine a été configuré sur : Koweït.
+Votre lieu d'origine a été configuré sur{315}l'Arabie saoudite.
+Votre lieu d'origine a été configuré sur : Syrie.
+Votre lieu d'origine a été configuré sur : Turquie.
+Votre lieu d'origine a été configuré sur : Bahreïn.
+Votre lieu d'origine a été configuré sur : Jordanie.
+Votre lieu d'origine a été configuré sur : Liban.
+Votre lieu d'origine a été configuré sur{315}les États-Unis.
+Votre lieu d'origine a été configuré sur : Canada.
+Votre lieu d'origine a été configuré sur : Argentine.
+Votre lieu d'origine a été configuré sur{315}Antigua-et-Barbuda.
+Votre lieu d'origine a été configuré sur : Uruguay.
+Votre lieu d'origine a été configuré sur : Équateur.
+Votre lieu d'origine a été configuré sur{315}le Salvador.
+Votre lieu d'origine a été configuré sur : Guyana.
+Votre lieu d'origine a été configuré sur : Cuba.
+Votre lieu d'origine a été configuré sur : Guatemala.
+Votre lieu d'origine a été configuré sur : Grenade.
+Votre lieu d'origine a été configuré sur : Costa Rica.
+Votre lieu d'origine a été configuré sur : Colombie.
+Votre lieu d'origine a été configuré sur : Jamaïque.
+Votre lieu d'origine a été configuré sur : Suriname.
+Votre lieu d'origine a été{315}configuré sur{315}Saint-Christophe-et-Niévès.
+Votre lieu d'origine a été{315}configuré sur{315}Saint-Vincent-et-les-Grenadines.
+Votre lieu d'origine a été configuré sur : Sainte-Lucie.
+Votre lieu d'origine a été configuré sur : Chili.
+Votre lieu d'origine a été configuré sur : Dominique.
+Votre lieu d'origine a été configuré sur{315}la République dominicaine.
+Votre lieu d'origine a été configuré sur{315}Trinité-et-Tobago.
+Votre lieu d'origine a été configuré sur : Nicaragua.
+Votre lieu d'origine a été configuré sur : Haïti.
+Votre lieu d'origine a été configuré sur : Panama.
+Votre lieu d'origine a été configuré sur : Bahamas.
+Votre lieu d'origine a été configuré sur : Paraguay.
+Votre lieu d'origine a été configuré sur : Barbade.
+Votre lieu d'origine a été configuré sur : Brésil.
+Votre lieu d'origine a été configuré sur : Venezuela.
+Votre lieu d'origine a été configuré sur : Belize.
+Votre lieu d'origine a été configuré sur : Pérou.
+Votre lieu d'origine a été configuré sur : Bolivie.
+Votre lieu d'origine a été configuré sur : Honduras.
+Votre lieu d'origine a été configuré sur : Mexique.
+Votre lieu d'origine a été configuré sur : Algérie.
+Votre lieu d'origine a été configuré sur : Angola.
+Votre lieu d'origine a été configuré sur : Ouganda.
+Votre lieu d'origine a été configuré sur : Égypte.
+Votre lieu d'origine a été configuré sur : Éthiopie.
+Votre lieu d'origine a été configuré sur : Érythrée.
+Votre lieu d'origine a été configuré sur : Ghana.
+Votre lieu d'origine a été configuré sur : Cap-Vert.
+Votre lieu d'origine a été configuré sur : Gabon.
+Votre lieu d'origine a été configuré sur : Cameroun.
+Votre lieu d'origine a été configuré sur : Gambie.
+Votre lieu d'origine a été configuré sur : Guinée.
+Votre lieu d'origine a été configuré sur : Guinée-Bissau.
+Votre lieu d'origine a été configuré sur : Kenya.
+Votre lieu d'origine a été configuré sur{315}la Côte d'Ivoire.
+Votre lieu d'origine a été configuré sur : Comores.
+Votre lieu d'origine a été configuré sur{315}la République du Congo.
+Votre lieu d'origine a été configuré sur{315}la Rép. dém. du Congo.
+Votre lieu d'origine a été configuré sur{315}Sao Tomé-et-Principe.
+Votre lieu d'origine a été configuré sur : Zambie.
+Votre lieu d'origine a été configuré sur : Sierra Leone.
+Votre lieu d'origine a été configuré sur : Djibouti.
+Votre lieu d'origine a été configuré sur : Zimbabwe.
+Votre lieu d'origine a été configuré sur : Soudan.
+Votre lieu d'origine a été configuré sur : Swaziland.
+Votre lieu d'origine a été configuré sur : Seychelles.
+Votre lieu d'origine a été configuré sur{315}la Guinée équatoriale.
+Votre lieu d'origine a été configuré sur : Sénégal.
+Votre lieu d'origine a été configuré sur : Somalie.
+Votre lieu d'origine a été configuré sur : Tanzanie.
+Votre lieu d'origine a été configuré sur : Tchad.
+Votre lieu d'origine a été configuré sur{315}la République centrafricaine.
+Votre lieu d'origine a été configuré sur : Tunisie.
+Votre lieu d'origine a été configuré sur : Togo.
+Votre lieu d'origine a été configuré sur : Nigeria.
+Votre lieu d'origine a été configuré sur : Namibie.
+Votre lieu d'origine a été configuré sur : Niger.
+Votre lieu d'origine a été configuré sur{315}le Burkina Faso.
+Votre lieu d'origine a été configuré sur : Burundi.
+Votre lieu d'origine a été configuré sur : Bénin.
+Votre lieu d'origine a été configuré sur : Botswana.
+Votre lieu d'origine a été configuré sur : Madagascar.
+Votre lieu d'origine a été configuré sur : Malawi.
+Votre lieu d'origine a été configuré sur : Mali.
+Votre lieu d'origine a été configuré sur{315}l'Afrique du Sud.
+Votre lieu d'origine a été configuré sur : Maurice.
+Votre lieu d'origine a été configuré sur : Mauritanie.
+Votre lieu d'origine a été configuré sur : Mozambique.
+Votre lieu d'origine a été configuré sur : Maroc.
+Votre lieu d'origine a été configuré sur : Libye.
+Votre lieu d'origine a été configuré sur : Liberia.
+Votre lieu d'origine a été configuré sur : Rwanda.
+Votre lieu d'origine a été configuré sur : Lesotho.
+Votre lieu d'origine a été configuré sur{315}l'Australie.
+Votre lieu d'origine a été configuré sur : Kiribati.
+Votre lieu d'origine a été configuré sur : Samoa.
+Votre lieu d'origine a été configuré sur{315}les Îles Salomon.
+Votre lieu d'origine a été configuré sur : Tuvalu.
+Votre lieu d'origine a été configuré sur : Tonga.
+Votre lieu d'origine a été configuré sur : Nauru.
+Votre lieu d'origine a été configuré sur{315}la Nouvelle-Zélande.
+Votre lieu d'origine a été configuré sur : Vanuatu.
+Votre lieu d'origine a été configuré sur{315}la Papouasie-Nouvelle-Guinée.
+Votre lieu d'origine a été configuré sur : Palaos.
+Votre lieu d'origine a été configuré sur : Fidji.
+Votre lieu d'origine a été configuré sur{315}les Îles Marshall.
+Votre lieu d'origine a été configuré sur{315}la Micronésie.
+Votre lieu d'origine a été configuré sur : Japon.

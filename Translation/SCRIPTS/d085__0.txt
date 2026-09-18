@@ -54,8 +54,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x41a00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x42200000
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}Could it be? That humble teeny sanguini..."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Si vous ne faites rien, ce sanguini vache va se faire dévorer.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SPAWN 0x10 L_11fc
@@ -80,17 +80,17 @@ SYS_16 0x8
 STORE 0x18 0x1 0x0 0x2 0x41300000
 STORE 0x18 0x1 0x3f800000 0x2 0x41200000
 SYS_17 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}Ah...!"
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Vous devez l'aider！ Vous devez affronter Lionyx！"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x41f00000
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}Th-This is alarming. The power of evil is too strong..."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}L'Être suprême doit s'incliner devant votre puissance...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}I cannot remain here in this form any longer..."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}... ce n'est qu'à cette condition que tous les mystères de l'île seront éclaircis！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x2 0x41a00000
@@ -126,12 +126,12 @@ STORE 0x18 0x1 0x0 0x0 0x3f800000
 STORE 0x18 0x1 0x3f800000 0x2 0x42be0000
 SYS_18 0x8 
 WAIT 0x10 0x2 0x41f00000
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}{NAME}, if you do nothing, that teeny sanguini will be devoured."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Vous êtes notre dernier espoir, {NAME}...{PAGE}{WAIT}{CLEAR}... notre ultime tentative...{BREAK}Ne nous décevez pas."
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}You must help her! You must take on Leonyx!"
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Vous devez aider le sanguini vache！{BREAK}Vous devez affronter Lionyx...！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x0 0x41100000 0x2 0x3f800000
@@ -140,18 +140,18 @@ WAIT 0x10 0x2 0x3f800000
 SPAWN 0x10 L_1418
 DATA 0x00000004
 WAIT 0x10 0x2 0x41f00000
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}When the Great One kneels before your power..."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Lorsque votre puissance... aura fait{BREAK}s'incliner... l'Être suprême...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x41f00000
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}...only then will all of this island's mysteries be explained!"
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}... tous les mystères... seront alors...{BREAK}éclaircis...！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x41f00000
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}You represent our last hope, {NAME}.{WAIT}{CLEAR}Our final roll of the dice...{BREAK}Do not disappoint us."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Vous... êtes... notre dernier... espoir......{BREAK}Je compte... sur vous... {NAME}...！"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x3f800000
 STORE 0x18 0x1 0x0 0x2 0x433a0000

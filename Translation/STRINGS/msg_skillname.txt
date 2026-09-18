@@ -1,256 +1,256 @@
 
-Frizz & Bang
+Flamme et Bang
 Prince
-Frizz & Bang II
-Frizz & Woosh
-Princess
-Frizz & Woosh II
-Frizz & Zap
-Metal Crusher
-Frizz & Zap II
-Frizz & Zam
-Zero Seal
-Frizz & Zam II
-Bang & Woosh
-Giant Killer
-Bang & Woosh II
-Bang & Crack
-Breathbreaker II
-Bang & Crack II
-Bang & Zap
-Swordbreaker
-Bang & Zap II
-Bang & Zam
-Swordbreaker II
-Bang & Zam II
-Woosh & Crack
-King Sanguini
-Woosh & Crack II
-Woosh & Zap
-Rottney
-Woosh & Zap II
-Woosh & Zam
-Robbin's Old Lady
-Woosh & Zam II
-Crack & Zap
-Prism Peacock
-Crack & Zap II
-Crack & Zam
-Dark Mecha-Slime
-Crack & Zam II
-Fire
-Slime Blaster
-Fire II
-Ice
-Diamond Slime
-Ice II
-Breath
-Slider Girl
-Breath II
-Firewind Slashes
-Thunderwind Slashes
-Iceplosion Slashes
-Darklight Slashes
-Fire Fighter
-Boom Boxer
-Wind Blower
-Icemeister
-White Knight
-Dark Knight
-Healer
-Cure-all
-Cleanser
+Flamme et Bang Ⅱ
+Flamme et Tornade
+Princesse
+Flamme et Tornade Ⅱ
+Flamme et Foudre
+Chasse-métal
+Flamme et Foudre Ⅱ
+Flamme et Élec
+Anti-rafale/zéro
+Flamme et Élec Ⅱ
+Bang et Tornade
+Chasse-géant
+Bang et Tornade Ⅱ
+Bang et Glace
+Anti-dragon Ⅱ
+Bang et Glace Ⅱ
+Bang et Foudre
+Anti-lame
+Bang et Foudre Ⅱ
+Bang et Élec
+Anti-lame Ⅱ
+Bang et Élec Ⅱ
+Tornade et Glace
+Roi sanguini
+Tornade et Glace Ⅱ
+Tornade et Foudre
+Poupouille
+Tornade et Foudre Ⅱ
+Tornade et Élec
+Épouse du chaperon
+Tornade et Élec Ⅱ
+Glace et Foudre
+Dark-en-ciel
+Glace et Foudre Ⅱ
+Glace et Élec
+Mécha-gluant
+Glace et Élec Ⅱ
+Feu
+Gluant satellite
+Feu Ⅱ
+Gel
+Gluant de diamant
+Gel Ⅱ
+Souffle
+Slurpgirl
+Souffle Ⅱ
+Lames Vent-Feu
+Lames Vent-Éclairs
+Lames Gel-Explosion
+Lames Luminombre
+Combattant du feu
+Guerrier explosif
+Souffleur de vent
+Maestrogel
+Chevalier blanc
+Chevalier noir
+Soigneur
+Guérisseur
+Nettoyeur
 Champion
-Defender
-Speedster
-Mage Aid
-Fortifier
-Enfeebler
+Défenseur
+Accélérateur
+Aide magique
+Énergisant
+Émollient
 Saboteur
-Spellbreaker
-Spellbreaker II
-Breathbreaker
-Anti-metal
-Guard
-Barricade
-Seal
-Hypnotist
-Toxifier
-Fear-monger
-Bad Breath
-Diminisher
-Guerrilla
+Antimage
+Antimage Ⅱ
+Anti-dragon
+Anti-métal
+Soutien
+Barricadeur
+Bloqueur
+Hypnotiseur
+Intoxicateur
+Marchand de peur
+Mauvaise haleine
+Réducteur
+Guérillero
 Assassin
-Huntsman
-Bounty Hunter
-Crusader
-Cursader
-Muspell
-Niflheim
-Dancer
+Chasseur
+Chasseur de prime
+Croisé
+Nécromant
+Feunoir
+Gelnoir
+Danseur
 Bombardier
-Toughie
+Costaud
 Berserker
 Martyr
-Reaper
-Nightmare
-Cold Sleep
-Cleric
-Aquapothecary
-All-Rounder
+Faucheur
+Cauchemar
+Glaçommeil
+Clerc
+Aquapothicaire
+Touche-à-tout
 Mime
-Trickster
-Slimer
-Brute Road
-Graveheart
-Diabolist
-Dragon Lore
-Bird Brain
-Green Finger
-Hive Mind
-Materialist
-Wulfspade
-Wulfspade II
-Hawkhart
-Hawkhart II
-Diamagon
-Diamagon II
-Cluboon
-Cluboon II
-Dragonlord
-Dragovian Lord
-Leopold
+Illusionniste
+Pot de glu
+Naturaliste
+Zombivant
+Thaumaturge
+Dragophile
+Crâne de piaf
+Botaniste
+Cafardeur
+Matérialiste
+Apik
+Apik Ⅱ
+Akœur
+Akœur Ⅱ
+Akaro
+Akaro Ⅱ
+Atrèfle
+Atrèfle Ⅱ
+Lordragon
+Seigneur dragovien
+Léopold
 Dhoulmagus
 Rhapthorne
 Rhapthorne Ⅱ
 Estark
 Nimzo
 Mortamor
-Captain Crow
-Über Dark Dynamiter
-Über Blessed Blizzardier
-Über Mage
-Über Breath
-Über Knight
-Über Healer
-Über Helpful
-Über Charmer
-Wulfspade III
-Diamagon III
-Hawkhart III
-Cluboon III
-Dr Snapped
-Attack Boost
-Attack Boost II
-Attack Boost III
-Defense Boost
-Defense Boost II
-Defense Boost III
-Agility Boost
-Agility Boost II
-Agility Boost III
-Wisdom Boost
-Wisdom Boost II
-Wisdom Boost III
-Frizz Ward
-Bang Ward
-Woosh Ward
-Crack Ward
-Zap Ward
-Zam Ward
-Sag Ward
-Sap Ward
-Decelerate Ward
-Dim Ward
-Fire Breath Ward
-Ice Breath Ward
-Whack Ward
-Dazzle Ward
-Poison Ward
-Drain Magic Ward
-Antimagic Ward
-Gobstopper Ward
-Ban Dance Ward
-Confusion Ward
-Inaction Ward
-Paralysis Ward
-Sleep Ward
-Über Health Boost
-Über Magic Boost
-Über Attack Boost
-Über Defence Boost
-Über Agility Boost
-Über Wisdom Boost
-Über Heat Ward
-Über Cold Ward
-Über Windblast Ward
-Über Darklight Ward
-Warrior
+Capitaine Crow
+Top Dynamiteur
+Top Blizzard
+Top Mage
+Top Souffle
+Top Chevalier
+Top Soigneur
+Top Soutien
+Top Charmeur
+Apik Ⅲ
+Akaro Ⅲ
+Akœur Ⅲ
+Atrèfle Ⅲ
+Dr Rebelote
+Bonus Attaque
+Bonus Attaque Ⅱ
+Bonus Attaque Ⅲ
+Bonus Défense
+Bonus Défense Ⅱ
+Bonus Défense Ⅲ
+Bonus Agilité
+Bonus Agilité Ⅱ
+Bonus Agilité Ⅲ
+Bonus Sagesse
+Bonus Sagesse Ⅱ
+Bonus Sagesse Ⅲ
+Protection Flamme
+Protection Bang
+Protection Tornade
+Protection Glace
+Protection Foudre
+Protection Élec
+Protection Affaiblo
+Protection Altération
+Protection Décéléro
+Protection Simplet
+Protection Souffle de feu
+Protection Souffle glacial
+Protection Kill
+Protection Illusion
+Protection Poison
+Protection Aspirmagie
+Protection Antimagie
+Protection Hygiaphone
+Protection Antidanse
+Protection Confusion
+Protection Inaction
+Protection Paralysie
+Protection Sommeil
+Top-bonus Vie
+Top-bonus Magie
+Top-bonus Attaque
+Top-bonus Défense
+Top-bonus Agilité
+Top-bonus Sagesse
+Top-protection Feu
+Top-protection Gel
+Top-protection Explosion
+Top-protection Luminombre
+Guerrier
 Mage
-Priest
-Martial Artist
+Prêtre
+Artiste martial
 Sage
-Thief
-Frizz & Sizz
-Liquid Metal King Slime
-Frizz & Sizz II
-Bang & Sizz
+Voleur
+Flamme et Crame
+Roi gluant de mercure
+Flamme et Crame Ⅱ
+Bang et Crame
 Yggdrasil
-Bang & Sizz II
-Woosh & Sizz
+Bang et Crame Ⅱ
+Tornade et Crame
 Pipit
-Woosh & Sizz II
-Crack & Sizz
-Überkilling Machine
-Crack & Sizz II
-Sizz & Zap
-King Godwyn
-Sizz & Zap II
-Sizz & Zam
-Munchie
-Sizz & Zam II
-Sizz Ward
+Tornade et Crame Ⅱ
+Glace et Crame
+Mékanocinglé
+Glace et Crame Ⅱ
+Crame et Foudre
+Roi Gowin de Klenfer Ⅱ
+Crame et Foudre Ⅱ
+Crame et Élec
+Munchi
+Crame et Élec Ⅱ
+Protection Crame
 Exorsus
-Dimensaur
-Dual Duellers
-Dorsal Fiend
-Thornella
-Malevolynx
+Dragon du temps
+Duellis
+Dorsalam
+Épinéa
+Vilionyx
 Mortella
 Rigor Mortex
-Canzar
-Aquarion
-Sagittar
-Leonyx
-Wormonger
-Bjorn
-Missing Lynx
-Khalamari
-Ruin
-Orochi
-Zenith Dragon
-Empyrea
+Canzer
+Adverso
+Sagitaure
+Lionyx
+Vercule
+Nhé
+Ailéopard
+Khalamar
+Ruine
+Hydragon
+Dragon du Zénith
+Empyréa
 Zoma
-Magical Sabotage Ward
-Abiliterator Ward
-Blade Blunter Ward
-Donk Ward
-Über Zapologist
-Flute Warrior
-Wildcard
-Wonder Construction
-Morrie's Melange
-Battle Road Master
+Protection Sabotemage
+Protection Raptitude
+Protection Lame-en-peine
+Protection Lest
+Top-protection Foudrologue
+Flûte du guerrier
+Joker
+Enchantier
+Morryvari
+Expert Battle Road
 Stella
-Hero of the Heavens
-Vile Void
+Héros des cieux
+Vil vide
 Corvus
-Great Godbird
-Stormsgate Citadel
-Schwarzman Tank
+Grand oiseau céleste
+Typhonia
+Schwarzleim
 Xiphos
 Gadis
-Darck
+Dawk
 Magarugi
-Baboorood
-Baboodread
+Seigneur Hyurde
+Bête du Malin

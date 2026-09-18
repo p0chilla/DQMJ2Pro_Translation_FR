@@ -308,8 +308,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x42f00000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x428c0000
 SYS_42 0x8 
-SETNAME "Solitaire"
-SAY "{VOICE=08}...Looks like you found me, kiddo."
+SETNAME "Patience"
+SAY "{VOICE=08}On dirait que tu m'as trouvée, gamin.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -335,12 +335,12 @@ STORE 0x18 0x1 0x0 0x0 0x40e00000
 STORE 0x18 0x1 0x3f800000 0x2 0x3e4ccccd
 SYS_54 0x8 
 SYS_42 0x8 
-SETNAME "Solitaire"
-SAY "{VOICE=08}Just don't go getting the wrong idea.{BREAK}I didn't do this cos I'm short of money."
+SETNAME "Patience"
+SAY "{VOICE=08}Mais ne te fais pas de fausses idées. Je n'ai pas fait ça parce que je suis ruinée.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Solitaire"
-SAY "{VOICE=08}That just wouldn't be my style..."
+SETNAME "Patience"
+SAY "{VOICE=08}Ce n'est pas mon genre...{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -359,8 +359,8 @@ STORE 0x18 0x1 0x0 0x0 0x40e00000
 SYS_53 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Solitaire"
-SAY "{VOICE=08}Anyway, I'm new in town and I'm looking for the True Monster Scout Challenge..."
+SETNAME "Patience"
+SAY "{VOICE=08}Bref, je ne suis jamais venue ici et je cherche le Vrai Championnat des Dresseurs."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -392,12 +392,12 @@ STORE 0x18 0x1 0x40000000 0x2 0x41a00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x42480000
 SYS_42 0x8 
-SETNAME "Solitaire"
-SAY "{VOICE=08}An underground arena in a place called the Doubtback, you say? Let's go!"
+SETNAME "Patience"
+SAY "{VOICE=08}Une arène souterraine dans un endroit appelé Prairia, tu dis？ Allons-y！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Solitaire"
-SAY "{VOICE=08}Yep, you're coming too. You think I'm going to let you get away without a fight?"
+SETNAME "Patience"
+SAY "{VOICE=08}Oui, tu viens aussi. Tu crois que je vais te laisser partir sans t'avoir affronté？"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

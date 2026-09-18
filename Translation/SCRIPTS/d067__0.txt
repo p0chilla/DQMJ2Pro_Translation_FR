@@ -109,8 +109,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x41f00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x432a0000
 SYS_42 0x8 
-SETNAME "Khalamari"
-SAY "{VOICE=03}Oi! Who's that disturbin' my beauty sleep!?"
+SETNAME "Khalamar"
+SAY "{VOICE=03}Ho ho！ Qui ose venir perturber mon sommeil！?"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -124,8 +124,8 @@ STORE 0x18 0x1 0x0 0x2 0x41200000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "The Countess"
-SAY "{VOICE=08}Squeeeak! SQUAAAK!"
+SETNAME "Comtesse"
+SAY "{VOICE=08}Scouiiiic！ Scouaaac！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -152,8 +152,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x41200000
 SYS_02 0x8 
 SYS_03 0x8 
 SYS_42 0x8 
-SETNAME "Khalamari"
-SAY "{VOICE=03}You piddlin' little pipsqueak! Who are you and how dare you shriek at me?"
+SETNAME "Khalamar"
+SAY "{VOICE=03}Espèce de misérable demi-portion！ Qui es-tu et comment oses-tu crier sur moi？"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -192,8 +192,8 @@ STORE 0x18 0x1 0x0 0x0 0x41000000
 STORE 0x18 0x1 0x3f800000 0x2 0x43040000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "The Countess"
-SAY "{VOICE=08}Squawk! SQUEEEAAAK!"
+SETNAME "Comtesse"
+SAY "{VOICE=08}Scouac！ Scouiiiiiic！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -214,8 +214,8 @@ STORE 0x18 0x1 0x0 0x0 0x41000000
 STORE 0x18 0x1 0x3f800000 0x2 0x3f800000
 SYS_4E 0x8 
 SYS_42 0x8 
-SETNAME "Khalamari"
-SAY "{VOICE=03}You don't know when to be quiet,{BREAK}do you!? Go on - clear off!"
+SETNAME "Khalamar"
+SAY "{VOICE=03}On ne t'a pas appris à te taire, hein！? Allez... fiche le camp！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -406,8 +406,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x41a00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x428c0000
 SYS_42 0x8 
-SETNAME "Khalamari"
-SAY "{VOICE=03}What are you gawpin' at!?{BREAK}Never seen a giant squid before!?"
+SETNAME "Khalamar"
+SAY "{VOICE=03}Qu'est-ce que tu regardes comme ça！? Tu n'as jamais vu de calamar géant！?{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -420,19 +420,19 @@ SPAWN 0x10 L_3b54
 DATA 0x00000001
 WAIT 0x10 0x2 0x42700000
 SYS_42 0x8 
-SETNAME "Khalamari"
-SAY "{VOICE=03}Wait! You woke me by hackin' away at my tentacles, didn't you?"
+SETNAME "Khalamar"
+SAY "{VOICE=03}Une minute！ Tu m'as réveillé en tailladant mes tentacules, hein？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Khalamari"
-SAY "{VOICE=03}My tentacles grow back in no time,{BREAK}so I can live with that.{WAIT}{CLEAR}But disturbin' my beauty sleep isn't somethin' I can overlook so easily."
+SETNAME "Khalamar"
+SAY "{VOICE=03}Mes tentacules repoussent en un rien de temps, donc je m'en accommoderai.{PAGE}{WAIT}{CLEAR}Mais me déranger dans mon sommeil, ça je ne le laisse pas passer aussi facilement.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Khalamari"
-SAY "{VOICE=03}It's a shame you won't live to regret your mistake!"
+SETNAME "Khalamar"
+SAY "{VOICE=03}Malheureusement, tu ne vivras pas assez longtemps pour regretter ton erreur！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -516,8 +516,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x41f00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x42200000
 SYS_42 0x8 
-SETNAME "The Countess"
-SAY "{VOICE=08}Squawk! SQUEEEAAAK!"
+SETNAME "Comtesse"
+SAY "{VOICE=08}Scouac！ Scouiiiiiic！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -544,8 +544,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x41200000
 SYS_02 0x8 
 SYS_03 0x8 
 SYS_42 0x8 
-SETNAME "Khalamari"
-SAY "{VOICE=03}You piddlin' little pipsqueak! Who are you and how dare you shriek at me?"
+SETNAME "Khalamar"
+SAY "{VOICE=03}Espèce de misérable demi-portion！ Qui es-tu et comment oses-tu crier sur moi？"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -584,8 +584,8 @@ STORE 0x18 0x1 0x0 0x0 0x41000000
 STORE 0x18 0x1 0x3f800000 0x2 0x43040000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "The Countess"
-SAY "{VOICE=08}Squawk! SQUEEEAAAK!"
+SETNAME "Comtesse"
+SAY "{VOICE=08}Scouac！ Scouiiiiiic！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -606,8 +606,8 @@ STORE 0x18 0x1 0x0 0x0 0x41000000
 STORE 0x18 0x1 0x3f800000 0x2 0x3f800000
 SYS_4E 0x8 
 SYS_42 0x8 
-SETNAME "Khalamari"
-SAY "{VOICE=03}You don't know when to be quiet, do you!? Go on - clear off!"
+SETNAME "Khalamar"
+SAY "{VOICE=03}On ne t'a pas appris à te taire, hein！? Allez... fiche le camp！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -798,8 +798,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x41a00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x428c0000
 SYS_42 0x8 
-SETNAME "Khalamari"
-SAY "{VOICE=03}You!? You're back!?"
+SETNAME "Khalamar"
+SAY "{VOICE=03}Encore toi！?{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -812,15 +812,15 @@ SPAWN 0x10 L_3b54
 DATA 0x00000001
 WAIT 0x10 0x2 0x42700000
 SYS_42 0x8 
-SETNAME "Khalamari"
-SAY "{VOICE=03}You think I've forgotten that you disturbed my beauty sleep?"
+SETNAME "Khalamar"
+SAY "{VOICE=03}Tu t'imagines que j'ai oublié que tu as troublé mon sommeil？{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Khalamari"
-SAY "{VOICE=03}It's a shame you won't live to regret your mistake!"
+SETNAME "Khalamar"
+SAY "{VOICE=03}Malheureusement, tu ne vivras pas assez longtemps pour regretter ton erreur！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

@@ -77,8 +77,8 @@ STORE 0x18 0x1 0x0 0x0 0x40400000
 STORE 0x18 0x1 0x3f800000 0x2 0x42c20000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}First I'd like to see you pit your wits against this fine opponent..."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}D'abord, je voudrais vous voir vous battre contre ce redoutable adversaire..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -132,12 +132,12 @@ STORE 0x18 0x1 0x0 0x2 0x41f00000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Don Mole"
-SAY "{VOICE=07}The moles are the hosts with the most, here to bring you the fear...{WAIT}{CLEAR}...and make you a monster scout master without peer!"
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Les taupes ont tout mis en œuvre pour vous faire trembler...{PAGE}{WAIT}{CLEAR}... et faire de vous un maître dresseur inégalé！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Don Mole"
-SAY "{VOICE=07}With that, molekind will have fulfilled its most funky and righteous mission.{WAIT}{CLEAR}But first things first - let's you and me rumble. Hit me!"
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Ainsi, les taupes auront rempli leur mission la plus funky.{PAGE}{WAIT}{CLEAR}Mais avant toute chose... battons-nous. Surprenez-moi！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

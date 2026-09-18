@@ -1,5 +1,5 @@
-Unregistered
-Hokkaido
+Non enregistré
+Hokkaidô
 Aomori
 Iwate
 Miyagi
@@ -11,7 +11,7 @@ Tochigi
 Gunma
 Saitama
 Chiba
-Tokyo
+Tôkyô
 Kanagawa
 Niigata
 Yamanashi
@@ -24,9 +24,9 @@ Shizuoka
 Aichi
 Mie
 Shiga
-Kyoto
-Osaka
-Hyogo
+Kyôto
+Ôsaka
+Hyôgo
 Nara
 Wakayama
 Tottori
@@ -37,12 +37,12 @@ Yamaguchi
 Tokushima
 Kagawa
 Ehime
-Kochi
+Kôchi
 Fukuoka
 Saga
 Nagasaki
 Kumamoto
-Oita
+Ôita
 Miyazaki
 Kagoshima
 Okinawa

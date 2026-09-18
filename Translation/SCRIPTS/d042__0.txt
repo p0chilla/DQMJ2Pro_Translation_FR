@@ -177,8 +177,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x3ec28f5c
 SYS_54 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}What can these mangy mutts want with me? Perhaps they're autograph hunters..."
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Que veulent ces chiens galeux？ Un autographe peut-être...{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -245,12 +245,12 @@ STORE 0x18 0x1 0x3f800000 0x2 0x42d40000
 SYS_18 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}What are you staring at? You can't seriously think I require your assistance!"
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Qu'est-ce qu'il y a？ Vous n'imaginez quand même pas que j'ai besoin d'aide！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}Pah! I could beat these dogs in my sleep. Which is to say..."
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}Peuh！ Je pourrais battre ces sacs à puces les yeux fermés. Donc..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -331,8 +331,8 @@ SYS_4E 0x8
 SPAWN 0x10 L_1f30
 DATA 0x00000003
 SYS_42 0x8 
-SETNAME "Lily Gilder"
-SAY "{VOICE=08}...they're all yooouuurs!!!"
+SETNAME "Félicie Fleurdelys"
+SAY "{VOICE=08}... je vous les laisse！!!"
 WAIT 0x10 0x2 0x40400000
 STORE 0x18 0x1 0x0 0x0 0x40e00000
 STORE 0x18 0x1 0x3f800000 0x2 0x44fce000

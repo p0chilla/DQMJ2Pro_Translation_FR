@@ -263,20 +263,20 @@ STORE 0x18 0x1 0x40000000 0x2 0x41a00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Don Mole"
-SAY "{VOICE=07}Woa-oa-oa! Here come those human beings struttin' their funky stuff!"
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Waouh！ Voilà ces vrais êtres humains qui font leur défilé！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Don Mole"
-SAY "{VOICE=07}D'you know how long my half-blind brethren and I've been waitin' for you?{WAIT}{CLEAR}We were wonderin' when someone would come wieldin' that funky medal."
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Vous savez depuis combien de temps on vous attend, mes potes bigleux et moi？{PAGE}{WAIT}{CLEAR}On se demandait quand quelqu'un viendrait avec cette super médaille.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Don Mole"
-SAY "{VOICE=07}It proves you're worthy of competin' in this island's Monster Scout Challenge."
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Elle prouve que vous êtes digne du Championnat des Dresseurs de l'île.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Don Mole"
-SAY "{VOICE=07}Runnin' that Challenge is the most righteous duty of all molekind, you dig?"
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Animer ce championnat est la tâche la plus top pour une taupe, voyez-vous？{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -337,8 +337,8 @@ STORE 0x18 0x1 0x0 0x0 0x41400000
 SYS_53 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Don Mole"
-SAY "{VOICE=07}Ladies and gentlemoles, brothers and sisters, it's...almost showtime!"
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Mesdames et Messieurs, le spectacle va commencer... bientôt！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x43530000
 SYS_41 0x8 
 SYS_44 0x8 
@@ -374,12 +374,12 @@ STORE 0x18 0x1 0x40000000 0x2 0x41200000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Don Mole"
-SAY "{VOICE=07}I'll lay down the rules once we've got things all set up here..."
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Je vous expliquerai les règles une fois que tout sera prêt...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Don Mole"
-SAY "{VOICE=07}...then we'll find out whether you're really hip enough for the challenge."
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}... et alors nous verrons si vous êtes à la hauteur pour le championnat.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -399,8 +399,8 @@ STORE 0x18 0x1 0x0 0x2 0x41f00000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Don Mole"
-SAY "{VOICE=07}In accordance with the most sacred contest rules, you'll need a helpin' hand..."
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}D'après les règles sacrées du tournoi, vous avez droit à un coup de main...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SPAWN 0x10 L_28d8
@@ -413,8 +413,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x41c80000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41b80000
 STORE 0x18 0x0 0x40800000 0x2 0x3f800000
-SETNAME "Don Mole"
-SAY "{VOICE=07}Dr Lump, come join me on stage!"
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Dr Flappy, venez me rejoindre sur scène！{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -484,16 +484,16 @@ STORE 0x18 0x1 0x40000000 0x2 0x41f00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Don Mole"
-SAY "{VOICE=07}This little fella's name is Dr Lump.{WAIT}{CLEAR}He's the sultan of synthesis,{BREAK}the monster-matchin' maven."
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Ce petit monsieur est le Dr Flappy.{PAGE}{WAIT}{CLEAR}Il est le maître incontesté de la synthèse, le magicien des mélanges.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Don Mole"
-SAY "{VOICE=07}Synthesis is the most beautiful, most natural, most funky thing in the world.{WAIT}{CLEAR}It's when two monsters fuse to produce a stronger, groovier offspring!"
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}La synthèse est la chose la plus belle et la plus funky au monde.{PAGE}{WAIT}{CLEAR}Elle consiste à fusionner deux monstres pour en créer un plus fort, plus groovy！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Don Mole"
-SAY "{VOICE=07}Without a whole lotta synthin' goin' on, you ain't got a hope, brother."
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Si vous ne vous servez pas de la synthèse, vous n'avez aucune chance.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -520,12 +520,12 @@ STORE 0x18 0x1 0x0 0x2 0x42480000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Don Mole"
-SAY "{VOICE=07}Anyway, me and my crew are gonna get to work settin' things up here.{WAIT}{CLEAR}Why don't you head back to your ship and chill out for a spell?"
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Bon, mes potes et moi, on va s'occuper de tout installer ici.{PAGE}{WAIT}{CLEAR}Et si vous retourniez dans votre engin volant pendant un petit moment？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Don Mole"
-SAY "{VOICE=07}Keep winnin' in the Challenge and the road ahead's gonna open right up!"
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Enchaînez les victoires au championnat et le chemin s'ouvrira devant vous！ "
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

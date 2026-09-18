@@ -161,8 +161,8 @@ STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_B1 0x8 
 WAIT 0x10 0x2 0x42200000
 SYS_42 0x8 
-SETNAME "Don Mole"
-SAY "{VOICE=07}In the most funky and fantabulous name of all molekind...{WAIT}{CLEAR}...I take the Medal of Merit and break the seal!"
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Au nom du peuple funky des taupes...{PAGE}{WAIT}{CLEAR}... je prends la médaille du Mérite et brise le sceau！{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -305,15 +305,15 @@ STORE 0x18 0x1 0x3f800000 0x2 0x428c0000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x42700000
 SYS_42 0x8 
-SETNAME "Don Mole"
-SAY "{VOICE=07}Woah! Is this the most righteous Mynos the Elder I see before me!?"
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Waouh！ Est-ce bien le grand Mynos l'Ancien que je vois devant moi！?"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}Greetings, Don Mole. You have faithfully fulfilled your sacred duty."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}En effet... Mister Taupe. Vous avez{BREAK}dignement honoré la Loi de votre tribu."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -342,16 +342,16 @@ SYS_18 0x8
 STORE 0x18 0x0 0x40000000 0x2 0x3f800000
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}And you're the one who brought the Medal of Merit here? That's no mean feat."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Et c'est vous qui avez apporté la médaille{BREAK}du Mérite？ Voilà une bien noble tâche.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}He who possesses the Medal of Merit...{WAIT}{CLEAR}...has the right to face the ultimate test in the Monster Scout Challenge."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Celui qui détient la médaille du Mérite...{PAGE}{WAIT}{CLEAR}... a le droit de se soumettre au test ultime du Championnat des Dresseurs.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}But I am afraid it is not possible for you to face the ultimate test just now."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Mais je crains que vous ne puissiez pas passer cette épreuve pour le moment.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -406,12 +406,12 @@ STORE 0x18 0x1 0x3f800000 0x2 0x42c20000
 SYS_18 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}Originally, this island's Monster Scout Challenge had but one purpose...{WAIT}{CLEAR}...to bring us closer to the Divine Battler."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}À l'origine, le Championnat des Dresseurs de l'île n'avait qu'un but...{PAGE}{WAIT}{CLEAR}... nous rapprocher du Divin Guerrier.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}The ultimate test was to take on the Divine Battler...{WAIT}{CLEAR}...and rejoice in the awesome spectacle of battling prowess."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}L'ultime épreuve consistait à affronter le Divin Guerrier...{PAGE}{WAIT}{CLEAR}... et à nous réjouir devant ces combats spectaculaires.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -437,12 +437,12 @@ STORE 0x18 0x1 0x40000000 0x2 0x41200000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}But then some of those on this island became corrupted by greed.{WAIT}{CLEAR}They desired power that would surpass that of the Divine Battler."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Mais certains habitants de cette île ont été corrompus par l'avidité.{PAGE}{WAIT}{CLEAR}Ils ont voulu acquérir une puissance supérieure à celle du Divin Guerrier.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}To that end, they created a monstrous weapon that warped the Great One."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}C'est à cette fin qu'ils ont créé une arme monstrueuse qui a perverti l'Être suprême.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -492,12 +492,12 @@ STORE 0x18 0x1 0x40000000 0x2 0x41200000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}The Divine Battler's goodness was corrupted and turned to the purest evil.{WAIT}{CLEAR}We had no choice but to seal that evil being away and wait..."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Sa bienveillance a été corrompue et il s'est transformé en démon.{PAGE}{WAIT}{CLEAR}Nous n'avons pas eu d'autre choix que de l'enfermer et d'attendre...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}What were we awaiting, you ask?{WAIT}{CLEAR}We were awaiting someone worthy of the Medal of Merit.{WAIT}{CLEAR}Someone with the strength to undo the evil wrought on the Great One."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}D'attendre quoi？{PAGE}{WAIT}{CLEAR}Une personne digne de porter la médaille du Mérite...{PAGE}{WAIT}{CLEAR}... et qui aurait la force d'anéantir le mal qui a pris possession de l'Être suprême."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -513,12 +513,12 @@ SYS_13 0x8
 STORE 0x18 0x1 0x0 0x2 0x42b40000
 SYS_14 0x8 
 SYS_42 0x8 
-SETNAME "Don Mole"
-SAY "{VOICE=07}Right. So Mynos the Elder gave us moles the task of runnin' this Challenge."
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}C'est exact. Et Mynos a confié aux taupes l'organisation du championnat.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Don Mole"
-SAY "{VOICE=07}It ain't quite like the original.{BREAK}Oh no, brother.{WAIT}{CLEAR}It aims in its funky way to find someone with the righteous strength we require."
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Il ne ressemble pas tout à fait à l'original. Ah ça non, mon frère.{PAGE}{WAIT}{CLEAR}Le but est de trouver, d'une manière un peu funky, celui qui sera assez fort."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -544,8 +544,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x42200000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}And now we have found someone with that strength...{WAIT}{CLEAR}I speak, of course, of you."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Et nous avons trouvé quelqu'un qui dispose de la force nécessaire...{PAGE}{WAIT}{CLEAR}C'est de vous que je parle, bien sûr.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -564,12 +564,12 @@ STORE 0x18 0x1 0x0 0x2 0x42a40000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}You who have proved worthy of the Medal of Merit, will you lend us your power?"
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Vous, qui êtes digne de la médaille, nous prêterez-vous votre puissance？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}Go to the Divine Battler, who has been so sullied by evil. Awaken him!"
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Allez voir le Divin Guerrier, qui a été si souillé par le mal. Réveillez-le！{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -583,8 +583,8 @@ STORE 0x18 0x1 0x0 0x2 0x42a20000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}I trust I can rely on you."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Je crois que je peux compter sur vous."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -592,8 +592,8 @@ STORE 0x18 0x1 0x0 0x0 0x40a00000
 STORE 0x18 0x1 0x3f800000 0x2 0xc2240000
 SYS_1E 0x8 
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}Wait just a second!"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Attendez une seconde！{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -660,16 +660,16 @@ STORE 0x18 0x1 0x0 0x0 0x40c00000
 STORE 0x18 0x1 0x3f800000 0x2 0x42a40000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}{E321}{NAME} has been fighting for the good of his fellow passengers."
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Il a disputé ce Championnat des Dresseurs{BREAK}pour le bien de tous les passagers！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Archie Logg"
-SAY "{VOICE=07}Now, once upon a time, the giant bird Empyrea flew people from this island."
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Et jadis, Empyréa a permis à des gens de quitter cette île par les airs.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Archie Logg"
-SAY "{VOICE=07}If the Divine Battler is awoken, perhaps Empyrea will assist us?"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Si le Divin Guerrier est réveillé, Empyréa nous aidera-t-elle？"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -688,12 +688,12 @@ STORE 0x18 0x1 0x0 0x0 0x0
 STORE 0x18 0x1 0x3f800000 0x2 0x42c20000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}The giant monsters of this island have sworn fealty to only one master...{WAIT}{CLEAR}...the Divine Battler."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Les monstres géants de cette île n'ont juré allégeance qu'à un seul maître...{PAGE}{WAIT}{CLEAR}... le Divin Guerrier.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}If he is awoken, and permits it, then yes, they will be able to join you."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}S'il se réveille et qu'il le permet, alors oui, ils pourront vous aider."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -704,8 +704,8 @@ STORE 0x18 0x1 0x0 0x2 0x42ce0000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}I get it! So the person who once received the approval of the Divine Battler...{WAIT}{CLEAR}...must have been the legendary monster scout!"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Mais oui！ Une autre personne a autrefois obtenu les faveurs du Divin Guerrier...{PAGE}{WAIT}{CLEAR}... et c'était ce légendaire dresseur de monstres！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41a00000
 STORE 0x18 0x1 0x0 0x2 0x42cc0000
@@ -744,8 +744,8 @@ WAIT 0x10 0x2 0x41f80000
 STORE 0x18 0x1 0x0 0x0 0x40c00000
 STORE 0x18 0x1 0x3f800000 0x2 0x42a40000
 SYS_18 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}{E321}{NAME}, I know you can do it!{WAIT}{CLEAR}You too can become a legendary monster scout!"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}{E321}{NAME}, je sais que vous pouvez y arriver！{PAGE}{WAIT}{CLEAR}Vous aussi, vous pouvez devenir un dresseur légendaire！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -787,8 +787,8 @@ STORE 0x18 0x1 0x0 0x2 0x42a40000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}Alright! Enough idle chitter-chatter. Without further ado..."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}Bien！ Assez bavardé. Sans plus de cérémonie...{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -800,8 +800,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x42480000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Mynos the Elder"
-SAY "{VOICE=03}I want to see for myself if you have the power to take on the Great One."
+SETNAME "Mynos l'Ancien"
+SAY "{VOICE=03}... je veux voir si vous êtes capable de vous mesurer à l'Être suprême."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

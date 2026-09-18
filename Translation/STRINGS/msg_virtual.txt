@@ -1,65 +1,28 @@
-Virtual Battle
-Start Battle
-Opponent Setup
-Ally Setup
-Change Rules
-Quit
-Battle Rules
-None
+Combat Virtuel
+Lancer le combat
+Configuration équipe adverse
+Configuration de votre équipe
+Modifier les règles
+Quitter
+Règles du combat
+Aucun
 
 
-Opponent Party
-Opponent Substitutes
-Edit
-Tactics
-Opponent Members
+Monstres de l'équipe adverse
+Monstres adverses (Réserve)
+Composer l'équipe adverse
+Changer de tactique
+Composition adverse
 
-From Monster Pen
-From Favorites
-
-
-
-Party
-Substitutes
-Edit
-Tactics
+Choisir depuis l'enclos
+Choisir parmi les favoris
 
 
 
-
-
-
-
-Battle Rules
-Rounds
-Tactics
-Switch
-Types
-Input Time
-Rank
-Confirm
-
-
-Standard Rules
-SQEX Rules
-WBC Rules
-Custom Rules
-
-
-No limit
-5
-10
-Unlimited
-AI only
-Once only
-Banned
-All OK
-Same Lineage OK
-Same Lineage Banned
-No limit
-15s
-30s
-Open Class
+Monstres de l'équipe
+Monstres de réserve
+Composer l'équipe
+Changer de tactique
 
 
 
@@ -67,14 +30,48 @@ Open Class
 
 
 
+Règles du combat
+Manches
+Tactique
+Remplacements
+Famille
+Limite de temps
+RANG
+Valider les paramètres
 
-The battle will begin.
-Cannot begin because there{315}are 2 monsters from the same{315}lineage.
-Cannot begin because there{315}2 monsters from the same{315}family.
-You can't take this monster{315}from the monster pen{315}at this time.
+
+Règles standards
+Règles SQEX
+Règles du championnat
+Règles personnalisées
+
+
+Illimité
+5 tours
+10 tours
+Libre
+IA uniquement
+1 fois maximum
+Interdit
+Tout OK
+Même famille OK
+Même famille interdite
+Illimité
+15 secondes
+30 secondes
+Catégorie libre
 
 
 
+
+
+
+
+
+Le combat va commencer.
+Votre équipe contient au moins deux monstres de la même famille.{315}Impossible de commencer le combat.
+Votre équipe contient au moins deux monstres de la même espèce.{315}Impossible de commencer le combat.
+Impossible de sortir ce monstre{315}{23a} de l'enclos pour le moment.
 
 
 
@@ -86,38 +83,41 @@ You can't take this monster{315}from the monster pen{315}at this time.
 
 
 
-Battle with standard rules.
-Battle with official match rules.
-Battle with Championship rules.
-Set battle rules freely.
-
-
-Set the round that will{315}end the battle.
-Set whether orders can{315}be given.
-Set whether Switch can{315}be used.
-Set restrictions on what{315}monsters can be used.
-Set a time limit for{315}entering commands.
-Battle with a custom{315}ruleset.
-
-The battle will continue{315}until one team is wiped out.
-The battle will end after{315}5 rounds.
-The battle will end after{315}10 rounds.
-You can give orders to{315}monsters.
-Monsters will behave{315}according to Tactics (AI).
-You can use Switch once{315}per battle.
-You cannot use Switch{315}at all.
-You can use any of your{315}monsters.
-You can use monsters from{315}any lineage. But you cannot use{315}monsters of the same family.
-You cannot use monsters{315}from the same lineage.
-There will be unlimited{315}time to enter commands.
-Commands are entered within{315}15 seconds.
-Commands are entered within{315}30 seconds.
-You can freely Switch party{315}members.
 
 
 
-The opposing team won!
-The opposing team lost.
-The battle ended in a draw.
+Combattre avec les règles standards.
+Combattre avec les règles des matchs officiels.
+Combattre avec les règles du Championnat du plus grand maître.
+Configurer librement les règles du combat.
+
+
+Définit le nombre de tours maximum{315}avant la fin du combat.
+Permet de choisir si vous pouvez{315}donner des ordres directs ou non.
+Permet d'autoriser ou d'interdire{315}le remplacement de monstres en combat.
+Permet d'appliquer des restrictions{315}sur les monstres autorisés à combattre.
+Définit une limite de temps{315}pour saisir les actions à chaque tour.
+Combattre avec les règles personnalisées.
+
+Le combat continue jusqu'à ce que{315}l'une des deux équipes soit décimée.
+Le combat prend fin{315}au bout de 5 tours.
+Le combat prend fin{315}au bout de 10 tours.
+Permet de donner des ordres{315}directs aux monstres.
+Les monstres agissent automatiquement{315}selon leur tactique (IA).
+Permet d'effectuer un seul remplacement{315}pendant toute la durée du combat.
+Interdit le remplacement de monstres{315}en cours de combat.
+Tous les monstres peuvent être{315}utilisés librement.
+Autorise les monstres de même famille.{315}Cependant, utiliser la même espèce{315}de monstre est interdit.
+Interdit l'utilisation de monstres{315}de la même famille.
+Le temps d'attente pour la saisie{315}des actions est illimité.
+Le temps d'attente pour la saisie{315}des actions est limité à 15 secondes.
+Le temps d'attente pour la saisie{315}des actions est limité à 30 secondes.
+Permet d'effectuer des remplacements{315}librement.
+
+
+
+Vous avez battu l'équipe adverse！
+Vous avez perdu contre l'équipe adverse.
+Match nul contre l'équipe adverse！
 
 

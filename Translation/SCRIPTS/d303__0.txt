@@ -422,7 +422,7 @@ SYS_02 0x8
 WAIT 0x10 0x2 0x42200000
 SYS_42 0x8 
 SETNAME "Tiko"
-SAY "{VOICE=08}So, this is our home, a town on{BREAK}the center island known as Pipisle."
+SAY "{VOICE=08}Voici l'endroit où nous vivons.{BREAK}Une ville au cœur de l'île Pipit.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SPAWN 0x10 L_28b4
@@ -430,15 +430,15 @@ DATA 0x00000001
 WAIT 0x10 0x2 0x41c80000
 STORE 0x18 0x0 0x0 0x2 0x3f800000
 SETNAME "Tiko"
-SAY "{VOICE=08}It's a mysterious place. A world of{BREAK}dreams, a world of memories..."
+SAY "{VOICE=08}Cette île est un lieu bien étrange.{BREAK}Monde des rêves, monde des souvenirs...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Tiko"
-SAY "{VOICE=08}We've become a passage for travelers{BREAK}going to different worlds."
+SAY "{VOICE=08}Elle sert de passage aux voyageurs{BREAK}qui se rendent dans ces mondes-là.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Tiko"
-SAY "{VOICE=08}Unfortuately, aimless travelers often{BREAK}end up getting lost in our town."
+SAY "{VOICE=08}Du coup, des voyageurs un peu distraits{BREAK}s'égarent parfois dans notre ville.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SPAWN 0x10 L_2988
@@ -468,11 +468,11 @@ SYS_4E 0x8
 STORE 0x18 0x0 0x40000000 0x2 0x3f800000
 WAIT 0x10 0x2 0x41200000
 SETNAME "Tiko"
-SAY "{VOICE=08}But it works out. We have the power to{BREAK}connect worlds to each other."
+SAY "{VOICE=08}Mais pas d'inquiétude. Nous possédons{BREAK}le pouvoir de relier les mondes entre eux...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Tiko"
-SAY "{VOICE=08}It's the duty of our tribe to use that{BREAK}power to guide the lost."
+SAY "{VOICE=08}Guider les égarés grâce à ce pouvoir,{BREAK}voilà le rôle du peuple Pipit.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SPAWN 0x10 L_2c54
@@ -496,11 +496,11 @@ STORE 0x18 0x1 0x0 0x2 0x44044000
 SYS_33 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Tiko"
-SAY "{VOICE=08}...but now we are losing that power..."
+SAY "{VOICE=08}...Mais ce pouvoir qui est le nôtre{BREAK}est en train de se perdre.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Tiko"
-SAY "{VOICE=08}You can see our town is in shambles.{BREAK}Pipisle is facing an unprecedented crisis."
+SAY "{VOICE=08}Tu as vu la ville dévastée, n'est-ce pas？{BREAK}L'île Pipit vit une crise sans précédent.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x40800000
@@ -530,11 +530,11 @@ STORE 0x18 0x1 0x0 0x2 0x42240000
 STORE 0x18 0x1 0x3f800000 0x2 0x40e00000
 SYS_17 0x8 
 SETNAME "Tiko"
-SAY "{VOICE=08}And so, it's your job {NAME},{BREAK}to save us from this crisis!"
+SAY "{VOICE=08}...Et c'est justement toi, {NAME},{BREAK}qui vas nous sortir de là！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Tiko"
-SAY "{VOICE=08}As for your task, you can speak to{BREAK}the elder for details on that."
+SAY "{VOICE=08}Pourquoi c'est toi qui as été choisi...{BREAK}Demande les détails à l'Ancien.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x2 0x42480000
@@ -549,11 +549,11 @@ STORE 0x18 0x1 0x3f800000 0x2 0x43160000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Tiko"
-SAY "{VOICE=08}The elder is through that door that stands{BREAK}over yonder."
+SAY "{VOICE=08}L'Ancien se trouve derrière la grande porte{BREAK}que tu vois là-bas.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Tiko"
-SAY "{VOICE=08}I'll head there now and wait for you.{BREAK}Well then, it's nice to have met you!"
+SAY "{VOICE=08}Je pars devant et je t'attends là-bas.{BREAK}Allez, à tout de suite！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

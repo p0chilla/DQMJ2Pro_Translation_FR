@@ -78,12 +78,12 @@ STORE 0x18 0x1 0x40000000 0x2 0x41f00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x43200000
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Are ye all ready tae plunge intae the jungle, laddie?"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Tu es prêt à t'enfoncer dans la jungle, fiston？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Let's start by crossin' that river. I'll go first and wait for ye to catch up."
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Commençons par traverser cette rivière. Je vais passer devant et je t'attendrai."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -96,7 +96,7 @@ STORE 0x18 0x1 0x40000000 0x2 0x41a00000
 SYS_02 0x8 
 SYS_03 0x8 
 SYS_42 0x8 
-SAY "{COLOR=2}{E321}{NAME} can now go to a new region - Treepidation!"
+SAY "{COLOR=2}{E321}{NAME} a désormais accès à une nouvelle région： l'Arbyrinthe！"
 WAIT 0x10 0x2 0x3f800000
 STORE 0x18 0x1 0x0 0x2 0x42780000
 SYS_A5 0x8 

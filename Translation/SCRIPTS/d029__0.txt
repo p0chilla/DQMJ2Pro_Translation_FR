@@ -50,8 +50,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x41f00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x42700000
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Did ye see the size o' that thing!?"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Tu as vu la taille de ce truc！?{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -70,12 +70,12 @@ STORE 0x18 0x1 0x0 0x0 0x3f800000
 STORE 0x18 0x1 0x3f800000 0x2 0x428c0000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Don't ye be pickin' any fights with that worm, ye hear?"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Ne t'avise pas de le provoquer en duel, tu m'entends？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Ye cannae afford tae let yer guard doon for a second on this island!"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Sur cette île, tu ne peux pas te permettre de baisser ta garde une seule seconde！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

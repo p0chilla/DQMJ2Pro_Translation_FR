@@ -116,7 +116,7 @@ STORE 0x18 0x1 0x40000000 0x2 0x41200000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SAY "{VOICE=07}...You cannot hope to escape from this island..."
+SAY "{VOICE=07}... Tu ne peux pas espérer t'enfuir de cette île...{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -177,7 +177,7 @@ STORE 0x18 0x1 0x40000000 0x2 0x41f00000
 SYS_02 0x8 
 SYS_03 0x8 
 SYS_42 0x8 
-SAY "{VOICE=07}...This is the land you have been seeking..."
+SAY "{VOICE=07}... C'est la terre que tu cherchais...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x2 0x422c0000
@@ -186,13 +186,13 @@ SYS_16 0x8
 STORE 0x18 0x1 0x0 0x2 0x422c0000
 STORE 0x18 0x1 0x3f800000 0x2 0x43160000
 SYS_17 0x8 
-SAY "{VOICE=07}You must win..."
+SAY "{VOICE=07}Tu dois gagner...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SAY "{VOICE=07}You must win...and win...and win again. That is your only hope of survival..."
+SAY "{VOICE=07}Tu dois gagner... et gagner... et encore gagner. C'est ton seul espoir de survie...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SAY "{VOICE=07}You must win...and win...and win again... "
+SAY "{VOICE=07}Tu dois gagner... et gagner... et encore gagner...{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -227,8 +227,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x41f00000
 SYS_02 0x8 
 SYS_03 0x8 
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=03}...Laddie? ...Laddie?{BREAK}Can ye hear me?"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}... Hé, {NAME}...{BREAK}{NAME}...！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -289,8 +289,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x41700000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Ye were tossin' and turnin' all night.{BREAK}Is somethin' the matter?"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Tu n'as pas arrêté de bouger cette nuit. Il y a un problème？"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -321,12 +321,12 @@ STORE 0x18 0x1 0x3f800000 0x2 0x41200000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Ye cannae be serious! The Cap'n's ghost came tae ye in a dream!?"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Tu plaisantes！ Le fantôme du capitaine t'est apparu en rêve！?{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}...And he told ye tae keep winnin' in the Monster Scout Challenge!?"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}... Et il t'a dit d'enchaîner les victoires au Championnat des Dresseurs！?{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x40800000
@@ -339,8 +339,8 @@ WAIT 0x10 0x2 0x42100000
 STORE 0x18 0x1 0x0 0x0 0x40800000
 STORE 0x18 0x1 0x3f800000 0x2 0x428c0000
 SYS_18 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}And if ye didnae, we'd never make it off this island!? {WAIT}{CLEAR}Gads! I dinnae like the soond o' that!"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Et que si tu n'y arrivais pas, on ne partirait jamais de cette île？{PAGE}{WAIT}{CLEAR}Sacrebleu！ C'est pas bon signe！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x2 0x41b00000
@@ -349,8 +349,8 @@ SYS_16 0x8
 STORE 0x18 0x1 0x0 0x2 0x41b00000
 STORE 0x18 0x1 0x3f800000 0x2 0x41200000
 SYS_17 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}The Cap'n cannae be dead! I refuse tae believe it! We've gottae find him!"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Le capitaine n'a pas pu mourir！ Je refuse de croire ça！ Il faut le retrouver！{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -390,12 +390,12 @@ STORE 0x18 0x1 0x0 0x0 0x40800000
 STORE 0x18 0x1 0x3f800000 0x2 0x428c0000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}...Och, I'm sorry for shoutin', laddie.{BREAK}I jest got a wee bit emotional."
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}... Oh, désolé d'avoir crié un peu fort, fiston. C'est l'émotion.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}If takin' part in the Monster Scout Challenge means that much tae ye...{WAIT}{CLEAR}...ol' Rory willnae stand in yer way!"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Si le Championnat des Dresseurs te tient tellement à cœur...{PAGE}{WAIT}{CLEAR}... ce vieux Bob ne va pas t'empêcher d'y participer！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

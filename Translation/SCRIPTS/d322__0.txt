@@ -116,12 +116,12 @@ STORE 0x18 0x1 0x40000000 0x2 0x41f00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x42c80000
 SYS_42 0x8 
-SETNAME "Elder"
-SAY "{VOICE=03}Ohh! It's you, {NAME}!{BREAK}Welcome back!"
+SETNAME "Ancien"
+SAY "{VOICE=03}Oh！ Messire {NAME}！{BREAK}Vous voilà enfin de retour！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Elder"
-SAY "{VOICE=03}I heard the news from Tiko!{BREAK}You have all done splendidly!"
+SETNAME "Ancien"
+SAY "{VOICE=03}Tiko m'a tout raconté！{BREAK}Quels magnifiques exploits que les vôtres！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x2 0x41400000
@@ -137,15 +137,15 @@ WAIT 0x10 0x2 0x41f00000
 STORE 0x18 0x1 0x0 0x0 0x40c00000
 STORE 0x18 0x1 0x3f800000 0x2 0x434a0000
 SYS_18 0x8 
-SETNAME "Elder"
-SAY "{VOICE=03}Now, please take this.{BREAK}It's a gift for helping us out..."
+SETNAME "Ancien"
+SAY "{VOICE=03}Tenez, veuillez accepter ceci.{BREAK}C'est pour vous remercier de votre aide."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x2 0x42b80000
 SYS_33 0x8 
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} obtains Seed of Hope x 10!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}10 Graines de Joie！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -182,8 +182,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x42200000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x42700000
 SYS_42 0x8 
-SETNAME "Elder"
-SAY "{VOICE=03}Now then, Tiko, Kukri. I know{BREAK}you haven't forgotten the contest..."
+SETNAME "Ancien"
+SAY "{VOICE=03}... Bien. Tiko, Kukri.{BREAK}Le concours de dressage, vous n'oubliez pas？"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -196,7 +196,7 @@ STORE 0x18 0x1 0x3f800000 0x2 0x43410000
 SYS_18 0x8 
 SYS_42 0x8 
 SETNAME "Tiko"
-SAY "{VOICE=08}Yes, yes of course...{BREAK}The contest to determine the elder!"
+SAY "{VOICE=08}Celui qui ramènerait le guerrier vainqueur{BREAK}d'Hyurde deviendrait Ancien, c'est bien ça？"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -207,8 +207,8 @@ STORE 0x18 0x1 0x0 0x2 0x41a80000
 STORE 0x18 0x1 0x3f800000 0x2 0x42f00000
 SYS_17 0x8 
 SYS_42 0x8 
-SETNAME "Elder"
-SAY "{VOICE=03}Yes, that's right.{BREAK}And so the next elder will be..."
+SETNAME "Ancien"
+SAY "{VOICE=03}Hmm. C'est exact.{BREAK}Par conséquent, le prochain Ancien sera..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -245,7 +245,7 @@ SYS_EA 0x8
 WAIT 0x10 0x2 0x41980000
 SYS_42 0x8 
 SETNAME "Tiko"
-SAY "{VOICE=08}...please wait, elder!"
+SAY "{VOICE=08}Attendez, s'il vous plaît！ Ancien！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -282,8 +282,8 @@ STORE 0x18 0x1 0x0 0x0 0x40c00000
 STORE 0x18 0x1 0x3f800000 0x2 0x434a0000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Elder"
-SAY "{VOICE=03}What? I was just about to point{BREAK}at you! You've won!"
+SETNAME "Ancien"
+SAY "{VOICE=03}Quoi donc... Moi qui allais te désigner{BREAK}du doigt avec un geste bien théâtral..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -296,7 +296,7 @@ STORE 0x18 0x1 0x3f800000 0x2 0x43410000
 SYS_18 0x8 
 SYS_42 0x8 
 SETNAME "Tiko"
-SAY "{VOICE=08}Umm, elder...{BREAK}It's kinda about that..."
+SAY "{VOICE=08}Euh, Ancien. Justement, à ce sujet...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x3f800000
@@ -329,7 +329,7 @@ STORE 0x18 0x1 0x3f800000 0x2 0x41200000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41a00000
 SETNAME "Tiko"
-SAY "{VOICE=08}I don't wanna become elder!"
+SAY "{VOICE=08}Moi, je ne veux pas devenir Ancienne！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -362,14 +362,14 @@ STORE 0x18 0x1 0x0 0x0 0x40c00000
 STORE 0x18 0x1 0x3f800000 0x2 0x402ccccd
 SYS_4E 0x8 
 SYS_42 0x8 
-SETNAME "Elder"
-SAY "{VOICE=03}W-What are you saying, Tiko!?{BREAK}Are you playing me for a fool!?"
+SETNAME "Ancien"
+SAY "{VOICE=03}Q-Quoi donc, Tiko！{BREAK}Tu te moques de moi, ou quoi！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
 SETNAME "Tiko"
-SAY "{VOICE=08}Uh, no, that's not it..."
+SAY "{VOICE=08}Ah, non, ce n'est pas ça du tout...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x3f800000
@@ -400,7 +400,7 @@ STORE 0x18 0x1 0x0 0x2 0x42740000
 STORE 0x18 0x1 0x3f800000 0x2 0x42200000
 SYS_17 0x8 
 SETNAME "Tiko"
-SAY "{VOICE=08}I... want to travel to new lands{BREAK}together with {NAME}!"
+SAY "{VOICE=08}Moi... je voudrais partir avec {NAME}{BREAK}et découvrir bien d'autres mondes！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -431,7 +431,7 @@ STORE 0x18 0x1 0x3f800000 0x2 0x43410000
 SYS_18 0x8 
 SYS_42 0x8 
 SETNAME "Kukri"
-SAY "{VOICE=08}What do you mean by that...?{BREAK}You want to leave here...?"
+SAY "{VOICE=08}Ça veut dire quoi, ça？{BREAK}Tu vas quitter cette île？"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -463,15 +463,15 @@ STORE 0x18 0x1 0x3f800000 0x2 0x43410000
 SYS_18 0x8 
 SYS_42 0x8 
 SETNAME "Tiko"
-SAY "{VOICE=08}Yes. I'll follow you, {NAME}, 'kay?{BREAK}There's so much to explore with you."
+SAY "{VOICE=08}Oui. En suivant {NAME},{BREAK}mon horizon s'élargit à une vitesse folle.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Tiko"
-SAY "{VOICE=08}There are many monsters out there,{BREAK}and they all have various strengths."
+SAY "{VOICE=08}Il existe tant de monstres dans le monde,{BREAK}et chacun a sa propre force à lui...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Tiko"
-SAY "{VOICE=08}I wanna learn so much more about them!{BREAK}If I stay here, I won't learn anything."
+SAY "{VOICE=08}Je veux en apprendre tellement plus！{BREAK}Tout ce qu'on ignore en restant ici..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -497,8 +497,8 @@ SYS_13 0x8
 STORE 0x18 0x1 0x0 0x2 0x41a00000
 SYS_14 0x8 
 SYS_42 0x8 
-SETNAME "Elder"
-SAY "{VOICE=03}My, my...{BREAK}If that's how you feel..."
+SETNAME "Ancien"
+SAY "{VOICE=03}Ah là là...{BREAK}Je n'y peux rien, on dirait."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -506,7 +506,7 @@ SPAWN 0x10 L_3290
 DATA 0x00000004
 SYS_42 0x8 
 SETNAME "Kukri"
-SAY "{VOICE=08}Oh, elder! Does that mean that{BREAK}I am the next elder?"
+SAY "{VOICE=08}Ah, Ancien！ Alors le prochain Ancien,{BREAK}ce sera Kukri, non..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -515,8 +515,8 @@ DATA 0x00000005
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x0 0x40a00000 0x2 0x3f800000
 SYS_42 0x8 
-SETNAME "Elder"
-SAY "{VOICE=03}Idiot! There's no way one that ran{BREAK}away in the heat of battle could be elder!"
+SETNAME "Ancien"
+SAY "{VOICE=03}Sotte. Celle qui s'est enfuie en pleine{BREAK}bataille décisive ne saurait être Ancienne.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x41200000
@@ -525,8 +525,8 @@ DATA 0x00000006
 WAIT 0x10 0x2 0x41700000
 STORE 0x18 0x0 0x40e00000 0x2 0x3f800000
 WAIT 0x10 0x2 0x41200000
-SETNAME "Elder"
-SAY "{VOICE=03}I guess I will remain elder a while longer.{BREAK}Tiko. Take leave and come back soon."
+SETNAME "Ancien"
+SAY "{VOICE=03}Je resterai Ancien quelque temps encore.{BREAK}Tiko... va, et reviens-nous.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x2 0x41b00000
@@ -539,8 +539,8 @@ SPAWN 0x10 L_3388
 DATA 0x00000005
 WAIT 0x10 0x2 0x40e00000
 STORE 0x18 0x0 0x40a00000 0x2 0x3f800000
-SETNAME "Elder"
-SAY "{VOICE=03}{NAME}.{BREAK}Please take care of Tiko."
+SETNAME "Ancien"
+SAY "{VOICE=03}Messire {NAME}.{BREAK}Prenez bien soin de Tiko, je vous prie."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -550,7 +550,7 @@ SYS_18 0x8
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
 SETNAME "Tiko"
-SAY "{VOICE=08}Elder.{BREAK}Thank you so much!"
+SAY "{VOICE=08}Ancien...{BREAK}Merci infiniment！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -590,7 +590,7 @@ SYS_02 0x8
 WAIT 0x10 0x2 0x42480000
 SYS_42 0x8 
 SETNAME "Tiko"
-SAY "{VOICE=08}Okay, {NAME}.{BREAK}I'm sorry it's come down to this..."
+SAY "{VOICE=08}Allez, {NAME}.{BREAK}Désolée d'avoir décidé toute seule...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x41300000
@@ -637,11 +637,11 @@ STORE 0x18 0x1 0x0 0x0 0x3f800000
 STORE 0x18 0x1 0x3f800000 0x2 0x43430000
 SYS_18 0x8 
 SETNAME "Tiko"
-SAY "{VOICE=08}...so next you're going to scout ME!"
+SAY "{VOICE=08}Cette fois, c'est à toi{BREAK}de me recruter dans ton équipe！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Tiko"
-SAY "{VOICE=08}You don't even need Beastie Bites!{BREAK}I'm already on your side!"
+SAY "{VOICE=08}Pas besoin d'accroquettes, hein！{BREAK}Je suis déjà cent pour cent partante！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x41300000
@@ -664,7 +664,7 @@ SYS_14 0x8
 SPAWN 0x10 L_2ff0
 DATA 0x00000001
 SETNAME "Tiko"
-SAY "{VOICE=08}What am I saying... Okay.{BREAK}Have a chat with me later. See ya!"
+SAY "{VOICE=08}... Je plaisante, bien sûr. Bon,{BREAK}viens me parler tout à l'heure. À plus！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

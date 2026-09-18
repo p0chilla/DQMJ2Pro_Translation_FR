@@ -105,7 +105,7 @@ STORE 0x18 0x1 0x40000000 0x2 0x41f00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x42480000
 SYS_42 0x8 
-SAY "{VOICE=08}I am Empyrea, ruler of the skies."
+SAY "{VOICE=08}Je suis Empyréa, souveraine des cieux.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x40a00000
@@ -122,8 +122,8 @@ SYS_13 0x8
 STORE 0x18 0x1 0x0 0x2 0x41400000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Empyrea"
-SAY "{VOICE=08}I take it you are the creatures known as humans. What do you want with me?"
+SETNAME "Empyréa"
+SAY "{VOICE=08}Je suis Empyréa, souveraine des cieux.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -163,16 +163,16 @@ STORE 0x18 0x1 0x40000000 0x2 0x41f00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x42200000
 SYS_42 0x8 
-SETNAME "Empyrea"
-SAY "{VOICE=08}I see. You wish me to join you and help return you to your home."
+SETNAME "Empyréa"
+SAY "{VOICE=08}Vous devez être ces créatures que l'on appelle \"humains\". Que me voulez-vous？"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41f00000
-SETNAME "Empyrea"
-SAY "{VOICE=08}I am afraid this is a wish I cannot grant.{BREAK}I serve only one master..."
+SETNAME "Empyréa"
+SAY "{VOICE=08}Je vois. Vous voulez que je me joigne à vous et que je vous aide à partir.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Empyrea"
-SAY "{VOICE=08}Now, if you'll excuse me..."
+SETNAME "Empyréa"
+SAY "{VOICE=08}Je crains de ne pouvoir réaliser votre souhait. Je ne sers qu'un seul maître...{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -189,17 +189,17 @@ STORE 0x18 0x1 0x3f800000 0x2 0x42480000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x42200000
 SYS_42 0x8 
-SETNAME "Empyrea"
-SAY "{VOICE=08}...Th-That medal!"
+SETNAME "Empyréa"
+SAY "{VOICE=08}Maintenant, si vous voulez bien m'excuser...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x41f00000
-SETNAME "Empyrea"
-SAY "{VOICE=08}...I see. That changes everything."
+SETNAME "Empyréa"
+SAY "{VOICE=08}... Cette médaille！{BREAK}... Je vois. Ça change tout.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Empyrea"
-SAY "{VOICE=08}I take it that Don Mole directed you to come here and seek me out."
+SETNAME "Empyréa"
+SAY "{VOICE=08}Je suppose que c'est Mister Taupe qui vous a envoyés ici me chercher.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -214,12 +214,12 @@ SYS_13 0x8
 STORE 0x18 0x1 0x0 0x2 0x41200000
 SYS_14 0x8 
 SYS_42 0x8 
-SETNAME "Empyrea"
-SAY "{VOICE=08}He is truly committed to the future of this island - nay, to all of us."
+SETNAME "Empyréa"
+SAY "{VOICE=08}Il s'investit beaucoup pour l'avenir de cette île... et pour notre avenir à tous.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Empyrea"
-SAY "{VOICE=08}A more trustworthy ally you could not hope to find."
+SETNAME "Empyréa"
+SAY "{VOICE=08}Vous ne pouviez pas trouver allié plus digne de confiance.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -273,12 +273,12 @@ STORE 0x18 0x1 0x0 0x0 0x40000000
 STORE 0x18 0x1 0x3f800000 0x2 0x43ff0000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Empyrea"
-SAY "{VOICE=08}Now heed me well, humans!{BREAK}You must trust in the forces of fate."
+SETNAME "Empyréa"
+SAY "{VOICE=08}Écoutez-moi, humains！ Vous devez faire confiance aux forces du destin.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Empyrea"
-SAY "{VOICE=08}Do that, and you will find the Great One and fulfil your destiny..."
+SETNAME "Empyréa"
+SAY "{VOICE=08}Ainsi, vous trouverez l'Être suprême, et vous accomplirez votre destinée..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -372,12 +372,12 @@ STORE 0x18 0x1 0x3f800000 0x2 0x3f800000
 SYS_4E 0x8 
 WAIT 0x10 0x2 0x42480000
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}She's gone..."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Elle est partie...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}I guess the great beast the moles were talkin' about wasn't that bird at all."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Je crois que la \"créature suprême\" des taupes n'était pas cet oiseau.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -413,8 +413,8 @@ SYS_02 0x8
 WAIT 0x10 0x2 0x42200000
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Ugh..."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Argh..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -521,8 +521,8 @@ SPAWN 0x10 L_29f0
 DATA 0x00000004
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Melonie"
-SAY "{VOICE=08}Captain Mayday! Wot's wrong!?{BREAK}Somebody do somefin'!"
+SETNAME "Bétanie"
+SAY "{VOICE=08}Capitaine Hoess！ Qu'est-ce qu'il y a！? Que quelqu'un fasse quelque chose！"
 WAIT 0x10 0x2 0x428c0000
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_04 0x8 
@@ -535,7 +535,7 @@ SYS_43 0x8
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x42480000
 SYS_42 0x8 
-SAY "{COLOR=2}{E321}{NAME} carries Captain Mayday back to the Albatross along with Melonie..."
+SAY "{COLOR=2}{E321}{NAME} ramène le capitaine à l'Albatros avec Bétanie..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

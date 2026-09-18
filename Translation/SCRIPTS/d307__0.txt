@@ -122,8 +122,8 @@ SYS_18 0x8
 STORE 0x18 0x0 0x0 0x2 0x3f800000
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Elder"
-SAY "{VOICE=03}Oh, it's you two, Tiko and {NAME}.{BREAK}How has it been?"
+SETNAME "Ancien"
+SAY "{VOICE=03}Oh, Tiko et {NAME}.{BREAK}Que vous arrive-t-il？"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -148,7 +148,7 @@ SYS_14 0x8
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
 SETNAME "Tiko"
-SAY "{VOICE=08}Elder, honestly, not great. We found this{BREAK}monster collapsed outside of town."
+SAY "{VOICE=08}Ancien... En fait, on a trouvé ce{BREAK}monstre effondré, juste hors de la ville."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -191,8 +191,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x41200000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Elder"
-SAY "{VOICE=03}Th-This is...!"
+SETNAME "Ancien"
+SAY "{VOICE=03}M-Mais... c'est...！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -226,8 +226,8 @@ SYS_8C 0x8
 STORE 0x18 0x1 0x0 0x0 0x41200000
 SYS_53 0x8 
 SYS_42 0x8 
-SETNAME "Elder"
-SAY "{VOICE=03}This is the Incarnus!"
+SETNAME "Ancien"
+SAY "{VOICE=03}Mais c'est le vénérable Incarnus！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -258,21 +258,21 @@ SYS_14 0x8
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
 SETNAME "Tiko"
-SAY "{VOICE=08}Incarnus...?"
+SAY "{VOICE=08}Le vénérable... Incarnus...？"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Elder"
-SAY "{VOICE=03}Yes. They are a divine, holy monster{BREAK}that have an important, sacred duty."
+SETNAME "Ancien"
+SAY "{VOICE=03}Oui. L'Incarnus est un monstre sacré{BREAK}investi d'une noble mission...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Elder"
-SAY "{VOICE=03}Their sacred duty is to wander{BREAK}the dark world where evil monsters lie."
+SETNAME "Ancien"
+SAY "{VOICE=03}Pour ce faire, il parcourt sans fin{BREAK}le monde des ténèbres où vit le mal.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Elder"
-SAY "{VOICE=03}The fact they are injured means they{BREAK}must've faced something truly dangerous."
+SETNAME "Ancien"
+SAY "{VOICE=03}Vu ses blessures, l'Incarnus a dû livrer{BREAK}un très rude combat contre les démons..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -290,17 +290,17 @@ SYS_54 0x8
 WAIT 0x10 0x2 0x41c80000
 SYS_42 0x8 
 SETNAME "Tiko"
-SAY "{VOICE=08}Oh! So maybe the Incarnus went after{BREAK}the uninvited guest?"
+SAY "{VOICE=08}Ah！ Alors l'Incarnus poursuivait{BREAK}l'hôte indésirable...？"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Elder"
-SAY "{VOICE=03}Hmm... yes, of course.{BREAK}I don't think this is a coincidence at all."
+SETNAME "Ancien"
+SAY "{VOICE=03}Oui. L'Incarnus et l'hôte indésirable...{BREAK}Leur venue ici n'a rien d'un hasard.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Elder"
-SAY "{VOICE=03}We'll heal the Incarnus here first{BREAK}immediately, and then ask questions."
+SETNAME "Ancien"
+SAY "{VOICE=03}Aidons-le à se rétablir{BREAK}puis posons-lui les questions.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 WAIT 0x10 0x2 0x41200000
@@ -311,8 +311,8 @@ STORE 0x18 0x1 0x0 0x2 0x42500000
 STORE 0x18 0x1 0x3f800000 0x2 0x41700000
 SYS_17 0x8 
 WAIT 0x10 0x2 0x41700000
-SETNAME "Elder"
-SAY "{VOICE=03}Okay! I will use a sainted soma{BREAK}to heal the Incarnus' wounds!"
+SETNAME "Ancien"
+SAY "{VOICE=03}Bien！ Pour soigner ses blessures,{BREAK}nous allons préparer un Soma du phénix！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SPAWN 0x10 L_1f78
@@ -339,24 +339,24 @@ SYS_1E 0x8
 WAIT 0x10 0x2 0x40a00000
 STORE 0x18 0x0 0x40c00000 0x2 0x3f800000
 WAIT 0x10 0x2 0x41700000
-SETNAME "Elder"
-SAY "{VOICE=03}I'm sorry to ask, but could you lend{BREAK}us your aid again, {NAME}?"
+SETNAME "Ancien"
+SAY "{VOICE=03}Je suis navré, {NAME}, mais j'aurai{BREAK}besoin de votre aide pour cela.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Elder"
-SAY "{VOICE=03}It is quite difficult to get the{BREAK}ingredients for a sainted soma."
+SETNAME "Ancien"
+SAY "{VOICE=03}Les ingrédients du Soma du phénix{BREAK}sont tous fort difficiles à trouver.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Elder"
-SAY "{VOICE=03}I would like for you to gather them{BREAK}for us, if you would be so kind."
+SETNAME "Ancien"
+SAY "{VOICE=03}J'aimerais que vous vous chargiez{BREAK}de me les rapporter.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Elder"
-SAY "{VOICE=03}If you need to know what items to get,{BREAK}please, do ask me for information."
+SETNAME "Ancien"
+SAY "{VOICE=03}Je vous expliquerai tout en détail{BREAK}plus tard, alors revenez me parler.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Elder"
-SAY "{VOICE=03}Now, please, I'm counting on you!"
+SETNAME "Ancien"
+SAY "{VOICE=03}Voilà. Je compte sur vous！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

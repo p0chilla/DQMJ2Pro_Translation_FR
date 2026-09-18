@@ -59,8 +59,8 @@ STORE 0x18 0x1 0x0 0x0 0x3f800000
 STORE 0x18 0x1 0x3f800000 0x2 0x43250000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Referee"
-SAY "{VOICE=07}And the winner of the third qualifier...{BREAK}Our reigning champion, {NAME}!"
+SETNAME "Arbitre"
+SAY "{VOICE=07}Et le vainqueur de la 3e manche est... notre champion, {NAME}！{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -82,15 +82,15 @@ STORE 0x18 0x1 0x0 0x2 0x42960000
 SYS_32 0x8 
 WAIT 0x10 0x2 0x42480000
 SYS_42 0x8 
-SETNAME "Referee"
-SAY "{VOICE=07}Congratulations, {NAME}! You've made it through the qualifiers!"
+SETNAME "Arbitre"
+SAY "{VOICE=07}Félicitations, {NAME}！ Vous avez passé les qualifications！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x2 0x42780000
 SYS_A5 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Referee"
-SAY "{VOICE=07}Okay, True Monster Scout Challenge fans. Up next, we've got the main event.{WAIT}{CLEAR}Take the chance to rest up and get yourself in the right frame of mind!"
+SETNAME "Arbitre"
+SAY "{VOICE=07}Chers fans, passons à l'épreuve principale.{PAGE}{WAIT}{CLEAR}Prenez un moment pour vous reposer et vous préparer psychologiquement！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

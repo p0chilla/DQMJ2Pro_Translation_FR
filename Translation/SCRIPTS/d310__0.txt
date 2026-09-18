@@ -173,7 +173,7 @@ STORE 0x18 0x1 0x3f800000 0x2 0x3f800000
 SYS_4E 0x8 
 SYS_42 0x8 
 SETNAME "Tiko"
-SAY "{VOICE=08}Oh! Look at that!"
+SAY "{VOICE=08}Ah！ Regarde là-bas！！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -228,7 +228,7 @@ SYS_18 0x8
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
 SETNAME "Kukri"
-SAY "{VOICE=08}Ahh! LEOKID!!"
+SAY "{VOICE=08}Aaah！ Sire Lionyxeau！！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -312,8 +312,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x437e0000
 SYS_18 0x8 
 WAIT 0x10 0x2 0x41700000
 SYS_42 0x8 
-SETNAME "Leokid"
-SAY "{VOICE=07}Damn. Why...{BREAK}Is my strength just not enough...?"
+SETNAME "Lionyxeau"
+SAY "{VOICE=07}Bon sang. Pourquoi...{BREAK}Ma force se limite donc à ça...？"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -487,7 +487,7 @@ SYS_17 0x8
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
 SETNAME "Kukri"
-SAY "{VOICE=08}WATCH OUT, LEOKID!!"
+SAY "{VOICE=08}Attention！ Sire Lionyxeauuu！！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -514,11 +514,11 @@ SYS_B1 0x8
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
 SETNAME "Incarnus"
-SAY "{VOICE=07}It appears the time has come{BREAK}to teach that brat what real strength is."
+SAY "{VOICE=07}Ce qu'est la vraie force... Il est temps{BREAK}de l'enseigner à ce garnement.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Incarnus"
-SAY "{VOICE=07}Unleash your Monster Scout strength!{BREAK}Show him who's boss!"
+SAY "{VOICE=07}Montre-lui tout ce que tu sais faire！{BREAK}Ta force de dresseur de monstres！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -564,8 +564,8 @@ STORE 0x18 0x1 0x3f800000 0x2 0x41980000
 SYS_18 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Leokid"
-SAY "{VOICE=07}Don't be stupid now.{BREAK}A runt like you couldn't ever defeat him."
+SETNAME "Lionyxeau"
+SAY "{VOICE=07}Fais pas de bêtises...{BREAK}Un minus comme toi ne pourras jamais le battre."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -597,8 +597,8 @@ SYS_17 0x8
 STORE 0x18 0x1 0x0 0x2 0x42700000
 SYS_9C 0x8 
 SYS_42 0x8 
-SETNAME "Taurus"
-SAY "{VOICE=03}Grrrraaaaaaa!!!"
+SETNAME "Faureau"
+SAY "{VOICE=03}Grooooaaaaargh！！！"
 WAIT 0x10 0x2 0x42600000
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

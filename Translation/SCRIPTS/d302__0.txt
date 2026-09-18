@@ -490,10 +490,10 @@ STORE 0x18 0x1 0x40000000 0x2 0x41200000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SAY "{VOICE=08}Hee-hee-hee."
+SAY "{VOICE=08}Héhéhé...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SAY "{VOICE=08}I can't believe someone's shown up who{BREAK}has collected ALL of the plates."
+SAY "{VOICE=08}Dire qu'à ce moment précis, quelqu'un{BREAK}a réuni toutes les plaques... Incroyable.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x2 0x41a80000
@@ -522,7 +522,7 @@ SYS_4E 0x8
 STORE 0x18 0x1 0x0 0x0 0x3f800000
 STORE 0x18 0x1 0x3f800000 0x2 0x433e0000
 SYS_18 0x8 
-SAY "{VOICE=08}I am Tiko, of the Pipit Tribe.{BREAK}I'm sorry for being so forward..."
+SAY "{VOICE=08}Je suis Tiko, du peuple Pipit.{BREAK}Désolée d'être aussi directe, mais...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x3f800000
@@ -565,7 +565,7 @@ SYS_18 0x8
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_B1 0x8 
 SETNAME "Tiko"
-SAY "{VOICE=08}...but I'm going to SCOUT you!"
+SAY "{VOICE=08}...je vais te recruter, toi！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -614,11 +614,11 @@ SYS_17 0x8
 WAIT 0x10 0x2 0x40e00000
 SYS_42 0x8 
 SETNAME "Tiko"
-SAY "{VOICE=08}W-Wait, what!? A h-h-human!??"
+SAY "{VOICE=08}Hein... Quoiiii！！ U-Un humain！？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Tiko"
-SAY "{VOICE=08}No way! A HUMAN beat that huge monster,{BREAK}and collected ALL the plates?"
+SAY "{VOICE=08}Pas possible... Un humain aurait battu{BREAK}ce monstre géant et réuni les plaques？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x3f800000
@@ -646,14 +646,14 @@ STORE 0x18 0x1 0x0 0x0 0x3f800000
 STORE 0x18 0x1 0x3f800000 0x2 0x43410000
 SYS_18 0x8 
 SETNAME "Tiko"
-SAY "{VOICE=08}What should I do? I don't have time{BREAK}to find another warrior..."
+SAY "{VOICE=08}Qu'est-ce que je fais...？ Plus le temps{BREAK}de chercher un autre guerrier...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SPAWN 0x10 L_3e3c
 DATA 0x00000003
 WAIT 0x10 0x2 0x420c0000
 SETNAME "Tiko"
-SAY "{VOICE=08}Hey! It'll be fine, Tiko!{BREAK}I'm sure they have what it takes...!"
+SAY "{VOICE=08}Allez！ Tout ira bien, Tiko！{BREAK}Cette personne y arrivera, c'est sûr！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41a00000
@@ -724,9 +724,9 @@ STORE 0x18 0x1 0x0 0x0 0x3f800000
 STORE 0x18 0x1 0x3f800000 0x2 0x433e0000
 SYS_18 0x8 
 WAIT 0x10 0x2 0x41200000
-SYS_42 0x8  
+SYS_42 0x8 
 SETNAME "Tiko"
-SAY "{VOICE=08}Hey, you, what's your name...?{BREAK}I see, you're {NAME}."
+SAY "{VOICE=08}Dis, comment tu t'appelles？{BREAK}...Je vois. {NAME}, donc.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x3f800000
@@ -737,11 +737,11 @@ STORE 0x18 0x1 0x0 0x0 0x3f800000
 STORE 0x18 0x1 0x3f800000 0x2 0x43410000
 SYS_18 0x8 
 SETNAME "Tiko"
-SAY "{VOICE=08}I beg of you, {NAME}!{BREAK}Please save our foresaken Pipit tribe!"
+SAY "{VOICE=08}Je t'en supplie, {NAME}！{BREAK}Sauve le pauvre peuple Pipit！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Tiko"
-SAY "{VOICE=08}Something awful has happened to our{BREAK}island, on the other side of this portal!"
+SAY "{VOICE=08}Notre île, de l'autre côté de cette porte,{BREAK}est dans une situation catastrophique！！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -793,7 +793,7 @@ SYS_17 0x8
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
 SETNAME "Tiko"
-SAY "{VOICE=08}For now, hurry and come to our town!{BREAK}Come on, let's go!!"
+SAY "{VOICE=08}Viens d'abord jusqu'à notre ville！{BREAK}Allez, en route！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

@@ -704,19 +704,19 @@ SYS_55 0x8
 SYS_42 0x8 
 CMP_EQ 0x18 0x0 0x423c0000 0x2 0x43360000
 JMP_IFNOT 0xc L_26d8
-SAY "{COLOR=2}{NAME} obtains the Minus sceptre!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}le sceptre {COLOR=0}{232}{COLOR=2}！"
 JMP_ABS 0xc L_2770
 L_26d8:
 CMP_EQ 0x18 0x0 0x423c0000 0x2 0x43350000
 JMP_IFNOT 0xc L_2730
-SAY "{COLOR=2}{NAME} obtains the Plus sceptre!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}le sceptre {COLOR=0}{231}{COLOR=2}！"
 JMP_ABS 0xc L_2770
 L_2730:
 JMP_REL L_2738
 L_2738:
 JMP_ABS 0xc L_2744
 L_2744:
-SAY "{COLOR=2}{NAME} obtains {E328}!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}{E328}！"
 JMP_ABS 0xc L_2770
 L_2770:
 WAIT 0x10 0x2 0x42340000
@@ -728,7 +728,7 @@ JMP_IFNOT 0xc L_2c5c
 SYS_42 0x8 
 CMP_EQ 0x18 0x0 0x42400000 0x2 0x40400000
 JMP_IFNOT 0xc L_293c
-SAY "{COLOR=2}The mysterious ore is actually a monster in disguise!"
+SAY "{COLOR=2}Le minerai mystère est en fait un monstre qui en avait pris l'apparence！"
 WAIT 0x10 0x2 0x42340000
 SYS_43 0x8 
 STORE 0x18 0x1 0x0 0x2 0x3f800000
@@ -747,7 +747,7 @@ JMP_ABS 0xc L_2c50
 L_293c:
 CMP_EQ 0x18 0x0 0x42400000 0x2 0x40800000
 JMP_IFNOT 0xc L_2c50
-SAY "{COLOR=2}The bag is actually a monster in disguise!"
+SAY "{COLOR=2}Le sac est en fait un monstre déguisé！"
 WAIT 0x10 0x2 0x42340000
 SYS_43 0x8 
 STORE 0x18 0x1 0x0 0x2 0x42c80000
@@ -803,19 +803,19 @@ SYS_55 0x8
 SYS_42 0x8 
 CMP_EQ 0x18 0x0 0x423c0000 0x2 0x43360000
 JMP_IFNOT 0xc L_2d58
-SAY "{COLOR=2}{NAME} obtains the Minus sceptre!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}le sceptre {COLOR=0}{232}{COLOR=2}！"
 JMP_ABS 0xc L_2df0
 L_2d58:
 CMP_EQ 0x18 0x0 0x423c0000 0x2 0x43350000
 JMP_IFNOT 0xc L_2db0
-SAY "{COLOR=2}{NAME} obtains the Plus sceptre!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}le sceptre {COLOR=0}{231}{COLOR=2}！"
 JMP_ABS 0xc L_2df0
 L_2db0:
 JMP_REL L_2db8
 L_2db8:
 JMP_ABS 0xc L_2dc4
 L_2dc4:
-SAY "{COLOR=2}{NAME} obtains {E328}!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}{E328}！"
 JMP_ABS 0xc L_2df0
 L_2df0:
 WAIT 0x10 0x2 0x42340000
@@ -1187,7 +1187,7 @@ STORE 0x18 0x1 0x3f800000 0x2 0x3f19999a
 SYS_54 0x8 
 WAIT 0x10 0x2 0x42480000
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME}'s team is healed."
+SAY "{COLOR=2}{NAME} et son équipe{BREAK}récupèrent toute leur vitalité."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1198,7 +1198,7 @@ L_44b0:
 JMP_ABS 0xc L_44bc
 L_44bc:
 SYS_42 0x8 
-SAY "{COLOR=2}There's no response. {NAME} cannot use this...for now."
+SAY "{COLOR=2}Pas de réaction.{PAGE}{WAIT}{CLEAR}{NAME} ne peut pas utiliser ceci... pour l'instant."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1309,10 +1309,10 @@ STORE 0x18 0x0 0x426c0000 0x1 0x0
 CMP_EQ 0x18 0x0 0x426c0000 0x2 0x0
 JMP_IFNOT 0xc L_4c7c
 SYS_42 0x8 
-SAY "{COLOR=2}Curiosity killed the cat, but not the monster scout!{WAIT}{CLEAR}Examine these curious stones to learn new abilities and commands."
+SAY "{COLOR=2}La curiosité est un vilain défaut, mais pas pour un dresseur de monstres！{PAGE}{WAIT}{CLEAR}Examinez ces étranges pierres pour apprendre de nouvelles choses.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}These Scout's Stones appear on the map as blue icons."
+SAY "{COLOR=2}Ces Pierres du dresseur sont représentées par des icônes bleues sur la carte."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1342,13 +1342,13 @@ SYS_A4 0x8
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41400000
 JMP_IFNOT 0xc L_4fb4
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} learns Zoom!"
+SAY "{COLOR=2}{NAME} apprend l'aptitude Téléportation！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This ability enables {NAME} to teleport to previously visited regions!"
+SAY "{COLOR=2}Cette aptitude permet de rejoindre en un instant une zone déjà visitée.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}Apart from a few special locations, it can be used anywhere, including caves!"
+SAY "{COLOR=2}Sauf en de rares endroits, elle s'utilise partout, grottes comprises."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1365,10 +1365,10 @@ L_4fb4:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41700000
 JMP_IFNOT 0xc L_50ec
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} learns Vanish!"
+SAY "{COLOR=2}{NAME} apprend l'aptitude Invisibilité！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This ability enables {NAME} to slink past enemy monsters undetected."
+SAY "{COLOR=2}Cette aptitude permet de passer près des ennemis sans se faire repérer."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1382,10 +1382,10 @@ L_50ec:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x40c00000
 JMP_IFNOT 0xc L_52a0
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} can now use Heal All!"
+SAY "{COLOR=2}{NAME} peut désormais utiliser le sort Soigner tous！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This spell lets {NAME} restore the health of his entire team!"
+SAY "{COLOR=2}Ce sort de guérison lui permet de restaurer tous les PV de son équipe！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1405,10 +1405,10 @@ L_52a0:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41600000
 JMP_IFNOT 0xc L_53dc
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} learns Nose for Treasure!"
+SAY "{COLOR=2}{NAME} apprend l'aptitude Détectrésor！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This ability lets {NAME} find out how many items are hidden nearby."
+SAY "{COLOR=2}Cette aptitude permet de savoir combien d'objets sont cachés alentour."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1422,16 +1422,16 @@ L_53dc:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41500000
 JMP_IFNOT 0xc L_5618
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} learns Zip!"
+SAY "{COLOR=2}{NAME} apprend l'aptitude Téléportaïaut！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This ability lets {NAME} Zip to the local Zip Portal, quick as a flash!"
+SAY "{COLOR=2}Elle permet d'aller au téléportail le plus proche en un clin d'œil！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}Of course, the portal must already be open for this to work."
+SAY "{COLOR=2}Bien sûr, le portail doit être déjà ouvert pour que l'opération fonctionne.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}So if {NAME} finds a new portal, he should examine it right away."
+SAY "{COLOR=2}Si vous apercevez un téléportail,{BREAK}examinez-le donc sans attendre."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1449,13 +1449,13 @@ L_5618:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41200000
 JMP_IFNOT 0xc L_589c
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} obtains the Monster Mender!"
+SAY "{COLOR=2}{NAME} obtient le Monstrequinque！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}Use this bottle to restore the HP and MP of {NAME}'s entire team."
+SAY "{COLOR=2}Utilisez ce flacon pour restaurer les PV et les PM de toute l'équipe.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}Good for three doses per outing. Once it runs out, head to the airship for a refill!"
+SAY "{COLOR=2}Contient trois doses.{PAGE}{WAIT}{CLEAR}Une fois qu'il est vide, retournez au vaisseau pour le remplir！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -3249,7 +3249,7 @@ STORE 0x18 0x1 0x0 0x2 0x417d999a
 SYS_10A 0x8 
 WAIT 0x10 0x2 0x41700000
 SYS_42 0x8 
-SAY "{COLOR=2}Will you return to Blanc Palace?{VOICE=09}"
+SAY "{COLOR=2}Voulez-vous retourner au palais Blanc？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_7A 0x8 
@@ -3810,10 +3810,10 @@ STORE 0x18 0x1 0x0 0x2 0x3f800000
 STORE 0x18 0x1 0x3f800000 0x0 0x42c00000
 SYS_A8 0x8 
 SYS_42 0x8 
-SAY "{COLOR=2}What! {NAME}{BREAK}won against the scouts of the Ultimate rank!"
+SAY "{COLOR=2}Incroyable！ {NAME} a battu{BREAK}un dresseur de l'élite mondiale！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}{NAME} got {E322} points as{BREAK}a bonus for the World Monster Championship!"
+SAY "{COLOR=2}{NAME} obtient {E322} points bonus{BREAK}pour le Championnat du Monde des Monstres！"
 STORE 0x18 0x1 0x0 0x2 0x42780000
 SYS_A5 0x8 
 SYS_43 0x8 
@@ -3954,10 +3954,10 @@ L_f514:
 CMP_EQ 0x18 0x0 0x42be0000 0x2 0x40400000
 JMP_IFNOT 0xc L_f688
 L_f538:
-SAY "{VOICE=07}Shucks! That's my loss!{BREAK}I'm really no match for all that!"
+SAY "{VOICE=07}Bien joué！ C'est ma défaite！{BREAK}Rien à faire contre tant de fougue！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}I'm just a tired-old monkey.{BREAK}The future is yours, young one!"
+SAY "{VOICE=07}Un vieux soldat n'a plus qu'à s'effacer.{BREAK}L'avenir t'appartient, jeunot！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -3974,10 +3974,10 @@ JMP_REL L_f690
 L_f690:
 JMP_ABS 0xc L_f69c
 L_f69c:
-SAY "{VOICE=07}What's with that timidness! You think{BREAK}you can carry the future, young one?"
+SAY "{VOICE=07}Pff！ Qu'est-ce que c'est que cette frousse！{BREAK}Et c'est toi, l'avenir de ce monde！？{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}That said, you've got nice muscles!{BREAK}I expect smashing things from you!"
+SAY "{VOICE=07}Cela dit, tu as de bonnes dispositions！{BREAK}Je compte sur toi pour l'avenir！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -3999,10 +3999,10 @@ L_f818:
 CMP_EQ 0x18 0x0 0x42be0000 0x2 0x40400000
 JMP_IFNOT 0xc L_f994
 L_f83c:
-SAY "{VOICE=07}What the heck! You must be absurdly strong{BREAK}for me to have lost!"
+SAY "{VOICE=07}Pas croyable！ Moi, perdre un combat！？{BREAK}T'es sacrément balèze, toi！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}You could aim for the top with your skill!{BREAK}If we meet again, let's have another match!"
+SAY "{VOICE=07}Avec un talent pareil, vise le sommet！{BREAK}Si on se recroise, on remet ça！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4019,10 +4019,10 @@ JMP_REL L_f99c
 L_f99c:
 JMP_ABS 0xc L_f9a8
 L_f9a8:
-SAY "{VOICE=07}Ha-ha-ha-ha!{BREAK}It seems victory is mine!"
+SAY "{VOICE=07}Ha ha ha ha！{BREAK}On dirait bien que la victoire est pour moi！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}But you've some senses about you!{BREAK}If we meet again, let's have another match!"
+SAY "{VOICE=07}Mais toi, tu as du flair！{BREAK}Si on se recroise, on remet ça！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4044,10 +4044,10 @@ L_fb14:
 CMP_EQ 0x18 0x0 0x42be0000 0x2 0x40400000
 JMP_IFNOT 0xc L_fc84
 L_fb38:
-SAY "{VOICE=07}NICE FIGHT! My loss.{BREAK}It was a good breath-taking fight."
+SAY "{VOICE=07}Beau combat！ C'est moi qui perds.{BREAK}Un duel à couper le souffle.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}I can't return home to {E30B}{00}{BREAK}leaving it like this."
+SAY "{VOICE=07}Dans ces conditions, pas question{BREAK}de rentrer à {E30B}{00}, mon pays natal..."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4064,10 +4064,10 @@ JMP_REL L_fc8c
 L_fc8c:
 JMP_ABS 0xc L_fc98
 L_fc98:
-SAY "{VOICE=07}Good! It appears victory is mine.{BREAK}It was a good breath-taking fight."
+SAY "{VOICE=07}Bien！ La victoire me revient, on dirait.{BREAK}Un duel à couper le souffle.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}I feel confident I can return home.{BREAK}Well then, I'll be leaving now."
+SAY "{VOICE=07}Me voilà en confiance pour rentrer au pays.{BREAK}Sur ce, je m'en vais."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4089,10 +4089,10 @@ L_fe10:
 CMP_EQ 0x18 0x0 0x42be0000 0x2 0x40400000
 JMP_IFNOT 0xc L_ff88
 L_fe34:
-SAY "{VOICE=07}OH! MY! GOD! I can't believ it.{BREAK}How could I lose."
+SAY "{VOICE=07}Oh non！ Je n'y crois pas.{BREAK}Moi, perdre un combat...{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Cheers to your fierce, burning{BREAK}passion for fighting! Let's meet again!"
+SAY "{VOICE=07}Je bois à ta passion, celle qui s'est{BREAK}embrasée en plein duel！ À bientôt！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4109,10 +4109,10 @@ JMP_REL L_ff90
 L_ff90:
 JMP_ABS 0xc L_ff9c
 L_ff9c:
-SAY "{VOICE=07}Phew! What a match.{BREAK}It seems I won this time."
+SAY "{VOICE=07}Ouah！ Le duel est joué.{BREAK}Cette fois, la victoire est pour moi.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Your passion is something though.{BREAK}I hope we can meet again somewhere!"
+SAY "{VOICE=07}Ta passion m'a bien impressionné.{BREAK}J'espère qu'on se reverra quelque part！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4134,10 +4134,10 @@ L_1010c:
 CMP_EQ 0x18 0x0 0x42be0000 0x2 0x40400000
 JMP_IFNOT 0xc L_1027c
 L_10130:
-SAY "{VOICE=07}Kya-ha-ha-ha! You're strong, bruv!{BREAK}Amazing! Amazing! A-mazing!"
+SAY "{VOICE=07}Kya ha ha ha！ T'es super fort, m'sieur！{BREAK}Génial, génial, gééénial！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}It's setlted! I'm gonna get stronger{BREAK}so I can beat you! Let's play again, 'kay!"
+SAY "{VOICE=07}Bon！ Je vais m'entraîner encore plus{BREAK}pour te battre un jour！ On rejoue, hein！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4154,10 +4154,10 @@ JMP_REL L_10284
 L_10284:
 JMP_ABS 0xc L_10290
 L_10290:
-SAY "{VOICE=07}Oh, my! You really weren't that great,{BREAK}bruv!"
+SAY "{VOICE=07}Oh là là！ Finalement, m'sieur,{BREAK}t'étais pas si terrible que ça！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}You think you'd go easy on me 'cuz{BREAK}Imma kid? Fight for real, 'kay! Byeeee!"
+SAY "{VOICE=07}Tu t'es relâché parce que je suis petite？{BREAK}La prochaine fois, du sérieux！ Salut！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4179,10 +4179,10 @@ L_1040c:
 CMP_EQ 0x18 0x0 0x42be0000 0x2 0x40400000
 JMP_IFNOT 0xc L_1057c
 L_10430:
-SAY "{VOICE=07}My loss, huh? I can't face my mother{BREAK}{E30B}{00} now."
+SAY "{VOICE=07}J'ai perdu, hein... J'oserai plus regarder{BREAK}ma vieille mère de {E30B}{00} en face...{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}But fighting fairly isn't{BREAK}so bad! That was fun. Thanks!"
+SAY "{VOICE=07}Mais se battre à découvert, c'est pas mal！{BREAK}Je me suis régalé, merci bien！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4199,10 +4199,10 @@ JMP_REL L_10584
 L_10584:
 JMP_ABS 0xc L_10590
 L_10590:
-SAY "{VOICE=07}O-Oh... My win!? I did it!{BREAK}My mother {E30B}{00} will be proud!"
+SAY "{VOICE=07}J-J'ai gagné！？ Ça alors, j'ai réussi！{BREAK}Faut que je le dise à ma mère, à {E30B}{00}！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}He-he. Fighting fair isn't so bad!{BREAK}That was fun. Thanks!"
+SAY "{VOICE=07}Héhé. Se battre à découvert, c'est pas mal！{BREAK}Je me suis régalé, merci bien！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4224,10 +4224,10 @@ L_1070c:
 CMP_EQ 0x18 0x0 0x42be0000 0x2 0x40400000
 JMP_IFNOT 0xc L_10880
 L_10730:
-SAY "{VOICE=07}I learned a lot despite losing.{BREAK}I'm smiling on the outside, but not the inside."
+SAY "{VOICE=07}J'ai lancé le défi et je perds, genre.{BREAK}Je souris, mais dedans je pleure, genre.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}But truly thanks for having a bout{BREAK}with me. Call me up anytime."
+SAY "{VOICE=07}Merci quand même d'avoir joué le jeu{BREAK}avec moi. Reviens me voir, hein."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4244,10 +4244,10 @@ JMP_REL L_10888
 L_10888:
 JMP_ABS 0xc L_10894
 L_10894:
-SAY "{VOICE=07}Oh, when did the fight end?{BREAK}I guess I won. Wow, really, sorry."
+SAY "{VOICE=07}Ah, le combat est déjà fini, genre.{BREAK}Et j'ai gagné. Désolée, hein.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}I guess it went well since{BREAK}I fought hard. And I got someone cheering for me."
+SAY "{VOICE=07}T'es pas mal du tout, alors accroche-toi.{BREAK}Quelque part, je t'encourage, genre."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4269,10 +4269,10 @@ L_10a14:
 CMP_EQ 0x18 0x0 0x42be0000 0x2 0x40400000
 JMP_IFNOT 0xc L_10b84
 L_10a38:
-SAY "{VOICE=07}Woah! I got floored!{BREAK}Are you really that strong!"
+SAY "{VOICE=07}Ouah！ J'ai perdu！{BREAK}Vous êtes vraiment costaud, dites donc！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}It's frustrating to lose,{BREAK}but it was enjoyable. Let's meet again!"
+SAY "{VOICE=07}C'est rageant d'avoir perdu, mais{BREAK}je me suis bien amusé. À la prochaine！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4289,10 +4289,10 @@ JMP_REL L_10b8c
 L_10b8c:
 JMP_ABS 0xc L_10b98
 L_10b98:
-SAY "{VOICE=07}Excuse me. I just wanted to spar with{BREAK}a higher rank, but I seem to have won."
+SAY "{VOICE=07}Excusez-moi. Je voulais juste me mesurer{BREAK}à plus fort que moi, et j'ai gagné...{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}W-Well, don't be discouraged!{BREAK}Let's meet again somewhere. See you!"
+SAY "{VOICE=07}A-Allons, ne vous découragez pas！{BREAK}On se reverra sûrement. À bientôt！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4314,10 +4314,10 @@ L_10d10:
 CMP_EQ 0x18 0x0 0x42be0000 0x2 0x40400000
 JMP_IFNOT 0xc L_10e78
 L_10d34:
-SAY "{VOICE=07}No way! You're strong.{BREAK}I guess I'm no match for you, hun."
+SAY "{VOICE=07}Oh non！ Tu es drôlement fort, toi.{BREAK}Et voilà, j'ai perdu, mon chou.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}I'll head on home now,{BREAK}and train with my kids! Bye!"
+SAY "{VOICE=07}Je rentre gentiment chez moi entraîner{BREAK}mes petits chéris！ Bye bye！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4334,10 +4334,10 @@ JMP_REL L_10e80
 L_10e80:
 JMP_ABS 0xc L_10e8c
 L_10e8c:
-SAY "{VOICE=07}Sorry! I can't tell how good I am so{BREAK}I went all out, and beat you, hun!"
+SAY "{VOICE=07}Désoléééée！ Je ne sais pas me retenir,{BREAK}alors je t'ai battu pour de bon, mon chou！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}It was a quite an exhilerating fight,{BREAK}y'know? Super fun and all that! Thanks, hun!"
+SAY "{VOICE=07}C'était un combat plutôt chaud, non？{BREAK}Je me suis bien amusée！ Merci, mon chou！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4388,27 +4388,27 @@ STORE 0x18 0x1 0x0 0x2 0x429e0000
 STORE 0x18 0x1 0x3f800000 0x2 0x40400000
 SYS_28 0x8 
 SYS_42 0x8 
-SETNAME "Genie Sanguini"
-SAY "{VOICE=07}Welcome to the Ultimate Scout Arena!{BREAK}I'm here to give you advice!"
+SETNAME "Sanguini Irisé"
+SAY "{VOICE=07}Bienvenue à l'Arène des Champions！{BREAK}J'ai quelques conseils pour toi！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 L_11264:
-SAY "{VOICE=07}There are 3 Ultimate class scouts here.{BREAK}If you talk to them, you'll battle."
+SAY "{VOICE=07}Trois dresseurs d'élite se trouvent ici.{BREAK}Parle-leur et le combat commencera.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}As you make it closer to the center{BREAK}you'll fight higher ranked scouts."
+SAY "{VOICE=07}Plus tu approches du centre de l'arène,{BREAK}plus les dresseurs sont haut classés.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Since they're all pros,{BREAK}you'll be allowed to use items."
+SAY "{VOICE=07}Ils ont un niveau de professionnels.{BREAK}Ici, tu as le droit d'utiliser des objets.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}We'd like you to win no matter how.{BREAK}And if you happen to win a match,"
+SAY "{VOICE=07}Je veux te voir gagner par tous les moyens.{BREAK}Parce que si tu remportes un match...{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}you'll receive bonus points that{BREAK}you can use on the next Ultimate Scout!"
+SAY "{VOICE=07}tu gagnes des points bonus utilisables au{BREAK}prochain Championnat du Monde des Monstres！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}However you only have 1 win and 1 loss{BREAK}against the same scout. good luck!"
+SAY "{VOICE=07}Mais tu n'affrontes chaque dresseur{BREAK}qu'une fois, gagné ou perdu. Courage！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4419,8 +4419,8 @@ L_114e8:
 JMP_ABS 0xc L_114f4
 L_114f4:
 SYS_42 0x8 
-SETNAME "Genie Sanguini"
-SAY "{VOICE=07}Welcome to the Ultimate Scout Arena!{BREAK}Wanna hear my advice again?{VOICE=09}"
+SETNAME "Sanguini Irisé"
+SAY "{VOICE=07}Bienvenue à l'Arène des Champions！{BREAK}Tu veux réentendre mes conseils？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_7A 0x8 
@@ -4434,7 +4434,7 @@ JMP_REL L_115d8
 L_115d8:
 JMP_ABS 0xc L_115e4
 L_115e4:
-SAY "{VOICE=07}Understood.{BREAK}I pray for your victory!"
+SAY "{VOICE=07}Compris.{BREAK}Je te souhaite de bien te battre！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4447,8 +4447,8 @@ L_11658:
 CMP_EQ 0x18 0x3 0x0 0x0 0x42b40000
 JMP_IFNOT 0xc L_125c4
 SYS_42 0x8 
-SETNAME "Genie Sanguini"
-SAY "{VOICE=07}Do you want to know the bonus points{BREAK}you've earned before your next opponent?{VOICE=09}"
+SETNAME "Sanguini Irisé"
+SAY "{VOICE=07}Tu veux connaître le total des points bonus{BREAK}gagnés contre tes adversaires du moment？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_7A 0x8 
@@ -4493,20 +4493,20 @@ L_119b0:
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 STORE 0x18 0x1 0x3f800000 0x0 0x42d20000
 SYS_A8 0x8 
-SAY "{VOICE=07}You have earned {E322} bonus{BREAK}points so far."
+SAY "{VOICE=07}Le total des points bonus que tu as{BREAK}accumulés jusqu'ici est de {E322}.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Bonus points will be added when you{BREAK}fight until the final Ultimate Scout battle!"
+SAY "{VOICE=07}Ces points s'ajoutent quand tu vas au bout du{BREAK}Championnat du Monde des Monstres！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Want to return to{BREAK}Blanc Palace?{VOICE=09}"
+SAY "{VOICE=07}Tu veux déjà retourner au palais Blanc？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_7A 0x8 
 STORE 0x18 0x0 0x42ca0000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42ca0000 0x2 0x0
 JMP_IFNOT 0xc L_11f9c
-SAY "{VOICE=07}Okay, come again!"
+SAY "{VOICE=07}Alors reviens me voir, d'accord！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4574,7 +4574,7 @@ JMP_REL L_11fa4
 L_11fa4:
 JMP_ABS 0xc L_11fb0
 L_11fb0:
-SAY "{VOICE=07}Tell me anytime when you want{BREAK}to return to Blanc Palace, 'kay?"
+SAY "{VOICE=07}Si tu veux retourner au palais Blanc,{BREAK}dis-le-moi quand tu veux."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4586,14 +4586,14 @@ JMP_REL L_12034
 L_12034:
 JMP_ABS 0xc L_12040
 L_12040:
-SAY "{VOICE=07}Want to return to{BREAK}Blanc Palace?{VOICE=09}"
+SAY "{VOICE=07}Tu veux déjà retourner au palais Blanc？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_7A 0x8 
 STORE 0x18 0x0 0x42ca0000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42ca0000 0x2 0x0
 JMP_IFNOT 0xc L_12528
-SAY "{VOICE=07}Okay, come again!"
+SAY "{VOICE=07}Alors reviens me voir, d'accord！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4661,7 +4661,7 @@ JMP_REL L_12530
 L_12530:
 JMP_ABS 0xc L_1253c
 L_1253c:
-SAY "{VOICE=07}Talk to me anytime you want{BREAK}to return to Blanc Palace, 'kay?"
+SAY "{VOICE=07}Si tu veux retourner au palais Blanc,{BREAK}dis-le-moi quand tu veux."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4742,26 +4742,26 @@ L_12924:
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_152 0x8 
 SYS_42 0x8 
-SAY "{VOICE=07}Ah! A fresh face for me, {E30B}{00}!{BREAK}I'm the Ol' Stubbon Scout!"
+SAY "{VOICE=07}Ha！ Personne ne m'ignore à {E30B}{00}！{BREAK}Je suis le vieux dresseur têtu！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Who always appears in the World{BREAK}Monster Championship is {E30B} D Rank."
+SAY "{VOICE=07}Au Championnat du Monde des Monstres,{BREAK}je m'échine toujours en classe {E30B}D...{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}In the {E30B}T/{E30B}j rankings, under my lead{BREAK}{E30B}z increased in rank!"
+SAY "{VOICE=07}Au classement du {E30B}j/{E30B}T, mon {E30B}z{BREAK}est monté dans le haut du tableau！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}I won't lose to no child!{BREAK}Now you, me, battle!{VOICE=09}"
+SAY "{VOICE=07}Je ne compte pas perdre face aux jeunots！{BREAK}Toi là, viens donc m'affronter！{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_7A 0x8 
 STORE 0x18 0x0 0x42ca0000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42ca0000 0x2 0x0
 JMP_IFNOT 0xc L_12c5c
-SAY "{VOICE=07}Ohh! You youngsters these days{BREAK}are so brilliant!"
+SAY "{VOICE=07}Oh！ Pour un jeune d'aujourd'hui,{BREAK}tu promets, dis donc！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Fine! I won't go easy on you either!{BREAK}I'm going to fight for real this time!"
+SAY "{VOICE=07}Bien！ Je ne te ferai aucun cadeau！{BREAK}Attaque-moi de toutes tes forces！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4778,7 +4778,7 @@ JMP_REL L_12c64
 L_12c64:
 JMP_ABS 0xc L_12c70
 L_12c70:
-SAY "{VOICE=07}And so you youngster of the present{BREAK}if you're willing, you can fight me!"
+SAY "{VOICE=07}Ah, les jeunes d'aujourd'hui...{BREAK}Si l'envie te prend, viens m'affronter！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4789,26 +4789,26 @@ L_12cf0:
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_152 0x8 
 SYS_42 0x8 
-SAY "{VOICE=07}'Sup! In order to meet strong folks{BREAK}I came from far off {E30B}{00}!"
+SAY "{VOICE=07}Salut！ J'ai fait tout le voyage depuis{BREAK}{E30B}{00} pour croiser des costauds！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}I entered the World Monster Championship{BREAK}as {E30B} D rank,"
+SAY "{VOICE=07}Je participe à fond à la classe {E30B}D du{BREAK}Championnat du Monde des Monstres, mais...{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}But in the {E30B}T/{E30B}j rankings,{BREAK}led by me, {E30B}z has increased in rank!"
+SAY "{VOICE=07}Au classement du {E30B}j/{E30B}T, mon {E30B}z{BREAK}a arraché une place au sommet！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}You seem to be a monster scout too.{BREAK}How about it? Won't you battle with me?{VOICE=09}"
+SAY "{VOICE=07}T'as l'air d'être dresseur, toi aussi.{BREAK}Ça te dit, un petit combat contre moi？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_7A 0x8 
 STORE 0x18 0x0 0x42ca0000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42ca0000 0x2 0x0
 JMP_IFNOT 0xc L_1300c
-SAY "{VOICE=07}Alright! I knew it!{BREAK}You better fight me full strength!"
+SAY "{VOICE=07}Ouais！ Voilà qui me plaît！{BREAK}Attaque-moi de toutes tes forces！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Now let's rumble!"
+SAY "{VOICE=07}Allez, c'est parti！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4825,7 +4825,7 @@ JMP_REL L_13014
 L_13014:
 JMP_ABS 0xc L_13020
 L_13020:
-SAY "{VOICE=07}Na-ha-ha! You scared of fighting{BREAK}a top class scout!?"
+SAY "{VOICE=07}Na ha ha！ Face à un dresseur du top,{BREAK}tu t'es dégonflé, hein！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4836,26 +4836,26 @@ L_13098:
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_152 0x8 
 SYS_42 0x8 
-SAY "{VOICE=07}I am a mysteriously-masked scout{BREAK}with {E30B}z under my command."
+SAY "{VOICE=07}Je suis le mystérieux dresseur masqué{BREAK}qui commande {E30B}z.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}In the World Monster Championship{BREAK}I always appear in {E30B} D Rank."
+SAY "{VOICE=07}Au Championnat du Monde des Monstres, je sue{BREAK}sang et eau dans la classe {E30B}D.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}And lately in the {E30B}T/{E30B}j rankings,{BREAK}MY TEAM has increased its rank."
+SAY "{VOICE=07}Et au classement du {E30B}j/{E30B}T, mon équipe{BREAK}a enfin atteint le haut du tableau.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Do you think you can fight ME{BREAK}wearing the dress of my hometown {E30B}{00}?{VOICE=09}"
+SAY "{VOICE=07}Je me bats pour rentrer couvert de gloire{BREAK}à {E30B}{00}. Veux-tu m'affronter？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_7A 0x8 
 STORE 0x18 0x0 0x42ca0000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42ca0000 0x2 0x0
 JMP_IFNOT 0xc L_133c4
-SAY "{VOICE=07}Hmm. A reply suitable for a man.{BREAK}You are fit to be MY opponent!"
+SAY "{VOICE=07}Bien. Voilà une réponse pleine de cran.{BREAK}Tu es digne de m'affronter！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Now, come at me, anyway you can!"
+SAY "{VOICE=07}Allez, attaque-moi comme tu l'entends！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4872,7 +4872,7 @@ JMP_REL L_133cc
 L_133cc:
 JMP_ABS 0xc L_133d8
 L_133d8:
-SAY "{VOICE=07}Well, I won't ask the impossible.{BREAK}Speak to me if you change your mind."
+SAY "{VOICE=07}Bon, je ne te forcerai pas.{BREAK}Si tu changes d'avis, reviens me voir."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4883,26 +4883,26 @@ L_13450:
 STORE 0x18 0x1 0x0 0x2 0x40000000
 SYS_152 0x8 
 SYS_42 0x8 
-SAY "{VOICE=07}Hey! I, with {E30B} under my command,{BREAK}am the nice guy born in {E30B}{00}!"
+SAY "{VOICE=07}Salut！ Je commande {E30B}z, et je suis{BREAK}le beau gosse que {E30B}{00} a vu naître！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}In the World Monster Chamiponship{BREAK}I always join {E30B} D Rank,"
+SAY "{VOICE=07}Au Championnat du Monde des Monstres, je{BREAK}participe toujours en classe {E30B}D, mais...{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}But in the {E30B}T/{E30B}j rankings,{BREAK}my team splendidly increased in rank!"
+SAY "{VOICE=07}Au classement du {E30B}j/{E30B}T, mon équipe{BREAK}a brillé au sommet du tableau！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Phew. You seem to be a monster scout too.{BREAK}Would you be open to a brilliant fight wit me?{VOICE=09}"
+SAY "{VOICE=07}Hmpf. Tu as l'air d'être dresseur, toi aussi.{BREAK}Et si on livrait un combat plein d'éclat？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_7A 0x8 
 STORE 0x18 0x0 0x42ca0000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42ca0000 0x2 0x0
 JMP_IFNOT 0xc L_137a0
-SAY "{VOICE=07}Whoo! Good answer!{BREAK}You better bring your A game!"
+SAY "{VOICE=07}Ouah！ Voilà une belle réponse！{BREAK}Donne-moi tout ce que tu as！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}I'm going to fight full strength!{BREAK}Now, let's go! Ready! Set! GO!"
+SAY "{VOICE=07}Je l'encaisserai de toutes mes forces！{BREAK}Allez, c'est parti！ Prêt... partez！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4919,7 +4919,7 @@ JMP_REL L_137a8
 L_137a8:
 JMP_ABS 0xc L_137b4
 L_137b4:
-SAY "{VOICE=07}How boring. Well, if you change{BREAK}your mind, talk to me again."
+SAY "{VOICE=07}Quel manque d'enthousiasme. Bon,{BREAK}si l'envie te prend, reviens me voir."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4930,26 +4930,26 @@ L_1382c:
 STORE 0x18 0x1 0x0 0x2 0x40000000
 SYS_152 0x8 
 SYS_42 0x8 
-SAY "{VOICE=07}Hello, there. I live in {E30B}{00}.{BREAK}I'm the monster scout princess."
+SAY "{VOICE=07}Bonjour！ Moi, j'habite à {E30B}{00}{BREAK}et je suis la dresseuse gamine！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}In the World Monster Chamiponship,{BREAK}I join {E30B} D rank,"
+SAY "{VOICE=07}Au Championnat du Monde des Monstres, je{BREAK}participe toujours en classe {E30B}D, mais...{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}But in the {E30B}T/{E30B}j rankings,{BREAK}my {E30B}z has ranked up!"
+SAY "{VOICE=07}Au classement du {E30B}j/{E30B}T, mon {E30B}z{BREAK}est monté tout en haut du tableau！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}You're a scout too, right, bruv?{BREAK}So, come on, fight with me.{VOICE=09}"
+SAY "{VOICE=07}Toi aussi t'es dresseur, hein m'sieur？{BREAK}Dis, dis, on se bat tous les deux？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_7A 0x8 
 STORE 0x18 0x0 0x42ca0000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42ca0000 0x2 0x0
 JMP_IFNOT 0xc L_13b54
-SAY "{VOICE=07}Yay!{BREAK}Thanks, bruv!"
+SAY "{VOICE=07}Ouaiiiis！{BREAK}Merci, m'sieur！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Don't go easy on me 'cause I'm a kid!{BREAK}Well then, let's go!"
+SAY "{VOICE=07}Va pas te relâcher parce que je suis petite！{BREAK}Bon, c'est partiii！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4966,7 +4966,7 @@ JMP_REL L_13b5c
 L_13b5c:
 JMP_ABS 0xc L_13b68
 L_13b68:
-SAY "{VOICE=07}Ugh. How boring.{BREAK}It would've been a good battle."
+SAY "{VOICE=07}Pff. C'est pas drôle.{BREAK}Allez quoi, on se bat, dis."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4977,26 +4977,26 @@ L_13bdc:
 STORE 0x18 0x1 0x0 0x2 0x40000000
 SYS_152 0x8 
 SYS_42 0x8 
-SAY "{VOICE=07}H-Hey. I really get it here.{BREAK}I'm the monster scout thief."
+SAY "{VOICE=07}S-Salut. T'as réussi à me trouver, hein.{BREAK}Moi, je suis le dresseur chapardeur.{PAGE}{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}In the World Monster Chamiponship,{BREAK}I always sneak in {E30B} aruond D rank."
+SAY "{VOICE=07}Au Championnat du Monde des Monstres, je{BREAK}traîne en douce du côté de la classe {E30B}D.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}That said, in the {E30B}T/{E30B}j rankings,{BREAK}my team has ranked up."
+SAY "{VOICE=07}...Cela dit, au classement du {E30B}j/{E30B}T,{BREAK}mon équipe s'est retrouvée tout en haut.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}S-So, you. Will you fight against{BREAK}my {E30B}z?{VOICE=09}"
+SAY "{VOICE=07}D-Dis, toi. Tu veux bien affronter{BREAK}mon {E30B}z？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_7A 0x8 
 STORE 0x18 0x0 0x42ca0000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42ca0000 0x2 0x0
 JMP_IFNOT 0xc L_13f2c
-SAY "{VOICE=07}O-Oh, really!? This'll be the first{BREAK}fight not sneakin' around so I'm pretty nervous!"
+SAY "{VOICE=07}A-Ah bon！？ C'est la première fois que je{BREAK}me bats à découvert, ça me stresse！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Everyone back in my {E30B}{00}!{BREAK}Please lend me your strength!"
+SAY "{VOICE=07}Vous tous, là-bas à {E30B}{00}！{BREAK}Prêtez-moi votre force！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5013,7 +5013,7 @@ JMP_REL L_13f34
 L_13f34:
 JMP_ABS 0xc L_13f40
 L_13f40:
-SAY "{VOICE=07}I-I see. I'll be lurkin' around here{BREAK}so if you change your mind, talk to me again."
+SAY "{VOICE=07}A-Ah bon. Je traîne en douce dans le coin,{BREAK}alors reviens me voir si tu changes d'avis."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5024,26 +5024,26 @@ L_13fc0:
 STORE 0x18 0x1 0x0 0x2 0x40400000
 SYS_152 0x8 
 SYS_42 0x8 
-SAY "{VOICE=07}I'm pretty much a monster scout.{BREAK}My home? Just the normal {E30B}{00}."
+SAY "{VOICE=07}Moi, je suis dresseuse, genre.{BREAK}D'où je viens？ De {E30B}{00}, tranquille.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Anyway, in the World Monster Championship,{BREAK}I join {E30B} D rank,"
+SAY "{VOICE=07}Genre, au Championnat du Monde des Monstres,{BREAK}je suis toujours en classe {E30B}D, mais...{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}But in the {E30B}T/{E30B}j rankings,{BREAK}my team {E30B}z ranked up!"
+SAY "{VOICE=07}Au classement du {E30B}j/{E30B}T, mon équipe{BREAK}{E30B}z est montée tout en haut, genre！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}You think a chatty girl like me{BREAK}could be your friend? Then, shall we fight??{VOICE=09}"
+SAY "{VOICE=07}Tu m'abordes comme ça, tranquille.{BREAK}On est amis？ Alors, un duel de dresseurs？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_7A 0x8 
 STORE 0x18 0x0 0x42ca0000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42ca0000 0x2 0x0
 JMP_IFNOT 0xc L_14318
-SAY "{VOICE=07}I'm a little shocked how fast you{BREAK}said yes. Maybe I'm not ready yet."
+SAY "{VOICE=07}T'as dit oui direct, ça me surprend un peu.{BREAK}En vrai, je suis pas trop prête, genre.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}But the tension's raised now{BREAK}so I will show you what I'm made of!"
+SAY "{VOICE=07}Mais du coup ça m'a mise à fond,{BREAK}alors je me gêne pas, j'y vaaais！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5060,7 +5060,7 @@ JMP_REL L_14320
 L_14320:
 JMP_ABS 0xc L_1432c
 L_1432c:
-SAY "{VOICE=07}I'm a little shocked you refused.{BREAK}I'd be worried when you want to though."
+SAY "{VOICE=07}Refus direct, ça me choque un peu.{BREAK}Je sais pas si je vais m'en remettre, genre."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5071,26 +5071,26 @@ L_143a8:
 STORE 0x18 0x1 0x0 0x2 0x40400000
 SYS_152 0x8 
 SYS_42 0x8 
-SAY "{VOICE=07}Sorry, sorry! Of the unimportant {E30B}{00}{BREAK}I am a monster scout."
+SAY "{VOICE=07}Bonjour, bonjour！ Je viens de {E30B}{00}{BREAK}et je ne suis qu'un modeste dresseur.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}I, umm, join {E30B} D rank{BREAK}in the World Monster Chamiponship,"
+SAY "{VOICE=07}Je participe patiemment à la classe {E30B}D du{BREAK}Championnat du Monde des Monstres...{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}But finally the {E30B}z under me{BREAK}have ranked up in the {E30B}T/{E30B}j rankings!"
+SAY "{VOICE=07}Et mon {E30B}z est enfin monté tout en haut{BREAK}du classement du {E30B}j/{E30B}T！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}You're a monster scout too, right?{BREAK}How about it? Won't you face off against me?{VOICE=09}"
+SAY "{VOICE=07}Vous êtes dresseur vous aussi, on dirait.{BREAK}Que diriez-vous d'un petit duel？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_7A 0x8 
 STORE 0x18 0x0 0x42ca0000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42ca0000 0x2 0x0
 JMP_IFNOT 0xc L_146e0
-SAY "{VOICE=07}Thank you!{BREAK}I will try hard for this chance."
+SAY "{VOICE=07}Merci beaucoup！{BREAK}Je ferai de mon mieux face à plus fort que moi.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Now let's go!"
+SAY "{VOICE=07}Bien, allons-y！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5107,7 +5107,7 @@ JMP_REL L_146e8
 L_146e8:
 JMP_ABS 0xc L_146f4
 L_146f4:
-SAY "{VOICE=07}Well, it's not like I'm anybody.{BREAK}Yeah, it's fine if you overlook me."
+SAY "{VOICE=07}Oh, vous savez, je ne vaux pas grand-chose.{BREAK}Inutile de vous mettre sur vos gardes."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5118,26 +5118,26 @@ L_14774:
 STORE 0x18 0x1 0x0 0x2 0x40400000
 SYS_152 0x8 
 SYS_42 0x8 
-SAY "{VOICE=07}Yeeeees! From {E30B}{00}, it's me,{BREAK}the cute scout that's quick to anger."
+SAY "{VOICE=07}Salut à toi！ Je suis la dresseuse{BREAK}qui fait des étincelles à {E30B}{00}, mon chou.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}In the World Monster Championship, I always{BREAK}hussle {E30B} D rank,"
+SAY "{VOICE=07}Au Championnat du Monde des Monstres, je me{BREAK}démène toujours en classe {E30B}D, mais...{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}But in the {E30B}T/{E30B}j rankings{BREAK}your girl's {E30B}z ranked up!"
+SAY "{VOICE=07}Au classement du {E30B}j/{E30B}T, mon {E30B}z{BREAK}s'est retrouvé tout en haut, figure-toi！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Hey, you. Do you have what it takes{BREAK}to fight a lively girl like me?{VOICE=09}"
+SAY "{VOICE=07}Dis-moi, mon chou. Ça te dirait un duel{BREAK}contre une fille aussi survoltée？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_7A 0x8 
 STORE 0x18 0x0 0x42ca0000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42ca0000 0x2 0x0
 JMP_IFNOT 0xc L_14aac
-SAY "{VOICE=07}Aha! I knew it!{BREAK}I got that burning feeling too!"
+SAY "{VOICE=07}Aha！ Voilà qui me plaît！{BREAK}Me voilà tout feu tout flamme, mon chou！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Don't go easy on me as a woman!{BREAK}Okay, let's fight!"
+SAY "{VOICE=07}Ne me sous-estime pas parce que je suis{BREAK}une femme！ Allez, c'est partiii！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5154,7 +5154,7 @@ JMP_REL L_14ab4
 L_14ab4:
 JMP_ABS 0xc L_14ac0
 L_14ac0:
-SAY "{VOICE=07}Oh, my. That's too bad.{BREAK}I picked out my team special for you."
+SAY "{VOICE=07}Oh là là... Quel dommage.{BREAK}Mon équipe est pourtant triée sur le volet."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 

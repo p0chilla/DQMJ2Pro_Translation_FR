@@ -1,37 +1,37 @@
 
-Medicinal Herb
-Strong Medicine
-Special Medicine
-Multi Medicine
-Yggdrasil Dew
-Magic Elixir
-Sage's Elixir
-Elfin Elixir
-Yggdrasil Leaf
-Antidotal Herb
-Moonwort Bulb
-Panacea
-Antimagic Powder
-Oomph Powder
-Wizard's Penny
-Wizard's Shilling
-Insulade
-Jumbo Insulade
-Seed of Skill
-Seed of Life
-Seed of Magic
-Seed of Strength
-Seed of Defence
-Seed of Agility
-Seed of Wisdom
-Monster Manure
-Seed of Hope
-Loyalty Card
-Gold Nugget
-'Positive Puller'
-'Think Negative'
-'Neutral Ground'
-Amor Seco Essence
+Herbe médicinale
+Remède puissant
+Remède spécial
+Multiremède
+Rosée d'Yggdrasil
+Elixir magique
+Elixir du sage
+Elixir elfique
+Feuille d'Yggdrasil
+Herbe curative
+Botryche lunaire
+Panacée
+Poudre antimagique
+Poudre Décuplo
+Denier de sorcier
+Sou de sorcier
+Isolacto
+Maxi Isolacto
+Graine de Compétence
+Graine de Vie
+Graine de Magie
+Graine de Force
+Graine de Défense
+Graine d'Agilité
+Graine de Sagesse
+Crottin de monstre
+Graine de Joie
+Carte de fidélité
+Pépite d'or
+"Positif mag'"
+"Pensée négative"
+"Terrain neutre"
+Sève de desmodium
 
 
 
@@ -40,60 +40,49 @@ Amor Seco Essence
 
 
 
-Metal Ticket
+Ticket de métal
 
 
-Beastie Bites
-Smelling Salts
+Accroquettes
+Sels de choc
 
-Book of Wulfspade
-Book of Hawkhart
-Book of Diamagon
-Book of Cluboon
-Warrior's Scroll
-Mage's Scroll
-Priest's Scroll
-Martial Artist's Scroll
-Sage's Scroll
-Thief's Scroll
-Pinball
-Rockbomb Shard
+Livre d'Apik
+Livre d'Akœur
+Livre d'Akaro
+Livre d'Atrèfle
+Parchemin du guerrier
+Parchemin du mage
+Parchemin du prêtre
+Parchemin martial
+Parchemin du sage
+Parchemin du voleur
+Pelotox
+Eclat de bombe
 
-Mistake Medicine
-
-
-
-
-Timbrel of Tension
-Sag Powder
-Sapperine
-Deceleratonic
-Dimium
-Bufferine
-Acceleratonic
-Pingium
-'The Healing Touch'
-'Secret Sorcery'
-'Brawn Over Brains'
-'Duck And Cover'
-'Life In The Fast Lane'
-'Knowledge Is Power'
-Mysterious Medal
-Bemusoleum Key
-Scout Ring
-Soggy Letter
-'Head Over Heals'
+Médoc en toc
 
 
 
 
-
-
-
-
-Pretty Pebble
-Bronze Bit
-Silver Sliver
+Tambourin de tension
+Poudre Affaiblo
+Altérine
+Décélérox
+Simpletiol
+Protectine
+Accélérox
+Tiltobiol
+"Soins malins"
+"Sorcellerie secrète"
+"La loi du plus fort"
+"Vives esquives"
+"Vite et bien"
+"Savoir et pouvoir"
+Médaille mystérieuse
+Clef d'Archéopolis
+Anneau de dresseur
+Lettre visqueuse
+"Gaie guérison"
 
 
 
@@ -102,104 +91,9 @@ Silver Sliver
 
 
 
-
-
-
-Machine Parts
-
-Medal of Merit
-
-Heart of Mud
-Copper Sword
-Divine Dagger
-Rapier
-Steel Broadsword
-Zombiesbane
-Dragonsbane
-Obsidian Sword
-Silver Broadsword
-Zombiesblight
-Dragonsblight
-Giant's Sword
-Zombie Slayer
-Dragon Slayer
-Lost Katana
-Metal King Sword
-Iron Lance
-Pitchfork
-Sacred Spear
-Partisan
-Holy Lance
-Hunting Spear
-Dragon Lance
-Halberd
-Hero Spear
-Gáe Bolg
-Stone Axe
-Woodcutter's Axe
-Iron Axe
-Woodsman's Axe
-Headsman's Axe
-Battleaxe
-Forester's Axe
-King Axe
-Ranger's Axe
-Executioner's Axe
-Oaken Club
-Sludgehammer
-Iron Hammer
-War Hammer
-Miracle Mallet
-Giant Wrench
-Sledgehammer
-Marauder's Maul
-Warlord's Hammer
-Miracle Mace
-Leather Whip
-Battle Whip
-Thorn Whip
-Sidewinder
-Snakeskin Whip
-Chain Whip
-Dragontail Whip
-Spiked Steel Whip
-Scourge Whip
-Gringham Whip
-Stone Claws
-Metal Claws
-Iron Claws
-Sacred Claws
-Razor Claws
-Steel Claws
-Metal Talons
-Gryphon Talons
-Sacred Talons
-Orichalcum Claws
-Cypress Staff
-Rune Staff
-Phoenix Sceptre
-
-Plus Sceptre
-Minus Sceptre
-Crystal Staff
-Staff of Darkness
-Sage's Staff
-Royal Rod
-Leonine Greatsword
-Schleiman Shooter
-Malevomace
-Ebony Talons
-Diablo Spear
-
-
-Paws
-Pile-On
-Miracle Sword
-Falcon Claws
-Staff of Ghent
-Dragon Claws
-Gracos's Trident
-Wizardly Whip
+Bout de caillou
+Brisure de bronze
+Eclat d'argent
 
 
 
@@ -210,48 +104,154 @@ Wizardly Whip
 
 
 
-Vivifying Flame
-Dragon's Tears
-Time Crystal
-Plains Plate
-Ice Plate
-Crag Plate
-Coast Plate
-War God's Plate
-Hypernova Sword
-Burn Blade
-Red-Hot Poker
-Aha Spear
-Galaxy Axe
-Sword Breaker
-Star Crusher
-Tension Crusher
-Uber Gringham Whip
-Witch's Whip
-Xenlon Claws
-Core Driller
-Bright Staff
-Slime Stick
-Monster Egg
-Jumbo Oomph Powder
-Jumbo Bufferine
-Jumbo Acceleratonic
-Jumbo Pingium
-Jumbo Sag Powder
-Jumbo Sapperine
-Jumbo Deceleratonic
-Jumbo Dimium
-Sainted Soma
-Swordbreaker Scroll
-Spellbreaker Scroll
-Breathbreaker Scroll
-Cleanser Scroll
-Morrie's Book
-Battle Road Scroll
+
+Pièce détachée
+
+Médaille du Mérite
+
+Coeur de boue
+Epée de cuivre
+Dague divine
+Rapière
+Epée large d'acier
+Fléau des zombies
+Fléau des dragons
+Epée d'obsidienne
+Epée large d'argent
+Punition des zombies
+Punition des dragons
+Epée de géant
+Tueuse de zombies
+Tueuse de dragons
+Katana perdu
+Epée royale
+Lance de fer
+Fourche
+Pique sacrée
+Pertuisane
+Lance sacrée
+Lance de chasse
+Lance du Dragon
+Hallebarde
+Lance de héros
+Gae Bolga
+Hache de pierre
+Hache de bûcheron
+Hache de fer
+Hache de boquillon
+Hache de bourreau
+Hache de guerre
+Hache de forestier
+Hache de roi
+Hache de garde
+Hache d'exécuteur
+Massue de chêne
+Maillet de boue
+Marteau de fer
+Marteau d'armes
+Maillet miraculeux
+Clef géante
+Masse de guerre
+Massue de maraudeur
+Marteau de guerre
+Masse miraculeuse
+Fouet de cuir
+Fouet de combat
+Fouet d'épines
+Claque-vent
+Fouet du Serpent
+Fouet de chaîne
+Fouet du Dragon
+Fouet d'acier
+Fouet de discipline
+Fouet de Gringham
+Griffes de pierre
+Griffes de métal
+Griffes de fer
+Griffes sacrées
+Griffes sabres
+Griffes d'acier
+Serres de métal
+Serres de griffon
+Serres sacrées
+Griffes d'orichalque
+Bâton de cyprès
+Bâton runique
+Sceptre du Phénix
+
+Sceptre Plus
+Sceptre Moins
+Bâton de cristal
+Bâton des ténèbres
+Bâton du sage
+Sceptre royal
+Epée de fauve
+Gluance-missile
+Grimasse
+Serres d'ébène
+Lance diablo
 
 
-'Metal Slayer Primer'
-'The Zero Seal'
-'Giant Slayer Primer'
+Pattes
+Massglue
+Epée miracle
+Serres de faucon
+Bâton de Paradisia
+Griffes de dragon
+Trident de gracos
+Fouet ensorcelé
+
+
+
+
+
+
+
+
+
+
+Flamme du renouveau
+Larme de dragon
+Cristal du temps
+Plaque des plaines
+Plaque des cimes enneigées
+Plaque des falaises
+Plaque de la côte
+Plaque du Dieu guerrier
+Epée galactique
+Lame de feu
+Tue-lame
+Lance des enfers
+Lance de l'amour
+Hache divine
+Brise-étoile
+Brise-motivation
+Véritable fouet de Gringham
+Fouet de sorcière
+Griffes de xenlon
+Foreuse de noyau
+Bâton de lumière
+Bâton de chance
+Oeuf de monstre
+Superdécuplo
+Mégaprotection
+Superaccéléro
+Superdécuplomagie
+Mégaffaiblo
+Mégaltération
+Mégadécéléro
+Mégamutisme
+Soma du Phénix
+Parchemin Anti-lame
+Parchemin Anti-sort
+Parchemin Anti-souffle
+Parchemin de guérison
+Parchemin de Morry
+Parchemin de l'arène
+
+
+Parchemin Anti-métal
+Parchemin Anti-zone
+Parchemin Anti-géant
 
 

@@ -60,19 +60,19 @@ STORE 0x18 0x0 0x0 0x2 0x3f800000
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
 SETNAME "Tiko"
-SAY "{VOICE=08}Tee-hee-hee. Surprised?{BREAK}It's beautiful, right?"
+SAY "{VOICE=08}Héhé. Surpris, hein？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Tiko"
-SAY "{VOICE=08}Pipisle is an island that floats in{BREAK}the sky - a place where many gather."
+SAY "{VOICE=08}L'île Pipit, comme tu peux le voir, est un{BREAK}archipel d'îlots qui flottent dans le ciel.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Tiko"
-SAY "{VOICE=08}The path to the uninvited guest runs{BREAK}across the surrounding floating islands."
+SAY "{VOICE=08}Au centre se trouve le sanctuaire de{BREAK}l'hôte indésirable, et les îlots y mènent.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Tiko"
-SAY "{VOICE=08}And so as we cross them, we climb higher{BREAK}and higher, until we reach the holy land."
+SAY "{VOICE=08}En sautant d'îlot en îlot et en grimpant,{BREAK}on atteindra forcément le sanctuaire.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x2 0x41400000
@@ -109,15 +109,15 @@ STORE 0x18 0x1 0x3f800000 0x2 0x3f800000
 SYS_4E 0x8 
 WAIT 0x10 0x2 0x41a00000
 SETNAME "Tiko"
-SAY "{VOICE=08}First, we keep moving this way.{BREAK}Then we can climb higher using the ivy."
+SAY "{VOICE=08}Commence par suivre ce passage.{BREAK}Une liane permet de monter sur l'îlot supérieur.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Tiko"
-SAY "{VOICE=08}Okay, let's go, {NAME}!{BREAK}I'll follow after you."
+SAY "{VOICE=08}Allez, en route, {NAME}！{BREAK}Je te suis.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Tiko"
-SAY "{VOICE=08}Return to town when your team are hurt.{BREAK}When you do, we will heal them."
+SAY "{VOICE=08}Si tes monstres sont blessés, reviens en ville.{BREAK}On pourra les soigner en un clin d'œil."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

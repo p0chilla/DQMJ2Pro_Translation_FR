@@ -73,8 +73,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x41200000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Don Mole"
-SAY "{VOICE=07}I promised to tell you about a happenin' place and I'm a mole of my word."
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}J'avais promis de vous parler d'un endroit et je suis une taupe de parole.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x2 0x42740000
@@ -83,16 +83,16 @@ SYS_16 0x8
 STORE 0x18 0x1 0x0 0x2 0x42740000
 STORE 0x18 0x1 0x3f800000 0x2 0x42200000
 SYS_17 0x8 
-SETNAME "Don Mole"
-SAY "{VOICE=07}It's a treacherous terrain we locals like to call Cragravation!"
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}C'est un territoire dangereux que nous autres appelons \"Escarpic\"！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Don Mole"
-SAY "{VOICE=07}At the top of those cliffs, you'll find a bona fide VIP in residence...{WAIT}{CLEAR}...one of the very greatest of all beasts."
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Au sommet des falaises, vous trouverez la demeure d'une véritable star...{PAGE}{WAIT}{CLEAR}... d'une créature suprême.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Don Mole"
-SAY "{VOICE=07}Have yourself a little pow-wow with that great beast and see what's up."
+SETNAME "Mister Taupe"
+SAY "{VOICE=07}Allez discuter avec cette créature pour savoir ce qui se passe."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -175,8 +175,8 @@ STORE 0x18 0x1 0x40000000 0x2 0x41200000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}A 'great beast', no less. Hmmm. I wonder..."
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Une \"créature suprême\", rien que ça. Mmm, je me demande si...{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -221,8 +221,8 @@ STORE 0x18 0x1 0x0 0x0 0x40000000
 STORE 0x18 0x1 0x3f800000 0x2 0x42a40000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}I've been studying some dusty tomes and I've unearthed an interesting tidbit..."
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}À vrai dire, {NAME}... En parcourant de{BREAK}vieux livres, j'ai fait une découverte...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x3f800000
@@ -241,12 +241,12 @@ SYS_16 0x8
 STORE 0x18 0x1 0x0 0x2 0x42240000
 STORE 0x18 0x1 0x3f800000 0x2 0x41200000
 SYS_17 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}Apparently, in the dim and distant past, the people here escaped this island. {WAIT}{CLEAR}They did it by hitching a ride on the back of a giant bird! Can you imagine!?"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Jadis, les autochtones auraient fui cette île.{PAGE}{WAIT}{CLEAR}Ils seraient partis sur le dos d'un oiseau géant！ Vous imaginez！?{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Archie Logg"
-SAY "{VOICE=07}If this 'great beast' turns out to be that bird, it could be our ticket home!"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}S'il s'agit de cette créature suprême, elle pourrait être notre ticket de retour！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -267,13 +267,13 @@ STORE 0x18 0x1 0x3f800000 0x2 0x40000000
 STORE 0x18 0x1 0x40000000 0x2 0x3f800000
 SYS_02 0x8 
 SYS_42 0x8 
-SAY "{COLOR=2}{E321}{NAME} can now go to a new region - Cragravation!"
+SAY "{COLOR=2}{E321}{NAME} peut désormais accéder à une nouvelle région： Escarpic！"
 WAIT 0x10 0x2 0x3f800000
 STORE 0x18 0x1 0x0 0x2 0x42780000
 SYS_A5 0x8 
 WAIT 0x10 0x2 0x42340000
 WAIT 0x10 0x2 0x41200000
-SAY "{COLOR=2}Go to the main map and the new region will be displayed!"
+SAY "{COLOR=2}Ouvrez la carte principale et la nouvelle région s'affichera！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

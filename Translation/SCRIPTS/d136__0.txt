@@ -53,12 +53,12 @@ STORE 0x18 0x1 0x0 0x0 0x40a00000
 STORE 0x18 0x1 0x3f800000 0x2 0x42700000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}...I get it. You've got dreams but you don't have two gold coins to rub together.{WAIT}{CLEAR}That's why you had no choice but to travel Stowaway Class."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}... Je comprends. Tu as un rêve, mais tu n'as pas un sou en poche.{PAGE}{WAIT}{CLEAR}Alors tu n'avais pas d'autre choix que de voyager clandestinement.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}You know, you remind me a little of myself in my wild youth."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Tu sais, tu me rappelles un peu ma folle jeunesse.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 STORE 0x18 0x1 0x0 0x0 0x40800000
@@ -72,16 +72,16 @@ SYS_13 0x8
 STORE 0x18 0x1 0x0 0x2 0x42480000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}But don't think I'm gettin' soft!{BREAK}I'm gonna work you hard till we land."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Mais ne crois pas que tu vas m'attendrir！{PAGE}{WAIT}{CLEAR}Je vais te faire travailler dur jusqu'à l'atterrissage.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}And your first job is to introduce yourself to everyone as our rookie deckhand."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Et ta première mission sera de te présenter à tout le monde comme notre manœuvre.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}The passengers plus the ship's engineer makes...ummm...five people to speak to.{WAIT}{CLEAR}You listen to what they say, got it? Okay, Rookie! Get to work!"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Avec les passagers et le mécanicien, ça fait... euh... cinq personnes à voir.{PAGE}{WAIT}{CLEAR}Et tu écouteras bien ce qu'ils te diront, d'accord？ Ok, le bleu！ Au boulot！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -114,7 +114,7 @@ WAIT 0x10 0x2 0x41a00000
 STORE 0x18 0x1 0x0 0x2 0x434c0000
 SYS_33 0x8 
 SYS_42 0x8 
-SAY "{COLOR=2}{E321}{NAME} is now employed as a rookie deckhand aboard the Albatross!"
+SAY "{COLOR=2}{E321}{NAME} est désormais manœuvre à bord de l'Albatros！"
 SYS_44 0x8 
 SYS_43 0x8 
 STORE 0x18 0x1 0x0 0x2 0x3f800000

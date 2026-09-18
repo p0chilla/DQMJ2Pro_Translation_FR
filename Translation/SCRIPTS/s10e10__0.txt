@@ -733,19 +733,19 @@ SYS_55 0x8
 SYS_42 0x8 
 CMP_EQ 0x18 0x0 0x423c0000 0x2 0x43360000
 JMP_IFNOT 0xc L_26d8
-SAY "{COLOR=2}{NAME} obtains the Minus sceptre!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}le sceptre {COLOR=0}{232}{COLOR=2}！"
 JMP_ABS 0xc L_2770
 L_26d8:
 CMP_EQ 0x18 0x0 0x423c0000 0x2 0x43350000
 JMP_IFNOT 0xc L_2730
-SAY "{COLOR=2}{NAME} obtains the Plus sceptre!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}le sceptre {COLOR=0}{231}{COLOR=2}！"
 JMP_ABS 0xc L_2770
 L_2730:
 JMP_REL L_2738
 L_2738:
 JMP_ABS 0xc L_2744
 L_2744:
-SAY "{COLOR=2}{NAME} obtains {E328}!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}{E328}！"
 JMP_ABS 0xc L_2770
 L_2770:
 WAIT 0x10 0x2 0x42340000
@@ -757,7 +757,7 @@ JMP_IFNOT 0xc L_2c5c
 SYS_42 0x8 
 CMP_EQ 0x18 0x0 0x42400000 0x2 0x40400000
 JMP_IFNOT 0xc L_293c
-SAY "{COLOR=2}The mysterious ore is actually a monster in disguise!"
+SAY "{COLOR=2}Le minerai mystère est en fait un monstre qui en avait pris l'apparence！"
 WAIT 0x10 0x2 0x42340000
 SYS_43 0x8 
 STORE 0x18 0x1 0x0 0x2 0x3f800000
@@ -776,7 +776,7 @@ JMP_ABS 0xc L_2c50
 L_293c:
 CMP_EQ 0x18 0x0 0x42400000 0x2 0x40800000
 JMP_IFNOT 0xc L_2c50
-SAY "{COLOR=2}The bag is actually a monster in disguise!"
+SAY "{COLOR=2}Le sac est en fait un monstre déguisé！"
 WAIT 0x10 0x2 0x42340000
 SYS_43 0x8 
 STORE 0x18 0x1 0x0 0x2 0x42c80000
@@ -832,19 +832,19 @@ SYS_55 0x8
 SYS_42 0x8 
 CMP_EQ 0x18 0x0 0x423c0000 0x2 0x43360000
 JMP_IFNOT 0xc L_2d58
-SAY "{COLOR=2}{NAME} obtains the Minus sceptre!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}le sceptre {COLOR=0}{232}{COLOR=2}！"
 JMP_ABS 0xc L_2df0
 L_2d58:
 CMP_EQ 0x18 0x0 0x423c0000 0x2 0x43350000
 JMP_IFNOT 0xc L_2db0
-SAY "{COLOR=2}{NAME} obtains the Plus sceptre!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}le sceptre {COLOR=0}{231}{COLOR=2}！"
 JMP_ABS 0xc L_2df0
 L_2db0:
 JMP_REL L_2db8
 L_2db8:
 JMP_ABS 0xc L_2dc4
 L_2dc4:
-SAY "{COLOR=2}{NAME} obtains {E328}!"
+SAY "{COLOR=2}{NAME} obtient{BREAK}{E328}！"
 JMP_ABS 0xc L_2df0
 L_2df0:
 WAIT 0x10 0x2 0x42340000
@@ -1216,7 +1216,7 @@ STORE 0x18 0x1 0x3f800000 0x2 0x3f19999a
 SYS_54 0x8 
 WAIT 0x10 0x2 0x42480000
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME}'s team is healed."
+SAY "{COLOR=2}{NAME} et son équipe{BREAK}récupèrent toute leur vitalité."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1227,7 +1227,7 @@ L_44b0:
 JMP_ABS 0xc L_44bc
 L_44bc:
 SYS_42 0x8 
-SAY "{COLOR=2}There's no response. {NAME} cannot use this...for now."
+SAY "{COLOR=2}Pas de réaction.{PAGE}{WAIT}{CLEAR}{NAME} ne peut pas utiliser ceci... pour l'instant."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1338,10 +1338,10 @@ STORE 0x18 0x0 0x426c0000 0x1 0x0
 CMP_EQ 0x18 0x0 0x426c0000 0x2 0x0
 JMP_IFNOT 0xc L_4c7c
 SYS_42 0x8 
-SAY "{COLOR=2}Curiosity killed the cat, but not the monster scout!{WAIT}{CLEAR}Examine these curious stones to learn new abilities and commands."
+SAY "{COLOR=2}La curiosité est un vilain défaut, mais pas pour un dresseur de monstres！{PAGE}{WAIT}{CLEAR}Examinez ces étranges pierres pour apprendre de nouvelles choses.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}These Scout's Stones appear on the map as blue icons."
+SAY "{COLOR=2}Ces Pierres du dresseur sont représentées par des icônes bleues sur la carte."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1371,13 +1371,13 @@ SYS_A4 0x8
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41400000
 JMP_IFNOT 0xc L_4fb4
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} learns Zoom!"
+SAY "{COLOR=2}{NAME} apprend l'aptitude Téléportation！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This ability enables {NAME} to teleport to previously visited regions!"
+SAY "{COLOR=2}Cette aptitude permet de rejoindre en un instant une zone déjà visitée.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}Apart from a few special locations, it can be used anywhere, including caves!"
+SAY "{COLOR=2}Sauf en de rares endroits, elle s'utilise partout, grottes comprises."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1394,10 +1394,10 @@ L_4fb4:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41700000
 JMP_IFNOT 0xc L_50ec
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} learns Vanish!"
+SAY "{COLOR=2}{NAME} apprend l'aptitude Invisibilité！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This ability enables {NAME} to slink past enemy monsters undetected."
+SAY "{COLOR=2}Cette aptitude permet de passer près des ennemis sans se faire repérer."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1411,10 +1411,10 @@ L_50ec:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x40c00000
 JMP_IFNOT 0xc L_52a0
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} can now use Heal All!"
+SAY "{COLOR=2}{NAME} peut désormais utiliser le sort Soigner tous！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This spell lets {NAME} restore the health of his entire team!"
+SAY "{COLOR=2}Ce sort de guérison lui permet de restaurer tous les PV de son équipe！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1434,10 +1434,10 @@ L_52a0:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41600000
 JMP_IFNOT 0xc L_53dc
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} learns Nose for Treasure!"
+SAY "{COLOR=2}{NAME} apprend l'aptitude Détectrésor！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This ability lets {NAME} find out how many items are hidden nearby."
+SAY "{COLOR=2}Cette aptitude permet de savoir combien d'objets sont cachés alentour."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1451,16 +1451,16 @@ L_53dc:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41500000
 JMP_IFNOT 0xc L_5618
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} learns Zip!"
+SAY "{COLOR=2}{NAME} apprend l'aptitude Téléportaïaut！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This ability lets {NAME} Zip to the local Zip Portal, quick as a flash!"
+SAY "{COLOR=2}Elle permet d'aller au téléportail le plus proche en un clin d'œil！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}Of course, the portal must already be open for this to work."
+SAY "{COLOR=2}Bien sûr, le portail doit être déjà ouvert pour que l'opération fonctionne.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}So if {NAME} finds a new portal, he should examine it right away."
+SAY "{COLOR=2}Si vous apercevez un téléportail,{BREAK}examinez-le donc sans attendre."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1478,13 +1478,13 @@ L_5618:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41200000
 JMP_IFNOT 0xc L_589c
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} obtains the Monster Mender!"
+SAY "{COLOR=2}{NAME} obtient le Monstrequinque！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}Use this bottle to restore the HP and MP of {NAME}'s entire team."
+SAY "{COLOR=2}Utilisez ce flacon pour restaurer les PV et les PM de toute l'équipe.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}Good for three doses per outing. Once it runs out, head to the airship for a refill!"
+SAY "{COLOR=2}Contient trois doses.{PAGE}{WAIT}{CLEAR}Une fois qu'il est vide, retournez au vaisseau pour le remplir！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -3423,7 +3423,7 @@ STORE 0x18 0x1 0x0 0x2 0x40c00000
 SYS_60 0x8 
 WAIT 0x10 0x2 0x41700000
 SYS_42 0x8 
-SAY "{COLOR=2}There's a giant whale monster.{BREAK}Will you take a closer look?{VOICE=09}"
+SAY "{COLOR=2}Il y a là un monstre baleine gigantesque.{BREAK}Voulez-vous vous en approcher？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_7A 0x8 
@@ -3458,7 +3458,7 @@ STORE 0x18 0x1 0x40000000 0x2 0x41700000
 SYS_3E 0x8 
 SYS_03 0x8 
 SYS_42 0x8 
-SAY "{COLOR=2}The giant whale monster is{BREAK}having a good nap."
+SAY "{COLOR=2}Le monstre baleine gigantesque{BREAK}semble dormir à poings fermés..."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -3490,12 +3490,12 @@ SYS_07 0x8
 STORE 0x18 0x1 0x0 0x2 0xc2abc7ae
 SYS_10A 0x8 
 SYS_42 0x8 
-SAY "{VOICE=03}OooOooOooOoo.{BREAK}Grrrrrrrrrrraaaaagh!"
+SAY "{VOICE=03}Ouououou...{BREAK}Grooooaaaaaaaaaaargh！！！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
 SYS_42 0x8 
-SAY "{COLOR=2}The giant whale monster{BREAK}attacked sleepily!"
+SAY "{COLOR=2}Le monstre baleine gigantesque{BREAK}se réveille en sursaut et attaque！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -3641,19 +3641,19 @@ CMP_LT 0x18 0x0 0x42bc0000 0x2 0x41e00000
 JMP_IFNOT 0xc L_df14
 SYS_01 0x18 9286837b83588ce382cc89ef98620000
 SYS_42 0x8 
-SAY "{VOICE=08}I protected it growing up,{BREAK}watering it every day."
+SAY "{VOICE=08}J'arrosais ce petit chaque jour{BREAK}et je veillais sur sa croissance.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}But when Baboorood wounded the{BREAK}holy land, it began to lose life."
+SAY "{VOICE=08}Mais Hyurde a souillé le sanctuaire,{BREAK}et ce petit a perdu toute vitalité.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}It takes a lot of life{BREAK}to grow into a tall, tall tree."
+SAY "{VOICE=08}Ce petit deviendra sûrement un arbre{BREAK}immense, abritant d'innombrables vies...{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}I beg you, traveler! Destroy Baboorood{BREAK}who wounded the holy land."
+SAY "{VOICE=08}Je vous en supplie, voyageur！ Terrassez{BREAK}Hyurde, qui souille le sanctuaire...{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}Please somehow save{BREAK}this sapling!"
+SAY "{VOICE=08}Et sauvez ce petit,{BREAK}je vous en prie！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -3668,22 +3668,22 @@ CMP_LT 0x18 0x0 0x42bc0000 0x2 0x41e80000
 JMP_IFNOT 0xc L_e254
 SYS_01 0x20 8371837183858368838991de8ea18ce382cc89ef98620000
 SYS_42 0x8 
-SAY "{VOICE=08}I protected it growing up,{BREAK}watering it every day."
+SAY "{VOICE=08}J'arrosais ce petit chaque jour{BREAK}et je veillais sur sa croissance.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}Its life was threatened{BREAK}when Baboorood wounded the holy land,"
+SAY "{VOICE=08}Tant que Hyurde souillait le sanctuaire,{BREAK}la vie de ce petit était en péril...{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}but by your hand he's gone,{BREAK}and it has life once again."
+SAY "{VOICE=08}Mais vous l'avez terrassé de votre main,{BREAK}et il a retrouvé toute sa vitalité.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}It takes a lot of life{BREAK}to grow into a tall, tall tree."
+SAY "{VOICE=08}Ce petit deviendra sûrement un arbre{BREAK}immense, abritant d'innombrables vies...{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}Yes. According to legend, this tree{BREAK}has the power to hatch eggs."
+SAY "{VOICE=08}Oui. La légende dit que ce petit{BREAK}a le pouvoir de faire éclore les œufs.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}If you ever come across a monster{BREAK}egg, make sure to offer it up."
+SAY "{VOICE=08}Si vous trouvez un œuf de monstre{BREAK}quelque part, offrez-le-lui donc."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -3704,22 +3704,22 @@ CMP_EQ 0x18 0x0 0x42bc0000 0x2 0x0
 JMP_IFNOT 0xc L_e5cc
 SYS_01 0x20 93568a45834e838a83418ce382cc8f8991ce96ca00000000
 SYS_42 0x8 
-SAY "{VOICE=08}I protected it growing up,{BREAK}watering it every day."
+SAY "{VOICE=08}J'arrosais ce petit chaque jour{BREAK}et je veillais sur sa croissance.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}Its life was threatened{BREAK}when Baboorood wounded the holy land,"
+SAY "{VOICE=08}Tant que Hyurde souillait le sanctuaire,{BREAK}la vie de ce petit était en péril...{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}but by your hand he's gone,{BREAK}and it has life once again."
+SAY "{VOICE=08}Mais vous l'avez terrassé de votre main,{BREAK}et il a retrouvé toute sa vitalité.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}It must devour a lot of life{BREAK}to grow into a tall, tall tree."
+SAY "{VOICE=08}Ce petit deviendra sûrement un arbre{BREAK}immense, abritant d'innombrables vies...{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}Yes. According to legend, this tree{BREAK}has the power to hatch eggs."
+SAY "{VOICE=08}Oui. La légende dit que ce petit{BREAK}a le pouvoir de faire éclore les œufs.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}If you ever come across a monster{BREAK}egg, make sure to offer it up."
+SAY "{VOICE=08}Si vous trouvez un œuf de monstre{BREAK}quelque part, offrez-le-lui donc."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -3743,16 +3743,16 @@ SYS_42 0x8
 CMP_EQ 0x18 0x0 0x42bc0000 0x2 0x0
 JMP_IFNOT 0xc L_e810
 SYS_01 0x18 835e837d835382cd96a2947a92750000
-SAY "{VOICE=08}It takes a lot of life{BREAK}to grow into a tall, tall tree."
+SAY "{VOICE=08}Ce petit deviendra sûrement un arbre{BREAK}immense, abritant d'innombrables vies...{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}Yes. According to legend, this tree{BREAK}has the power to hatch eggs."
+SAY "{VOICE=08}Oui. La légende dit que ce petit{BREAK}a le pouvoir de faire éclore les œufs.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}If you ever come across a monster{BREAK}egg, make sure to offer it up."
+SAY "{VOICE=08}Si vous trouvez un œuf de monstre{BREAK}quelque part, offrez-le-lui donc.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}However, offer only 1 egg per day.{BREAK}That's the limit for this tree."
+SAY "{VOICE=08}Mais un seul œuf par jour, pas plus.{BREAK}C'est la limite pour un arbre si jeune."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 JMP_ABS 0xc L_e970
@@ -3760,13 +3760,13 @@ L_e810:
 CMP_EQ 0x18 0x0 0x42bc0000 0x2 0x3f800000
 JMP_IFNOT 0xc L_e970
 SYS_01 0x18 835e837d835382cd947a92758dcf0000
-SAY "{VOICE=08}It takes time to hatch depending{BREAK}on the egg that you offer it."
+SAY "{VOICE=08}Le temps d'éclosion, une fois l'œuf offert,{BREAK}dépend de l'œuf lui-même.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}And since it takes quite{BREAK}some time to hatch an egg,"
+SAY "{VOICE=08}Et comme il arrive qu'un œuf mette{BREAK}fort longtemps à éclore...{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}Please spend that time{BREAK}doing StreetPass Battles."
+SAY "{VOICE=08}Occupez-vous avec des Combats tombola{BREAK}et prenez votre mal en patience."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 JMP_ABS 0xc L_e970
@@ -3868,7 +3868,7 @@ JMP_IFNOT 0xc L_ef94
 CMP_LT 0x18 0x0 0x42c60000 0x2 0x41e00000
 JMP_IFNOT 0xc L_eef8
 SYS_42 0x8 
-SAY "{COLOR=2}The mysterious tree{BREAK}doesn't look very healthy."
+SAY "{COLOR=2}L'arbre mystérieux semble{BREAK}avoir perdu de sa vigueur..."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -3878,7 +3878,7 @@ L_eef8:
 CMP_EQ 0x18 0x0 0x42c60000 0x2 0x41e00000
 JMP_IFNOT 0xc L_ef88
 SYS_42 0x8 
-SAY "{COLOR=2}The mysterious tree is full{BREAK}of life."
+SAY "{COLOR=2}L'arbre mystérieux déborde de vitalité."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -3902,7 +3902,7 @@ STORE 0x18 0x0 0x42c60000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42c60000 0x2 0x0
 JMP_IFNOT 0xc L_f0dc
 SYS_42 0x8 
-SAY "{COLOR=2}The mysterious tree is full{BREAK}of life."
+SAY "{COLOR=2}L'arbre mystérieux déborde de vitalité."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -3915,7 +3915,7 @@ STORE 0x18 0x0 0x42c60000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42c60000 0x2 0x0
 JMP_IFNOT 0xc L_f198
 SYS_42 0x8 
-SAY "{COLOR=2}The mysterious tree is full of life."
+SAY "{COLOR=2}L'arbre mystérieux déborde de vitalité."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -3926,10 +3926,10 @@ L_f1a0:
 JMP_ABS 0xc L_f1ac
 L_f1ac:
 SYS_42 0x8 
-SAY "{COLOR=2}The mysterious tree is full of life.{BREAK}You could offer the egg you have."
+SAY "{COLOR=2}L'arbre mystérieux déborde de vitalité et{BREAK}semble réclamer l'œuf que vous portez.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}Do you want to offer an egg?{BREAK}Your game will auto-save.{VOICE=09}"
+SAY "{COLOR=2}Offrir un œuf déclenche une sauvegarde{BREAK}automatique. Offrir un œuf à l'arbre？{VOICE=09}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_7A 0x8 
@@ -4021,7 +4021,7 @@ SYS_01 0x1c 835e837d83538fc194ef2d3e90ac8cf700000000
 JMP_ABS 0xc L_f7c0
 L_f7c0:
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} offered a monster egg{BREAK}to the mysterious tree."
+SAY "{COLOR=2}{NAME} a offert un œuf de monstre{BREAK}à l'arbre mystérieux."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4148,7 +4148,7 @@ L_10008:
 CMP_EQ 0x18 0x0 0x42c60000 0x2 0x0
 JMP_IFNOT 0xc L_100cc
 SYS_42 0x8 
-SAY "{COLOR=2}It does not look like the{BREAK}egg will hatch any time soon."
+SAY "{COLOR=2}L'œuf de monstre ne semble pas{BREAK}près d'éclore."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4160,10 +4160,10 @@ L_100cc:
 CMP_EQ 0x18 0x0 0x42c60000 0x2 0x3f800000
 JMP_IFNOT 0xc L_101e4
 SYS_42 0x8 
-SAY "{COLOR=2}The monster egg needs just{BREAK}a bit more time!"
+SAY "{COLOR=2}L'œuf de monstre a légèrement bougé...！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}But it will still take{BREAK}some time for it to hatch."
+SAY "{COLOR=2}Mais il faudra encore du temps{BREAK}avant que le monstre ne naisse."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4175,10 +4175,10 @@ L_101e4:
 CMP_EQ 0x18 0x0 0x42c60000 0x2 0x40000000
 JMP_IFNOT 0xc L_102f8
 SYS_42 0x8 
-SAY "{COLOR=2}The monster egg wiggles happily!"
+SAY "{COLOR=2}L'œuf de monstre gigote joyeusement！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}But it will still take{BREAK}some time for it to hatch."
+SAY "{COLOR=2}Mais il faudra encore un peu de temps{BREAK}avant que le monstre ne naisse."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4221,7 +4221,7 @@ STORE 0x18 0x1 0x0 0x0 0x42a40000
 STORE 0x18 0x1 0x3f800000 0x2 0xc2b40000
 SYS_93 0x8 
 SYS_42 0x8 
-SAY "{VOICE=08}Ohh, please look!{BREAK}The egg is..!"
+SAY "{VOICE=08}Ah, regardez donc！{BREAK}L'œuf est en train de...！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4268,16 +4268,16 @@ L_1083c:
 JMP_ABS 0xc L_10848
 L_10848:
 SYS_42 0x8 
-SAY "{COLOR=2}The monster egg wiggles happily!"
+SAY "{COLOR=2}L'œuf de monstre gigote joyeusement！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}A monster is about to{BREAK}hatch from the monster egg!"
+SAY "{COLOR=2}Un monstre est sur le point de naître{BREAK}de l'œuf de monstre！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}But you don't have enough{BREAK}space!"
+SAY "{COLOR=2}Mais l'enclos des monstres est plein！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}Free up some room for the{BREAK}monster and come back!"
+SAY "{COLOR=2}Faites de la place dans l'enclos,{BREAK}puis revenez voir ce qu'il en est！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4456,7 +4456,7 @@ STORE 0x18 0x1 0x3f800000 0x2 0x43470000
 STORE 0x18 0x1 0x40000000 0x2 0x3f800000
 SYS_4C 0x8 
 SYS_42 0x8 
-SAY "{VOICE=08}Ohh, please look!{BREAK}The egg is..!"
+SAY "{VOICE=08}Ah, regardez donc！{BREAK}L'œuf est en train de...！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5045,7 +5045,7 @@ STORE 0x18 0x0 0x43180000 0x1 0x0
 CMP_EQ 0x18 0x0 0x43180000 0x2 0x0
 JMP_IFNOT 0xc L_13748
 SYS_42 0x8 
-SAY "{COLOR=2}The sleepy beast that attacked joins{BREAK}the party as an apology!"
+SAY "{COLOR=2}Pour se faire pardonner son réveil brutal,{BREAK}le maître des lieux rejoint {NAME}！"
 SYS_165 0x8 
 STORE 0x18 0x1 0x0 0x2 0x42780000
 SYS_A5 0x8 

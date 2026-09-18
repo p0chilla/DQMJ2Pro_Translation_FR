@@ -109,16 +109,16 @@ STORE 0x18 0x1 0x40000000 0x2 0x41f00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x42200000
 SYS_42 0x8 
-SETNAME "Gemon"
-SAY "{VOICE=03}Squaaah! So you followed me right to the top? I should've known."
+SETNAME "Gémon"
+SAY "{VOICE=03}Kraaah！ Alors tu m'as suivi jusqu'en haut？ J'aurais dû m'en douter.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Gemon"
-SAY "{VOICE=03}This girl's stayin' with us! She'll make a fine nest-mate for my boy!"
+SETNAME "Gémon"
+SAY "{VOICE=03}La fille reste avec nous！ Elle fera une bonne camarade de nid pour mon petit！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Gemon"
-SAY "{VOICE=03}Seems you've been causin' all sorts of trouble for my son.{WAIT}{CLEAR}You mess with him, you mess with me. Prepare to pay a heavy price..."
+SETNAME "Gémon"
+SAY "{VOICE=03}Il semblerait que tu aies causé des tas d'ennuis à mon fils.{PAGE}{WAIT}{CLEAR}Si tu l'embêtes, c'est moi que tu embêtes. Alors prépare-toi à payer le prix fort..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -201,7 +201,7 @@ STORE 0x18 0x1 0x3f800000 0x2 0x441b4000
 SYS_18 0x8 
 SYS_42 0x8 
 SETNAME "Jamirus"
-SAY "{VOICE=07}You've got a lot of nerve, wanderin' up here like you own the place!"
+SAY "{VOICE=07}Tu as un sacré culot de t'aventurer ici comme si tu étais le maître des lieux！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -214,12 +214,12 @@ STORE 0x18 0x1 0x0 0x2 0x41a00000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Looks like the enemy's about to launch a classic pincer attack..."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}On dirait que l'ennemi s'apprête à lancer une attaque en étau classique...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Listen, Rookie. I'll engage this one.{BREAK}You take the fight to the big bird."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}{NAME}！ Je me charge de celui-là！{BREAK}Toi, occupe-toi du gros volatile！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -243,8 +243,8 @@ STORE 0x18 0x1 0x0 0x2 0x41f00000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Gemon"
-SAY "{VOICE=03}Think you stand a chance against me!? Maybe death'll make you think differently."
+SETNAME "Gémon"
+SAY "{VOICE=03}Tu crois avoir une chance！? Peut-être que la mort te fera changer d'avis."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -339,8 +339,8 @@ STORE 0x18 0x1 0x0 0x2 0x41a00000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Listen, Rookie. I'll engage this one.{BREAK}You take the fight to the big bird."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}{NAME}！ Je me charge de celui-là！{BREAK}Toi, occupe-toi du gros volatile！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -364,8 +364,8 @@ STORE 0x18 0x1 0x0 0x2 0x41f00000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Gemon"
-SAY "{VOICE=03}Think you stand a chance against me!? Maybe death'll make you think differently."
+SETNAME "Gémon"
+SAY "{VOICE=03}Tu crois avoir une chance！? Peut-être que la mort te fera changer d'avis."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

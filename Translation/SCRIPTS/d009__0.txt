@@ -146,7 +146,7 @@ STORE 0x18 0x1 0x40000000 0x2 0x41f00000
 SYS_02 0x8 
 WAIT 0x10 0x2 0x42b40000
 SYS_42 0x8 
-SAY "{VOICE=07}...You cannot hope to escape from this island..."
+SAY "{VOICE=07}... Tu ne peux pas espérer t'enfuir de cette île...{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -203,7 +203,7 @@ STORE 0x18 0x1 0x3f800000 0x2 0x41f00000
 SYS_3C 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SAY "{VOICE=07}No accident brought you here. For this is the land you have been seeking..."
+SAY "{VOICE=07}Tu n'as pas atterri ici par accident. Car c'est la terre que tu cherchais...{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -298,10 +298,10 @@ STORE 0x18 0x1 0x0 0x2 0x42e60000
 SYS_33 0x8 
 WAIT 0x10 0x2 0x41880000
 SYS_42 0x8 
-SAY "{VOICE=07}You must win..."
+SAY "{VOICE=07}C'est là qu'a lieu le Championnat des Dresseurs, la compétition de tes rêves...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SAY "{VOICE=07}You must win...and win...and win again. That is your only hope of survival..."
+SAY "{VOICE=07}Tu dois gagner...{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

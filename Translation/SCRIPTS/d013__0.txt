@@ -82,7 +82,7 @@ STORE 0x18 0x1 0x40000000 0x2 0x41200000
 SYS_02 0x8 
 SYS_03 0x8 
 SYS_42 0x8 
-SAY "{COLOR=2}{E321}{NAME} escorts Eugene and Dr Lump back to the Albatross..."
+SAY "{COLOR=2}{E321}{NAME} escorte Eugène et le Dr Flappy jusqu'à l'Albatros...{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 STORE 0x18 0x1 0x0 0x2 0x431e0000
@@ -91,7 +91,7 @@ WAIT 0x10 0x2 0x41f00000
 STORE 0x18 0x1 0x0 0x2 0x42880000
 SYS_32 0x8 
 SYS_42 0x8 
-SAY "{COLOR=2}Dr Lump immediately makes himself comfortable in the monster pen."
+SAY "{COLOR=2}Le Dr Flappy prend tout de suite ses aises dans l'enclos des monstres."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -153,16 +153,16 @@ STORE 0x18 0x1 0x3f800000 0x2 0x42a40000
 SYS_18 0x8 
 WAIT 0x10 0x2 0x41f00000
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}The historical significance of this discovery is staggering...{WAIT}{CLEAR}Just think - a Monster Scout Challenge, here on this remote island!"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}L'importance historique de cette découverte est phénoménale...{PAGE}{WAIT}{CLEAR}Imaginez... un Championnat des Dresseurs ici, sur cette île perdue！{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Archie Logg"
-SAY "{VOICE=07}Unless I'm very much mistaken, those moles know more than they're letting on."
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Si je ne m'abuse, ces taupes en savent plus qu'elles ne le laissent paraître.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Archie Logg"
-SAY "{VOICE=07}So the only way to learn more is to compete in that Monster Scout Challenge!"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Donc le seul moyen d'en savoir plus est de participer à ce championnat！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -193,12 +193,12 @@ STORE 0x18 0x1 0x0 0x0 0x40400000
 STORE 0x18 0x1 0x3f800000 0x2 0x428c0000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}Hold yer horses a wee second, laddie!{WAIT}{CLEAR}Didnae yer mother ever tell ye never tae trust a mole?"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}Pas si vite, mon p'tit gars！{PAGE}{WAIT}{CLEAR}Ta mère ne t'a donc pas dit de ne jamais faire confiance à une taupe？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Rory Bellows"
-SAY "{VOICE=07}We've no time tae be rollin' aroond in the dirt with a bunch o' moles.{WAIT}{CLEAR}We've got passengers that require rescuin', ye big dunderhead!"
+SETNAME "Bob Lattirail"
+SAY "{VOICE=07}On n'a pas le temps de se rouler dans la poussière avec une bande de taupes.{PAGE}{WAIT}{CLEAR}On a encore des passagers à sauver, je te signale！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -217,12 +217,12 @@ STORE 0x18 0x1 0x0 0x0 0x40a00000
 STORE 0x18 0x1 0x3f800000 0x2 0x42c20000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Eugene Poole"
-SAY "{VOICE=03}Gentlemen! A little decorum, if you please! {WAIT}{CLEAR}Now, both of you make excellent points..."
+SETNAME "Eugène Étik"
+SAY "{VOICE=03}Messieurs, voyons, restons courtois！{PAGE}{WAIT}{CLEAR}Bien, vous avez tous les deux d'excellents arguments...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Eugene Poole"
-SAY "{VOICE=03}...but I'm afraid all this excitement has taken the wind out of me."
+SETNAME "Eugène Étik"
+SAY "{VOICE=03}... mais je crains que toute cette agitation ne m'ait épuisé.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -243,8 +243,8 @@ STORE 0x18 0x1 0x0 0x0 0x40800000
 STORE 0x18 0x1 0x3f800000 0x2 0xc1f00000
 SYS_101 0x8 
 SYS_42 0x8 
-SETNAME "Eugene Poole"
-SAY "{VOICE=03}I am going to retire for the night.{BREAK}I recommend you do the same..."
+SETNAME "Eugène Étik"
+SAY "{VOICE=03}Je vais me retirer pour la nuit. Et je vous suggère d'en faire autant..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

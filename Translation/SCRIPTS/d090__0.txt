@@ -220,16 +220,16 @@ STORE 0x18 0x1 0x0 0x0 0x40400000
 STORE 0x18 0x1 0x3f800000 0x2 0x42700000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Well, here we are, Rookie."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Eh bien, nous y voilà, le bleu.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}But while you're still my deckhand,{BREAK}I've got one last mission for you."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Eh bien, nous y voilà, le bleu.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Intelligence reports that a hostile mouse may have infiltrated my airship."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Mais tu es encore sous mes ordres, alors j'ai une dernière mission à te confier.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -250,12 +250,12 @@ STORE 0x18 0x1 0x0 0x2 0x41a00000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Head down to the cargo hold below this room and engage the enemy! Got it?"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Les renseignements m'ont rapporté qu'une souris hostile avait infiltré mon vaisseau.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Now this mouse may have no malicious intent, but all the same..."
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Va dans la soute à l'étage du dessous et affronte l'ennemi！ Compris？{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -299,8 +299,8 @@ STORE 0x18 0x1 0x0 0x0 0x3f800000
 STORE 0x18 0x1 0x3f800000 0x2 0x3f800000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}...I got a funny feeling this ain't your regular run-of-the-mill rodent.{WAIT}{CLEAR}Okay, Rookie! Move out!"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Cette souris n'a pas l'air très docile...{BREAK}Je compte sur toi, {NAME}."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

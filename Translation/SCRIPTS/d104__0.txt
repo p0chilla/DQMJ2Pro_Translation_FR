@@ -234,20 +234,20 @@ STORE 0x18 0x0 0x0 0x2 0x3f800000
 WAIT 0x10 0x2 0x42dc0000
 STORE 0x18 0x0 0x40400000 0x2 0x3f800000
 SYS_42 0x8 
-SETNAME "Empyrea"
-SAY "{VOICE=08}So you are {NAME}, the scout who bears the medal."
+SETNAME "Empyréa"
+SAY "{VOICE=08}...Vous êtes le maître élu par la plaque,{BREAK}{NAME}, n'est-ce pas？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Empyrea"
-SAY "{VOICE=08}It seems that you saved the Great One, Leonyx."
+SETNAME "Empyréa"
+SAY "{VOICE=08}C'est donc toi qui aurais sauvé Lionyx, l'Être suprême.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Empyrea"
-SAY "{VOICE=08}And it seems that the Great One has in turn gifted you extraordinary powers..."
+SETNAME "Empyréa"
+SAY "{VOICE=08}Et il t'aurait offert d'extraordinaires pouvoirs pour te remercier...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Empyrea"
-SAY "{VOICE=08}Very well. If the Great One has willed it, then I shall serve you."
+SETNAME "Empyréa"
+SAY "{VOICE=08}Très bien. Si telle est la volonté de l'Être suprême, je suis à ton service.{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -274,12 +274,12 @@ STORE 0x18 0x1 0x0 0x2 0x42200000
 SYS_14 0x8 
 WAIT 0x10 0x2 0x41a00000
 SYS_42 0x8 
-SETNAME "Empyrea"
-SAY "{VOICE=08}But first I want to see if you are of the right calibre to be my master."
+SETNAME "Empyréa"
+SAY "{VOICE=08}Mais d'abord, je veux voir si tu as bien l'étoffe d'un maître.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Empyrea"
-SAY "{VOICE=08}See if you can scout me successfully!"
+SETNAME "Empyréa"
+SAY "{VOICE=08}Voyons si tu réussiras à me dresser！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -369,16 +369,16 @@ STORE 0x18 0x0 0x0 0x2 0x3f800000
 WAIT 0x10 0x2 0x42dc0000
 STORE 0x18 0x0 0x40400000 0x2 0x3f800000
 SYS_42 0x8 
-SETNAME "Empyrea"
-SAY "{VOICE=08}I bid you welcome, {NAME}..."
+SETNAME "Empyréa"
+SAY "{VOICE=08}Je te souhaite la bienvenue, {NAME}...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Empyrea"
-SAY "{VOICE=08}Now, I want to see if you are of the right calibre to be my master."
+SETNAME "Empyréa"
+SAY "{VOICE=08}Maintenant, je veux voir si tu as l'étoffe d'un maître.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Empyrea"
-SAY "{VOICE=08}See if you can scout me successfully!"
+SETNAME "Empyréa"
+SAY "{VOICE=08}Voyons si tu réussiras à me dresser！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

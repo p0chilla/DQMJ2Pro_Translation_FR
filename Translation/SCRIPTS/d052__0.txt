@@ -86,7 +86,7 @@ SYS_02 0x8
 WAIT 0x10 0x2 0x42700000
 SYS_42 0x8 
 SETNAME "Jamirus"
-SAY "{VOICE=07}Who d'you think you are? Quit pesterin' me, will you!?"
+SAY "{VOICE=07}Pour qui tu te prends？ Arrête de me chercher, d'accord！?"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -110,8 +110,8 @@ STORE 0x18 0x1 0x0 0x0 0x3f800000
 STORE 0x18 0x1 0x3f800000 0x2 0x3f800000
 SYS_4E 0x8 
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}I'm warnin' you! Lay a claw on my passengers, and you'll answer to me!"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Pose une seule serre sur mes passagers et c'est à moi que tu auras affaire！{PAGE}"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -123,12 +123,12 @@ STORE 0x18 0x1 0x0 0x2 0x41600000
 STORE 0x18 0x1 0x3f800000 0x2 0x41000000
 SYS_17 0x8 
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}...Hm?"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}... Mmm？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Hey! Here comes the cavalry!"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Hé！ Voilà la cavalerie！"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SYS_43 0x8 
@@ -178,8 +178,8 @@ STORE 0x18 0x1 0x0 0x0 0x40c00000
 STORE 0x18 0x1 0x3f800000 0x2 0x41980000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Glad to see you're still in one piece, Rookie!"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Mais c'est {NAME}！ Quel soulagement,{BREAK}toi aussi, tu es sain et sauf！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -223,11 +223,11 @@ STORE 0x18 0x1 0x40400000 0x2 0x0
 SYS_1E 0x8 
 SYS_42 0x8 
 SETNAME "Jamirus"
-SAY "{VOICE=07}Any more of these wretches appear and I'm in trouble. I need to end this now..."
+SAY "{VOICE=07}S'il en arrive d'autres, je vais avoir des ennuis. Il faut en finir maintenant...{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Jamirus"
-SAY "{VOICE=07}I'm gonna tear you both limb from limb! Starting with you..."
+SAY "{VOICE=07}Je vais vous tailler en pièces tous les deux！ En commençant par toi..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -309,8 +309,8 @@ STORE 0x18 0x1 0x0 0x0 0x40c00000
 STORE 0x18 0x1 0x3f800000 0x2 0x41980000
 SYS_18 0x8 
 SYS_42 0x8 
-SETNAME "Captain Mayday"
-SAY "{VOICE=07}Rookie! You came back! I knew you wouldn't leave your Captain in the lurch!"
+SETNAME "Capitaine Eliès Hoess"
+SAY "{VOICE=07}Oh！ Mais c'est {NAME}！{BREAK}Tu es donc revenu pour moi！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -348,11 +348,11 @@ STORE 0x18 0x1 0x40400000 0x2 0x0
 SYS_1E 0x8 
 SYS_42 0x8 
 SETNAME "Jamirus"
-SAY "{VOICE=07}What is this!? You again!?"
+SAY "{VOICE=07}Quoi！? Encore toi！?{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Jamirus"
-SAY "{VOICE=07}This is the last time! I'm gonna tear you limb from limb!"
+SAY "{VOICE=07}C'est la dernière fois！ Je vais te tailler en pièces！"
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000

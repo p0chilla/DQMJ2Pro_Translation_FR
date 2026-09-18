@@ -732,19 +732,19 @@ SYS_55 0x8
 SYS_42 0x8 
 CMP_EQ 0x18 0x0 0x423c0000 0x2 0x43360000
 JMP_IFNOT 0xc L_26d8
-SAY "{COLOR=2}{NAME} obtains the Minus sceptre!"
+SAY "{COLOR=2}{NAME} obtient le sceptre {COLOR=0}{232}{COLOR=2}！"
 JMP_ABS 0xc L_2770
 L_26d8:
 CMP_EQ 0x18 0x0 0x423c0000 0x2 0x43350000
 JMP_IFNOT 0xc L_2730
-SAY "{COLOR=2}{NAME} obtains the Plus sceptre!"
+SAY "{COLOR=2}{NAME} obtient le sceptre {COLOR=0}{231}{COLOR=2}！"
 JMP_ABS 0xc L_2770
 L_2730:
 JMP_REL L_2738
 L_2738:
 JMP_ABS 0xc L_2744
 L_2744:
-SAY "{COLOR=2}{NAME} obtains {E328}!"
+SAY "{COLOR=2}{E321}{NAME} obtient {E328}！"
 JMP_ABS 0xc L_2770
 L_2770:
 WAIT 0x10 0x2 0x42340000
@@ -756,7 +756,7 @@ JMP_IFNOT 0xc L_2c5c
 SYS_42 0x8 
 CMP_EQ 0x18 0x0 0x42400000 0x2 0x40400000
 JMP_IFNOT 0xc L_293c
-SAY "{COLOR=2}The mysterious ore is actually a monster in disguise!"
+SAY "{COLOR=2}Surprise！{BREAK}Le minerai mystère est en fait un monstre！"
 WAIT 0x10 0x2 0x42340000
 SYS_43 0x8 
 STORE 0x18 0x1 0x0 0x2 0x3f800000
@@ -775,7 +775,7 @@ JMP_ABS 0xc L_2c50
 L_293c:
 CMP_EQ 0x18 0x0 0x42400000 0x2 0x40800000
 JMP_IFNOT 0xc L_2c50
-SAY "{COLOR=2}The bag is actually a monster in disguise!"
+SAY "{COLOR=2}Surprise！{BREAK}Le sac est en fait un monstre déguisé！"
 WAIT 0x10 0x2 0x42340000
 SYS_43 0x8 
 STORE 0x18 0x1 0x0 0x2 0x42c80000
@@ -831,19 +831,19 @@ SYS_55 0x8
 SYS_42 0x8 
 CMP_EQ 0x18 0x0 0x423c0000 0x2 0x43360000
 JMP_IFNOT 0xc L_2d58
-SAY "{COLOR=2}{NAME} obtains the Minus sceptre!"
+SAY "{COLOR=2}{NAME} obtient le sceptre {COLOR=0}{232}{COLOR=2}！"
 JMP_ABS 0xc L_2df0
 L_2d58:
 CMP_EQ 0x18 0x0 0x423c0000 0x2 0x43350000
 JMP_IFNOT 0xc L_2db0
-SAY "{COLOR=2}{NAME} obtains the Plus sceptre!"
+SAY "{COLOR=2}{NAME} obtient le sceptre {COLOR=0}{231}{COLOR=2}！"
 JMP_ABS 0xc L_2df0
 L_2db0:
 JMP_REL L_2db8
 L_2db8:
 JMP_ABS 0xc L_2dc4
 L_2dc4:
-SAY "{COLOR=2}{NAME} obtains {E328}!"
+SAY "{COLOR=2}{E321}{NAME} obtient {E328}！"
 JMP_ABS 0xc L_2df0
 L_2df0:
 WAIT 0x10 0x2 0x42340000
@@ -1215,7 +1215,7 @@ STORE 0x18 0x1 0x3f800000 0x2 0x3f19999a
 SYS_54 0x8 
 WAIT 0x10 0x2 0x42480000
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME}'s team is healed."
+SAY "{COLOR=2}{E321}{NAME} obtient {E328}！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1226,7 +1226,7 @@ L_44b0:
 JMP_ABS 0xc L_44bc
 L_44bc:
 SYS_42 0x8 
-SAY "{COLOR=2}There's no response. {NAME} cannot use this...for now."
+SAY "{COLOR=2}Le minerai mystère est en fait un monstre qui en avait pris l'apparence！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1337,10 +1337,10 @@ STORE 0x18 0x0 0x426c0000 0x1 0x0
 CMP_EQ 0x18 0x0 0x426c0000 0x2 0x0
 JMP_IFNOT 0xc L_4c7c
 SYS_42 0x8 
-SAY "{COLOR=2}Curiosity killed the cat, but not the monster scout!{WAIT}{CLEAR}Examine these curious stones to learn new abilities and commands."
+SAY "{COLOR=2}Le sac est en fait un monstre déguisé！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}These Scout's Stones appear on the map as blue icons."
+SAY "{COLOR=2}Toute l'équipe est guérie."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1370,13 +1370,13 @@ SYS_A4 0x8
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41400000
 JMP_IFNOT 0xc L_4fb4
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} learns Zoom!"
+SAY "{COLOR=2}Pas de réaction.{PAGE}{WAIT}{CLEAR}{E321}{NAME} ne peut pas utiliser ceci... pour l'instant."
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This ability enables {NAME} to teleport to previously visited regions!"
+SAY "{COLOR=2}La curiosité est un vilain défaut, mais pas pour un dresseur de monstres！{PAGE}{WAIT}{CLEAR}Examinez ces étranges pierres pour apprendre de nouvelles choses.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}Apart from a few special locations, it can be used anywhere, including caves!"
+SAY "{COLOR=2}Ces Pierres du dresseur sont représentées par des icônes bleues sur la carte."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1393,10 +1393,10 @@ L_4fb4:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41700000
 JMP_IFNOT 0xc L_50ec
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} learns Vanish!"
+SAY "{COLOR=2}{E321}{NAME} apprend l'aptitude Invisibilité！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This ability enables {NAME} to slink past enemy monsters undetected."
+SAY "{COLOR=2}Cette aptitude permet de passer près des ennemis sans se faire repérer."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1410,10 +1410,10 @@ L_50ec:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x40c00000
 JMP_IFNOT 0xc L_52a0
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} can now use Heal All!"
+SAY "{COLOR=2}{E321}{NAME} peut désormais utiliser le sort Soigner tous！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This spell lets {NAME} restore the health of his entire team!"
+SAY "{COLOR=2}Ce sort de guérison lui permet de restaurer tous les PV de son équipe！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1433,10 +1433,10 @@ L_52a0:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41600000
 JMP_IFNOT 0xc L_53dc
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} learns Nose for Treasure!"
+SAY "{COLOR=2}{E321}{NAME} apprend l'aptitude Détectrésor！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This ability lets {NAME} find out how many items are hidden nearby."
+SAY "{COLOR=2}Cette aptitude permet de savoir combien d'objets sont cachés alentour."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1450,16 +1450,16 @@ L_53dc:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41500000
 JMP_IFNOT 0xc L_5618
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} learns Zip!"
+SAY "{COLOR=2}{E321}{NAME} apprend l'aptitude Téléportaïaut！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}This ability lets {NAME} Zip to the local Zip Portal, quick as a flash!"
+SAY "{COLOR=2}Elle permet d'aller au téléportail le plus proche en un clin d'œil！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}Of course, the portal must already be open for this to work."
+SAY "{COLOR=2}Bien sûr, le portail doit être déjà ouvert pour que l'opération fonctionne.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}So if {NAME} finds a new portal, he should examine it right away."
+SAY "{COLOR=2}Si vous apercevez un téléportail,{BREAK}examinez-le donc sans attendre."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1477,13 +1477,13 @@ L_5618:
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41200000
 JMP_IFNOT 0xc L_589c
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} obtains the Monster Mender!"
+SAY "{COLOR=2}{NAME} obtient le Monstrequinque！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}Use this bottle to restore the HP and MP of {NAME}'s entire team."
+SAY "{COLOR=2}Utilisez ce flacon pour restaurer les PV et les PM de toute l'équipe.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}Good for three doses per outing. Once it runs out, head to the airship for a refill!"
+SAY "{COLOR=2}Contient trois doses.{PAGE}{WAIT}{CLEAR}Une fois qu'il est vide, retournez au vaisseau pour le remplir！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -1511,7 +1511,7 @@ L_58a4:
 JMP_ABS 0xc L_58b0
 L_58b0:
 SYS_42 0x8 
-SAY "debug message MENU ERRORE"
+SAY "debug message MENU ERRORE{PAGE}6"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4796,10 +4796,10 @@ JMP_IFNOT 0xc L_12b0c
 CMP_EQ 0x18 0x0 0x42ce0000 0x2 0x40800000
 JMP_IFNOT 0xc L_12a60
 SYS_42 0x8 
-SAY "{VOICE=07}Ooze are you? Why are you here?"
+SAY "{VOICE=07}Mmm... Vous n'êtes pas du coin, hein？{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}(slurp) Oooh, I know, I know.{WAIT}{CLEAR}Maybe you're friends with the monster who croozed in here earlier?"
+SAY "{VOICE=07}Oooh, peut-être que vous voulez dresser le monstre qui est passé par ici！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4808,7 +4808,7 @@ L_12a60:
 CMP_EQ 0x18 0x0 0x42ce0000 0x2 0x41000000
 JMP_IFNOT 0xc L_12b00
 SYS_42 0x8 
-SAY "{VOICE=07}You're one of those gooman thingies, aren't you? Still, you seem nice enough."
+SAY "{VOICE=07}Vous êtes l'un de ces glumains, hein？ Mais vous avez l'air gentil."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4819,7 +4819,7 @@ L_12b0c:
 CMP_EQ 0x18 0x0 0x42cc0000 0x2 0x40800000
 JMP_IFNOT 0xc L_12bb0
 SYS_42 0x8 
-SAY "{VOICE=07}I saw a gooman thing wearing spectacles hurry past to the arena..."
+SAY "{VOICE=07}J'ai vu un glumain pressé qui portait des glunettes se diriger vers l'arène..."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4841,10 +4841,10 @@ CMP_LT 0x18 0x0 0x42ce0000 0x2 0x40000000
 JMP_IFNOT 0xc L_12d4c
 L_12c70:
 SYS_42 0x8 
-SAY "{VOICE=07}We must get to know each other better if you're going to be slopping by all the time."
+SAY "{VOICE=07}Il faudrait faire plus ample connaissance si vous comptez revenir souvent.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Each time I see you, you look stronger than before. Gooman things grow fast."
+SAY "{VOICE=07}À chaque fois, vous avez l'air plus fort. Les glumains progressent vite."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4855,10 +4855,10 @@ L_12d54:
 JMP_ABS 0xc L_12d60
 L_12d60:
 SYS_42 0x8 
-SAY "{VOICE=07}Goomans are scary, selfish things.{BREAK}They even made a god turn bad!"
+SAY "{VOICE=07}Les glumains sont terrifiants. Ils ont même réussi à corrompre un dieu！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}(jiggle) You won't do that...will you?"
+SAY "{VOICE=07}(se tortille) Vous, vous n'allez pas faire ça... hein？"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4871,10 +4871,10 @@ JMP_IFNOT 0xc L_12f38
 CMP_LE 0x18 0x0 0x42ce0000 0x2 0x3f800000
 JMP_IFNOT 0xc L_12f2c
 SYS_42 0x8 
-SAY "{VOICE=07}Goomans are scary, selfish things.{BREAK}They even made a god turn bad!"
+SAY "{VOICE=07}Les glumains sont terrifiants. Ils ont même réussi à corrompre un dieu！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}(jiggle) You won't do that...will you?"
+SAY "{VOICE=07}(se tortille) Vous, vous n'allez pas faire ça... hein？"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4887,7 +4887,7 @@ JMP_IFNOT 0xc L_13004
 CMP_GE 0x18 0x0 0x42ce0000 0x2 0x0
 JMP_IFNOT 0xc L_12ff8
 SYS_42 0x8 
-SAY "{VOICE=07}Th-The Divine Battler lives again!{BREAK}I jiggle in awe!"
+SAY "{VOICE=07}L-Le Divin Guerrier est revenu à la vie！ Je suis admiratif！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4898,7 +4898,7 @@ L_13004:
 CMP_GE 0x18 0x0 0x42cc0000 0x2 0x41300000
 JMP_IFNOT 0xc L_130a8
 SYS_42 0x8 
-SAY "{VOICE=07}This place is oozing with gooman thingies. We're hopping and bopping!"
+SAY "{VOICE=07}Cet endroit grouille de glumains. Quelle agitation！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4913,10 +4913,10 @@ JMP_IFNOT 0xc L_132f4
 CMP_EQ 0x18 0x0 0x42ce0000 0x2 0x40800000
 JMP_IFNOT 0xc L_131fc
 SYS_42 0x8 
-SAY "{VOICE=08}Look! A confoozed monster wandered in here, not knowing it's the moles' den!"
+SAY "{VOICE=08}Un monstre est passé ici et il ne savait même pas qu'il était chez les taupes！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}Silly monster. He's not going to have the slime of his life down here!"
+SAY "{VOICE=08}Stupide créature. Il ne va pas passer un très bon moment ici！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4925,10 +4925,10 @@ L_131fc:
 CMP_EQ 0x18 0x0 0x42ce0000 0x2 0x41000000
 JMP_IFNOT 0xc L_132e8
 SYS_42 0x8 
-SAY "{VOICE=08}Oooh, this is SO exciting.{BREAK}I've never seen a gooman before."
+SAY "{VOICE=08}Oooh, c'est palpitant, je n'avais encore jamais vu de glumain.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}I thought goomans were extinct.{BREAK}Have I been lied to!?"
+SAY "{VOICE=08}Je croyais que les glumains avaient disparu. On m'aurait menti！?"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4939,10 +4939,10 @@ L_132f4:
 CMP_EQ 0x18 0x0 0x42cc0000 0x2 0x40800000
 JMP_IFNOT 0xc L_133e0
 SYS_42 0x8 
-SAY "{VOICE=08}Oooh, this is SO exciting.{BREAK}I've never seen a gooman before."
+SAY "{VOICE=08}Oooh, c'est palpitant, je n'avais encore jamais vu de glumain.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}I thought goomans were extinct.{BREAK}Have I been lied to!?"
+SAY "{VOICE=08}Je croyais que les glumains avaient disparu. On m'aurait menti！?"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4964,10 +4964,10 @@ CMP_LT 0x18 0x0 0x42ce0000 0x2 0x40000000
 JMP_IFNOT 0xc L_1356c
 L_134a0:
 SYS_42 0x8 
-SAY "{VOICE=08}They say there used to be goomans living all over this island."
+SAY "{VOICE=08}On dit que des glumains ont véglu sur cette île.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}But then someone - or something - made them all disappear."
+SAY "{VOICE=08}Mais quelqu'un... ou quelque chose... les a tous fait disparaître."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4978,10 +4978,10 @@ L_13574:
 JMP_ABS 0xc L_13580
 L_13580:
 SYS_42 0x8 
-SAY "{VOICE=08}Oh, yes, we all heard Mynos the Elder's story."
+SAY "{VOICE=08}Oh, oui, on a tous entendu l'histoire de Mynos l'Ancien.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}The goomans who used to live here were silly, silly, SILLY people.{WAIT}{CLEAR}I'm glad they decided to goo away."
+SAY "{VOICE=08}Les glumains qui vivaient ici étaient bêtes, bêtes, BÊTES！{PAGE}{WAIT}{CLEAR}Je suis contente qu'ils soient partis."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -4994,10 +4994,10 @@ JMP_IFNOT 0xc L_13788
 CMP_LE 0x18 0x0 0x42ce0000 0x2 0x3f800000
 JMP_IFNOT 0xc L_1377c
 SYS_42 0x8 
-SAY "{VOICE=08}Oh, yes, we all heard Mynos the Elder's story."
+SAY "{VOICE=08}Oh, oui, on a tous entendu l'histoire de Mynos l'Ancien.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}The goomans who used to live here were silly, silly, SILLY people.{WAIT}{CLEAR}I'm glad they decided to goo away."
+SAY "{VOICE=08}Les glumains qui vivaient ici étaient bêtes, bêtes, BÊTES！{PAGE}{WAIT}{CLEAR}Je suis contente qu'ils soient partis."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5010,10 +5010,10 @@ JMP_IFNOT 0xc L_138b0
 CMP_GE 0x18 0x0 0x42ce0000 0x2 0x0
 JMP_IFNOT 0xc L_138a4
 SYS_42 0x8 
-SAY "{VOICE=08}I won't be forgiving the goomans who used to live here any time soon. No, no, no..."
+SAY "{VOICE=08}Je ne suis pas près de pardonner aux glumains qui vivaient ici. Non, non, non...{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}But I WILL ooze with delight over the resurrection of the mighty Leonyx!"
+SAY "{VOICE=08}Mais je me liquéfierai de joie de voir le puissant Lionyx ressuscité！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5024,7 +5024,7 @@ L_138b0:
 CMP_GE 0x18 0x0 0x42cc0000 0x2 0x41300000
 JMP_IFNOT 0xc L_13954
 SYS_42 0x8 
-SAY "{VOICE=08}I don't mind goomans sliming around, but I hope they take their litter home..."
+SAY "{VOICE=08}J'espère que tous ces glumains remporteront leurs détritus chez eux..."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5044,14 +5044,14 @@ STORE 0x18 0x0 0x42d20000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42d20000 0x2 0x0
 JMP_IFNOT 0xc L_13bb8
 SYS_42 0x8 
-SETNAME "Eugene Poole"
-SAY "{VOICE=03}A challenge!? This Don Mole fellow will host a Monster Scout Challenge!?"
+SETNAME "Eugène Étik"
+SAY "{VOICE=03}Un défi！? Ce Mister Taupe va organiser un Championnat des Dresseurs！?{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=03}But, I know everything there is to know about Monster Scout Challenges...{WAIT}{CLEAR}...and I've never heard of any occurring on an island like this, not once!"
+SAY "{VOICE=03}Mais je sais tout ce qu'il y a à savoir sur les Championnats des Dresseurs...{PAGE}{WAIT}{CLEAR}... et je n'ai jamais entendu dire qu'il y en avait un sur une île comme celle-ci！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=03}We must make immediate enquiries with Don Mole - I am anxious to learn more!"
+SAY "{VOICE=03}Il faut aller voir Mister Taupe de ce pas... j'ai hâte d'en savoir plus！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5065,14 +5065,14 @@ L_13bc0:
 JMP_ABS 0xc L_13bcc
 L_13bcc:
 SYS_42 0x8 
-SETNAME "Eugene Poole"
-SAY "{VOICE=03}This Don Mole gentleman claims he will host a Monster Scout Challenge..."
+SETNAME "Eugène Étik"
+SAY "{VOICE=03}Ce Mister Taupe prétend qu'il va organiser un Championnat des Dresseurs...{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=03}But, I know everything there is to know about Monster Scout Challenges...{WAIT}{CLEAR}...and I've never heard of any occurring on an island like this, not once!"
+SAY "{VOICE=03}Mais je sais tout ce qu'il y a à savoir sur les Championnats des Dresseurs...{PAGE}{WAIT}{CLEAR}... et je n'ai jamais entendu dire qu'il y en avait un sur une île comme celle-ci！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=03}We must make immediate enquiries with Don Mole - I am anxious to learn more!"
+SAY "{VOICE=03}Il faut aller voir Mister Taupe de ce pas... j'ai hâte d'en savoir plus！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5091,11 +5091,11 @@ JMP_IFNOT 0xc L_14060
 CMP_EQ 0x18 0x0 0x42ce0000 0x2 0x3f800000
 JMP_IFNOT 0xc L_13e8c
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}You've obtained the one-and-only Medal of Merit!? You're good alright!"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Vous avez obtenu la médaille du Mérite！{BREAK}Je n'en attendais pas moins de vous, {NAME}！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}You must show the Medal of Merit to Don Mole, right away!"
+SAY "{VOICE=07}Vous devez aller montrer la médaille du Mérite à Mister Taupe immédiatement！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5104,17 +5104,17 @@ L_13e8c:
 CMP_EQ 0x18 0x0 0x42ce0000 0x2 0x40000000
 JMP_IFNOT 0xc L_14054
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}Mynos the Elder has explained everything to me.{WAIT}{CLEAR}The legendary monster scout... The riddle of the Monster Challenge... I know it all!"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Mynos l'Ancien m'a tout expliqué.{PAGE}{WAIT}{CLEAR}Le dresseur légendaire... l'énigme du championnat... je sais tout！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}He says that if you can awaken the Divine Battler...{WAIT}{CLEAR}...you'll be able to scout the mighty Empyrea!"
+SAY "{VOICE=07}Il dit que si vous parvenez à réveiller le Divin Guerrier...{PAGE}{WAIT}{CLEAR}... vous pourrez dresser la puissante Empyréa！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}There IS light at the end of the tunnel,{BREAK}and you can lead us to it!"
+SAY "{VOICE=07}L'espoir renaît pour de bon！{BREAK}Bon courage, {NAME}！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}I think you've got what it takes to become a legendary monster scout!"
+SAY "{VOICE=07}Je pense que vous avez tout ce qu'il faut pour devenir un dresseur de légende！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5130,14 +5130,14 @@ STORE 0x18 0x0 0x42d20000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42d20000 0x2 0x0
 JMP_IFNOT 0xc L_14238
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}Nice work! You passed the final trial,{BREAK}and now the way forward is open."
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Beau travail！ Vous avez passé l'épreuve finale et le chemin est ouvert.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Now, awaken the Divine Battler, and you will be able to make Empyrea yours!"
+SAY "{VOICE=07}Maintenant, réveillez le Divin Guerrier et vous pourrez soumettre Empyréa！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}You've almost done it. One more triumph, and you'll become a living legend!"
+SAY "{VOICE=07}Allez, encore un petit effort！{BREAK}Bon courage, {NAME}！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5148,14 +5148,14 @@ L_14240:
 JMP_ABS 0xc L_1424c
 L_1424c:
 SYS_42 0x8 
-SETNAME "Archie Logg"
-SAY "{VOICE=07}What!? You've already stood at the feet of the Divine Battler himself!?"
+SETNAME "Marc Héaut"
+SAY "{VOICE=07}Quoi！? Vous vous êtes déjà retrouvé face au Divin Guerrier！?{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Now, awaken the Divine Battler, and you will be able to make Empyrea yours!"
+SAY "{VOICE=07}Maintenant, réveillez le Divin Guerrier et vous pourrez soumettre Empyréa！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}You've almost done it. One more triumph, and you'll become a living legend!"
+SAY "{VOICE=07}Allez, encore un petit effort！{BREAK}Bon courage, {NAME}！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5175,10 +5175,10 @@ STORE 0x18 0x0 0x42d20000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42d20000 0x2 0x0
 JMP_IFNOT 0xc L_14524
 SYS_42 0x8 
-SAY "{VOICE=07}Who'd have thought the True Monster Scout Challenge was hosted by MOLES?"
+SAY "{VOICE=07}Dire que le Vrai Championnat des Dresseurs est organisé par les taupes.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}I mean, it's such a completely wacky idea. Who in the world came up with it?"
+SAY "{VOICE=07}C'est complètement dingue. Qui a bien pu avoir cette idée？"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5198,7 +5198,7 @@ STORE 0x18 0x0 0x42d20000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42d20000 0x2 0x0
 JMP_IFNOT 0xc L_14664
 SYS_42 0x8 
-SAY "{VOICE=07}Okay, this is TOTALLY awesome.{WAIT}{CLEAR}The True Monster Scout Challenge is actually about to start, for real!"
+SAY "{VOICE=07}C'est vraiment DÉMENT.{PAGE}{WAIT}{CLEAR}Le Vrai Championnat des Dresseurs va commencer pour de vrai！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5214,10 +5214,10 @@ STORE 0x18 0x0 0x42d20000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42d20000 0x2 0x0
 JMP_IFNOT 0xc L_147ac
 SYS_42 0x8 
-SAY "{VOICE=07}They're going to keep at it, battle royale style, until only the champion is left!"
+SAY "{VOICE=07}Ils vont se battre sans répit jusqu'à ce qu'il n'en reste qu'un！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Man, the guys back home'll never believe I was actually HERE to see it..."
+SAY "{VOICE=07}Les copains me croiront jamais quand je leur dirai que j'y étais..."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5226,10 +5226,10 @@ L_147ac:
 CMP_EQ 0x18 0x0 0x42d20000 0x2 0x3f800000
 JMP_IFNOT 0xc L_148a4
 SYS_42 0x8 
-SAY "{VOICE=07}WOAH! Be still my beating heart!{WAIT}{CLEAR}It's the True Monster Scout Challenge champion himself!"
+SAY "{VOICE=07}WAOUH！ Je vais faire une attaque！{PAGE}{WAIT}{CLEAR}C'est le vainqueur du Vrai Championnat des Dresseurs en personne！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}I saw every battle, man, every single move. I'll never forget it!"
+SAY "{VOICE=07}J'ai vu tous vos combats, la moindre attaque... et je ne les oublierai jamais！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5249,19 +5249,19 @@ STORE 0x18 0x0 0x42d20000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42d20000 0x2 0x0
 JMP_IFNOT 0xc L_14b74
 SYS_42 0x8 
-SAY "{VOICE=07}Recently, some uncool dude has been sneakin' around lookin' for trouble."
+SAY "{VOICE=07}Il y a peu de temps, une crapule est venue ici pour chercher les ennuis.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}He's got a beard and goons at his side, and he only appears when it's rainin'."
+SAY "{VOICE=07}Il a une barbe et il a des abrutis à ses côtés. Il n'apparaît que quand il pleut.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}He prowls around hither and yon, and the brethren have seen him all over the place."
+SAY "{VOICE=07}Il rôde ici et là et mes frères l'ont aperçu un peu partout.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}We wanna find the man, but we've got a show and can't walk out on our gig..."
+SAY "{VOICE=07}On aimerait le trouver, mais avec le spectacle, on ne peut pas s'absenter...{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}If you run into the dude, give him a sermon from me and the boys...{WAIT}{CLEAR}...and tell him, 'Be cool, fool'."
+SAY "{VOICE=07}Si vous le croisez, sermonnez-le pour nous...{PAGE}{WAIT}{CLEAR}... et dites-lui \"sois funky, l'abruti\"."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5292,10 +5292,10 @@ L_14c90:
 CMP_EQ 0x18 0x0 0x42d40000 0x2 0x3f800000
 JMP_IFNOT 0xc L_14d90
 SYS_42 0x8 
-SAY "{VOICE=07}The bearded dude you drove away was a pirate, lookin' to plunder our wares."
+SAY "{VOICE=07}Le type barbu que vous avez chassé était un pirate qui voulait nous voler.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}You did most fine, my friend.{WAIT}{CLEAR}You've freed our home from a seriously unfunky pirate scourge."
+SAY "{VOICE=07}Vous avez fait du bon travail, mon ami.{PAGE}{WAIT}{CLEAR}Vous nous avez évité un terrible pillage pirate."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5313,13 +5313,13 @@ CMP_LT 0x18 0x0 0x430c0000 0x2 0x40400000
 JMP_IFNOT 0xc L_14f54
 L_14e14:
 SYS_42 0x8 
-SAY "{VOICE=07}The dude with the beard and goons at his side only appear when it's rainin'."
+SAY "{VOICE=07}Le gars à la barbe et ses sbires n'apparaissent que quand il pleut.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}He prowls around hither and yon, and the brethren have seen him all over the place."
+SAY "{VOICE=07}Il rôde ici et là et mes frères l'ont aperçu un peu partout.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}If you run into the dude, give him a sermon from me and the boys...{WAIT}{CLEAR}...and tell him, 'Be cool, fool'."
+SAY "{VOICE=07}Si vous le croisez, sermonnez-le pour nous...{PAGE}{WAIT}{CLEAR}... et dites-lui \"sois funky, l'abruti\"."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5332,10 +5332,10 @@ STORE 0x18 0x1 0x0 0x2 0x42900000
 STORE 0x18 0x1 0x3f800000 0x2 0x3f800000
 SYS_2A 0x8 
 SYS_42 0x8 
-SAY "{VOICE=07}You dug good, my funky friend, and drove that bearded man off our turf."
+SAY "{VOICE=07}Beau boulot, mon ami funky, vous avez chassé le barbu de nos plates-bandes.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Thanks, my man. This is for you, a jazzy gift from us all."
+SAY "{VOICE=07}Merci, mon frère. Voilà pour vous： un cadeau groovy de notre part à tous."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5344,7 +5344,7 @@ SYS_33 0x8
 SYS_42 0x8 
 STORE 0x18 0x1 0x0 0x2 0x43200000
 SYS_55 0x8 
-SAY "{COLOR=2}{E321}{NAME} obtains {E32A}!"
+SAY "{COLOR=2}{E321}{NAME} obtient {E328}！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5360,19 +5360,19 @@ JMP_IFNOT 0xc L_1574c
 CMP_LT 0x18 0x0 0x430c0000 0x2 0x40a00000
 JMP_IFNOT 0xc L_15378
 SYS_42 0x8 
-SAY "{VOICE=07}Say-hey, have you heard the word, my brother?"
+SAY "{VOICE=07}Hé, vous avez entendu la rumeur？{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}That no-good-pirate-man is back, and he's got new goons at his side."
+SAY "{VOICE=07}Ce bon à rien de pirate est de retour. Et il est accompagné de nouveaux sbires.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}The sermon didn't sink in, and he's back a-plunderin' whenever the rain falls."
+SAY "{VOICE=07}Le sermon n'a eu aucun effet et il va sévir à nouveau dès qu'il pleuvra.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}This island is our turf, and we don't dig it when pirates are runnin' wild."
+SAY "{VOICE=07}Cette île est notre territoire et ça ne nous plaît pas de voir un pirate y traîner.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Will you give your brothers another helpin' hand, friend?{WAIT}{CLEAR}Find the seafarin' thugs and make 'em walk the plank one more time."
+SAY "{VOICE=07}Accepteriez-vous à nouveau d'aider vos frères taupes, mon ami？{PAGE}{WAIT}{CLEAR}Trouvez ces canailles et faites-leur subir le supplice de la planche."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5386,16 +5386,16 @@ STORE 0x18 0x1 0x0 0x2 0x42920000
 STORE 0x18 0x1 0x3f800000 0x2 0x3f800000
 SYS_2A 0x8 
 SYS_42 0x8 
-SAY "{VOICE=07}You drove those bearded fools away again? I am diggin' you, daddy-o! "
+SAY "{VOICE=07}Vous avez encore chassé ces stupides barbus？ C'est top, mon frère！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Say again? You scouted the pirate man and put him in your menagerie?"
+SAY "{VOICE=07}Pardon？ Vous avez dressé le pirate et il a rejoint votre ménagerie？{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Far OUT, brother! That is the funkiest thing I ever did hear!"
+SAY "{VOICE=07}Alors ÇA！ C'est la chose la plus funky que j'aie jamais entendue！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Me and my brothers owe you, friend.{BREAK}We think you'll dig this jazzy reward..."
+SAY "{VOICE=07}Mes frères et moi vous devons une fière chandelle. Voilà un cadeau pour vous..."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5404,7 +5404,7 @@ SYS_33 0x8
 SYS_42 0x8 
 STORE 0x18 0x1 0x0 0x2 0x41e00000
 SYS_55 0x8 
-SAY "{COLOR=2}{E321}{NAME} obtains {E32A}!"
+SAY "{COLOR=2}{E321}{NAME} obtient {E328}！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5416,10 +5416,10 @@ L_15640:
 CMP_EQ 0x18 0x0 0x42d60000 0x2 0x3f800000
 JMP_IFNOT 0xc L_15734
 SYS_42 0x8 
-SAY "{VOICE=07}Hey-ho, daddy-o. It's the pirate buster himself!"
+SAY "{VOICE=07}Hé, mais voilà le chasseur de pirates en personne！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}You did most fine, my friend. You've brought peace to our island home!"
+SAY "{VOICE=07}Vous avez été brillant, mon ami. Vous avez ramené la paix sur notre île！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5438,19 +5438,19 @@ L_15770:
 CMP_EQ 0x18 0x0 0x430a0000 0x0 0x42fc0000
 JMP_IFNOT 0xc L_15990
 SYS_42 0x8 
-SAY "{VOICE=07}Did ya notice how some treasure boxes are blue and some are red?"
+SAY "{VOICE=07}Vous aviez noté que les coffres au trésor pouvaient être bleus ou rouges？{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}The red ones cough up treasure just once, but the blue ones...dude, they are magic!{WAIT}{CLEAR}You can open them once, then keep comin' back for more and more!"
+SAY "{VOICE=07}Les rouges ne délivrent leur trésor qu'une fois, mais les bleus...{PAGE}{WAIT}{CLEAR}Vous pouvez les ouvrir une fois et revenir autant de fois que vous le voulez！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Same goes for crystals and small plants across the island. They always grow back."
+SAY "{VOICE=07}Il en va de même pour les cristaux et les petites plantes. Ils réapparaissent.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}So be sure to dig around for new swag each time you revisit a place."
+SAY "{VOICE=07}Alors veillez à les ramasser à nouveau quand vous revenez dans un endroit.{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}All the hep cats on this island know this stuff, but now you do, too, my brother!"
+SAY "{VOICE=07}Tous les petits futés de l'île le savent, et maintenant, vous aussi, mon frère！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5465,10 +5465,10 @@ JMP_IFNOT 0xc L_15d40
 CMP_LT 0x18 0x0 0x430c0000 0x2 0x40a00000
 JMP_IFNOT 0xc L_15b04
 SYS_42 0x8 
-SAY "{VOICE=07}Oooh, it's terrible, it's awful! The bearded pirate man is back again!"
+SAY "{VOICE=07}Oooh, c'est terrible, c'est affreux！ Le pirate barbu est revenu！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}(shiver) I shall never go out in the rain again, not for ever and ever!"
+SAY "{VOICE=07}(brrr) Je ne mettrai plus jamais une patte dehors quand il pleut！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5479,10 +5479,10 @@ JMP_IFNOT 0xc L_15d34
 CMP_EQ 0x18 0x0 0x42d60000 0x2 0x0
 JMP_IFNOT 0xc L_15c28
 SYS_42 0x8 
-SAY "{VOICE=07}Golly, you're good! You gave those pirates a fine talking to!"
+SAY "{VOICE=07}Ça alors, vous êtes balèze！ Vous avez passé un sacré savon à ce pirate！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Now we're free to stroll in the rain again - as long as we wear our wellies!"
+SAY "{VOICE=07}Nous pouvons à nouveau nous balader sous la pluie... en bottes, bien sûr！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5491,10 +5491,10 @@ L_15c28:
 CMP_EQ 0x18 0x0 0x42d60000 0x2 0x3f800000
 JMP_IFNOT 0xc L_15d28
 SYS_42 0x8 
-SAY "{VOICE=07}Golly, you're good! You gave those pirates a fine talking to!"
+SAY "{VOICE=07}Ça alors, vous êtes balèze！ Vous avez passé un sacré savon à ce pirate！{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=07}Now we're free to stroll in the rain again - as long as we wear our wellies!"
+SAY "{VOICE=07}Nous pouvons à nouveau nous balader sous la pluie... en bottes, bien sûr！"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5560,10 +5560,10 @@ JMP_IFNOT 0xc L_16214
 CMP_EQ 0x18 0x0 0x42d40000 0x2 0x0
 JMP_IFNOT 0xc L_1612c
 SYS_42 0x8 
-SAY "{COLOR=2}'Warning! Bearded man spotted during rain showers.'"
+SAY "{COLOR=2}\"Attention！ Un homme barbu a été repéré pendant les averses.\"{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}'Scaredy cats and wimps are advised to stay indoors during inclement weather.'"
+SAY "{COLOR=2}\"Les mauviettes sont priées de rester chez elles par temps de pluie.\""
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5574,10 +5574,10 @@ L_16134:
 JMP_ABS 0xc L_16140
 L_16140:
 SYS_42 0x8 
-SAY "{COLOR=2}'The bearded man previously spotted on rainy days has been driven away.'"
+SAY "{COLOR=2}\"Le barbu récemment repéré pendant les averses a été chassé.\"{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}'We thank Mr {NAME} for his role in removing this threat.'"
+SAY "{COLOR=2}\"Merci à {NAME} d'avoir écarté la menace.\""
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5592,10 +5592,10 @@ L_16228:
 CMP_EQ 0x18 0x0 0x42d60000 0x2 0x0
 JMP_IFNOT 0xc L_16318
 SYS_42 0x8 
-SAY "{COLOR=2}'WARNING! Pirates spotted on the island!'"
+SAY "{COLOR=2}\"ATTENTION！ Pirates repérés sur l'île！\"{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}'Travellers and tourists are advised to keep all valuables out of sight.'"
+SAY "{COLOR=2}\"Les visiteurs sont priés de cacher leurs objets de valeur.\""
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5606,10 +5606,10 @@ L_16320:
 JMP_ABS 0xc L_1632c
 L_1632c:
 SYS_42 0x8 
-SAY "{COLOR=2}'The pirate has quit plundering and joined forces with {NAME}.'"
+SAY "{COLOR=2}\"Le pirate a renoncé au pillage et a rejoint {NAME}.\"{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}{E321}{NAME} inspires us all as we strive to build a safer, friendlier island!"
+SAY "{COLOR=2}\"{E321}{NAME} est un exemple pour nous qui voulons une île paisible！\""
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5624,7 +5624,7 @@ L_1640c:
 JMP_ABS 0xc L_16418
 L_16418:
 SYS_42 0x8 
-SAY "{COLOR=2}'No admittance to unauthorised monsters.'"
+SAY "{COLOR=2}\"Entrée interdite aux monstres non autorisés.\""
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5647,10 +5647,10 @@ STORE 0x18 0x0 0x42d20000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42d20000 0x2 0x0
 JMP_IFNOT 0xc L_16644
 SYS_42 0x8 
-SAY "{COLOR=2}'URGENT NOTICE: True Monster Scout Challenge To Start Soon!'"
+SAY "{COLOR=2}\"IMPORTANT： le Vrai Championnat des Dresseurs va bientôt commencer！\"{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}'Only for powerful monster teams. Participants must be in good health.'"
+SAY "{COLOR=2}\"Seules les équipes puissantes et en bonne santé peuvent s'inscrire.\""
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5666,7 +5666,7 @@ STORE 0x18 0x0 0x42d20000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42d20000 0x2 0x0
 JMP_IFNOT 0xc L_16734
 SYS_42 0x8 
-SAY "{COLOR=2}'The True Monster Scout Challenge has begun!{WAIT}{CLEAR}If you're interested in competing,{BREAK}see Don Mole.'"
+SAY "{COLOR=2}\"Le Vrai Championnat des Dresseurs a commencé！{PAGE}{WAIT}{CLEAR}Si vous voulez participer, allez voir Mister Taupe.\""
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5677,10 +5677,10 @@ L_1673c:
 JMP_ABS 0xc L_16748
 L_16748:
 SYS_42 0x8 
-SAY "{COLOR=2}'{E321}{NAME} has emerged as the True Monster Scout Challenge champion!'"
+SAY "{COLOR=2}\"{E321}{NAME} a remporté le Vrai Championnat des Dresseurs！\"{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}'His name will reverberate down through the ages...{WAIT}{CLEAR}'...the one, the only, True Monster Scout Challenge champion!'"
+SAY "{COLOR=2}\"Son nom va traverser les âges. Pour tous, il sera...{PAGE}{WAIT}{CLEAR}... le seul et l'unique champion du Vrai Championnat des Dresseurs！\""
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5693,10 +5693,10 @@ L_16828:
 CMP_EQ 0x18 0x0 0x42cc0000 0x2 0x41100000
 JMP_IFNOT 0xc L_16928
 SYS_42 0x8 
-SAY "{COLOR=2}'Supreme monster scout, {NAME}, has awakened the Divine Battler.'"
+SAY "{COLOR=2}\"Par la main d'un seul maître, notre{BREAK}Divin Guerrier est enfin ressuscité！\"{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}'{E321}{NAME} will be spoken of as a new scouting legend!'"
+SAY "{COLOR=2}\"Le grand {NAME} a réveillé le Divin Guerrier.\"{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5705,10 +5705,10 @@ L_16928:
 CMP_EQ 0x18 0x0 0x42cc0000 0x2 0x41000000
 JMP_IFNOT 0xc L_16a10
 SYS_42 0x8 
-SAY "{COLOR=2}'We have a champion!{WAIT}{CLEAR}'{E321}{NAME} has conquered every rank of the Monster Scout Challenge.'"
+SAY "{COLOR=2}\"Quelqu'un a enfin triomphé de tous les{BREAK}niveaux du Championnat des Dresseurs！\"{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{COLOR=2}'When asked, he said that his next goal was to awaken the Divine Battler'!"
+SAY "{COLOR=2}\"Nous avons un champion！{PAGE}{WAIT}{CLEAR}{E321}{NAME} a passé tous les niveaux du Championnat des Dresseurs.\"{PAGE}"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5724,7 +5724,7 @@ STORE 0x18 0x0 0x42d20000 0x1 0x0
 CMP_EQ 0x18 0x0 0x42d20000 0x2 0x0
 JMP_IFNOT 0xc L_16ae8
 SYS_42 0x8 
-SAY "{COLOR=2}'For synthesis enquiries, please see Dr Lump.'"
+SAY "{COLOR=2}\"Son prochain objectif est de réveiller le Divin Guerrier！\""
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
@@ -5735,7 +5735,7 @@ L_16af0:
 JMP_ABS 0xc L_16afc
 L_16afc:
 SYS_42 0x8 
-SAY "{COLOR=2}'Monster Scout Challenge now accepting applications!{WAIT}{CLEAR}'Enquiries to Don Mole, Chairman.'"
+SAY "{COLOR=2}\"Pour toute question sur la synthèse, adressez-vous au Dr Flappy.\""
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 

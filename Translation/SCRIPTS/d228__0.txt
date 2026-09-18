@@ -277,26 +277,26 @@ SYS_02 0x8
 SYS_03 0x8 
 L_11a4:
 SYS_42 0x8 
-SAY "{VOICE=07}I am the divine beast known as the Incarnus."
+SAY "{VOICE=07}Je suis la créature divine connue sous le nom d'Incarnus.{PAGE}"
 SYS_44 0x8 
 SETNAME "Incarnus"
-SAY "{VOICE=07}I have used the sacred power at my disposal to lead you here."
-SYS_44 0x8 
-WAIT 0x10 0x2 0x41200000
-SETNAME "Incarnus"
-SAY "{VOICE=07}I seek a true master scout - one I can entrust with the precious Infantus."
+SAY "{VOICE=07}J'ai utilisé le pouvoir sacré dont je dispose pour vous amener ici.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Incarnus"
-SAY "{VOICE=07}The Infantus is an incarnation of myself, the next generation of the Incarnus."
+SAY "{VOICE=07}Je cherche un maître dresseur à qui je puisse confier mon précieux Incarminus.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Incarnus"
-SAY "{VOICE=07}You must now prove yourself worthy of being entrusted with the Infantus."
+SAY "{VOICE=07}Incarminus est une incarnation de moi-même... ma génération suivante.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Incarnus"
-SAY "{VOICE=07}I trust you will forgive me for being so forceful..."
+SAY "{VOICE=07}Maintenant, vous devez prouver que vous êtes digne de recevoir Incarminus.{PAGE}"
+SYS_44 0x8 
+WAIT 0x10 0x2 0x41200000
+SETNAME "Incarnus"
+SAY "{VOICE=07}J'espère que vous me pardonnerez ma démonstration de puissance..."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -389,26 +389,26 @@ SYS_02 0x8
 SYS_03 0x8 
 SYS_42 0x8 
 SETNAME "Incarnus"
-SAY "{VOICE=07}{E321}{NAME}, I have awaited you..."
+SAY "{VOICE=07}{E321}{NAME}, je vous attendais...{PAGE}"
 SYS_44 0x8 
 SETNAME "Incarnus"
-SAY "{VOICE=07}Ho ho! You look rather taken aback by my transformation."
-SYS_44 0x8 
-WAIT 0x10 0x2 0x41200000
-SETNAME "Incarnus"
-SAY "{VOICE=07}The divine Incarnus develops by transforming itself in this manner."
+SAY "{VOICE=07}Ho ho！ Vous avez l'air assez déconcerté par ma transformation.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Incarnus"
-SAY "{VOICE=07}Do you know the reason I have led you here?"
+SAY "{VOICE=07}Le divin Incarnus se développe en se transformant de cette manière.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Incarnus"
-SAY "{VOICE=07}I seek a master scout worthy of being entrusted with the precious Infantus."
+SAY "{VOICE=07}Savez-vous pourquoi je vous ai conduit ici？{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Incarnus"
-SAY "{VOICE=07}Now, I will test your abilities to the full in my present form."
+SAY "{VOICE=07}Je cherche un maître dresseur à qui je puisse confier mon précieux Incarminus.{PAGE}"
+SYS_44 0x8 
+WAIT 0x10 0x2 0x41200000
+SETNAME "Incarnus"
+SAY "{VOICE=07}Je vais maintenant tester toutes vos capacités sous ma forme actuelle."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -449,10 +449,10 @@ SYS_02 0x8
 SYS_03 0x8 
 SYS_42 0x8 
 SETNAME "Incarnus"
-SAY "{VOICE=07}I am the divine Incarnus. I seek a scout I can entrust with the Infantus."
+SAY "{VOICE=07}Je suis le divin Incarnus. Je cherche un dresseur à qui confier Incarminus.{PAGE}"
 SYS_44 0x8 
 SETNAME "Incarnus"
-SAY "{VOICE=07}I must test you to see if you can be entrusted with the Infantus."
+SAY "{VOICE=07}Je dois vous tester pour voir si je peux vous confier Incarminus."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -546,22 +546,22 @@ SYS_02 0x8
 SYS_03 0x8 
 SYS_42 0x8 
 SETNAME "Incarnus"
-SAY "{VOICE=07}{E321}{NAME}, I have awaited you..."
+SAY "{VOICE=07}{E321}{NAME}, je vous attendais...{PAGE}"
 SYS_44 0x8 
 SETNAME "Incarnus"
-SAY "{VOICE=07}I promised to explain how to synthesise divine monsters like myself."
-SYS_44 0x8 
-WAIT 0x10 0x2 0x41200000
-SETNAME "Incarnus"
-SAY "{VOICE=07}A divine monster cannot be transformed into any lesser monster."
+SAY "{VOICE=07}Je vous ai promis de vous expliquer comment synthétiser des monstres divins.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Incarnus"
-SAY "{VOICE=07}For me, synthesis is the means by which I alter my form and develop."
+SAY "{VOICE=07}Un monstre divin ne peut pas être transformé en un monstre inférieur.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Incarnus"
-SAY "{VOICE=07}I must test you to see if you can be entrusted with the Infantus."
+SAY "{VOICE=07}Pour moi, la synthèse est un moyen de modifier ma forme et d'évoluer.{PAGE}"
+SYS_44 0x8 
+WAIT 0x10 0x2 0x41200000
+SETNAME "Incarnus"
+SAY "{VOICE=07}Je dois vous tester pour voir si je peux vous confier Incarminus."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -602,10 +602,10 @@ SYS_02 0x8
 SYS_03 0x8 
 SYS_42 0x8 
 SETNAME "Incarnus"
-SAY "{VOICE=07}I am the divine Incarnus. I seek a scout I can entrust with the Infantus."
+SAY "{VOICE=07}Je suis le divin Incarnus. Je cherche un dresseur à qui confier Incarminus.{PAGE}"
 SYS_44 0x8 
 SETNAME "Incarnus"
-SAY "{VOICE=07}I must test you to see if you can be entrusted with the Infantus."
+SAY "{VOICE=07}Je dois vous tester pour voir si je peux vous confier Incarminus."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
@@ -750,26 +750,26 @@ SYS_03 0x8
 L_3370:
 SYS_42 0x8 
 SETNAME "Incarnus"
-SAY "{VOICE=07}{E321}{NAME}, I have awaited you..."
+SAY "{VOICE=07}{E321}{NAME}, je vous attendais...{PAGE}"
 SYS_44 0x8 
 SETNAME "Incarnus"
-SAY "{VOICE=07}Barring some rather special transformations, this is my final form."
-SYS_44 0x8 
-WAIT 0x10 0x2 0x41200000
-SETNAME "Incarnus"
-SAY "{VOICE=07}That means this will be the final battle in which I test your strength."
+SAY "{VOICE=07}Hormis quelques transformations spéciales, ceci est ma dernière forme.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Incarnus"
-SAY "{VOICE=07}I am profoundly grateful for the time I have spent with you."
+SAY "{VOICE=07}Ce qui signifie que ce sera la dernière fois que je testerai votre force.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Incarnus"
-SAY "{VOICE=07}Give it all you have, for I can assure you that I will not go easy on you."
+SAY "{VOICE=07}Je vous suis profondément reconnaissant pour ces moments passés ensemble.{PAGE}"
 SYS_44 0x8 
 WAIT 0x10 0x2 0x41200000
 SETNAME "Incarnus"
-SAY "{VOICE=07}I will find out whether you are worthy of being entrusted with the Infantus."
+SAY "{VOICE=07}Faites votre maximum, car je peux vous assurer que je ne vous épargnerai pas.{PAGE}"
+SYS_44 0x8 
+WAIT 0x10 0x2 0x41200000
+SETNAME "Incarnus"
+SAY "{VOICE=07}Je vais découvrir si vous êtes digne de vous occuper d'Incarminus."
 SYS_44 0x8 
 SYS_43 0x8 
 WAIT 0x10 0x2 0x41200000
