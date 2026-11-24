@@ -1345,7 +1345,7 @@ SYS_A4 0x8
 CMP_EQ 0x18 0x0 0x42640000 0x2 0x41400000
 JMP_IFNOT 0xc L_4fb4
 SYS_42 0x8 
-SAY "{COLOR=2}{NAME} apprend le sort "Téléportation"
+SAY "{COLOR=2}{NAME} apprend le sort Téléportation!"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
 SAY "{COLOR=2}Ce sort permet à {NAME} de se téléporter dans les régions déjà visitées!"
@@ -1371,7 +1371,7 @@ SYS_42 0x8
 SAY "{COLOR=2}{NAME} apprend l'aptitude Invisibilité！"
 STORE 0x18 0x1 0x0 0x2 0x42800000
 SYS_A5 0x8 
-SAY "{COLOR=2}Cette aptitude permet de passer près des ennemis sans se faire repérer."
+SAY "{COLOR=2}Cette aptitude permet de passer près des ennemis sans se faire repérer!"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SYS_43 0x8 
